@@ -1,0 +1,19 @@
+genome_analysis/
+|---analyses
+|   |---01_QC_reads
+|   |---02_preprocessing
+|   |---03_metagenomic_assembly
+|   |---04_assembly_evaluation
+|   |---05_binning
+|   |---06_binning_evaluation
+|   |   |---MetaQuast
+|   |   |---CheckM
+|   |---07_functional_annotation
+|   |---08_phylogenetic_placement
+|   |---09_activity_analysis
+|   |   |---BWA
+|   |   |---HTSeq
+|---code
+|---data
+|   |---metadata
+|   |---raw_data
