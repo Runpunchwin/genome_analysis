@@ -1,0 +1,10 @@
+*.fasta
+*.fa
+*.fastq
+*.fq
+*.BAM
+*.bam
+*.SAM
+*.sam
+*.gz
+*.zip
