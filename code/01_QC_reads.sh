@@ -2,7 +2,7 @@
 #SBATCH -A g2020008
 #SBATCH -p core
 #SBATCH -n 2
-#SBATCH -t 00:25:00
+#SBATCH -t 02:25:00
 #SBATCH -J QC_of_reads
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user fredrik@levingotland.se
@@ -15,6 +15,5 @@ module load FastQC/0.11.8
 
 # Running FastQC on all compressed fastq-files in the directories for DNA- and RNA-reads.
 fastqc -f fastq -t 2 -o /home/frle5739/genome_analysis/analyses/01_QC_reads/DNA_reads_QC /home/frle5739/genome_analysis/data/raw_data/DNA_trimmed/*.fastq.gz
-
 fastqc -f fastq -t 2 -o /home/frle5739/genome_analysis/analyses/01_QC_reads/RNA_reads_QC /home/frle5739/genome_analysis/data/raw_data/RNA_untrimmed/*.fastq.gz
 
