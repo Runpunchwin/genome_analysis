@@ -2,7 +2,7 @@
 #SBATCH -A g2020008
 #SBATCH -p core
 #SBATCH -n 2
-#SBATCH -t 00:45:00
+#SBATCH -t 00:10:00
 #SBATCH -J trimming_of_RNAreads
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user fredrik@levingotland.se
@@ -19,7 +19,7 @@ trimmomatic PE -threads 2 -phred33 -trimlog /home/frle5739/genome_analysis/analy
 /home/frle5739/genome_analysis/data/trimmed_data/SRR4342137_paired_forward.fastq.gz \
 /home/frle5739/genome_analysis/data/trimmed_data/SRR4342137_unpaired_forward.fastq.gz \
 /home/frle5739/genome_analysis/data/trimmed_data/SRR4342137_paired_reverse.fastq.gz \
-/home/frle5739/genome_analysis/data/trimmed_data/SRR4342137_unpaired_forward.fastq.gz \
+/home/frle5739/genome_analysis/data/trimmed_data/SRR4342137_unpaired_reverse.fastq.gz \
 ILLUMINACLIP:TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:50
 
 trimmomatic PE -threads 2 -phred33 -trimlog /home/frle5739/genome_analysis/analyses/02_preprocessing/trimlog_SRR4342139 \
@@ -28,5 +28,5 @@ trimmomatic PE -threads 2 -phred33 -trimlog /home/frle5739/genome_analysis/analy
 /home/frle5739/genome_analysis/data/trimmed_data/SRR4342139_paired_forward.fastq.gz \
 /home/frle5739/genome_analysis/data/trimmed_data/SRR4342139_unpaired_forward.fastq.gz \
 /home/frle5739/genome_analysis/data/trimmed_data/SRR4342139_paired_reverse.fastq.gz \
-/home/frle5739/genome_analysis/data/trimmed_data/SRR4342139_unpaired_forward.fastq.gz \
+/home/frle5739/genome_analysis/data/trimmed_data/SRR4342139_unpaired_reverse.fastq.gz \
 ILLUMINACLIP:TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:50
