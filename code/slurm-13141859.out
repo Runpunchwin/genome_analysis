@@ -1,0 +1,31 @@
+	trimmomatic 0.36 loaded, see 'module help trimmomatic/0.36' for more information.
+TrimmomaticPE: Started with arguments:
+ -threads 2 -phred33 -trimlog /home/frle5739/genome_analysis/analyses/02_preprocessing/trimlog_SRR4342137 /home/frle5739/genome_analysis/data/raw_data/RNA_untrimmed/SRR4342137.1.fastq.gz /home/frle5739/genome_analysis/data/raw_data/RNA_untrimmed/SRR4342137.2.fastq.gz /home/frle5739/genome_analysis/data/trimmed_data/SRR4342137_paired_forward.fastq.gz /home/frle5739/genome_analysis/data/trimmed_data/SRR4342137_unpaired_forward.fastq.gz /home/frle5739/genome_analysis/data/trimmed_data/SRR4342137_paired_reverse.fastq.gz /home/frle5739/genome_analysis/data/trimmed_data/SRR4342137_unpaired_reverse.fastq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:50
+java.io.FileNotFoundException: /domus/h1/frle5739/genome_analysis/code/TruSeq3-PE.fa (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at org.usadellab.trimmomatic.fasta.FastaParser.parse(FastaParser.java:54)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.loadSequences(IlluminaClippingTrimmer.java:110)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.makeIlluminaClippingTrimmer(IlluminaClippingTrimmer.java:71)
+	at org.usadellab.trimmomatic.trim.TrimmerFactory.makeTrimmer(TrimmerFactory.java:32)
+	at org.usadellab.trimmomatic.Trimmomatic.createTrimmers(Trimmomatic.java:59)
+	at org.usadellab.trimmomatic.TrimmomaticPE.run(TrimmomaticPE.java:536)
+	at org.usadellab.trimmomatic.Trimmomatic.main(Trimmomatic.java:80)
+Input Read Pairs: 1304686 Both Surviving: 562034 (43.08%) Forward Only Surviving: 220883 (16.93%) Reverse Only Surviving: 78691 (6.03%) Dropped: 443078 (33.96%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 2 -phred33 -trimlog /home/frle5739/genome_analysis/analyses/02_preprocessing/trimlog_SRR4342139 /home/frle5739/genome_analysis/data/raw_data/RNA_untrimmed/SRR4342139.1.fastq.gz /home/frle5739/genome_analysis/data/raw_data/RNA_untrimmed/SRR4342139.2.fastq.gz /home/frle5739/genome_analysis/data/trimmed_data/SRR4342139_paired_forward.fastq.gz /home/frle5739/genome_analysis/data/trimmed_data/SRR4342139_unpaired_forward.fastq.gz /home/frle5739/genome_analysis/data/trimmed_data/SRR4342139_paired_reverse.fastq.gz /home/frle5739/genome_analysis/data/trimmed_data/SRR4342139_unpaired_reverse.fastq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:50
+java.io.FileNotFoundException: /domus/h1/frle5739/genome_analysis/code/TruSeq3-PE.fa (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at org.usadellab.trimmomatic.fasta.FastaParser.parse(FastaParser.java:54)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.loadSequences(IlluminaClippingTrimmer.java:110)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.makeIlluminaClippingTrimmer(IlluminaClippingTrimmer.java:71)
+	at org.usadellab.trimmomatic.trim.TrimmerFactory.makeTrimmer(TrimmerFactory.java:32)
+	at org.usadellab.trimmomatic.Trimmomatic.createTrimmers(Trimmomatic.java:59)
+	at org.usadellab.trimmomatic.TrimmomaticPE.run(TrimmomaticPE.java:536)
+	at org.usadellab.trimmomatic.Trimmomatic.main(Trimmomatic.java:80)
+Input Read Pairs: 1213040 Both Surviving: 516271 (42.56%) Forward Only Surviving: 234399 (19.32%) Reverse Only Surviving: 55326 (4.56%) Dropped: 407044 (33.56%)
+TrimmomaticPE: Completed successfully
