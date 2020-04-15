@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR4342129_1.paired	/home/frle5739/genome_analysis/analyses/01_QC_reads/DNA_trimmed_QC/SRR4342129_1.paired.trimmed_fastqc.zip
+FastQC	all_sections	SRR4342129_2.paired	/home/frle5739/genome_analysis/analyses/01_QC_reads/DNA_trimmed_QC/SRR4342129_2.paired.trimmed_fastqc.zip
+FastQC	all_sections	SRR4342133_1.paired	/home/frle5739/genome_analysis/analyses/01_QC_reads/DNA_trimmed_QC/SRR4342133_1.paired.trimmed_fastqc.zip
+FastQC	all_sections	SRR4342133_2.paired	/home/frle5739/genome_analysis/analyses/01_QC_reads/DNA_trimmed_QC/SRR4342133_2.paired.trimmed_fastqc.zip
