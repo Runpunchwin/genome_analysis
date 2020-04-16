@@ -1,0 +1,31 @@
+125.0Gb memory in total.
+Using: 112.828Gb.
+MEGAHIT v1.1.2
+--- [Wed Apr 15 23:17:58 2020] Start assembly. Number of CPU threads 2 ---
+--- [Wed Apr 15 23:17:58 2020] Available memory: 134609518592, used: 121148566732
+--- [Wed Apr 15 23:17:58 2020] Converting reads to binaries ---
+    [read_lib_functions-inl.h  : 209]     Lib 0 (/home/frle5739/genome_analysis/data/raw_data/DNA_trimmed/SRR4342129_1.paired.trimmed.fastq.gz,/home/frle5739/genome_analysis/data/raw_data/DNA_trimmed/SRR4342129_2.paired.trimmed.fastq.gz): pe, 48110692 reads, 101 max length
+    [read_lib_functions-inl.h  : 209]     Lib 1 (/home/frle5739/genome_analysis/data/raw_data/DNA_trimmed/SRR4342133_1.paired.trimmed.fastq.gz,/home/frle5739/genome_analysis/data/raw_data/DNA_trimmed/SRR4342133_2.paired.trimmed.fastq.gz): pe, 59954188 reads, 101 max length
+    [utils.h                   : 126]     Real: 279.1163	user: 102.9958	sys: 11.0435	maxrss: 152876
+--- [Wed Apr 15 23:22:40 2020] k list: 65,75,85,95,105 ---
+--- [Wed Apr 15 23:22:40 2020] Extracting solid (k+1)-mers and building sdbg for k = 65 ---
+--- [Thu Apr 16 00:35:02 2020] Assembling contigs from SdBG for k = 65 ---
+--- [Thu Apr 16 01:15:54 2020] Local assembling k = 65 ---
+--- [Thu Apr 16 02:05:44 2020] Extracting iterative edges from k = 65 to 75 ---
+--- [Thu Apr 16 02:31:52 2020] Building graph for k = 75 ---
+--- [Thu Apr 16 02:36:38 2020] Assembling contigs from SdBG for k = 75 ---
+--- [Thu Apr 16 02:54:36 2020] Local assembling k = 75 ---
+--- [Thu Apr 16 03:30:58 2020] Extracting iterative edges from k = 75 to 85 ---
+--- [Thu Apr 16 03:45:22 2020] Building graph for k = 85 ---
+--- [Thu Apr 16 03:49:14 2020] Assembling contigs from SdBG for k = 85 ---
+--- [Thu Apr 16 04:04:08 2020] Local assembling k = 85 ---
+--- [Thu Apr 16 04:35:46 2020] Extracting iterative edges from k = 85 to 95 ---
+--- [Thu Apr 16 04:44:27 2020] Building graph for k = 95 ---
+--- [Thu Apr 16 04:48:02 2020] Assembling contigs from SdBG for k = 95 ---
+--- [Thu Apr 16 05:03:27 2020] Local assembling k = 95 ---
+--- [Thu Apr 16 05:25:38 2020] Extracting iterative edges from k = 95 to 105 ---
+--- [Thu Apr 16 05:25:46 2020] Building graph for k = 105 ---
+--- [Thu Apr 16 05:28:07 2020] Assembling contigs from SdBG for k = 105 ---
+--- [Thu Apr 16 05:41:01 2020] Merging to output final contigs ---
+--- [STAT] 334983 contigs, total 278184651 bp, min 200 bp, max 256554 bp, avg 830 bp, N50 965 bp
+--- [Thu Apr 16 05:41:05 2020] ALL DONE. Time elapsed: 22986.961685 seconds ---

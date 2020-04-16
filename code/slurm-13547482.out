@@ -1,0 +1,22 @@
+125.365Gb memory in total.
+Using: 112.828Gb.
+MEGAHIT v1.1.2
+--- [Wed Apr 15 15:42:14 2020] Start assembly. Number of CPU threads 2 ---
+--- [Wed Apr 15 15:42:14 2020] Available memory: 134609518592, used: 121148566732
+--- [Wed Apr 15 15:42:14 2020] Converting reads to binaries ---
+b'    [read_lib_functions-inl.h  : 209]     Lib 0 (/home/frle5739/genome_analysis/data/raw_data/DNA_trimmed/SRR4342129_1.paired.trimmed.fastq.gz,/home/frle5739/genome_analysis/data/raw_data/DNA_trimmed/SRR4342129_2.paired.trimmed.fastq.gz): pe, 48110692 reads, 101 max length'
+b'    [read_lib_functions-inl.h  : 209]     Lib 1 (/home/frle5739/genome_analysis/data/raw_data/DNA_trimmed/SRR4342133_1.paired.trimmed.fastq.gz,/home/frle5739/genome_analysis/data/raw_data/DNA_trimmed/SRR4342133_2.paired.trimmed.fastq.gz): pe, 59954188 reads, 101 max length'
+b'    [utils.h                   : 126]     Real: 385.3691\tuser: 105.3068\tsys: 11.6346\tmaxrss: 152792'
+--- [Wed Apr 15 15:48:40 2020] k list: 65,75,85,95,105 ---
+--- [Wed Apr 15 15:48:40 2020] Extracting solid (k+1)-mers and building sdbg for k = 65 ---
+--- [Wed Apr 15 17:24:02 2020] Assembling contigs from SdBG for k = 65 ---
+--- [Wed Apr 15 18:20:25 2020] Local assembling k = 65 ---
+--- [Wed Apr 15 19:31:03 2020] Extracting iterative edges from k = 65 to 75 ---
+--- [Wed Apr 15 20:04:27 2020] Building graph for k = 75 ---
+--- [Wed Apr 15 20:11:25 2020] Assembling contigs from SdBG for k = 75 ---
+--- [Wed Apr 15 20:37:30 2020] Local assembling k = 75 ---
+--- [Wed Apr 15 21:35:24 2020] Extracting iterative edges from k = 75 to 85 ---
+--- [Wed Apr 15 21:58:52 2020] Building graph for k = 85 ---
+--- [Wed Apr 15 22:05:22 2020] Assembling contigs from SdBG for k = 85 ---
+--- [Wed Apr 15 22:28:50 2020] Local assembling k = 85 ---
+slurmstepd: error: *** JOB 13547482 ON r60 CANCELLED AT 2020-04-15T23:12:38 DUE TO TIME LIMIT ***
