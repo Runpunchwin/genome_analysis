@@ -2,7 +2,7 @@
 #SBATCH -A g2020008
 #SBATCH -p core
 #SBATCH -n 2
-#SBATCH -t 07:30:00
+#SBATCH -t 12:30:00
 #SBATCH -J DNA_assembly
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user fredrik@levingotland.se
