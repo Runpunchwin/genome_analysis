@@ -1,0 +1,2 @@
+# Code to be run in the folder where you want to remove the dots from a filename
+for f in *.*.fa; do i="${f%.fa}"; echo mv -i -- "$f" "${i//./_}.fa"; done
