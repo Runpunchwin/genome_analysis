@@ -1,5 +1,6 @@
 *.fasta
 *.fa
+*.faa
 *.fastq
 *.fq
 *.BAM
