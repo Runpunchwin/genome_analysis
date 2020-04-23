@@ -9,3 +9,5 @@
 *.sam
 *.gz
 *.zip
+/home/frle5739/genome_analysis/data/*
+
