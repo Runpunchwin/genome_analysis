@@ -13,4 +13,4 @@ module load bioinfo-tools
 module load CheckM/1.0.12
 
 # Performing the evaluation using CheckM
-checkm lineage_wf -t 4 -x fa --reduced_tree /home/frle5739/genome_analysis/data/bins /home/frle5739/genome_analysis/06_binning_evaluation/checkm
+checkm lineage_wf -t 4 -x fa --reduced_tree /home/frle5739/genome_analysis/data/bins /home/frle5739/genome_analysis/analyses/06_binning_evaluation/checkm

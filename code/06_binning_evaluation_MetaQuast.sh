@@ -13,4 +13,4 @@ module load bioinfo-tools
 module load quast/4.5.4
 
 # Performing the evaluation using metaquast.py
-
+metaquast.py /home/frle5739/genome_analysis/data/bins/bin_1.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast
