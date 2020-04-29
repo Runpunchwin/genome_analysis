@@ -1,0 +1,13 @@
+Several complimentary python scripts are available with pplacer/1.1.alpha19. 'module help pplacer/1.1.alpha19' for more information
+
+*******************************************************************************
+ [CheckM - bin_qa_plot] Creating bar plot of bin quality.
+*******************************************************************************
+
+  Calculating AAI between multi-copy marker genes.
+  Plotting bin completeness, contamination, and strain heterogeneity.
+    Plotting bin 1 of 26 (3.85%) bins.    Plotting bin 2 of 26 (7.69%) bins.    Plotting bin 3 of 26 (11.54%) bins.    Plotting bin 4 of 26 (15.38%) bins.    Plotting bin 5 of 26 (19.23%) bins.    Plotting bin 6 of 26 (23.08%) bins.    Plotting bin 7 of 26 (26.92%) bins.    Plotting bin 8 of 26 (30.77%) bins.    Plotting bin 9 of 26 (34.62%) bins.    Plotting bin 10 of 26 (38.46%) bins.    Plotting bin 11 of 26 (42.31%) bins.    Plotting bin 12 of 26 (46.15%) bins.    Plotting bin 13 of 26 (50.00%) bins.    Plotting bin 14 of 26 (53.85%) bins.    Plotting bin 15 of 26 (57.69%) bins.    Plotting bin 16 of 26 (61.54%) bins.    Plotting bin 17 of 26 (65.38%) bins.    Plotting bin 18 of 26 (69.23%) bins.    Plotting bin 19 of 26 (73.08%) bins.    Plotting bin 20 of 26 (76.92%) bins.    Plotting bin 21 of 26 (80.77%) bins.    Plotting bin 22 of 26 (84.62%) bins.    Plotting bin 23 of 26 (88.46%) bins.    Plotting bin 24 of 26 (92.31%) bins.    Plotting bin 25 of 26 (96.15%) bins.    Plotting bin 26 of 26 (100.00%) bins.
+  Plot written to: /home/frle5739/genome_analysis/analyses/06_binning_evaluation/plot/bin_qa_plot.png
+
+  { Current stage: 0:01:56.153 || Total: 0:01:56.153 }
+

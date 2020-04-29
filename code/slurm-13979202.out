@@ -1,0 +1,2893 @@
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_1.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_1
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:19:54
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_1/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_1.fa ==> bin_1
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:19:57
+
+
+Running BlastN..
+  processing bin_1
+  BLAST results for bin_1 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_1/quast_downloaded_references/blast.res_bin_1...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_1.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_1 --labels bin_1
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:20:02
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_1/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_1.fa ==> bin_1
+
+2020-04-29 12:20:02
+Running Basic statistics processor...
+  Contig files: 
+    bin_1
+  Calculating N50 and L50...
+    bin_1, N50 = 4026, L50 = 145, Total length = 1859913, GC % = 44.41, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_1/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_1/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_1/basic_stats/GC_content_plot.pdf
+  Drawing bin_1 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_1/basic_stats/bin_1_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:20:04
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:20:05
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_1/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_1/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_1/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_1/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_1/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_1/quast.log
+
+Finished: 2020-04-29 12:20:05
+Elapsed time: 0:00:02.743534
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_2.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_2
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:20:05
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_2/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_2.fa ==> bin_2
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:20:06
+
+
+Running BlastN..
+  processing bin_2
+  BLAST results for bin_2 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_2/quast_downloaded_references/blast.res_bin_2...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_2.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_2 --labels bin_2
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:20:08
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_2/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_2.fa ==> bin_2
+
+2020-04-29 12:20:08
+Running Basic statistics processor...
+  Contig files: 
+    bin_2
+  Calculating N50 and L50...
+    bin_2, N50 = 3515, L50 = 44, Total length = 403782, GC % = 62.95, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_2/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_2/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_2/basic_stats/GC_content_plot.pdf
+  Drawing bin_2 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_2/basic_stats/bin_2_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:20:09
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:20:10
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_2/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_2/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_2/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_2/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_2/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_2/quast.log
+
+Finished: 2020-04-29 12:20:10
+Elapsed time: 0:00:02.066580
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_3.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_3
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:20:10
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_3/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_3.fa ==> bin_3
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:20:11
+
+
+Running BlastN..
+  processing bin_3
+  BLAST results for bin_3 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_3/quast_downloaded_references/blast.res_bin_3...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_3.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_3 --labels bin_3
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:20:13
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_3/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_3.fa ==> bin_3
+
+2020-04-29 12:20:13
+Running Basic statistics processor...
+  Contig files: 
+    bin_3
+  Calculating N50 and L50...
+    bin_3, N50 = 3837, L50 = 38, Total length = 391394, GC % = 36.30, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_3/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_3/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_3/basic_stats/GC_content_plot.pdf
+  Drawing bin_3 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_3/basic_stats/bin_3_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:20:14
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:20:15
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_3/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_3/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_3/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_3/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_3/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_3/quast.log
+
+Finished: 2020-04-29 12:20:15
+Elapsed time: 0:00:02.061573
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_4.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_4
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:20:15
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_4/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_4.fa ==> bin_4
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:20:16
+
+
+Running BlastN..
+  processing bin_4
+  BLAST results for bin_4 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_4/quast_downloaded_references/blast.res_bin_4...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_4.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_4 --labels bin_4
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:20:19
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_4/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_4.fa ==> bin_4
+
+2020-04-29 12:20:19
+Running Basic statistics processor...
+  Contig files: 
+    bin_4
+  Calculating N50 and L50...
+    bin_4, N50 = 4695, L50 = 103, Total length = 1425117, GC % = 52.75, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_4/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_4/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_4/basic_stats/GC_content_plot.pdf
+  Drawing bin_4 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_4/basic_stats/bin_4_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:20:20
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:20:21
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_4/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_4/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_4/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_4/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_4/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_4/quast.log
+
+Finished: 2020-04-29 12:20:21
+Elapsed time: 0:00:02.046726
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_5.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_5
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:20:21
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_5/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_5.fa ==> bin_5
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:20:22
+
+
+Running BlastN..
+  processing bin_5
+  BLAST results for bin_5 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_5/quast_downloaded_references/blast.res_bin_5...
+
+
+2020-04-29 12:20:27
+Trying to download found references from NCBI. Totally 1 organisms to try.
+marine metagenome has too fragmented reference genome! It will not be downloaded.
+  marine_metagenome | not found in the NCBI database
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_5.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_5 --labels bin_5
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:22:10
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_5/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_5.fa ==> bin_5
+
+2020-04-29 12:22:10
+Running Basic statistics processor...
+  Contig files: 
+    bin_5
+  Calculating N50 and L50...
+    bin_5, N50 = 23061, L50 = 47, Total length = 3688347, GC % = 68.16, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_5/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_5/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_5/basic_stats/GC_content_plot.pdf
+  Drawing bin_5 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_5/basic_stats/bin_5_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:22:12
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:22:13
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_5/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_5/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_5/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_5/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_5/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_5/quast.log
+
+Finished: 2020-04-29 12:22:13
+Elapsed time: 0:00:02.607704
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_6.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:22:13
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_6.fa ==> bin_6
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:22:14
+
+
+Running BlastN..
+  processing bin_6
+  BLAST results for bin_6 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/quast_downloaded_references/blast.res_bin_6...
+
+
+2020-04-29 12:22:40
+Trying to download found references from NCBI. Totally 2 organisms to try.
+  Acidimicrobidae_bacterium_YM18-244 | not found in the NCBI database
+  Syntrophus_aciditrophicus          | successfully downloaded (total 1, 0 more to go)
+
+Downloaded reference(s):
+  /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/quast_downloaded_references/Syntrophus_aciditrophicus.fasta ==> Syntrophus_aciditrophicus
+  All references were combined in combined_reference.fasta
+
+Starting quast.py for the combined reference...
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 --combined-ref --colors #E31A1C --ls solid --ambiguity-usage all /home/frle5739/genome_analysis/data/bins/bin_6.fa -R /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/quast_corrected_input/combined_reference.fasta -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference --labels bin_6
+
+Started: 2020-04-29 12:22:44
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference/quast.log
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: all, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/quast_corrected_input/combined_reference.fasta ==> combined_reference
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_6.fa ==> bin_6
+
+2020-04-29 12:22:44
+Running Basic statistics processor...
+  Reference genome:
+    combined_reference.fasta, length = 3179300, num fragments = 1, GC % = 51.46
+  Contig files: 
+    bin_6
+  Calculating N50 and L50...
+    bin_6, N50 = 10889, L50 = 47, Total length = 1776446, GC % = 44.84, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference/basic_stats/GC_content_plot.pdf
+  Drawing bin_6 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference/basic_stats/bin_6_GC_content_plot.pdf
+Done.
+
+2020-04-29 12:22:47
+Running Contig analyzer...
+  bin_6
+  Logging to files /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference/contigs_reports/contigs_report_bin_6.stdout and contigs_report_bin_6.stderr...
+  Aligning contigs to the reference
+NOTICE:  MUMmer plot cannot be created.
+
+  Nothing aligned for 'bin_6'.
+Failed aligning the contigs for all the assemblies. Only basic stats are going to be evaluated.
+WARNING: Please rerun QUAST using --test option to ensure that E-MEM aligner works properly.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:22:48
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:22:50
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference/icarus.html
+
+Failed aligning the contigs for all the references. Try to use option --max-ref-number to change maximum number of references (per each assembly) to download.
+
+MetaQUAST finished.
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/metaquast.log
+
+Finished: 2020-04-29 12:22:50
+Elapsed time: 0:00:36.828765
+Total NOTICEs: 2; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_7.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:22:50
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_7.fa ==> bin_7
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:22:51
+
+
+Running BlastN..
+  processing bin_7
+  BLAST results for bin_7 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/quast_downloaded_references/blast.res_bin_7...
+
+
+2020-04-29 12:23:12
+Trying to download found references from NCBI. Totally 1 organisms to try.
+  Psychroserpens_sp._PAMC_27130 | successfully downloaded (total 1, 0 more to go)
+
+Downloaded reference(s):
+  /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/quast_downloaded_references/Psychroserpens_sp._PAMC_27130.fasta ==> Psychroserpens_sp._PAMC_27130
+  All references were combined in combined_reference.fasta
+
+Starting quast.py for the combined reference...
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 --combined-ref --colors #E31A1C --ls solid --ambiguity-usage all /home/frle5739/genome_analysis/data/bins/bin_7.fa -R /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/quast_corrected_input/combined_reference.fasta -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference --labels bin_7
+
+Started: 2020-04-29 12:23:55
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/quast.log
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: all, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/quast_corrected_input/combined_reference.fasta ==> combined_reference
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_7.fa ==> bin_7
+
+2020-04-29 12:23:56
+Running Basic statistics processor...
+  Reference genome:
+    combined_reference.fasta, length = 3633537, num fragments = 62, GC % = 32.71
+WARNING:   Reference genome is fragmented. You may consider rerunning QUAST using --fragmented option. QUAST will try to detect misassemblies caused by the fragmentation and mark them fake (will be excluded from # misassemblies).
+  Contig files: 
+    bin_7
+  Calculating N50 and L50...
+    bin_7, N50 = 4806, L50 = 1009, Total length = 16261463, GC % = 34.07, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/basic_stats/GC_content_plot.pdf
+  Drawing bin_7 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/basic_stats/bin_7_GC_content_plot.pdf
+Done.
+
+2020-04-29 12:24:00
+Running Contig analyzer...
+  bin_7
+  Logging to files /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/contigs_reports/contigs_report_bin_7.stdout and contigs_report_bin_7.stderr...
+  Aligning contigs to the reference
+  MUMmer plot saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/contigs_reports/nucmer_output/bin_7_mummerplot.html
+  Analysis is finished.
+  Gzipping /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/contigs_reports/nucmer_output/raw/bin_7.all_snps to reduce disk space usage...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/contigs_reports/nucmer_output/raw/bin_7.all_snps.gz
+  Information about interspecies translocations by references for bin_7 is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/contigs_reports/interspecies_translocations_by_refs_bin_7.info
+  Drawing Intergenomic misassemblies (found and supposed) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/contigs_reports/intergenomic_misassemblies.pdf
+  Creating total report...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2020-04-29 12:24:07
+Running NA-NGA calculation...
+  bin_7, Largest alignment = 76, NA50 = None, LA50 = None
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/aligned_stats/NAx_plot.pdf
+Done.
+
+2020-04-29 12:24:09
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  bin_7
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:24:10
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:24:12
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/icarus.html
+
+Excluding downloaded references with low genome fraction from further analysis..
+All downloaded references have low genome fraction. Nothing was excluded for now.
+
+Partitioning contigs into bins aligned to each reference..
+  processing bin_7
+
+Starting quast.py for the contigs aligned to Psychroserpens_sp._PAMC_27130... (logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/quast.log)
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 --colors #E31A1C --ls solid --no-check-meta --contig-thresholds 1000,5000,10000,25000,50000 /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/quast_corrected_input/bin_7_to_Psychroserpens_sp._PAMC_27130.fasta -R /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/quast_corrected_input/Psychroserpens_sp._PAMC_27130.fasta -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130 --labels bin_7
+
+Started: 2020-04-29 12:24:12
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/quast.log
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/quast_corrected_input/Psychroserpens_sp._PAMC_27130.fasta ==> Psychroserpens_sp._PAMC_27130
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/quast_corrected_input/bin_7_to_Psychroserpens_sp._PAMC_27130.fasta ==> bin_7
+
+2020-04-29 12:24:12
+Running Basic statistics processor...
+  Reference genome:
+    Psychroserpens_sp._PAMC_27130.fasta, length = 3633537, num fragments = 62, GC % = 32.71
+WARNING:   Reference genome is fragmented. You may consider rerunning QUAST using --fragmented option. QUAST will try to detect misassemblies caused by the fragmentation and mark them fake (will be excluded from # misassemblies).
+  Contig files: 
+    bin_7
+  Calculating N50 and L50...
+    bin_7, N50 = 16895, L50 = 1, Total length = 29461, GC % = 32.38, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/basic_stats/GC_content_plot.pdf
+  Drawing bin_7 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/basic_stats/bin_7_GC_content_plot.pdf
+Done.
+
+2020-04-29 12:24:14
+Running Contig analyzer...
+  bin_7
+  Logging to files /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/contigs_reports/contigs_report_bin_7.stdout and contigs_report_bin_7.stderr...
+  Aligning contigs to the reference
+  MUMmer plot saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/contigs_reports/bin_7_mummerplot.html
+  Analysis is finished.
+  Gzipping /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/contigs_reports/nucmer_output/bin_7.all_snps to reduce disk space usage...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/contigs_reports/nucmer_output/bin_7.all_snps.gz
+  Creating total report...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2020-04-29 12:24:16
+Running NA-NGA calculation...
+  bin_7, Largest alignment = 76, NA50 = None, LA50 = None
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/aligned_stats/NGAx_plot.pdf
+Done.
+
+2020-04-29 12:24:17
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  bin_7
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:24:18
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:24:19
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/runs_per_reference/Psychroserpens_sp._PAMC_27130/icarus.html
+
+Starting quast.py for the contigs not aligned anywhere... (logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/quast.log)
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 --colors #E31A1C --ls solid --no-check-meta --contig-thresholds 1000,5000,10000,25000,50000 /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/quast_corrected_input/bin_7_not_aligned_anywhere.fasta -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned --labels bin_7
+
+Started: 2020-04-29 12:24:19
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/quast.log
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/quast_corrected_input/bin_7_not_aligned_anywhere.fasta ==> bin_7
+
+2020-04-29 12:24:19
+Running Basic statistics processor...
+  Contig files: 
+    bin_7
+  Calculating N50 and L50...
+    bin_7, N50 = 4798, L50 = 1010, Total length = 16232002, GC % = 34.07, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/basic_stats/GC_content_plot.pdf
+  Drawing bin_7 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/basic_stats/bin_7_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:24:22
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:24:23
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/icarus.html
+
+2020-04-29 12:24:23
+Summarizing results...
+  Drawing # contigs metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/#_contigs.pdf
+  Drawing Largest contig metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/Largest_contig.pdf
+  Drawing Total length metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/Total_length.pdf
+  Drawing Largest alignment metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/Largest_alignment.pdf
+  Drawing Total aligned length metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/Total_aligned_length.pdf
+  Drawing Total length (>= 1000 bp) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/Total_length_(>=_1000_bp).pdf
+  Drawing Total length (>= 10000 bp) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/Total_length_(>=_10000_bp).pdf
+  Drawing Total length (>= 50000 bp) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/Total_length_(>=_50000_bp).pdf
+  Drawing # misassemblies metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/#_misassemblies.pdf
+  Drawing metaQUAST summary misassemblies plot for bin_7...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/bin_7_misassemblies.pdf
+  Drawing Misassembled contigs length metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/Misassembled_contigs_length.pdf
+  Drawing # mismatches per 100 kbp metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/#_mismatches_per_100_kbp.pdf
+  Drawing # indels per 100 kbp metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/#_indels_per_100_kbp.pdf
+  Drawing # N's per 100 kbp metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/#_N's_per_100_kbp.pdf
+  Drawing Genome fraction (%) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/Genome_fraction_(%).pdf
+  Drawing Duplication ratio metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/Duplication_ratio.pdf
+  Drawing Avg contig read support metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/Avg_contig_read_support.pdf
+  Drawing # genes metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/#_genes.pdf
+  Drawing # operons metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/#_operons.pdf
+  Drawing NGA50 metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/NGA50.pdf
+  Drawing LGA50 metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/LGA50.pdf
+  Drawing # predicted genes (unique) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/PDF/#_predicted_genes_(unique).pdf
+
+  Text versions of reports and plots for each metric (for all references and assemblies) are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/summary/
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/icarus.html
+  Drawing interactive Krona plots...
+  Krona chart for bin_7 is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/krona_charts/bin_7_taxonomy_chart.html
+  Extended version of HTML-report (for all references and assemblies) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/report.html
+
+MetaQUAST finished.
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/metaquast.log
+
+Finished: 2020-04-29 12:24:28
+Elapsed time: 0:01:38.112208
+Total NOTICEs: 5; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_8.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_8
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:24:29
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_8/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_8.fa ==> bin_8
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:24:29
+
+
+Running BlastN..
+  processing bin_8
+  BLAST results for bin_8 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_8/quast_downloaded_references/blast.res_bin_8...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_8.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_8 --labels bin_8
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:24:32
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_8/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_8.fa ==> bin_8
+
+2020-04-29 12:24:32
+Running Basic statistics processor...
+  Contig files: 
+    bin_8
+  Calculating N50 and L50...
+    bin_8, N50 = 4882, L50 = 107, Total length = 1574375, GC % = 57.79, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_8/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_8/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_8/basic_stats/GC_content_plot.pdf
+  Drawing bin_8 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_8/basic_stats/bin_8_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:24:34
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:24:34
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_8/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_8/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_8/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_8/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_8/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_8/quast.log
+
+Finished: 2020-04-29 12:24:34
+Elapsed time: 0:00:02.314534
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_9.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_9
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:24:35
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_9/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_9.fa ==> bin_9
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:24:35
+
+
+Running BlastN..
+  processing bin_9
+  BLAST results for bin_9 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_9/quast_downloaded_references/blast.res_bin_9...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_9.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_9 --labels bin_9
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:24:38
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_9/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_9.fa ==> bin_9
+
+2020-04-29 12:24:38
+Running Basic statistics processor...
+  Contig files: 
+    bin_9
+  Calculating N50 and L50...
+    bin_9, N50 = 3532, L50 = 101, Total length = 1114257, GC % = 66.65, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_9/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_9/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_9/basic_stats/GC_content_plot.pdf
+  Drawing bin_9 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_9/basic_stats/bin_9_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:24:39
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:24:40
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_9/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_9/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_9/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_9/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_9/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_9/quast.log
+
+Finished: 2020-04-29 12:24:40
+Elapsed time: 0:00:02.232798
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_10.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_10
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:24:40
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_10/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_10.fa ==> bin_10
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:24:41
+
+
+Running BlastN..
+  processing bin_10
+  BLAST results for bin_10 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_10/quast_downloaded_references/blast.res_bin_10...
+
+
+2020-04-29 12:24:52
+Trying to download found references from NCBI. Totally 1 organisms to try.
+  unidentified_marine_bacterioplankton | not found in the NCBI database
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_10.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_10 --labels bin_10
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:24:53
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_10/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_10.fa ==> bin_10
+
+2020-04-29 12:24:53
+Running Basic statistics processor...
+  Contig files: 
+    bin_10
+  Calculating N50 and L50...
+    bin_10, N50 = 7656, L50 = 79, Total length = 2057816, GC % = 61.40, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_10/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_10/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_10/basic_stats/GC_content_plot.pdf
+  Drawing bin_10 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_10/basic_stats/bin_10_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:24:55
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:24:55
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_10/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_10/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_10/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_10/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_10/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_10/quast.log
+
+Finished: 2020-04-29 12:24:55
+Elapsed time: 0:00:02.391023
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_11.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_11
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:24:56
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_11/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_11.fa ==> bin_11
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:24:56
+
+
+Running BlastN..
+  processing bin_11
+  BLAST results for bin_11 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_11/quast_downloaded_references/blast.res_bin_11...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_11.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_11 --labels bin_11
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:24:59
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_11/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_11.fa ==> bin_11
+
+2020-04-29 12:24:59
+Running Basic statistics processor...
+  Contig files: 
+    bin_11
+  Calculating N50 and L50...
+    bin_11, N50 = 3631, L50 = 149, Total length = 1491559, GC % = 47.45, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_11/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_11/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_11/basic_stats/GC_content_plot.pdf
+  Drawing bin_11 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_11/basic_stats/bin_11_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:25:01
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:25:02
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_11/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_11/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_11/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_11/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_11/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_11/quast.log
+
+Finished: 2020-04-29 12:25:02
+Elapsed time: 0:00:02.470855
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_12.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_12
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:25:02
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_12/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_12.fa ==> bin_12
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:25:02
+
+
+Running BlastN..
+  processing bin_12
+  BLAST results for bin_12 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_12/quast_downloaded_references/blast.res_bin_12...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_12.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_12 --labels bin_12
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:25:04
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_12/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_12.fa ==> bin_12
+
+2020-04-29 12:25:04
+Running Basic statistics processor...
+  Contig files: 
+    bin_12
+  Calculating N50 and L50...
+    bin_12, N50 = 3044, L50 = 37, Total length = 256895, GC % = 55.72, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_12/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_12/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_12/basic_stats/GC_content_plot.pdf
+  Drawing bin_12 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_12/basic_stats/bin_12_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:25:06
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:25:07
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_12/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_12/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_12/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_12/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_12/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_12/quast.log
+
+Finished: 2020-04-29 12:25:07
+Elapsed time: 0:00:02.431581
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_13.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_13
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:25:07
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_13/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_13.fa ==> bin_13
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:25:08
+
+
+Running BlastN..
+  processing bin_13
+  BLAST results for bin_13 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_13/quast_downloaded_references/blast.res_bin_13...
+
+
+2020-04-29 12:25:17
+Trying to download found references from NCBI. Totally 1 organisms to try.
+marine metagenome has too fragmented reference genome! It will not be downloaded.
+  marine_metagenome | not found in the NCBI database
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_13.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_13 --labels bin_13
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:26:58
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_13/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_13.fa ==> bin_13
+
+2020-04-29 12:26:58
+Running Basic statistics processor...
+  Contig files: 
+    bin_13
+  Calculating N50 and L50...
+    bin_13, N50 = 81492, L50 = 10, Total length = 2467401, GC % = 60.67, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_13/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_13/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_13/basic_stats/GC_content_plot.pdf
+  Drawing bin_13 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_13/basic_stats/bin_13_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:27:00
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:27:00
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_13/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_13/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_13/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_13/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_13/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_13/quast.log
+
+Finished: 2020-04-29 12:27:00
+Elapsed time: 0:00:02.545499
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_14.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_14
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:27:00
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_14/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_14.fa ==> bin_14
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:27:01
+
+
+Running BlastN..
+  processing bin_14
+  BLAST results for bin_14 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_14/quast_downloaded_references/blast.res_bin_14...
+
+
+2020-04-29 12:27:11
+Trying to download found references from NCBI. Totally 1 organisms to try.
+  unidentified_marine_bacterioplankton | not found in the NCBI database
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_14.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_14 --labels bin_14
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:27:12
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_14/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_14.fa ==> bin_14
+
+2020-04-29 12:27:12
+Running Basic statistics processor...
+  Contig files: 
+    bin_14
+  Calculating N50 and L50...
+    bin_14, N50 = 4544, L50 = 89, Total length = 1151704, GC % = 71.39, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_14/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_14/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_14/basic_stats/GC_content_plot.pdf
+  Drawing bin_14 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_14/basic_stats/bin_14_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:27:14
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:27:15
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_14/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_14/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_14/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_14/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_14/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_14/quast.log
+
+Finished: 2020-04-29 12:27:15
+Elapsed time: 0:00:03.204873
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_15.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_15
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:27:15
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_15/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_15.fa ==> bin_15
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:27:16
+
+
+Running BlastN..
+  processing bin_15
+  BLAST results for bin_15 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_15/quast_downloaded_references/blast.res_bin_15...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_15.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_15 --labels bin_15
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:27:18
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_15/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_15.fa ==> bin_15
+
+2020-04-29 12:27:19
+Running Basic statistics processor...
+  Contig files: 
+    bin_15
+  Calculating N50 and L50...
+    bin_15, N50 = 6694, L50 = 93, Total length = 2025571, GC % = 48.86, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_15/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_15/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_15/basic_stats/GC_content_plot.pdf
+  Drawing bin_15 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_15/basic_stats/bin_15_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:27:20
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:27:21
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_15/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_15/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_15/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_15/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_15/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_15/quast.log
+
+Finished: 2020-04-29 12:27:21
+Elapsed time: 0:00:02.190044
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_16.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_16
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:27:21
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_16/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_16.fa ==> bin_16
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:27:22
+
+
+Running BlastN..
+  processing bin_16
+  BLAST results for bin_16 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_16/quast_downloaded_references/blast.res_bin_16...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_16.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_16 --labels bin_16
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:27:24
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_16/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_16.fa ==> bin_16
+
+2020-04-29 12:27:24
+Running Basic statistics processor...
+  Contig files: 
+    bin_16
+  Calculating N50 and L50...
+    bin_16, N50 = 3374, L50 = 102, Total length = 917265, GC % = 51.66, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_16/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_16/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_16/basic_stats/GC_content_plot.pdf
+  Drawing bin_16 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_16/basic_stats/bin_16_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:27:26
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:27:27
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_16/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_16/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_16/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_16/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_16/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_16/quast.log
+
+Finished: 2020-04-29 12:27:27
+Elapsed time: 0:00:02.868558
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_17.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_17
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:27:27
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_17/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_17.fa ==> bin_17
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:27:28
+
+
+Running BlastN..
+  processing bin_17
+  BLAST results for bin_17 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_17/quast_downloaded_references/blast.res_bin_17...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_17.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_17 --labels bin_17
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:27:30
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_17/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_17.fa ==> bin_17
+
+2020-04-29 12:27:30
+Running Basic statistics processor...
+  Contig files: 
+    bin_17
+  Calculating N50 and L50...
+    bin_17, N50 = 3883, L50 = 52, Total length = 554606, GC % = 61.84, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_17/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_17/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_17/basic_stats/GC_content_plot.pdf
+  Drawing bin_17 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_17/basic_stats/bin_17_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:27:31
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:27:32
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_17/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_17/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_17/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_17/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_17/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_17/quast.log
+
+Finished: 2020-04-29 12:27:32
+Elapsed time: 0:00:02.098565
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_18.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_18
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:27:32
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_18/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_18.fa ==> bin_18
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:27:33
+
+
+Running BlastN..
+  processing bin_18
+  BLAST results for bin_18 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_18/quast_downloaded_references/blast.res_bin_18...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_18.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_18 --labels bin_18
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:27:37
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_18/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_18.fa ==> bin_18
+
+2020-04-29 12:27:37
+Running Basic statistics processor...
+  Contig files: 
+    bin_18
+  Calculating N50 and L50...
+    bin_18, N50 = 54509, L50 = 10, Total length = 1667638, GC % = 41.00, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_18/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_18/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_18/basic_stats/GC_content_plot.pdf
+  Drawing bin_18 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_18/basic_stats/bin_18_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:27:38
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:27:39
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_18/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_18/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_18/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_18/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_18/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_18/quast.log
+
+Finished: 2020-04-29 12:27:39
+Elapsed time: 0:00:02.314079
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_19.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_19
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:27:39
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_19/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_19.fa ==> bin_19
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:27:40
+
+
+Running BlastN..
+  processing bin_19
+  BLAST results for bin_19 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_19/quast_downloaded_references/blast.res_bin_19...
+
+
+2020-04-29 12:27:45
+Trying to download found references from NCBI. Totally 1 organisms to try.
+marine metagenome has too fragmented reference genome! It will not be downloaded.
+  marine_metagenome | not found in the NCBI database
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_19.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_19 --labels bin_19
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:29:24
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_19/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_19.fa ==> bin_19
+
+2020-04-29 12:29:25
+Running Basic statistics processor...
+  Contig files: 
+    bin_19
+  Calculating N50 and L50...
+    bin_19, N50 = 4958, L50 = 250, Total length = 4045305, GC % = 61.79, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_19/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_19/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_19/basic_stats/GC_content_plot.pdf
+  Drawing bin_19 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_19/basic_stats/bin_19_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:29:26
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:29:27
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_19/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_19/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_19/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_19/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_19/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_19/quast.log
+
+Finished: 2020-04-29 12:29:27
+Elapsed time: 0:00:02.651871
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_20.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_20
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:29:27
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_20/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_20.fa ==> bin_20
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:29:28
+
+
+Running BlastN..
+  processing bin_20
+  BLAST results for bin_20 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_20/quast_downloaded_references/blast.res_bin_20...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_20.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_20 --labels bin_20
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:29:31
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_20/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_20.fa ==> bin_20
+
+2020-04-29 12:29:31
+Running Basic statistics processor...
+  Contig files: 
+    bin_20
+  Calculating N50 and L50...
+    bin_20, N50 = 4583, L50 = 163, Total length = 2342743, GC % = 43.96, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_20/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_20/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_20/basic_stats/GC_content_plot.pdf
+  Drawing bin_20 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_20/basic_stats/bin_20_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:29:33
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:29:34
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_20/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_20/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_20/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_20/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_20/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_20/quast.log
+
+Finished: 2020-04-29 12:29:34
+Elapsed time: 0:00:02.408287
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_21.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_21
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:29:34
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_21/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_21.fa ==> bin_21
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:29:35
+
+
+Running BlastN..
+  processing bin_21
+  BLAST results for bin_21 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_21/quast_downloaded_references/blast.res_bin_21...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_21.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_21 --labels bin_21
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:29:37
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_21/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_21.fa ==> bin_21
+
+2020-04-29 12:29:37
+Running Basic statistics processor...
+  Contig files: 
+    bin_21
+  Calculating N50 and L50...
+    bin_21, N50 = 29507, L50 = 15, Total length = 1390702, GC % = 54.33, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_21/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_21/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_21/basic_stats/GC_content_plot.pdf
+  Drawing bin_21 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_21/basic_stats/bin_21_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:29:39
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:29:40
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_21/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_21/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_21/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_21/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_21/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_21/quast.log
+
+Finished: 2020-04-29 12:29:40
+Elapsed time: 0:00:02.448099
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_22.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_22
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:29:40
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_22/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_22.fa ==> bin_22
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:29:41
+
+
+Running BlastN..
+  processing bin_22
+  BLAST results for bin_22 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_22/quast_downloaded_references/blast.res_bin_22...
+
+
+2020-04-29 12:29:46
+Trying to download found references from NCBI. Totally 1 organisms to try.
+  unidentified_marine_bacterioplankton | not found in the NCBI database
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_22.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_22 --labels bin_22
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:29:47
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_22/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_22.fa ==> bin_22
+
+2020-04-29 12:29:47
+Running Basic statistics processor...
+  Contig files: 
+    bin_22
+  Calculating N50 and L50...
+    bin_22, N50 = 7225, L50 = 65, Total length = 1519170, GC % = 41.44, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_22/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_22/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_22/basic_stats/GC_content_plot.pdf
+  Drawing bin_22 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_22/basic_stats/bin_22_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:29:49
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:29:50
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_22/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_22/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_22/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_22/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_22/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_22/quast.log
+
+Finished: 2020-04-29 12:29:50
+Elapsed time: 0:00:02.665181
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_23.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:29:50
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_23.fa ==> bin_23
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:29:51
+
+
+Running BlastN..
+  processing bin_23
+  BLAST results for bin_23 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/quast_downloaded_references/blast.res_bin_23...
+
+
+2020-04-29 12:30:04
+Trying to download found references from NCBI. Totally 1 organisms to try.
+  Ilumatobacter_nonamiensis_YM16-303 | successfully downloaded (total 1, 0 more to go)
+
+Downloaded reference(s):
+  /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/quast_downloaded_references/Ilumatobacter_nonamiensis_YM16-303.fasta ==> Ilumatobacter_nonamiensis_YM16-303
+  All references were combined in combined_reference.fasta
+
+Starting quast.py for the combined reference...
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 --combined-ref --colors #E31A1C --ls solid --ambiguity-usage all /home/frle5739/genome_analysis/data/bins/bin_23.fa -R /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/quast_corrected_input/combined_reference.fasta -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference --labels bin_23
+
+Started: 2020-04-29 12:34:22
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/quast.log
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: all, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/quast_corrected_input/combined_reference.fasta ==> combined_reference
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_23.fa ==> bin_23
+
+2020-04-29 12:34:22
+Running Basic statistics processor...
+  Reference genome:
+    combined_reference.fasta, length = 4282232, num fragments = 399, GC % = 66.99
+WARNING:   Reference genome is fragmented. You may consider rerunning QUAST using --fragmented option. QUAST will try to detect misassemblies caused by the fragmentation and mark them fake (will be excluded from # misassemblies).
+  Contig files: 
+    bin_23
+  Calculating N50 and L50...
+    bin_23, N50 = 7839, L50 = 108, Total length = 3188556, GC % = 62.72, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/basic_stats/GC_content_plot.pdf
+  Drawing bin_23 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/basic_stats/bin_23_GC_content_plot.pdf
+Done.
+
+2020-04-29 12:34:25
+Running Contig analyzer...
+  bin_23
+  Logging to files /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/contigs_reports/contigs_report_bin_23.stdout and contigs_report_bin_23.stderr...
+  Aligning contigs to the reference
+  MUMmer plot saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/contigs_reports/nucmer_output/bin_23_mummerplot.html
+  Analysis is finished.
+  Gzipping /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/contigs_reports/nucmer_output/raw/bin_23.all_snps to reduce disk space usage...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/contigs_reports/nucmer_output/raw/bin_23.all_snps.gz
+  Information about interspecies translocations by references for bin_23 is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/contigs_reports/interspecies_translocations_by_refs_bin_23.info
+  Drawing Intergenomic misassemblies (found and supposed) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/contigs_reports/intergenomic_misassemblies.pdf
+  Creating total report...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2020-04-29 12:34:29
+Running NA-NGA calculation...
+  bin_23, Largest alignment = 96, NA50 = None, LA50 = None
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/aligned_stats/NAx_plot.pdf
+Done.
+
+2020-04-29 12:34:31
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  bin_23
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:34:32
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:34:33
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/combined_reference/icarus.html
+
+Excluding downloaded references with low genome fraction from further analysis..
+All downloaded references have low genome fraction. Nothing was excluded for now.
+
+Partitioning contigs into bins aligned to each reference..
+  processing bin_23
+
+Starting quast.py for the contigs aligned to Ilumatobacter_nonamiensis_YM16-303... (logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/quast.log)
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 --colors #E31A1C --ls solid --no-check-meta --contig-thresholds 1000,5000,10000,25000,50000 /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/quast_corrected_input/bin_23_to_Ilumatobacter_nonamiensis_YM16-303.fasta -R /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/quast_corrected_input/Ilumatobacter_nonamiensis_YM16-303.fasta -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303 --labels bin_23
+
+Started: 2020-04-29 12:34:34
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/quast.log
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/quast_corrected_input/Ilumatobacter_nonamiensis_YM16-303.fasta ==> Ilumatobacter_nonamiensis_YM16-303
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/quast_corrected_input/bin_23_to_Ilumatobacter_nonamiensis_YM16-303.fasta ==> bin_23
+
+2020-04-29 12:34:34
+Running Basic statistics processor...
+  Reference genome:
+    Ilumatobacter_nonamiensis_YM16-303.fasta, length = 4282232, num fragments = 399, GC % = 66.99
+WARNING:   Reference genome is fragmented. You may consider rerunning QUAST using --fragmented option. QUAST will try to detect misassemblies caused by the fragmentation and mark them fake (will be excluded from # misassemblies).
+  Contig files: 
+    bin_23
+  Calculating N50 and L50...
+    bin_23, N50 = 5144, L50 = 1, Total length = 5144, GC % = 63.76, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/basic_stats/GC_content_plot.pdf
+  Drawing bin_23 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/basic_stats/bin_23_GC_content_plot.pdf
+Done.
+
+2020-04-29 12:34:36
+Running Contig analyzer...
+  bin_23
+  Logging to files /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/contigs_reports/contigs_report_bin_23.stdout and contigs_report_bin_23.stderr...
+  Aligning contigs to the reference
+  MUMmer plot saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/contigs_reports/bin_23_mummerplot.html
+  Analysis is finished.
+  Gzipping /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/contigs_reports/nucmer_output/bin_23.all_snps to reduce disk space usage...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/contigs_reports/nucmer_output/bin_23.all_snps.gz
+  Creating total report...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2020-04-29 12:34:37
+Running NA-NGA calculation...
+  bin_23, Largest alignment = 96, NA50 = None, LA50 = None
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/aligned_stats/NGAx_plot.pdf
+Done.
+
+2020-04-29 12:34:39
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  bin_23
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:34:39
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:34:41
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/icarus.html
+
+Starting quast.py for the contigs not aligned anywhere... (logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/not_aligned/quast.log)
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 --colors #E31A1C --ls solid --no-check-meta --contig-thresholds 1000,5000,10000,25000,50000 /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/quast_corrected_input/bin_23_not_aligned_anywhere.fasta -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/not_aligned --labels bin_23
+
+Started: 2020-04-29 12:34:41
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/not_aligned/quast.log
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/quast_corrected_input/bin_23_not_aligned_anywhere.fasta ==> bin_23
+
+2020-04-29 12:34:41
+Running Basic statistics processor...
+  Contig files: 
+    bin_23
+  Calculating N50 and L50...
+    bin_23, N50 = 7839, L50 = 108, Total length = 3183412, GC % = 62.72, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/not_aligned/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/not_aligned/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/not_aligned/basic_stats/GC_content_plot.pdf
+  Drawing bin_23 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/not_aligned/basic_stats/bin_23_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:34:42
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:34:43
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/not_aligned/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/not_aligned/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/not_aligned/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/not_aligned/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/not_aligned/icarus.html
+
+2020-04-29 12:34:43
+Summarizing results...
+  Drawing # contigs metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/#_contigs.pdf
+  Drawing Largest contig metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/Largest_contig.pdf
+  Drawing Total length metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/Total_length.pdf
+  Drawing Largest alignment metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/Largest_alignment.pdf
+  Drawing Total aligned length metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/Total_aligned_length.pdf
+  Drawing Total length (>= 1000 bp) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/Total_length_(>=_1000_bp).pdf
+  Drawing Total length (>= 10000 bp) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/Total_length_(>=_10000_bp).pdf
+  Drawing Total length (>= 50000 bp) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/Total_length_(>=_50000_bp).pdf
+  Drawing # misassemblies metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/#_misassemblies.pdf
+  Drawing metaQUAST summary misassemblies plot for bin_23...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/bin_23_misassemblies.pdf
+  Drawing Misassembled contigs length metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/Misassembled_contigs_length.pdf
+  Drawing # mismatches per 100 kbp metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/#_mismatches_per_100_kbp.pdf
+  Drawing # indels per 100 kbp metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/#_indels_per_100_kbp.pdf
+  Drawing # N's per 100 kbp metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/#_N's_per_100_kbp.pdf
+  Drawing Genome fraction (%) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/Genome_fraction_(%).pdf
+  Drawing Duplication ratio metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/Duplication_ratio.pdf
+  Drawing Avg contig read support metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/Avg_contig_read_support.pdf
+  Drawing # genes metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/#_genes.pdf
+  Drawing # operons metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/#_operons.pdf
+  Drawing NGA50 metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/NGA50.pdf
+  Drawing LGA50 metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/LGA50.pdf
+  Drawing # predicted genes (unique) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/PDF/#_predicted_genes_(unique).pdf
+
+  Text versions of reports and plots for each metric (for all references and assemblies) are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/summary/
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/icarus.html
+  Drawing interactive Krona plots...
+  Krona chart for bin_23 is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/krona_charts/bin_23_taxonomy_chart.html
+  Extended version of HTML-report (for all references and assemblies) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/report.html
+
+MetaQUAST finished.
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/metaquast.log
+
+Finished: 2020-04-29 12:34:51
+Elapsed time: 0:05:01.022792
+Total NOTICEs: 5; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_24.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_24
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:34:51
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_24/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_24.fa ==> bin_24
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:34:52
+
+
+Running BlastN..
+  processing bin_24
+  BLAST results for bin_24 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_24/quast_downloaded_references/blast.res_bin_24...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_24.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_24 --labels bin_24
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:34:55
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_24/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_24.fa ==> bin_24
+
+2020-04-29 12:34:55
+Running Basic statistics processor...
+  Contig files: 
+    bin_24
+  Calculating N50 and L50...
+    bin_24, N50 = 4422, L50 = 129, Total length = 1631292, GC % = 51.54, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_24/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_24/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_24/basic_stats/GC_content_plot.pdf
+  Drawing bin_24 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_24/basic_stats/bin_24_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:34:57
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:34:58
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_24/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_24/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_24/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_24/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_24/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_24/quast.log
+
+Finished: 2020-04-29 12:34:58
+Elapsed time: 0:00:02.764232
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_25.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_25
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:34:58
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_25/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_25.fa ==> bin_25
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:34:59
+
+
+Running BlastN..
+  processing bin_25
+  BLAST results for bin_25 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_25/quast_downloaded_references/blast.res_bin_25...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_25.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_25 --labels bin_25
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:35:10
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_25/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_25.fa ==> bin_25
+
+2020-04-29 12:35:11
+Running Basic statistics processor...
+  Contig files: 
+    bin_25
+  Calculating N50 and L50...
+    bin_25, N50 = 5699, L50 = 300, Total length = 6727958, GC % = 56.94, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_25/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_25/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_25/basic_stats/GC_content_plot.pdf
+  Drawing bin_25 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_25/basic_stats/bin_25_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:35:13
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:35:14
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_25/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_25/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_25/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_25/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_25/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_25/quast.log
+
+Finished: 2020-04-29 12:35:14
+Elapsed time: 0:00:03.185005
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/bins/bin_26.fa -t 2 -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_26
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:35:14
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_26/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_26.fa ==> bin_26
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-29 12:35:14
+
+
+Running BlastN..
+  processing bin_26
+  BLAST results for bin_26 are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_26/quast_downloaded_references/blast.res_bin_26...
+
+Reference genomes are not found.
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 /home/frle5739/genome_analysis/data/bins/bin_26.fa -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_26 --labels bin_26
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-29 12:35:18
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_26/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/bins/bin_26.fa ==> bin_26
+
+2020-04-29 12:35:18
+Running Basic statistics processor...
+  Contig files: 
+    bin_26
+  Calculating N50 and L50...
+    bin_26, N50 = 11899, L50 = 68, Total length = 2646649, GC % = 45.75, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_26/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_26/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_26/basic_stats/GC_content_plot.pdf
+  Drawing bin_26 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_26/basic_stats/bin_26_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:35:20
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:35:21
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_26/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_26/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_26/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_26/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_26/icarus.html
+  Log saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_26/quast.log
+
+Finished: 2020-04-29 12:35:21
+Elapsed time: 0:00:02.603417
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

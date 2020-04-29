@@ -1,0 +1,391 @@
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/frle5739/genome_analysis/data/DNA_assembly/final.contigs.fa -t 2 -o /home/frle5739/genome_analysis/analyses/04_assembly_evaluation -1 /home/frle5739/genome_analysis/data/raw_data/DNA_trimmed/SRR4342129_1.paired.trimmed.fastq.gz,/home/frle5739/genome_analysis/data/raw_data/DNA_trimmed/SRR4342133_1.paired.trimmed.fastq.gz -2 /home/frle5739/genome_analysis/data/raw_data/DNA_trimmed/SRR4342129_2.paired.trimmed.fastq.gz,/home/frle5739/genome_analysis/data/raw_data/DNA_trimmed/SRR4342133_2.paired.trimmed.fastq.gz
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-16 12:42:18
+
+Logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/DNA_assembly/final.contigs.fa ==> final.contigs
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-16 12:42:23
+
+
+Running BlastN..
+  processing final.contigs
+  BLAST results for final.contigs are saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/blast.res_final-contigs...
+
+
+2020-04-16 13:11:07
+Trying to download found references from NCBI. Totally 50 organisms to try.
+marine metagenome has too fragmented reference genome! It will not be downloaded.
+  marine_metagenome                                 | not found in the NCBI database
+  Synechococcus_sp._NIBB_1071                       | not found in the NCBI database
+  Luminiphilus_syltensis_NOR5-1B                    | successfully downloaded (total 1, 47 more to go)
+  unidentified_marine_bacterioplankton              | not found in the NCBI database
+  gamma_proteobacterium_SCGC_AB-629-P17             | successfully downloaded (total 2, 45 more to go)
+  Coraliomargarita_akajimensis_DSM_45221            | successfully downloaded (total 3, 44 more to go)
+  Thioalkalivibrio_sulfidiphilus_HL-EbGr7           | successfully downloaded (total 4, 43 more to go)
+  Lutimaribacter_pacificus                          | successfully downloaded (total 5, 42 more to go)
+  Devosia_sp._DDB001                                | not found in the NCBI database
+  marine_gamma_proteobacterium_HTCC2143             | successfully downloaded (total 6, 40 more to go)
+  Lutimonas_sp._RSS3-C1                             | not found in the NCBI database
+  magnetic_coccus_MP17                              | not found in the NCBI database
+  Aminobacter_sp._J41                               | successfully downloaded (total 7, 37 more to go)
+  Ilumatobacter_nonamiensis_YM16-303                | successfully downloaded (total 8, 36 more to go)
+  Spongiibacter_tropicus_DSM_19543                  | successfully downloaded (total 9, 35 more to go)
+  Acidithiomicrobium_sp._P1                         | not found in the NCBI database
+  Rhodothalassium_sp._L21-PYE-C35                   | not found in the NCBI database
+  Chromatocurvus_halotolerans                       | successfully downloaded (total 10, 32 more to go)
+  bacterium_Ellin5024                               | not found in the NCBI database
+  Tenacibaculum_sp._D38BY                           | not found in the NCBI database
+  Psychroserpens_sp._PAMC_27130                     | successfully downloaded (total 11, 29 more to go)
+  Uncultured_Pseudospirillum_sp                     | not found in the NCBI database
+  Acidimicrobidae_bacterium_YM18-244                | not found in the NCBI database
+  Photobacterium_halotolerans                       | successfully downloaded (total 12, 26 more to go)
+  Oceanibaculum_pacificum                           | successfully downloaded (total 13, 25 more to go)
+  Dehalogenimonas_lykanthroporepellens_BL-DC-9      | successfully downloaded (total 14, 24 more to go)
+  Ochrobactrum_sp._NBSL17                           | not found in the NCBI database
+  bacterium_rJ14                                    | not found in the NCBI database
+  bacterium_enrichment_culture_clone_136(2011)      | not found in the NCBI database
+  Geobacter_sp._AOG2                                | not found in the NCBI database
+  Psychrobacter_sp._PRwf-1                          | successfully downloaded (total 15, 19 more to go)
+  Gaiella_sp._EBR4-R2                               | not found in the NCBI database
+  Vibrio_proteolyticus_NBRC_13287                   | successfully downloaded (total 16, 17 more to go)
+  Ilumatobacter_fluminis                            | successfully downloaded (total 17, 16 more to go)
+  Blastopirellula_marina                            | successfully downloaded (total 18, 15 more to go)
+  bacterium_enrichment_culture_clone_heteroC45_4W   | not found in the NCBI database
+  Flavobacterium_subsaxonicum_WB_4.1-42_=_DSM_21790 | successfully downloaded (total 19, 13 more to go)
+  Alteromonas_sp._NI00                              | not found in the NCBI database
+  Shewanella_amazonensis_SB2B                       | successfully downloaded (total 20, 11 more to go)
+  Flexibacter_sp._S4475                             | not found in the NCBI database
+  Syntrophus_aciditrophicus                         | successfully downloaded (total 21, 9 more to go)
+  Planctomyces_maris_DSM_8797                       | successfully downloaded (total 22, 8 more to go)
+  Oceanicola_granulosus_HTCC2516                    | successfully downloaded (total 23, 7 more to go)
+  Bacillus_thuringiensis_BMB171                     | successfully downloaded (total 24, 6 more to go)
+  Nitrospina_sp._347                                | not found in the NCBI database
+  bacterium_DG890                                   | not found in the NCBI database
+  Vibrio_sp._08XMYD-4                               | not found in the NCBI database
+  Roseobacter_sp._SK209-2-6                         | successfully downloaded (total 25, 2 more to go)
+  Pseudomonas_sp._S11108                            | not found in the NCBI database
+  Flavobacteria_bacterium_B6_ZZ-2008                | not found in the NCBI database
+
+Downloaded reference(s):
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Aminobacter_sp._J41.fasta ==> Aminobacter_sp._J41
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Bacillus_thuringiensis_BMB171.fasta ==> Bacillus_thuringiensis_BMB171
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Blastopirellula_marina.fasta ==> Blastopirellula_marina
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Chromatocurvus_halotolerans.fasta ==> Chromatocurvus_halotolerans
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Coraliomargarita_akajimensis_DSM_45221.fasta ==> Coraliomargarita_akajimensis_DSM_45221
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Dehalogenimonas_lykanthroporepellens_BL-DC-9.fasta ==> Dehalogenimonas_lykanthroporepellens_BL-DC-9
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790.fasta ==> Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Ilumatobacter_fluminis.fasta ==> Ilumatobacter_fluminis
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Ilumatobacter_nonamiensis_YM16-303.fasta ==> Ilumatobacter_nonamiensis_YM16-303
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Luminiphilus_syltensis_NOR5-1B.fasta ==> Luminiphilus_syltensis_NOR5-1B
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Lutimaribacter_pacificus.fasta ==> Lutimaribacter_pacificus
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Oceanibaculum_pacificum.fasta ==> Oceanibaculum_pacificum
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Oceanicola_granulosus_HTCC2516.fasta ==> Oceanicola_granulosus_HTCC2516
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Photobacterium_halotolerans.fasta ==> Photobacterium_halotolerans
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Planctomyces_maris_DSM_8797.fasta ==> Planctomyces_maris_DSM_8797
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Psychrobacter_sp._PRwf-1.fasta ==> Psychrobacter_sp._PRwf-1
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Psychroserpens_sp._PAMC_27130.fasta ==> Psychroserpens_sp._PAMC_27130
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Roseobacter_sp._SK209-2-6.fasta ==> Roseobacter_sp._SK209-2-6
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Shewanella_amazonensis_SB2B.fasta ==> Shewanella_amazonensis_SB2B
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Spongiibacter_tropicus_DSM_19543.fasta ==> Spongiibacter_tropicus_DSM_19543
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Syntrophus_aciditrophicus.fasta ==> Syntrophus_aciditrophicus
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Thioalkalivibrio_sulfidiphilus_HL-EbGr7.fasta ==> Thioalkalivibrio_sulfidiphilus_HL-EbGr7
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/Vibrio_proteolyticus_NBRC_13287.fasta ==> Vibrio_proteolyticus_NBRC_13287
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/gamma_proteobacterium_SCGC_AB-629-P17.fasta ==> gamma_proteobacterium_SCGC_AB-629-P17
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_downloaded_references/marine_gamma_proteobacterium_HTCC2143.fasta ==> marine_gamma_proteobacterium_HTCC2143
+  All references were combined in combined_reference.fasta
+
+2020-04-16 13:27:25
+Running Reads analyzer...
+NOTICE: Permission denied accessing /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/manta0.29.6. Manta will be downloaded to home directory /home/frle5739/.quast
+  Downloading binary distribution of Manta...
+  Manta successfully downloaded!
+  Unpacking Manta...
+  Done
+  Logging to files /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/structural_variations/sv_calling.log and /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/structural_variations/sv_calling.err...
+  Pre-processing reads...
+  Running BWA...
+NOTICE: Cannot check equivalence of paired reads names, BWA will fail if reads are discordant
+  Done.
+
+ERROR!   Failed running BWA for the reference. See /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/structural_variations/sv_calling.log for information.
+  Failed searching structural variations.
+Done.
+
+Starting quast.py for the combined reference...
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 --combined-ref --colors #E31A1C --ls solid --ambiguity-usage all /home/frle5739/genome_analysis/data/DNA_assembly/final.contigs.fa -R /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/combined_reference.fasta -o /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference --labels final.contigs
+
+Started: 2020-04-16 13:29:36
+
+Logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: all, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/combined_reference.fasta ==> combined_reference
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/DNA_assembly/final.contigs.fa ==> final.contigs
+
+2020-04-16 13:29:53
+Running Basic statistics processor...
+  Reference genome:
+    combined_reference.fasta, length = 103878306, num fragments = 1233, GC % = 54.63
+WARNING:   Reference genome is fragmented. You may consider rerunning QUAST using --fragmented option. QUAST will try to detect misassemblies caused by the fragmentation and mark them fake (will be excluded from # misassemblies).
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 1359, L50 = 34944, Total length = 217947069, GC % = 47.90, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/basic_stats/GC_content_plot.pdf
+  Drawing final.contigs GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/basic_stats/final.contigs_GC_content_plot.pdf
+Done.
+
+2020-04-16 13:30:19
+Running Contig analyzer...
+  final.contigs
+  Logging to files /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/contigs_report_final-contigs.stdout and contigs_report_final-contigs.stderr...
+  Aligning contigs to the reference
+  MUMmer plot saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/final-contigs_mummerplot.html
+  Analysis is finished.
+  Gzipping /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/raw/final-contigs.all_snps to reduce disk space usage...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/raw/final-contigs.all_snps.gz
+  Information about interspecies translocations by references for final-contigs is saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/interspecies_translocations_by_refs_final-contigs.info
+  Drawing Intergenomic misassemblies (found and supposed) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/intergenomic_misassemblies.pdf
+  Creating total report...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2020-04-16 13:32:42
+Running NA-NGA calculation...
+  final.contigs, Largest alignment = 4113, NA50 = None, LA50 = None
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/aligned_stats/NAx_plot.pdf
+Done.
+
+2020-04-16 13:32:49
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  final.contigs
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-16 13:33:18
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-16 13:33:28
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/icarus.html
+
+Excluding downloaded references with low genome fraction from further analysis..
+All downloaded references have low genome fraction. Nothing was excluded for now.
+
+Partitioning contigs into bins aligned to each reference..
+  processing final.contigs
+
+Run QUAST on different references in parallel..
+
+Starting quast.py for the contigs aligned to Aminobacter_sp._J41... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/quast.log)
+
+No contigs were aligned to the reference Bacillus_thuringiensis_BMB171, skipping..
+
+No contigs were aligned to the reference Blastopirellula_marina, skipping..
+
+Starting quast.py for the contigs aligned to Chromatocurvus_halotolerans... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Chromatocurvus_halotolerans/quast.log)
+
+Starting quast.py for the contigs aligned to Coraliomargarita_akajimensis_DSM_45221... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Coraliomargarita_akajimensis_DSM_45221/quast.log)
+
+No contigs were aligned to the reference Dehalogenimonas_lykanthroporepellens_BL-DC-9, skipping..
+
+Starting quast.py for the contigs aligned to Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790/quast.log)
+
+Starting quast.py for the contigs aligned to Ilumatobacter_fluminis... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Ilumatobacter_fluminis/quast.log)
+
+Starting quast.py for the contigs aligned to Ilumatobacter_nonamiensis_YM16-303... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/quast.log)
+
+Starting quast.py for the contigs aligned to Luminiphilus_syltensis_NOR5-1B... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Luminiphilus_syltensis_NOR5-1B/quast.log)
+
+Starting quast.py for the contigs aligned to Lutimaribacter_pacificus... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Lutimaribacter_pacificus/quast.log)
+
+Starting quast.py for the contigs aligned to Oceanibaculum_pacificum... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Oceanibaculum_pacificum/quast.log)
+
+Starting quast.py for the contigs aligned to Oceanicola_granulosus_HTCC2516... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Oceanicola_granulosus_HTCC2516/quast.log)
+
+No contigs were aligned to the reference Photobacterium_halotolerans, skipping..
+
+Starting quast.py for the contigs aligned to Planctomyces_maris_DSM_8797... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Planctomyces_maris_DSM_8797/quast.log)
+
+Starting quast.py for the contigs aligned to Psychrobacter_sp._PRwf-1... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Psychrobacter_sp._PRwf-1/quast.log)
+
+Starting quast.py for the contigs aligned to Psychroserpens_sp._PAMC_27130... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Psychroserpens_sp._PAMC_27130/quast.log)
+
+Starting quast.py for the contigs aligned to Roseobacter_sp._SK209-2-6... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Roseobacter_sp._SK209-2-6/quast.log)
+
+Starting quast.py for the contigs aligned to Shewanella_amazonensis_SB2B... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Shewanella_amazonensis_SB2B/quast.log)
+
+Starting quast.py for the contigs aligned to Spongiibacter_tropicus_DSM_19543... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Spongiibacter_tropicus_DSM_19543/quast.log)
+
+Starting quast.py for the contigs aligned to Syntrophus_aciditrophicus... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Syntrophus_aciditrophicus/quast.log)
+
+Starting quast.py for the contigs aligned to Thioalkalivibrio_sulfidiphilus_HL-EbGr7... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Thioalkalivibrio_sulfidiphilus_HL-EbGr7/quast.log)
+
+Starting quast.py for the contigs aligned to Vibrio_proteolyticus_NBRC_13287... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Vibrio_proteolyticus_NBRC_13287/quast.log)
+
+Starting quast.py for the contigs aligned to gamma_proteobacterium_SCGC_AB-629-P17... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/gamma_proteobacterium_SCGC_AB-629-P17/quast.log)
+
+Starting quast.py for the contigs aligned to marine_gamma_proteobacterium_HTCC2143... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2143/quast.log)
+
+Starting quast.py for the contigs not aligned anywhere... (logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/not_aligned/quast.log)
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py --colors #E31A1C --ls solid --no-check-meta --contig-thresholds 1000,5000,10000,25000,50000 /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/final-contigs_not_aligned_anywhere.fasta -o /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/not_aligned --labels final.contigs
+
+Started: 2020-04-16 13:36:46
+
+Logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/not_aligned/quast.log
+NOTICE: Maximum number of threads is set to 5 (use --threads option to set it manually)
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 5, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/final-contigs_not_aligned_anywhere.fasta ==> final.contigs
+
+2020-04-16 13:36:50
+Running Basic statistics processor...
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 1353, L50 = 35126, Total length = 217026444, GC % = 47.86, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/not_aligned/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/not_aligned/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/not_aligned/basic_stats/GC_content_plot.pdf
+  Drawing final.contigs GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/not_aligned/basic_stats/final.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-16 13:37:07
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-16 13:37:14
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/not_aligned/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/not_aligned/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/not_aligned/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/not_aligned/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/not_aligned/icarus.html
+
+2020-04-16 13:37:14
+Summarizing results...
+  Drawing # contigs metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/#_contigs.pdf
+  Drawing Largest contig metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/Largest_contig.pdf
+  Drawing Total length metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/Total_length.pdf
+  Drawing Largest alignment metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/Largest_alignment.pdf
+  Drawing Total aligned length metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/Total_aligned_length.pdf
+  Drawing Total length (>= 1000 bp) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/Total_length_(>=_1000_bp).pdf
+  Drawing Total length (>= 10000 bp) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/Total_length_(>=_10000_bp).pdf
+  Drawing Total length (>= 50000 bp) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/Total_length_(>=_50000_bp).pdf
+  Drawing # misassemblies metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/#_misassemblies.pdf
+  Drawing metaQUAST summary misassemblies plot for final.contigs...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/final-contigs_misassemblies.pdf
+  Drawing Misassembled contigs length metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/Misassembled_contigs_length.pdf
+  Drawing # mismatches per 100 kbp metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/#_mismatches_per_100_kbp.pdf
+  Drawing # indels per 100 kbp metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/#_indels_per_100_kbp.pdf
+  Drawing # N's per 100 kbp metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/#_N's_per_100_kbp.pdf
+  Drawing Genome fraction (%) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/Genome_fraction_(%).pdf
+  Drawing Duplication ratio metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/Duplication_ratio.pdf
+  Drawing Avg contig read support metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/Avg_contig_read_support.pdf
+  Drawing # genes metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/#_genes.pdf
+  Drawing # operons metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/#_operons.pdf
+  Drawing NGA50 metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/NGA50.pdf
+  Drawing LGA50 metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/LGA50.pdf
+  Drawing # predicted genes (unique) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/PDF/#_predicted_genes_(unique).pdf
+
+  Text versions of reports and plots for each metric (for all references and assemblies) are saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/summary/
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/icarus.html
+  Drawing interactive Krona plots...
+  Krona chart for final.contigs is saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/krona_charts/final.contigs_taxonomy_chart.html
+  Extended version of HTML-report (for all references and assemblies) is saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/report.html
+
+MetaQUAST finished.
+  Log saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/metaquast.log
+
+Finished: 2020-04-16 13:37:30
+Elapsed time: 0:55:11.428150
+Total NOTICEs: 27; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

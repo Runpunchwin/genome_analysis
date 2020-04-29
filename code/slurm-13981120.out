@@ -1,0 +1,5 @@
+Several complimentary python scripts are available with pplacer/1.1.alpha19. 'module help pplacer/1.1.alpha19' for more information
+usage: checkm
+              {data,tree,tree_qa,lineage_set,taxon_list,taxon_set,analyze,qa,lineage_wf,taxonomy_wf,gc_plot,coding_plot,tetra_plot,dist_plot,tetra_pca,gc_bias_plot,cov_pca,nx_plot,len_plot,len_hist,marker_plot,par_plot,bin_qa_plot,unbinned,coverage,tetra,profile,join_tables,ssu_finder,bin_compare,bin_union,merge,outliers,modify,unique,test}
+              ...
+checkm: error: unrecognized arguments: -t /home/frle5739/genome_analysis/analyses/06_binning_evaluation/plot
