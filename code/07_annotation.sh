@@ -20,8 +20,8 @@ j="${i//data\/bins\//analyses/07_annotation/}";
 k="${i///home\/frle5739\/genome_analysis\/data\/bins\//}";
 if [[ $j == bin_1 || $j == bin_2 || $j == bin_3 || $j == bin_21 ]]
 then 
-prokka --outdir $j --kingdom Archea --prefix $k $i
+prokka --outdir $j --kingdom Archea --prefix $k $i.fa
 else
-prokka --outdir $j --prefix $k $i
+prokka --outdir $j --prefix $k $i.fa
 fi; 
 done
