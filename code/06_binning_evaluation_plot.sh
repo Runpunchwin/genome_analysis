@@ -13,7 +13,7 @@ module load bioinfo-tools
 module load CheckM/1.0.12
 
 # Performing the plotting of the evaluation using CheckM
-checkm bin_qa_plot -t 2 -x fa \
+checkm bin_qa_plot -x fa \
 /home/frle5739/genome_analysis/analyses/06_binning_evaluation/checkm \
 /home/frle5739/genome_analysis/data/bins \
 /home/frle5739/genome_analysis/analyses/06_binning_evaluation/plot
