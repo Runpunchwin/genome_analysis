@@ -40,4 +40,3 @@ metaquast.py ~/genome_analysis/data/bins/bin_24.fa -t 2 -o ~/genome_analysis/ana
 metaquast.py ~/genome_analysis/data/bins/bin_25.fa -t 2 -o ~/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_25
 metaquast.py ~/genome_analysis/data/bins/bin_26.fa -t 2 -o ~/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_26
 
-
