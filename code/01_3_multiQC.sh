@@ -13,7 +13,7 @@ module load bioinfo-tools
 module load MultiQC/1.8
 
 # Running MultiQC on all QC-results for DNA- and RNA-reads
-multiqc -o /home/frle5739/genome_analysis/analyses/01_QC_reads/multiqc /home/frle5739/genome_analysis/analyses/01_QC_reads/DNA_trimmed_QC
+# multiqc -o /home/frle5739/genome_analysis/analyses/01_QC_reads/multiqc /home/frle5739/genome_analysis/analyses/01_QC_reads/DNA_trimmed_QC
 
-multiqc -o /home/frle5739/genome_analysis/analyses/01_QC_reads/multiqc /home/frle5739/genome_analysis/analyses/01_QC_reads/RNA_trimmed_QC2 /home/frle5739/genome_analysis/analyses/01_QC_reads/RNA_untrimmed_QC
+multiqc -o /home/frle5739/genome_analysis/analyses/01_QC_reads/multiqc/modified /home/frle5739/genome_analysis/analyses/01_QC_reads/RNA_trimmed_QC_mod /home/frle5739/genome_analysis/analyses/01_QC_reads/RNA_untrimmed_QC
 
