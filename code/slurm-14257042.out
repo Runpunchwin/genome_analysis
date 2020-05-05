@@ -1,0 +1,9 @@
+[INFO   ]         multiqc : This is MultiQC v1.8
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /home/frle5739/genome_analysis/analyses/01_QC_reads/RNA_trimmed_QC_mod
+[INFO   ]         multiqc : Searching   : /home/frle5739/genome_analysis/analyses/01_QC_reads/RNA_untrimmed_QC
+[INFO   ]          fastqc : Found 12 reports
+[INFO   ]         multiqc : Compressing plot data
+[INFO   ]         multiqc : Report      : ../../../../../home/frle5739/genome_analysis/analyses/01_QC_reads/multiqc/modified/multiqc_report.html
+[INFO   ]         multiqc : Data        : ../../../../../home/frle5739/genome_analysis/analyses/01_QC_reads/multiqc/modified/multiqc_data
+[INFO   ]         multiqc : MultiQC complete
