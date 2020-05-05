@@ -1,0 +1,287 @@
+Note the old-format NCBI blast databases are no longer being updated after September 2019, instead use blast/2.9.0+
+[14:44:48] This is prokka 1.12
+[14:44:48] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:48] Homepage is https://github.com/tseemann/prokka
+[14:44:48] Local time is Wed Apr 29 14:44:48 2020
+[14:44:48] You are frle5739
+[14:44:48] Operating system is linux
+[14:44:48] You have BioPerl 1.007001
+[14:44:48] System has 20 cores.
+[14:44:48] Will use maximum of 8 cores.
+[14:44:48] Annotating as >>> Bacteria <<<
+[14:44:48] '/home/frle5739/genome_analysis/data/bins/bin_1' is not a readable non-empty FASTA file
+[14:44:48] This is prokka 1.12
+[14:44:48] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:48] Homepage is https://github.com/tseemann/prokka
+[14:44:48] Local time is Wed Apr 29 14:44:48 2020
+[14:44:48] You are frle5739
+[14:44:48] Operating system is linux
+[14:44:48] You have BioPerl 1.007001
+[14:44:48] System has 20 cores.
+[14:44:48] Will use maximum of 8 cores.
+[14:44:48] Annotating as >>> Bacteria <<<
+[14:44:48] '/home/frle5739/genome_analysis/data/bins/bin_10' is not a readable non-empty FASTA file
+[14:44:48] This is prokka 1.12
+[14:44:48] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:48] Homepage is https://github.com/tseemann/prokka
+[14:44:48] Local time is Wed Apr 29 14:44:48 2020
+[14:44:48] You are frle5739
+[14:44:48] Operating system is linux
+[14:44:48] You have BioPerl 1.007001
+[14:44:48] System has 20 cores.
+[14:44:48] Will use maximum of 8 cores.
+[14:44:48] Annotating as >>> Bacteria <<<
+[14:44:48] '/home/frle5739/genome_analysis/data/bins/bin_11' is not a readable non-empty FASTA file
+[14:44:49] This is prokka 1.12
+[14:44:49] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:49] Homepage is https://github.com/tseemann/prokka
+[14:44:49] Local time is Wed Apr 29 14:44:49 2020
+[14:44:49] You are frle5739
+[14:44:49] Operating system is linux
+[14:44:49] You have BioPerl 1.007001
+[14:44:49] System has 20 cores.
+[14:44:49] Will use maximum of 8 cores.
+[14:44:49] Annotating as >>> Bacteria <<<
+[14:44:49] '/home/frle5739/genome_analysis/data/bins/bin_12' is not a readable non-empty FASTA file
+[14:44:49] This is prokka 1.12
+[14:44:49] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:49] Homepage is https://github.com/tseemann/prokka
+[14:44:49] Local time is Wed Apr 29 14:44:49 2020
+[14:44:49] You are frle5739
+[14:44:49] Operating system is linux
+[14:44:49] You have BioPerl 1.007001
+[14:44:49] System has 20 cores.
+[14:44:49] Will use maximum of 8 cores.
+[14:44:49] Annotating as >>> Bacteria <<<
+[14:44:49] '/home/frle5739/genome_analysis/data/bins/bin_13' is not a readable non-empty FASTA file
+[14:44:49] This is prokka 1.12
+[14:44:49] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:49] Homepage is https://github.com/tseemann/prokka
+[14:44:49] Local time is Wed Apr 29 14:44:49 2020
+[14:44:49] You are frle5739
+[14:44:49] Operating system is linux
+[14:44:49] You have BioPerl 1.007001
+[14:44:49] System has 20 cores.
+[14:44:49] Will use maximum of 8 cores.
+[14:44:49] Annotating as >>> Bacteria <<<
+[14:44:49] '/home/frle5739/genome_analysis/data/bins/bin_14' is not a readable non-empty FASTA file
+[14:44:49] This is prokka 1.12
+[14:44:49] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:49] Homepage is https://github.com/tseemann/prokka
+[14:44:49] Local time is Wed Apr 29 14:44:49 2020
+[14:44:49] You are frle5739
+[14:44:49] Operating system is linux
+[14:44:49] You have BioPerl 1.007001
+[14:44:49] System has 20 cores.
+[14:44:49] Will use maximum of 8 cores.
+[14:44:49] Annotating as >>> Bacteria <<<
+[14:44:49] '/home/frle5739/genome_analysis/data/bins/bin_15' is not a readable non-empty FASTA file
+[14:44:50] This is prokka 1.12
+[14:44:50] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:50] Homepage is https://github.com/tseemann/prokka
+[14:44:50] Local time is Wed Apr 29 14:44:50 2020
+[14:44:50] You are frle5739
+[14:44:50] Operating system is linux
+[14:44:50] You have BioPerl 1.007001
+[14:44:50] System has 20 cores.
+[14:44:50] Will use maximum of 8 cores.
+[14:44:50] Annotating as >>> Bacteria <<<
+[14:44:50] '/home/frle5739/genome_analysis/data/bins/bin_16' is not a readable non-empty FASTA file
+[14:44:50] This is prokka 1.12
+[14:44:50] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:50] Homepage is https://github.com/tseemann/prokka
+[14:44:50] Local time is Wed Apr 29 14:44:50 2020
+[14:44:50] You are frle5739
+[14:44:50] Operating system is linux
+[14:44:50] You have BioPerl 1.007001
+[14:44:50] System has 20 cores.
+[14:44:50] Will use maximum of 8 cores.
+[14:44:50] Annotating as >>> Bacteria <<<
+[14:44:50] '/home/frle5739/genome_analysis/data/bins/bin_17' is not a readable non-empty FASTA file
+[14:44:50] This is prokka 1.12
+[14:44:50] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:50] Homepage is https://github.com/tseemann/prokka
+[14:44:50] Local time is Wed Apr 29 14:44:50 2020
+[14:44:50] You are frle5739
+[14:44:50] Operating system is linux
+[14:44:50] You have BioPerl 1.007001
+[14:44:50] System has 20 cores.
+[14:44:50] Will use maximum of 8 cores.
+[14:44:50] Annotating as >>> Bacteria <<<
+[14:44:50] '/home/frle5739/genome_analysis/data/bins/bin_18' is not a readable non-empty FASTA file
+[14:44:50] This is prokka 1.12
+[14:44:50] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:50] Homepage is https://github.com/tseemann/prokka
+[14:44:50] Local time is Wed Apr 29 14:44:50 2020
+[14:44:50] You are frle5739
+[14:44:50] Operating system is linux
+[14:44:50] You have BioPerl 1.007001
+[14:44:50] System has 20 cores.
+[14:44:50] Will use maximum of 8 cores.
+[14:44:50] Annotating as >>> Bacteria <<<
+[14:44:50] '/home/frle5739/genome_analysis/data/bins/bin_19' is not a readable non-empty FASTA file
+[14:44:50] This is prokka 1.12
+[14:44:50] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:50] Homepage is https://github.com/tseemann/prokka
+[14:44:50] Local time is Wed Apr 29 14:44:50 2020
+[14:44:50] You are frle5739
+[14:44:50] Operating system is linux
+[14:44:50] You have BioPerl 1.007001
+[14:44:50] System has 20 cores.
+[14:44:50] Will use maximum of 8 cores.
+[14:44:50] Annotating as >>> Bacteria <<<
+[14:44:50] '/home/frle5739/genome_analysis/data/bins/bin_2' is not a readable non-empty FASTA file
+[14:44:51] This is prokka 1.12
+[14:44:51] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:51] Homepage is https://github.com/tseemann/prokka
+[14:44:51] Local time is Wed Apr 29 14:44:51 2020
+[14:44:51] You are frle5739
+[14:44:51] Operating system is linux
+[14:44:51] You have BioPerl 1.007001
+[14:44:51] System has 20 cores.
+[14:44:51] Will use maximum of 8 cores.
+[14:44:51] Annotating as >>> Bacteria <<<
+[14:44:51] '/home/frle5739/genome_analysis/data/bins/bin_20' is not a readable non-empty FASTA file
+[14:44:51] This is prokka 1.12
+[14:44:51] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:51] Homepage is https://github.com/tseemann/prokka
+[14:44:51] Local time is Wed Apr 29 14:44:51 2020
+[14:44:51] You are frle5739
+[14:44:51] Operating system is linux
+[14:44:51] You have BioPerl 1.007001
+[14:44:51] System has 20 cores.
+[14:44:51] Will use maximum of 8 cores.
+[14:44:51] Annotating as >>> Bacteria <<<
+[14:44:51] '/home/frle5739/genome_analysis/data/bins/bin_21' is not a readable non-empty FASTA file
+[14:44:51] This is prokka 1.12
+[14:44:51] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:51] Homepage is https://github.com/tseemann/prokka
+[14:44:51] Local time is Wed Apr 29 14:44:51 2020
+[14:44:51] You are frle5739
+[14:44:51] Operating system is linux
+[14:44:51] You have BioPerl 1.007001
+[14:44:51] System has 20 cores.
+[14:44:51] Will use maximum of 8 cores.
+[14:44:51] Annotating as >>> Bacteria <<<
+[14:44:51] '/home/frle5739/genome_analysis/data/bins/bin_22' is not a readable non-empty FASTA file
+[14:44:51] This is prokka 1.12
+[14:44:51] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:51] Homepage is https://github.com/tseemann/prokka
+[14:44:51] Local time is Wed Apr 29 14:44:51 2020
+[14:44:51] You are frle5739
+[14:44:51] Operating system is linux
+[14:44:51] You have BioPerl 1.007001
+[14:44:51] System has 20 cores.
+[14:44:51] Will use maximum of 8 cores.
+[14:44:51] Annotating as >>> Bacteria <<<
+[14:44:51] '/home/frle5739/genome_analysis/data/bins/bin_23' is not a readable non-empty FASTA file
+[14:44:51] This is prokka 1.12
+[14:44:51] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:51] Homepage is https://github.com/tseemann/prokka
+[14:44:51] Local time is Wed Apr 29 14:44:51 2020
+[14:44:51] You are frle5739
+[14:44:51] Operating system is linux
+[14:44:51] You have BioPerl 1.007001
+[14:44:51] System has 20 cores.
+[14:44:51] Will use maximum of 8 cores.
+[14:44:51] Annotating as >>> Bacteria <<<
+[14:44:51] '/home/frle5739/genome_analysis/data/bins/bin_24' is not a readable non-empty FASTA file
+[14:44:52] This is prokka 1.12
+[14:44:52] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:52] Homepage is https://github.com/tseemann/prokka
+[14:44:52] Local time is Wed Apr 29 14:44:52 2020
+[14:44:52] You are frle5739
+[14:44:52] Operating system is linux
+[14:44:52] You have BioPerl 1.007001
+[14:44:52] System has 20 cores.
+[14:44:52] Will use maximum of 8 cores.
+[14:44:52] Annotating as >>> Bacteria <<<
+[14:44:52] '/home/frle5739/genome_analysis/data/bins/bin_25' is not a readable non-empty FASTA file
+[14:44:52] This is prokka 1.12
+[14:44:52] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:52] Homepage is https://github.com/tseemann/prokka
+[14:44:52] Local time is Wed Apr 29 14:44:52 2020
+[14:44:52] You are frle5739
+[14:44:52] Operating system is linux
+[14:44:52] You have BioPerl 1.007001
+[14:44:52] System has 20 cores.
+[14:44:52] Will use maximum of 8 cores.
+[14:44:52] Annotating as >>> Bacteria <<<
+[14:44:52] '/home/frle5739/genome_analysis/data/bins/bin_26' is not a readable non-empty FASTA file
+[14:44:52] This is prokka 1.12
+[14:44:52] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:52] Homepage is https://github.com/tseemann/prokka
+[14:44:52] Local time is Wed Apr 29 14:44:52 2020
+[14:44:52] You are frle5739
+[14:44:52] Operating system is linux
+[14:44:52] You have BioPerl 1.007001
+[14:44:52] System has 20 cores.
+[14:44:52] Will use maximum of 8 cores.
+[14:44:52] Annotating as >>> Bacteria <<<
+[14:44:52] '/home/frle5739/genome_analysis/data/bins/bin_3' is not a readable non-empty FASTA file
+[14:44:52] This is prokka 1.12
+[14:44:52] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:52] Homepage is https://github.com/tseemann/prokka
+[14:44:52] Local time is Wed Apr 29 14:44:52 2020
+[14:44:52] You are frle5739
+[14:44:52] Operating system is linux
+[14:44:52] You have BioPerl 1.007001
+[14:44:52] System has 20 cores.
+[14:44:52] Will use maximum of 8 cores.
+[14:44:52] Annotating as >>> Bacteria <<<
+[14:44:52] '/home/frle5739/genome_analysis/data/bins/bin_4' is not a readable non-empty FASTA file
+[14:44:52] This is prokka 1.12
+[14:44:52] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:52] Homepage is https://github.com/tseemann/prokka
+[14:44:52] Local time is Wed Apr 29 14:44:52 2020
+[14:44:52] You are frle5739
+[14:44:52] Operating system is linux
+[14:44:52] You have BioPerl 1.007001
+[14:44:52] System has 20 cores.
+[14:44:52] Will use maximum of 8 cores.
+[14:44:52] Annotating as >>> Bacteria <<<
+[14:44:52] '/home/frle5739/genome_analysis/data/bins/bin_5' is not a readable non-empty FASTA file
+[14:44:52] This is prokka 1.12
+[14:44:52] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:52] Homepage is https://github.com/tseemann/prokka
+[14:44:52] Local time is Wed Apr 29 14:44:52 2020
+[14:44:52] You are frle5739
+[14:44:52] Operating system is linux
+[14:44:52] You have BioPerl 1.007001
+[14:44:52] System has 20 cores.
+[14:44:52] Will use maximum of 8 cores.
+[14:44:52] Annotating as >>> Bacteria <<<
+[14:44:52] '/home/frle5739/genome_analysis/data/bins/bin_6' is not a readable non-empty FASTA file
+[14:44:53] This is prokka 1.12
+[14:44:53] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:53] Homepage is https://github.com/tseemann/prokka
+[14:44:53] Local time is Wed Apr 29 14:44:53 2020
+[14:44:53] You are frle5739
+[14:44:53] Operating system is linux
+[14:44:53] You have BioPerl 1.007001
+[14:44:53] System has 20 cores.
+[14:44:53] Will use maximum of 8 cores.
+[14:44:53] Annotating as >>> Bacteria <<<
+[14:44:53] '/home/frle5739/genome_analysis/data/bins/bin_7' is not a readable non-empty FASTA file
+[14:44:53] This is prokka 1.12
+[14:44:53] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:53] Homepage is https://github.com/tseemann/prokka
+[14:44:53] Local time is Wed Apr 29 14:44:53 2020
+[14:44:53] You are frle5739
+[14:44:53] Operating system is linux
+[14:44:53] You have BioPerl 1.007001
+[14:44:53] System has 20 cores.
+[14:44:53] Will use maximum of 8 cores.
+[14:44:53] Annotating as >>> Bacteria <<<
+[14:44:53] '/home/frle5739/genome_analysis/data/bins/bin_8' is not a readable non-empty FASTA file
+[14:44:53] This is prokka 1.12
+[14:44:53] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:44:53] Homepage is https://github.com/tseemann/prokka
+[14:44:53] Local time is Wed Apr 29 14:44:53 2020
+[14:44:53] You are frle5739
+[14:44:53] Operating system is linux
+[14:44:53] You have BioPerl 1.007001
+[14:44:53] System has 20 cores.
+[14:44:53] Will use maximum of 8 cores.
+[14:44:53] Annotating as >>> Bacteria <<<
+[14:44:53] '/home/frle5739/genome_analysis/data/bins/bin_9' is not a readable non-empty FASTA file
