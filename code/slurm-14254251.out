@@ -1,0 +1,13 @@
+	trimmomatic 0.36 loaded, see 'module help trimmomatic/0.36' for more information.
+TrimmomaticPE: Started with arguments:
+ -threads 2 -phred33 /home/frle5739/genome_analysis/data/raw_data/RNA_untrimmed/SRR4342137.1.fastq.gz /home/frle5739/genome_analysis/data/raw_data/RNA_untrimmed/SRR4342137.2.fastq.gz /home/frle5739/genome_analysis/data/trimmed_data/RNA_trimmed_modified/SRR4342137_paired_forward.fastq.gz /home/frle5739/genome_analysis/data/trimmed_data/RNA_trimmed_modified/SRR4342137_unpaired_forward.fastq.gz /home/frle5739/genome_analysis/data/trimmed_data/RNA_trimmed_modified/SRR4342137_paired_reverse.fastq.gz /home/frle5739/genome_analysis/data/trimmed_data/RNA_trimmed_modified/SRR4342137_unpaired_reverse.fastq.gz ILLUMINACLIP:/sw/apps/bioinfo/trimmomatic/0.36/rackham/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:10 MINLEN:36
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 1304686 Both Surviving: 884560 (67.80%) Forward Only Surviving: 190923 (14.63%) Reverse Only Surviving: 1611 (0.12%) Dropped: 227592 (17.44%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 2 -phred33 /home/frle5739/genome_analysis/data/raw_data/RNA_untrimmed/SRR4342139.1.fastq.gz /home/frle5739/genome_analysis/data/raw_data/RNA_untrimmed/SRR4342139.2.fastq.gz /home/frle5739/genome_analysis/data/trimmed_data/RNA_trimmed_modified/SRR4342139_paired_forward.fastq.gz /home/frle5739/genome_analysis/data/trimmed_data/RNA_trimmed_modified/SRR4342139_unpaired_forward.fastq.gz /home/frle5739/genome_analysis/data/trimmed_data/RNA_trimmed_modified/SRR4342139_paired_reverse.fastq.gz /home/frle5739/genome_analysis/data/trimmed_data/RNA_trimmed_modified/SRR4342139_unpaired_reverse.fastq.gz ILLUMINACLIP:/sw/apps/bioinfo/trimmomatic/0.36/rackham/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:10 MINLEN:36
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 1213040 Both Surviving: 741649 (61.14%) Forward Only Surviving: 162865 (13.43%) Reverse Only Surviving: 1043 (0.09%) Dropped: 307483 (25.35%)
+TrimmomaticPE: Completed successfully
