@@ -13,3 +13,5 @@ module load bioinfo-tools
 module load bwa/0.7.17
 
 # Performing the mapping using bwa
+
+
