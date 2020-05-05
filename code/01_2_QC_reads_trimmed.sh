@@ -14,4 +14,4 @@ module load bioinfo-tools
 module load FastQC/0.11.8
 
 # Running FastQC on all compressed fastq-files in the directories for DNA- and RNA-reads.
-fastqc -f fastq -t 2 -o /home/frle5739/genome_analysis/analyses/01_QC_reads/RNA_trimmed_QC2 /home/frle5739/genome_analysis/data/trimmed_data/RNA_trimmed/*.fastq.gz
+fastqc -f fastq -t 2 -o /home/frle5739/genome_analysis/analyses/01_QC_reads/RNA_trimmed_QC_mod /home/frle5739/genome_analysis/data/trimmed_data/RNA_trimmed_modified/*.fastq.gz
