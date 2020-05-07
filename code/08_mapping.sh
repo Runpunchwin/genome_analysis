@@ -30,9 +30,9 @@ bwa mem -t 2 $bin $RNAreads/SRR4342139_paired_forward.fastq.gz $RNAreads/SRR4342
 
 # Piping the samtools-commands in order to avoid large temporary files
 samtools view -b ~/genome_analysis/data/mapped_RNA/SRR4342137/${binNo}_mapped_RNA_SRR4342137.sam |
- samtools sort -@ 2 > ~/genome_analysis/data/mapped_RNA/SRR4342137/${binNo}_mapped_RNA_SRR4342137.bam
+ samtools sort -@ 2 - > ~/genome_analysis/data/mapped_RNA/SRR4342137/${binNo}_mapped_RNA_SRR4342137.bam
 samtools view -b ~/genome_analysis/data/mapped_RNA/SRR4342139/${binNo}_mapped_RNA_SRR4342139.sam |
- samtools sort -@ 2 > ~/genome_analysis/data/mapped_RNA/SRR4342139/${binNo}_mapped_RNA_SRR4342139.bam
+ samtools sort -@ 2 - > ~/genome_analysis/data/mapped_RNA/SRR4342139/${binNo}_mapped_RNA_SRR4342139.bam
 
 # Remove the large, uncompressed files
 rm ~/genome_analysis/data/mapped_RNA/SRR4342137/${binNo}_mapped_RNA_SRR4342137.sam
