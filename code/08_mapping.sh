@@ -6,7 +6,7 @@
 #SBATCH -J mapping
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user fredrik@levingotland.se
-# This script will perform the DNA- and RNA-mapping
+# This script will perform the RNA-mapping
 
 # Loading the required modules
 module load bioinfo-tools
