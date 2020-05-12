@@ -15,10 +15,10 @@ module load htseq/0.9.1
 # Performing the read count using htseq
 for bin in ~/genome_analysis/data/mapped_RNA/SRR4342137/*
 do
-htseq-count -f bam -r pos -t CDS -i ID
+htseq-count -f bam -r pos -t CDS -i ID 
 done
 
 for bin in ~/genome_analysis/data/mapped_RNA/SRR4342139/*
 do
-htseq-count -f bam -r pos -t CDS -i ID 
+htseq-count -f bam -r pos -t CDS -i ID
 done

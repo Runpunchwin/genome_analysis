@@ -15,7 +15,7 @@ module load samtools/1.10
 
 # Performing the mapping using bwa
 # Saving the path to the RNA data
-$RNAreads = ~/genome_analysis/data/trimmed_data/RNA_trimmed_modified
+$RNAreads = "~/genome_analysis/data/trimmed_data/RNA_trimmed_modified"
 
 # Looping through the bins
 for bin in ~/genome_analysis/data/bins/*.fa

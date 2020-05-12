@@ -1,1 +1,2 @@
+#LOOP
 sed -n '/##FASTA/q;p' INPUTFILE > OUTPUTFILE

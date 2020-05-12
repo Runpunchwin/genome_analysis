@@ -20,7 +20,6 @@ module load muscle
 outdir="~/genome_analysis/analyses/10_phylogenetic_placement/phylophlan"
 # creating the directories that phylophlan looks for:
 # Specifying the project name as "thrash_metagenome"
-# this is also where you should put symlinks to your input files
 mkdir -p $outdir/input/thrash_metagenome
 mkdir -p $outdir/output
 mkdir -p $outdir/data/ppaalns
