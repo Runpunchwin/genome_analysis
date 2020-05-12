@@ -15,7 +15,7 @@ module load samtools/1.10
 
 # Performing the mapping using bwa
 # Saving the path to the RNA data
-$RNAreads = "~/genome_analysis/data/trimmed_data/RNA_trimmed_modified"
+RNAreads = "~/genome_analysis/data/trimmed_data/RNA_trimmed_modified"
 
 # Looping through the bins
 for bin in ~/genome_analysis/data/bins/*.fa
@@ -25,8 +25,8 @@ bwa index $bin
 binNo="${bin///home\/frle5739\/genome_analysis\/data\/bins\//}"
 binNo="${binNo//.fa/}"
 
-bwa mem -t 2 $bin $RNAreads/SRR4342137_paired_forward.fastq.gz $RNAreads/SRR4342137_paired_reverse.fastq.gz > ~/genome_analysis/data/mapped_RNA/SRR4342137/${binNo}_mapped_RNA_SRR4342137.sam
-bwa mem -t 2 $bin $RNAreads/SRR4342139_paired_forward.fastq.gz $RNAreads/SRR4342139_paired_reverse.fastq.gz > ~/genome_analysis/data/mapped_RNA/SRR4342139/${binNo}_mapped_RNA_SRR4342139.sam
+bwa mem -t 2 $bin ${RNAreads}/SRR4342137_paired_forward.fastq.gz ${RNAreads}/SRR4342137_paired_reverse.fastq.gz > ~/genome_analysis/data/mapped_RNA/SRR4342137/${binNo}_mapped_RNA_SRR4342137.sam
+bwa mem -t 2 $bin ${RNAreads}/SRR4342139_paired_forward.fastq.gz ${RNAreads}/SRR4342139_paired_reverse.fastq.gz > ~/genome_analysis/data/mapped_RNA/SRR4342139/${binNo}_mapped_RNA_SRR4342139.sam
 
 # Piping the samtools-commands in order to avoid large temporary files
 samtools view -b ~/genome_analysis/data/mapped_RNA/SRR4342137/${binNo}_mapped_RNA_SRR4342137.sam |
