@@ -13,6 +13,7 @@ module load bioinfo-tools
 module load phylophlan
 module load FastTree
 module load usearch/5.2.32
+module load python/3.7.2
 module load biopython
 module load muscle
 
