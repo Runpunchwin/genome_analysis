@@ -18,23 +18,23 @@ module load samtools/1.10
 RNAreads="~/genome_analysis/data/trimmed_data/RNA_trimmed_modified"
 
 # Looping through the bins
-for bin in ~/genome_analysis/data/bins/*.fa
+for bin in /home/frle5739/genome_analysis/data/bins/*.fa
 do
 bwa index $bin
 # Saving the bin-number as a variable (e.g. bin_3)
 binNo="${bin///home\/frle5739\/genome_analysis\/data\/bins\//}"
 binNo="${binNo//.fa/}"
 
-bwa mem -t 2 $bin ${RNAreads}/SRR4342137_paired_forward.fastq.gz ${RNAreads}/SRR4342137_paired_reverse.fastq.gz > ~/genome_analysis/data/mapped_RNA/SRR4342137/${binNo}_mapped_RNA_SRR4342137.sam
-bwa mem -t 2 $bin ${RNAreads}/SRR4342139_paired_forward.fastq.gz ${RNAreads}/SRR4342139_paired_reverse.fastq.gz > ~/genome_analysis/data/mapped_RNA/SRR4342139/${binNo}_mapped_RNA_SRR4342139.sam
+bwa mem -t 2 $bin ${RNAreads}/SRR4342137_paired_forward.fastq.gz ${RNAreads}/SRR4342137_paired_reverse.fastq.gz > /home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/${binNo}_mapped_RNA_SRR4342137.sam
+bwa mem -t 2 $bin ${RNAreads}/SRR4342139_paired_forward.fastq.gz ${RNAreads}/SRR4342139_paired_reverse.fastq.gz > /home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/${binNo}_mapped_RNA_SRR4342139.sam
 
 # Piping the samtools-commands in order to avoid large temporary files
-samtools view -b ~/genome_analysis/data/mapped_RNA/SRR4342137/${binNo}_mapped_RNA_SRR4342137.sam |
- samtools sort -@ 2 - > ~/genome_analysis/data/mapped_RNA/SRR4342137/${binNo}_mapped_RNA_SRR4342137.bam
-samtools view -b ~/genome_analysis/data/mapped_RNA/SRR4342139/${binNo}_mapped_RNA_SRR4342139.sam |
- samtools sort -@ 2 - > ~/genome_analysis/data/mapped_RNA/SRR4342139/${binNo}_mapped_RNA_SRR4342139.bam
+samtools view -b /home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/${binNo}_mapped_RNA_SRR4342137.sam |
+ samtools sort -@ 2 - > /home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/${binNo}_mapped_RNA_SRR4342137.bam
+samtools view -b /home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/${binNo}_mapped_RNA_SRR4342139.sam |
+ samtools sort -@ 2 - > /home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/${binNo}_mapped_RNA_SRR4342139.bam
 
 # Remove the large, uncompressed files
-rm ~/genome_analysis/data/mapped_RNA/SRR4342137/${binNo}_mapped_RNA_SRR4342137.sam
-rm ~/genome_analysis/data/mapped_RNA/SRR4342139/${binNo}_mapped_RNA_SRR4342139.sam
+rm /home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/${binNo}_mapped_RNA_SRR4342137.sam
+rm /home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/${binNo}_mapped_RNA_SRR4342139.sam
 done
