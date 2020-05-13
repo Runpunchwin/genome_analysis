@@ -21,10 +21,10 @@ prokkaPath="/home/frle5739/genome_analysis/analyses/07_annotation"
 # Only looking at bins with contamination <10%
 for bin in bin_2 bin_4 bin_5 bin_6 bin_8 bin_9 bin_10 bin_11 bin_13 bin_14 bin_15 bin_16 bin_17 bin_18 bin_21 bin_22 bin_24 bin_26
 do
-htseq-count -f bam -r pos -t CDS -i ID $binpath37/${bin}_mapped_RNA_SRR4342137.bam <(sed '/##FASTA/$d' $prokkaPath/${bin}/${bin}.gff) > /home/frle5739/genome_analysis/analyses/09_read_counting/SRR4342137/${bin}_count.out
+htseq-count -f bam -r pos -t CDS -i ID $binpath37/${bin}_mapped_RNA_SRR4342137.bam <(sed '/##FASTA/,$d' $prokkaPath/${bin}/${bin}.gff) > /home/frle5739/genome_analysis/analyses/09_read_counting/SRR4342137/${bin}_count.out
 done
 
 for bin in bin_2 bin_4 bin_5 bin_6 bin_8 bin_9 bin_10 bin_11 bin_13 bin_14 bin_15 bin_16 bin_17 bin_18 bin_21 bin_22 bin_24 bin_26
 do
-htseq-count -f bam -r pos -t CDS -i ID $binpath39/${bin}_mapped_RNA_SRR4342137.bam <(sed '/##FASTA/$d' $prokkaPath/${bin}/${bin}.gff) > /home/frle5739/genome_analysis/analyses/09_read_counting/SRR4342139/${bin}_count.out
+htseq-count -f bam -r pos -t CDS -i ID $binpath39/${bin}_mapped_RNA_SRR4342137.bam <(sed '/##FASTA/,$d' $prokkaPath/${bin}/${bin}.gff) > /home/frle5739/genome_analysis/analyses/09_read_counting/SRR4342139/${bin}_count.out
 done
