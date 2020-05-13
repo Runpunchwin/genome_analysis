@@ -17,7 +17,7 @@ module load biopython
 module load muscle
 
 # The directory where I want to store the phylophlan results
-outdir="~/genome_analysis/analyses/10_phylogenetic_placement/phylophlan"
+outdir="/home/frle5739/genome_analysis/analyses/10_phylogenetic_placement/phylophlan"
 # creating the directories that phylophlan looks for:
 # Specifying the project name as "thrash_metagenome"
 mkdir -p $outdir/input/thrash_metagenome
