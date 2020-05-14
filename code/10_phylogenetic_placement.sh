@@ -13,7 +13,7 @@ module load bioinfo-tools
 module load phylophlan
 module load FastTree
 module load usearch/5.2.32
-module load python/3.7.2
+module load python/2.7.15
 module load biopython
 module load muscle
 
@@ -30,7 +30,7 @@ ln -sf /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/data/ppaalns/*.bz2 $outdir/d
 ln -sf /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/data/ppafull.tax.txt $outdir/data/
 ln -sf /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/taxcuration/ $outdir/taxcuration
 # symlinks to input files
-for bin in ~/genome_analysis/analyses/07_annotation/*
+for bin in /home/frle5739/genome_analysis/analyses/07_annotation/*
 do
 ln -sf $bin/*.faa $outdir/input/thrash_metagenome/
 done
