@@ -13,9 +13,9 @@ module load bioinfo-tools
 module load phylophlan
 module load FastTree
 module load usearch/5.2.32
-module load python/2.7.15
 module load biopython
 module load muscle
+module load python/2.7.15
 
 # The directory where I want to store the phylophlan results
 outdir="/home/frle5739/genome_analysis/analyses/10_phylogenetic_placement/phylophlan"
