@@ -1,0 +1,443 @@
+/var/spool/slurmd/job14303495/slurm_script: line 18: =: command not found
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.42 seconds elapse.
+[bwa_index] Update BWT... 0.02 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.21 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_1.fa
+[main] Real time: 0.751 sec; CPU: 0.681 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_1_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_1_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.47 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.25 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_10.fa
+[main] Real time: 0.836 sec; CPU: 0.755 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_10_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_10_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.32 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.17 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_11.fa
+[main] Real time: 0.596 sec; CPU: 0.530 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_11_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_11_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.07 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.03 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_12.fa
+[main] Real time: 0.136 sec; CPU: 0.108 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_12_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_12_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.02 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.60 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.02 sec
+[bwa_index] Construct SA from BWT and Occ... 0.28 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_13.fa
+[main] Real time: 1.029 sec; CPU: 0.945 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_13_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_13_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.25 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.13 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_14.fa
+[main] Real time: 0.457 sec; CPU: 0.406 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_14_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_14_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.47 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.23 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_15.fa
+[main] Real time: 0.834 sec; CPU: 0.748 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_15_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_15_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.20 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.02 sec
+[bwa_index] Construct SA from BWT and Occ... 0.10 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_16.fa
+[main] Real time: 0.378 sec; CPU: 0.328 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_16_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_16_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.12 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.06 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_17.fa
+[main] Real time: 0.229 sec; CPU: 0.191 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_17_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_17_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.38 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.20 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_18.fa
+[main] Real time: 0.683 sec; CPU: 0.610 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_18_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_18_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.03 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 1.05 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.02 sec
+[bwa_index] Construct SA from BWT and Occ... 0.49 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_19.fa
+[main] Real time: 1.750 sec; CPU: 1.611 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_19_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_19_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.08 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.04 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_2.fa
+[main] Real time: 0.176 sec; CPU: 0.140 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_2_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_2_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.02 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.55 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.02 sec
+[bwa_index] Construct SA from BWT and Occ... 0.27 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_20.fa
+[main] Real time: 0.962 sec; CPU: 0.878 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_20_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_20_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.31 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.16 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_21.fa
+[main] Real time: 0.575 sec; CPU: 0.510 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_21_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_21_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.34 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.17 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_22.fa
+[main] Real time: 0.610 sec; CPU: 0.554 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_22_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_22_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.03 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.84 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.03 sec
+[bwa_index] Construct SA from BWT and Occ... 0.37 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_23.fa
+[main] Real time: 1.386 sec; CPU: 1.286 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_23_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_23_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.37 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.19 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_24.fa
+[main] Real time: 0.669 sec; CPU: 0.599 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_24_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_24_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.06 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 2.17 seconds elapse.
+[bwa_index] Update BWT... 0.05 sec
+[bwa_index] Pack forward-only FASTA... 0.03 sec
+[bwa_index] Construct SA from BWT and Occ... 0.81 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_25.fa
+[main] Real time: 3.331 sec; CPU: 3.133 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_25_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_25_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.02 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.62 seconds elapse.
+[bwa_index] Update BWT... 0.02 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.32 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_26.fa
+[main] Real time: 1.097 sec; CPU: 0.996 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_26_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_26_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.08 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.04 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_3.fa
+[main] Real time: 0.172 sec; CPU: 0.135 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_3_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_3_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.32 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.16 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_4.fa
+[main] Real time: 0.568 sec; CPU: 0.515 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_4_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_4_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.03 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 1.04 seconds elapse.
+[bwa_index] Update BWT... 0.02 sec
+[bwa_index] Pack forward-only FASTA... 0.02 sec
+[bwa_index] Construct SA from BWT and Occ... 0.42 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_5.fa
+[main] Real time: 1.654 sec; CPU: 1.538 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_5_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_5_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.39 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.21 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_6.fa
+[main] Real time: 0.725 sec; CPU: 0.636 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_6_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_6_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.14 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 7.62 seconds elapse.
+[bwa_index] Update BWT... 0.10 sec
+[bwa_index] Pack forward-only FASTA... 0.09 sec
+[bwa_index] Construct SA from BWT and Occ... 2.40 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_7.fa
+[main] Real time: 10.808 sec; CPU: 10.356 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_7_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_7_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.36 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.18 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_8.fa
+[main] Real time: 0.647 sec; CPU: 0.581 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_8_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_8_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.25 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.12 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/frle5739/genome_analysis/data/bins/bin_9.fa
+[main] Real time: 0.451 sec; CPU: 0.401 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342137_paired_forward.fastq.gz'.
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/SRR4342139_paired_forward.fastq.gz'.
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342137/bin_9_mapped_RNA_SRR4342137.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_9_mapped_RNA_SRR4342139.sam".
+samtools sort: failed to read header from "-"

@@ -1,0 +1,13 @@
+
+The following have been reloaded with a version change:
+  1) python/2.7.11 => python/2.7.15
+
+
+The following have been reloaded with a version change:
+  1) python/2.7.15 => python/3.7.2
+
+ln: failed to create symbolic link '/home/frle5739/genome_analysis/analyses/10_phylogenetic_placement/phylophlan/taxcuration/taxcuration': Permission denied
+  File "/sw/apps/bioinfo/phylophlan/0.99/rackham/bin/phylophlan.py", line 393
+    except OSError, e:
+                  ^
+SyntaxError: invalid syntax

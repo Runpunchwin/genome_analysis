@@ -1,0 +1,284 @@
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+884560 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.981864' aligned to k105_265738:[5235,5267)/+>.
+Warning: Mate pairing was ambiguous for 1 records; mate key for first such record: ('SRR4342137.981864', 'second', 'k105_265738', 5235, 'k105_265738', 5235, 38).
+884561 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+Warning: Mate records missing for 9 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.97356' aligned to k105_270192:[15800,15840)/->.
+884569 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+Warning: Mate records missing for 103 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.793413' aligned to k105_42866:[7434,7498)/->.
+884663 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+884560 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+884560 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+Warning: Mate records missing for 3 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.1084618' aligned to k105_194506:[8853,8895)/->.
+884563 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+Warning: Mate records missing for 3 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.1169386' aligned to k105_269182:[1856,1903)/+>.
+884563 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.1050322' aligned to k105_262745:[32043,32083)/->.
+884561 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+884560 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+884560 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.169134' aligned to k105_145192:[3299,3341)/+>.
+884561 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+Warning: Mate records missing for 3 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.478743' aligned to k105_191422:[2098,2135)/->.
+884563 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+Warning: Mate records missing for 4 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.763123' aligned to k105_272805:[39229,39265)/->.
+884564 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+Warning: Mate records missing for 2 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.548139' aligned to k105_294174:[3793,3829)/+>.
+884562 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+Warning: Mate records missing for 2 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.763123' aligned to k105_115056:[407,443)/+>.
+884562 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+Warning: Mate records missing for 2 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.716776' aligned to k105_40778:[4063,4106)/+>.
+884562 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+0 GFF lines processed.
+Warning: No features of type 'CDS' found.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+Warning: Mate records missing for 5 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.240889' aligned to k105_8555:[74,104)/->.
+884565 SAM alignment pairs processed.
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_2_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_4_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_5_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_6_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_8_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_9_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_10_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_11_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_13_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_14_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_15_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_16_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_17_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_18_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_21_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_22_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_24_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
+sed: -e expression #1, char 10: unknown command: `$'
+  [Errno 2] No such file or directory: '/home/frle5739/genome_analysis/data/mapped_RNA/SRR4342139/bin_26_mapped_RNA_SRR4342137.bam'
+  [Exception type: IOError, raised in count.py:58]
