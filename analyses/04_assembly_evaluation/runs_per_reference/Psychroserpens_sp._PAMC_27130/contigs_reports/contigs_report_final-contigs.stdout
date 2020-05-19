@@ -1,0 +1,296 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000001.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_1__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000002.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_2__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000003.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_3__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000004.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_4__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000005.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_5__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000006.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_6__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000007.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_7__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000008.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_8__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000009.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_9__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000010.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_10__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000011.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_11__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000012.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_12__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000013.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_13__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000014.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_14__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000015.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_15__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000016.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_16__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000017.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_17__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000018.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_18__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000019.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_19__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000020.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_20__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000021.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_21__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000022.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_22__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000023.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_23__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000024.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_24__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000025.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_25__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000026.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_26__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000027.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_27__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000028.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_28__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000029.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_29__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000030.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_30__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000031.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_31__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000032.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_32__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000033.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_33__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000034.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_34__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000035.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_35__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000036.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_36__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000037.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_37__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000038.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_38__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000039.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_39__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000040.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_40__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000041.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_41__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000042.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_43__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000043.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_44__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000044.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_45__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000045.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_46__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000046.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_47__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000047.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_48__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000048.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_49__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000049.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_50__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000050.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_51__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000051.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_52__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000052.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_53__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000053.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_54__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000054.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_55__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000055.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_56__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000056.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_57__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000057.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_58__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000058.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_59__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000059.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_60__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000060.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_61__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000061.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_62__whole_genome_shotgun_sequence]
+	Loaded [Psychroserpens_sp._PAMC_27130_NZ_JSWG01000062.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_63__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 62
+	Total Region Length: 3633537
+Analyzing contigs...
+CONTIG: k105_153910_flag_1_multi_2.0000_len_745 (745bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 667
+		This contig is partially unaligned. (Aligned 78 out of 745 bases)
+		Alignment: 55355 55432 | 17 94 | 78 78 | 100.0 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000003.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_3__whole_genome_shotgun_sequence k105_153910_flag_1_multi_2.0000_len_745
+		Unaligned bases: 1 to 16 (16)
+		Unaligned bases: 95 to 745 (651)
+
+CONTIG: k105_327150_flag_0_multi_12.0000_len_1436 (1436bp)
+Best alignment score: 77.0 (LEN: 79, IDY: 97.47)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 221409 221484 | 1311 1386 | 76 76 | 97.37 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000001.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_1__whole_genome_shotgun_sequence k105_327150_flag_0_multi_12.0000_len_1436
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 1357
+		This contig is partially unaligned. (Aligned 79 out of 1436 bases)
+		Alignment: 13849 13927 | 1388 1310 | 79 79 | 97.47 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000007.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_7__whole_genome_shotgun_sequence k105_327150_flag_0_multi_12.0000_len_1436
+		Unaligned bases: 1 to 1309 (1309)
+		Unaligned bases: 1389 to 1436 (48)
+
+CONTIG: k105_12217_flag_1_multi_8.0000_len_654 (654bp)
+Best alignment score: 629.0 (LEN: 654, IDY: 96.18)
+		One align captures most of this contig: 549 1201 | 1 654 | 653 654 | 96.18 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000023.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_23__whole_genome_shotgun_sequence k105_12217_flag_1_multi_8.0000_len_654
+
+CONTIG: k105_14752_flag_1_multi_4.0000_len_807 (807bp)
+Best alignment score: 322.0 (LEN: 329, IDY: 97.87)
+			The best set is below. Score: 322.0, number of alignments: 1, unaligned bases: 478
+		Alignment: 235 563 | 329 1 | 329 329 | 97.87 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000023.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_23__whole_genome_shotgun_sequence k105_14752_flag_1_multi_4.0000_len_807
+
+CONTIG: k105_234990_flag_1_multi_12.9058_len_901 (901bp)
+Best alignment score: 343.1 (LEN: 359, IDY: 95.56)
+			The best set is below. Score: 343.1, number of alignments: 1, unaligned bases: 542
+		This contig is partially unaligned. (Aligned 359 out of 901 bases)
+		Alignment: 1121 1480 | 1 359 | 360 359 | 95.56 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000023.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_23__whole_genome_shotgun_sequence k105_234990_flag_1_multi_12.9058_len_901
+		Unaligned bases: 360 to 901 (542)
+
+CONTIG: k105_9411_flag_1_multi_14.1532_len_12566 (12566bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 12491
+		This contig is partially unaligned. (Aligned 75 out of 12566 bases)
+		Alignment: 18334 18408 | 1797 1723 | 75 75 | 100.0 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000008.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_8__whole_genome_shotgun_sequence k105_9411_flag_1_multi_14.1532_len_12566
+		Unaligned bases: 1 to 1722 (1722)
+		Unaligned bases: 1798 to 12566 (10769)
+
+CONTIG: k105_128378_flag_1_multi_4.0000_len_1315 (1315bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 1239
+		This contig is partially unaligned. (Aligned 76 out of 1315 bases)
+		Alignment: 18333 18408 | 402 477 | 76 76 | 100.0 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000008.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_8__whole_genome_shotgun_sequence k105_128378_flag_1_multi_4.0000_len_1315
+		Unaligned bases: 1 to 401 (401)
+		Unaligned bases: 478 to 1315 (838)
+
+CONTIG: k105_135160_flag_1_multi_2.8240_len_889 (889bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 814
+		This contig is partially unaligned. (Aligned 75 out of 889 bases)
+		Alignment: 18334 18408 | 119 45 | 75 75 | 100.0 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000008.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_8__whole_genome_shotgun_sequence k105_135160_flag_1_multi_2.8240_len_889
+		Unaligned bases: 1 to 44 (44)
+		Unaligned bases: 120 to 889 (770)
+
+CONTIG: k105_227429_flag_1_multi_7.0000_len_16895 (16895bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 55356 55430 | 7256 7182 | 75 75 | 100.0 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000003.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_3__whole_genome_shotgun_sequence k105_227429_flag_1_multi_7.0000_len_16895
+		Skipping redundant alignment 18333 18408 | 11208 11133 | 76 76 | 100.0 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000008.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_8__whole_genome_shotgun_sequence k105_227429_flag_1_multi_7.0000_len_16895
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 16819
+		This contig is partially unaligned. (Aligned 76 out of 16895 bases)
+		Alignment: 20113 20188 | 7257 7182 | 76 76 | 100.0 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000008.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_8__whole_genome_shotgun_sequence k105_227429_flag_1_multi_7.0000_len_16895
+		Unaligned bases: 1 to 7181 (7181)
+		Unaligned bases: 7258 to 16895 (9638)
+
+CONTIG: k105_297835_flag_1_multi_5.0000_len_687 (687bp)
+Best alignment score: 80.0 (LEN: 80, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 55356 55434 | 154 232 | 79 79 | 100.0 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000003.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_3__whole_genome_shotgun_sequence k105_297835_flag_1_multi_5.0000_len_687
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 607
+		Alignment: 20113 20192 | 153 232 | 80 80 | 100.0 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000008.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_8__whole_genome_shotgun_sequence k105_297835_flag_1_multi_5.0000_len_687
+
+Analyzing coverage...
+Writing SNPs into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Psychroserpens_sp._PAMC_27130/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000060.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_61__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000006.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_6__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000055.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_56__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000047.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_48__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000034.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_34__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000057.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_58__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000011.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_11__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000062.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_63__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000041.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_41__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000003.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_3__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 62429 (62429 bp)
+			START in gap: 1 to 55355 (55354 bp)
+			Align 1: 55355 55432 k105_153910_flag_1_multi_2.0000_len_745 17 94
+			END in gap: 55432 to 62429 (6997 bp).
+
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000042.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_43__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000061.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_62__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000031.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_31__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000013.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_13__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000009.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_9__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000045.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_46__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000019.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_19__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000050.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_51__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000017.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_17__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000014.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_14__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000038.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_38__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000023.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_23__whole_genome_shotgun_sequence: 3 total alignments. 1 total regions.
+		Region: 1 to 5588 (5588 bp)
+			START in gap: 1 to 235 (234 bp)
+			Align 1: 235 563 k105_14752_flag_1_multi_4.0000_len_807 329 1
+				Negative gap (overlap) between this and next alignment: 563 to 549 (-14 bp)
+				Next Alignment: 549 1201 k105_12217_flag_1_multi_8.0000_len_654 1 654
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 16.
+			Align 2: 564 1201 k105_12217_flag_1_multi_8.0000_len_654 16 654
+				Negative gap (overlap) between this and next alignment: 1201 to 1121 (-80 bp)
+				Next Alignment: 1121 1480 k105_234990_flag_1_multi_12.9058_len_901 1 359
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 82.
+			Align 3: 1202 1480 k105_234990_flag_1_multi_12.9058_len_901 82 359
+			END in gap: 1480 to 5588 (4108 bp).
+
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000054.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_55__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000004.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_4__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000022.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_22__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000044.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_45__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000027.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_27__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000028.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_28__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000040.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_40__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000033.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_33__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000001.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_1__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000029.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_29__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000043.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_44__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000018.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_18__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000024.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_24__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000021.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_21__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000035.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_35__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000032.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_32__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000025.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_25__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000058.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_59__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000056.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_57__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000036.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_36__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000059.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_60__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000053.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_54__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000039.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_39__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000008.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_8__whole_genome_shotgun_sequence: 5 total alignments. 1 total regions.
+		Region: 1 to 280180 (280180 bp)
+			START in gap: 1 to 18333 (18332 bp)
+			Align 1: 18333 18408 k105_128378_flag_1_multi_4.0000_len_1315 402 477
+				The next alignment (18334 18408 k105_9411_flag_1_multi_14.1532_len_12566 1797 1723) is redundant. Skipping.
+				The next alignment (18334 18408 k105_135160_flag_1_multi_2.8240_len_889 119 45) is redundant. Skipping.
+				Gap between this and next alignment: 18408 to 20113 (1704 bp)
+				Next Alignment: 20113 20188 k105_227429_flag_1_multi_7.0000_len_16895 7257 7182
+
+			Align 4: 20113 20188 k105_227429_flag_1_multi_7.0000_len_16895 7257 7182
+				Negative gap (overlap) between this and next alignment: 20188 to 20113 (-75 bp)
+				Next Alignment: 20113 20192 k105_297835_flag_1_multi_5.0000_len_687 153 232
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 153 to 229.
+			Align 5: 20189 20192 k105_297835_flag_1_multi_5.0000_len_687 229 232
+			END in gap: 20192 to 280180 (259988 bp).
+
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000030.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_30__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000026.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_26__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000051.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_52__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000052.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_53__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000048.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_49__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000049.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_50__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000016.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_16__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000007.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_7__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 99851 (99851 bp)
+			START in gap: 1 to 13849 (13848 bp)
+			Align 1: 13849 13927 k105_327150_flag_0_multi_12.0000_len_1436 1388 1310
+			END in gap: 13927 to 99851 (85924 bp).
+
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000020.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_20__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000012.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_12__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000010.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_10__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000005.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_5__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000002.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000037.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_37__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000046.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_47__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Psychroserpens_sp._PAMC_27130_NZ_JSWG01000015.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_15__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Psychroserpens_sp._PAMC_27130/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 7 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 33929
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 16895
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1559
+
+	SNPs: 47
+	Insertions: 1
+	Deletions: 1
+
+	Positive Gaps: 9
+		Internal Gaps: 0
+		External Gaps: 9
+		External Gap Total: 446489
+		External Gap Average: 49610
+	Negative Gaps: 3
+		Internal Overlaps: 0
+		External Overlaps: 3
+		External Overlaps Total: -169
+		External Overlaps Average: -56
+	Contigs with Redundant Alignments: 1 (150)

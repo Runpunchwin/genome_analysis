@@ -1,0 +1,63 @@
+reference chromosomes:
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000008.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 227034 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000033.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 12658 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000035.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 11603 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000036.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 9876 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000041.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 2393 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000013.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 149320 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000012.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 149926 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000011.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 192533 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000010.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 210430 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000037.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 9540 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000016.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 518 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000025.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 75373 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000049.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 489 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000006.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 257581 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000030.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 35764 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000046.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 834 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000004.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 303684 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000022.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 81427 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000007.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 235063 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000018.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 133894 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000023.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 60331 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000021.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 104635 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000044.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 1161 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000042.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 1367 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000043.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 513 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000031.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 20337 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000040.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 3858 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000029.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 46918 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000026.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 68196 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000001.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 595945 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000002.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 377532 bp, maximal covered length: 79 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000039.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 3897 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000047.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 714 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000048.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 646 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000003.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 319087 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000028.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 57322 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000005.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 276040 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000027.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 58019 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000015.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 80196 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000009.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 222831 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000019.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 115496 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000034.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 12133 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000050.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 517 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000020.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 110357 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000017.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 58218 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000014.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 7582 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 5289 bp, maximal covered length: 2806 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000045.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 914 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000024.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 16249 bp, maximal covered length: 0 bp)
+	Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000032.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence (total length: 19299 bp, maximal covered length: 0 bp)
+
+total genome size: 4745539
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Vibrio_ | 0.06079%  | 1.05615     | 54        | -         | -         | -         | -         |

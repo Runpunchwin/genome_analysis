@@ -1,0 +1,164 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 3464554
+Analyzing contigs...
+CONTIG: k105_2398_flag_1_multi_8.8677_len_20021 (20021bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 19945
+		This contig is partially unaligned. (Aligned 76 out of 20021 bases)
+		Alignment: 2031887 2031962 | 17349 17274 | 76 76 | 100.0 | Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_2398_flag_1_multi_8.8677_len_20021
+		Unaligned bases: 1 to 17273 (17273)
+		Unaligned bases: 17350 to 20021 (2672)
+
+CONTIG: k105_6249_flag_1_multi_3.0000_len_647 (647bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 569
+		Alignment: 2031885 2031962 | 83 160 | 78 78 | 100.0 | Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_6249_flag_1_multi_3.0000_len_647
+
+CONTIG: k105_15477_flag_1_multi_3.8685_len_2553 (2553bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 2477
+		This contig is partially unaligned. (Aligned 76 out of 2553 bases)
+		Alignment: 2031887 2031962 | 1799 1724 | 76 76 | 100.0 | Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_15477_flag_1_multi_3.8685_len_2553
+		Unaligned bases: 1 to 1723 (1723)
+		Unaligned bases: 1800 to 2553 (754)
+
+CONTIG: k105_32188_flag_1_multi_1.8959_len_1066 (1066bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 987
+		This contig is partially unaligned. (Aligned 79 out of 1066 bases)
+		Alignment: 1081561 1081639 | 932 1010 | 79 79 | 100.0 | Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_32188_flag_1_multi_1.8959_len_1066
+		Unaligned bases: 1 to 931 (931)
+		Unaligned bases: 1011 to 1066 (56)
+
+CONTIG: k105_104061_flag_1_multi_3.9738_len_5253 (5253bp)
+Best alignment score: 86.0 (LEN: 88, IDY: 97.73)
+			The best set is below. Score: 86.0, number of alignments: 1, unaligned bases: 5165
+		This contig is partially unaligned. (Aligned 88 out of 5253 bases)
+		Alignment: 976257 976344 | 4123 4036 | 88 88 | 97.73 | Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_104061_flag_1_multi_3.9738_len_5253
+		Unaligned bases: 1 to 4035 (4035)
+		Unaligned bases: 4124 to 5253 (1130)
+
+CONTIG: k105_125488_flag_1_multi_3.0000_len_653 (653bp)
+Best alignment score: 83.1 (LEN: 87, IDY: 95.51)
+			The best set is below. Score: 83.1, number of alignments: 1, unaligned bases: 566
+		Alignment: 2548658 2548744 | 220 134 | 87 87 | 95.51 | Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_125488_flag_1_multi_3.0000_len_653
+
+CONTIG: k105_149250_flag_1_multi_4.0000_len_8350 (8350bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 8272
+		This contig is partially unaligned. (Aligned 78 out of 8350 bases)
+		Alignment: 1015538 1015615 | 15 92 | 78 78 | 100.0 | Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_149250_flag_1_multi_4.0000_len_8350
+		Unaligned bases: 1 to 14 (14)
+		Unaligned bases: 93 to 8350 (8258)
+
+CONTIG: k105_189050_flag_0_multi_9.9975_len_36707 (36707bp)
+Best alignment score: 88.0 (LEN: 89, IDY: 98.88)
+			The best set is below. Score: 88.0, number of alignments: 1, unaligned bases: 36618
+		This contig is partially unaligned. (Aligned 89 out of 36707 bases)
+		Alignment: 976256 976344 | 17104 17016 | 89 89 | 98.88 | Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_189050_flag_0_multi_9.9975_len_36707
+		Unaligned bases: 1 to 17015 (17015)
+		Unaligned bases: 17105 to 36707 (19603)
+
+CONTIG: k105_262940_flag_1_multi_6.3724_len_37300 (37300bp)
+Best alignment score: 87.0 (LEN: 88, IDY: 98.86)
+			The best set is below. Score: 87.0, number of alignments: 1, unaligned bases: 37212
+		This contig is partially unaligned. (Aligned 88 out of 37300 bases)
+		Alignment: 976257 976344 | 5193 5106 | 88 88 | 98.86 | Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_262940_flag_1_multi_6.3724_len_37300
+		Unaligned bases: 1 to 5105 (5105)
+		Unaligned bases: 5194 to 37300 (32107)
+
+CONTIG: k105_291056_flag_1_multi_3.1912_len_513 (513bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 436
+		Alignment: 2548091 2548167 | 140 216 | 77 77 | 100.0 | Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_291056_flag_1_multi_3.1912_len_513
+
+CONTIG: k105_298862_flag_1_multi_4.0000_len_1789 (1789bp)
+Best alignment score: 74.0 (LEN: 74, IDY: 100.00)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 1715
+		This contig is partially unaligned. (Aligned 74 out of 1789 bases)
+		Alignment: 2928129 2928202 | 1256 1183 | 74 74 | 100.0 | Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_298862_flag_1_multi_4.0000_len_1789
+		Unaligned bases: 1 to 1182 (1182)
+		Unaligned bases: 1257 to 1789 (533)
+
+Analyzing coverage...
+Writing SNPs into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Thioalkalivibrio_sulfidiphilus_HL-EbGr7/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence: 11 total alignments. 1 total regions.
+		Region: 1 to 3464554 (3464554 bp)
+			START in gap: 1 to 976256 (976255 bp)
+			Align 1: 976256 976344 k105_189050_flag_0_multi_9.9975_len_36707 17104 17016
+				The next alignment (976257 976344 k105_104061_flag_1_multi_3.9738_len_5253 4123 4036) is redundant. Skipping.
+				The next alignment (976257 976344 k105_262940_flag_1_multi_6.3724_len_37300 5193 5106) is redundant. Skipping.
+				Gap between this and next alignment: 976344 to 1015538 (39193 bp)
+				Next Alignment: 1015538 1015615 k105_149250_flag_1_multi_4.0000_len_8350 15 92
+
+			Align 4: 1015538 1015615 k105_149250_flag_1_multi_4.0000_len_8350 15 92
+				Gap between this and next alignment: 1015615 to 1081561 (65945 bp)
+				Next Alignment: 1081561 1081639 k105_32188_flag_1_multi_1.8959_len_1066 932 1010
+
+			Align 5: 1081561 1081639 k105_32188_flag_1_multi_1.8959_len_1066 932 1010
+				Gap between this and next alignment: 1081639 to 2031885 (950245 bp)
+				Next Alignment: 2031885 2031962 k105_6249_flag_1_multi_3.0000_len_647 83 160
+
+			Align 6: 2031885 2031962 k105_6249_flag_1_multi_3.0000_len_647 83 160
+				The next alignment (2031887 2031962 k105_2398_flag_1_multi_8.8677_len_20021 17349 17274) is redundant. Skipping.
+				The next alignment (2031887 2031962 k105_15477_flag_1_multi_3.8685_len_2553 1799 1724) is redundant. Skipping.
+				Gap between this and next alignment: 2031962 to 2548091 (516128 bp)
+				Next Alignment: 2548091 2548167 k105_291056_flag_1_multi_3.1912_len_513 140 216
+
+			Align 9: 2548091 2548167 k105_291056_flag_1_multi_3.1912_len_513 140 216
+				Gap between this and next alignment: 2548167 to 2548658 (490 bp)
+				Next Alignment: 2548658 2548744 k105_125488_flag_1_multi_3.0000_len_653 220 134
+
+			Align 10: 2548658 2548744 k105_125488_flag_1_multi_3.0000_len_653 220 134
+				Gap between this and next alignment: 2548744 to 2928129 (379384 bp)
+				Next Alignment: 2928129 2928202 k105_298862_flag_1_multi_4.0000_len_1789 1256 1183
+
+			Align 11: 2928129 2928202 k105_298862_flag_1_multi_4.0000_len_1789 1256 1183
+			END in gap: 2928202 to 3464554 (536352 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Thioalkalivibrio_sulfidiphilus_HL-EbGr7/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 8 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 112391
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 562
+
+	SNPs: 1
+	Insertions: 2
+	Deletions: 2
+
+	Positive Gaps: 8
+		Internal Gaps: 0
+		External Gaps: 8
+		External Gap Total: 3463992
+		External Gap Average: 432999
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 2 (328)

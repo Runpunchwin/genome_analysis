@@ -1,0 +1,8 @@
+/home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/Syntrophus_aciditrophicus.fasta /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/final-contigs_to_Syntrophus_aciditrophicus.fasta
+NUCMER
+>Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence k105_157586_flag_1_multi_5.8560_len_1480 3179300 1480
+739341 739436 1 96 4 4 0
+0
+>Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence k105_48746_flag_0_multi_8.0000_len_2234 3179300 2234
+739807 739881 823 897 0 0 0
+0

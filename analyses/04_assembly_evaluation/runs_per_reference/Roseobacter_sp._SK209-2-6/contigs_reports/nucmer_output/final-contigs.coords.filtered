@@ -1,0 +1,22 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+197020 197098 | 651 573 | 79 79 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000003.1_Roseobacter_sp._SK209-2-6_1101232001811__whole_genome_shotgun_sequence k105_72686_flag_1_multi_2.0000_len_882
+132808 132887 | 794 715 | 80 80 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000003.1_Roseobacter_sp._SK209-2-6_1101232001811__whole_genome_shotgun_sequence k105_201413_flag_1_multi_1.9561_len_1835
+169044 169124 | 1385 1305 | 81 81 | 98.77 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000007.1_Roseobacter_sp._SK209-2-6_1101232001821__whole_genome_shotgun_sequence k105_160409_flag_1_multi_2.0000_len_1458
+169043 169125 | 289 206 | 83 84 | 98.81 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000007.1_Roseobacter_sp._SK209-2-6_1101232001821__whole_genome_shotgun_sequence k105_258868_flag_1_multi_3.0000_len_637
+217819 217905 | 569 655 | 87 87 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000007.1_Roseobacter_sp._SK209-2-6_1101232001821__whole_genome_shotgun_sequence k105_284983_flag_1_multi_1.9167_len_1125
+173135 173210 | 491 566 | 76 76 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence k105_3224_flag_1_multi_2.7809_len_607
+174543 174895 | 4 356 | 353 353 | 95.77 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence k105_150067_flag_1_multi_4.0000_len_1261
+208005 208082 | 387 464 | 78 78 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence k105_157586_flag_1_multi_5.8560_len_1480
+173947 174030 | 1 84 | 84 84 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence k105_189479_flag_1_multi_1.8805_len_515
+173034 173111 | 1152 1229 | 78 78 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence k105_195025_flag_1_multi_17.9877_len_1566
+210504 210582 | 453 531 | 79 79 | 97.47 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence k105_198353_flag_1_multi_3.0000_len_531
+211220 211511 | 1 292 | 292 292 | 95.21 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence k105_217412_flag_1_multi_6.5939_len_627
+174366 174896 | 1 531 | 531 531 | 95.12 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence k105_265057_flag_0_multi_14.9955_len_1440
+210522 211163 | 1 642 | 642 642 | 97.82 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence k105_296573_flag_1_multi_47.2849_len_642
+247281 247358 | 920 843 | 78 78 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence k105_300581_flag_1_multi_3.0000_len_1033
+86276 86374 | 119 19 | 99 101 | 96.04 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence k105_145877_flag_1_multi_2.6691_len_522
+86276 86371 | 2755 2660 | 96 96 | 95.83 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence k105_193576_flag_1_multi_4.0000_len_2884
+290685 290770 | 565 480 | 86 86 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000002.1_Roseobacter_sp._SK209-2-6_1101232001820__whole_genome_shotgun_sequence k105_177918_flag_1_multi_1.8104_len_622
+278525 278623 | 580 678 | 99 99 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000002.1_Roseobacter_sp._SK209-2-6_1101232001820__whole_genome_shotgun_sequence k105_202758_flag_1_multi_2.0000_len_764
+24375 24485 | 300 190 | 111 111 | 95.5 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000002.1_Roseobacter_sp._SK209-2-6_1101232001820__whole_genome_shotgun_sequence k105_325911_flag_1_multi_1.0000_len_655

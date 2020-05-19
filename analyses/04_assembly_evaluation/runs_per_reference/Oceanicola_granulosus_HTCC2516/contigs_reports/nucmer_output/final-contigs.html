@@ -1,0 +1,634 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Gnuplot Canvas Graph</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<!--[if IE]><script type="text/javascript" src="excanvas.js"></script><![endif]-->
+<script src="canvastext.js"></script>
+<script src="gnuplot_common.js"></script>
+<script src="gnuplot_dashedlines.js"></script>
+<script type="text/javascript">gnuplot.init = function() {};</script>
+<script type="text/javascript">
+var canvas, ctx;
+gnuplot.grid_lines = true;
+gnuplot.zoomed = false;
+gnuplot.active_plot_name = "gnuplot_canvas";
+
+function gnuplot_canvas() {
+canvas = document.getElementById("gnuplot_canvas");
+ctx = canvas.getContext("2d");
+// Gnuplot version 5.0.5
+// short forms of commands provided by gnuplot_common.js
+function DT  (dt)  {gnuplot.dashtype(dt);};
+function DS  (x,y) {gnuplot.dashstart(x,y);};
+function DL  (x,y) {gnuplot.dashstep(x,y);};
+function M   (x,y) {if (gnuplot.pattern.length > 0) DS(x,y); else gnuplot.M(x,y);};
+function L   (x,y) {if (gnuplot.pattern.length > 0) DL(x,y); else gnuplot.L(x,y);};
+function Dot (x,y) {gnuplot.Dot(x/10.,y/10.);};
+function Pt  (N,x,y,w) {gnuplot.Pt(N,x/10.,y/10.,w/10.);};
+function R   (x,y,w,h) {gnuplot.R(x,y,w,h);};
+function T   (x,y,fontsize,justify,string) {gnuplot.T(x,y,fontsize,justify,string);};
+function TR  (x,y,angle,fontsize,justify,string) {gnuplot.TR(x,y,angle,fontsize,justify,string);};
+function bp  (x,y) {gnuplot.bp(x,y);};
+function cfp () {gnuplot.cfp();};
+function cfsp() {gnuplot.cfsp();};
+
+gnuplot.hypertext_list = [];
+gnuplot.on_hypertext = -1;
+function Hypertext(x,y,w,text) {
+    newtext = {x:x, y:y, w:w, text:text};
+    gnuplot.hypertext_list.push(newtext);
+}
+gnuplot.dashlength = 400;
+ctx.lineCap = "round"; ctx.lineJoin = "round";
+CanvasTextFunctions.enable(ctx);
+ctx.strokeStyle = "rgb(215,215,215)";
+ctx.lineWidth = 1;
+
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(700,3220);
+L(4939,3220);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(700,3220);
+M(4939,3220);
+ctx.stroke();
+ctx.closePath();
+ctx.fillStyle = "rgb(000,000,000)";
+T(620,3270,10.0,"Right","0");
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(700,2720);
+L(4939,2720);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(700,2720);
+M(4939,2720);
+ctx.stroke();
+ctx.closePath();
+T(620,2770,10.0,"Right","3000");
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(700,2221);
+L(4939,2221);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(700,2221);
+M(4939,2221);
+ctx.stroke();
+ctx.closePath();
+T(620,2271,10.0,"Right","6000");
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(700,1721);
+L(4939,1721);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(700,1721);
+M(4939,1721);
+ctx.stroke();
+ctx.closePath();
+T(620,1771,10.0,"Right","9000");
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(700,1221);
+L(4939,1221);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(700,1221);
+M(4939,1221);
+ctx.stroke();
+ctx.closePath();
+T(620,1271,10.0,"Right","12000");
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(700,722);
+L(4939,722);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(700,722);
+M(4939,722);
+ctx.stroke();
+ctx.closePath();
+T(620,772,10.0,"Right","15000");
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(700,222);
+L(4939,222);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(700,222);
+M(4939,222);
+ctx.stroke();
+ctx.closePath();
+T(620,272,10.0,"Right","18000");
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(700,161);
+L(4939,161);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(700,161);
+M(4939,161);
+ctx.stroke();
+ctx.closePath();
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(700,3220);
+L(700,161);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(700,3220);
+M(700,161);
+ctx.stroke();
+ctx.closePath();
+TR(700,3350,270,10.0,"Right","0");
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(1223,3220);
+L(1223,161);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(1223,3220);
+M(1223,161);
+ctx.stroke();
+ctx.closePath();
+TR(1223,3350,270,10.0,"Right","500000");
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(1746,3220);
+L(1746,161);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(1746,3220);
+M(1746,161);
+ctx.stroke();
+ctx.closePath();
+TR(1746,3350,270,10.0,"Right","1000000");
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(2269,3220);
+L(2269,161);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(2269,3220);
+M(2269,161);
+ctx.stroke();
+ctx.closePath();
+TR(2269,3350,270,10.0,"Right","1500000");
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(2792,3220);
+L(2792,161);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(2792,3220);
+M(2792,161);
+ctx.stroke();
+ctx.closePath();
+TR(2792,3350,270,10.0,"Right","2000000");
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(3315,3220);
+L(3315,161);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(3315,3220);
+M(3315,161);
+ctx.stroke();
+ctx.closePath();
+TR(3315,3350,270,10.0,"Right","2500000");
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(3838,3220);
+L(3838,161);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(3838,3220);
+M(3838,161);
+ctx.stroke();
+ctx.closePath();
+TR(3838,3350,270,10.0,"Right","3000000");
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(4360,3220);
+L(4360,161);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(4360,3220);
+M(4360,161);
+ctx.stroke();
+ctx.closePath();
+TR(4360,3350,270,10.0,"Right","3500000");
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(4883,3220);
+L(4883,161);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(4883,3220);
+M(4883,161);
+ctx.stroke();
+ctx.closePath();
+TR(4883,3350,270,10.0,"Right","4000000");
+if (gnuplot.grid_lines) {
+var saveWidth = ctx.lineWidth;
+ctx.lineWidth = ctx.lineWidth * 0.5;
+ctx.lineWidth = 0.5;
+ctx.strokeStyle = "rgb(160,160,160)";
+ctx.beginPath();
+M(4939,3220);
+L(4939,161);
+ctx.stroke();
+ctx.closePath();
+ctx.lineWidth = 1;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.lineWidth = saveWidth;
+} // grid_lines
+ctx.beginPath();
+M(4939,3220);
+M(4939,161);
+ctx.stroke();
+ctx.closePath();
+TR(90,1741,270,10.0,"Center","Assembly");
+T(2819,3980,10.0,"Center","Reference");
+if (typeof(gnuplot.hide_gp_plot_1) == "undefined"|| !gnuplot.hide_gp_plot_1) {
+ctx.lineWidth = 3;
+ctx.strokeStyle = "rgb(255,000,000)";
+ctx.strokeStyle = "rgb(000,000,000)";
+T(5339,3083,10.0,"Right","FWD");
+ctx.strokeStyle = "rgb(255,000,000)";
+ctx.beginPath();
+M(5419,3033);
+L(5839,3033);
+M(705,932);
+L(705,915);
+M(3417,932);
+L(3417,915);
+M(4187,932);
+L(4187,915);
+M(4193,932);
+L(4193,915);
+M(705,915);
+L(706,872);
+M(3417,915);
+L(3418,872);
+M(4188,915);
+L(4188,872);
+M(4194,915);
+L(4194,872);
+M(705,2686);
+L(705,2669);
+M(3417,2686);
+L(3417,2669);
+M(4187,2686);
+L(4187,2669);
+M(4193,2686);
+L(4193,2669);
+M(4098,2073);
+L(4098,2059);
+M(703,1221);
+L(703,1206);
+M(3415,1221);
+L(3415,1206);
+M(4185,1221);
+L(4185,1206);
+M(4191,1221);
+L(4191,1206);
+M(4176,1933);
+L(4176,1921);
+M(701,1301);
+L(701,1287);
+M(3413,1301);
+L(3413,1287);
+M(4184,1301);
+L(4184,1287);
+M(4190,1301);
+L(4190,1287);
+M(702,3164);
+L(702,3151);
+M(3414,3164);
+L(3414,3151);
+M(4185,3164);
+L(4185,3151);
+M(4191,3164);
+L(4191,3151);
+M(4394,707);
+L(4394,693);
+M(705,1385);
+L(705,1373);
+M(3417,1385);
+L(3417,1373);
+M(4187,1385);
+L(4187,1373);
+M(4193,1385);
+L(4193,1373);
+M(3261,2921);
+L(3261,2908);
+M(706,2417);
+L(706,2403);
+M(3418,2417);
+L(3418,2403);
+M(4188,2417);
+L(4188,2403);
+M(4194,2417);
+L(4194,2403);
+ctx.stroke();
+ctx.closePath();
+ctx.fillStyle = "rgb(255,000,000)";
+Pt(6,705,932,30.0);
+Pt(6,705,915,30.0);
+Pt(6,3417,932,30.0);
+Pt(6,3417,915,30.0);
+Pt(6,4187,932,30.0);
+Pt(6,4187,915,30.0);
+Pt(6,4193,932,30.0);
+Pt(6,4193,915,30.0);
+Pt(6,705,915,30.0);
+Pt(6,706,872,30.0);
+Pt(6,3417,915,30.0);
+Pt(6,3418,872,30.0);
+Pt(6,4188,915,30.0);
+Pt(6,4188,872,30.0);
+Pt(6,4194,915,30.0);
+Pt(6,4194,872,30.0);
+Pt(6,705,2686,30.0);
+Pt(6,705,2669,30.0);
+Pt(6,3417,2686,30.0);
+Pt(6,3417,2669,30.0);
+Pt(6,4187,2686,30.0);
+Pt(6,4187,2669,30.0);
+Pt(6,4193,2686,30.0);
+Pt(6,4193,2669,30.0);
+Pt(6,4098,2073,30.0);
+Pt(6,4098,2059,30.0);
+Pt(6,703,1221,30.0);
+Pt(6,703,1206,30.0);
+Pt(6,3415,1221,30.0);
+Pt(6,3415,1206,30.0);
+Pt(6,4185,1221,30.0);
+Pt(6,4185,1206,30.0);
+Pt(6,4191,1221,30.0);
+Pt(6,4191,1206,30.0);
+Pt(6,4176,1933,30.0);
+Pt(6,4176,1921,30.0);
+Pt(6,701,1301,30.0);
+Pt(6,701,1287,30.0);
+Pt(6,3413,1301,30.0);
+Pt(6,3413,1287,30.0);
+Pt(6,4184,1301,30.0);
+Pt(6,4184,1287,30.0);
+Pt(6,4190,1301,30.0);
+Pt(6,4190,1287,30.0);
+Pt(6,702,3164,30.0);
+Pt(6,702,3151,30.0);
+Pt(6,3414,3164,30.0);
+Pt(6,3414,3151,30.0);
+Pt(6,4185,3164,30.0);
+Pt(6,4185,3151,30.0);
+Pt(6,4191,3164,30.0);
+Pt(6,4191,3151,30.0);
+Pt(6,4394,707,30.0);
+Pt(6,4394,693,30.0);
+Pt(6,705,1385,30.0);
+Pt(6,705,1373,30.0);
+Pt(6,3417,1385,30.0);
+Pt(6,3417,1373,30.0);
+Pt(6,4187,1385,30.0);
+Pt(6,4187,1373,30.0);
+Pt(6,4193,1385,30.0);
+Pt(6,4193,1373,30.0);
+Pt(6,3261,2921,30.0);
+Pt(6,3261,2908,30.0);
+Pt(6,706,2417,30.0);
+Pt(6,706,2403,30.0);
+Pt(6,3418,2417,30.0);
+Pt(6,3418,2403,30.0);
+Pt(6,4188,2417,30.0);
+Pt(6,4188,2403,30.0);
+Pt(6,4194,2417,30.0);
+Pt(6,4194,2403,30.0);
+Pt(6,5629,3033,30.0);
+} // End gp_plot_1 
+if (typeof(gnuplot.hide_gp_plot_2) == "undefined"|| !gnuplot.hide_gp_plot_2) {
+ctx.lineWidth = 3;
+ctx.strokeStyle = "rgb(000,000,000)";
+DT(gnuplot.solid);
+ctx.strokeStyle = "rgb(000,000,255)";
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.fillStyle = "rgb(000,000,000)";
+T(5339,3208,10.0,"Right","REV");
+ctx.strokeStyle = "rgb(000,000,255)";
+ctx.beginPath();
+M(5419,3158);
+L(5839,3158);
+M(4098,459);
+L(4098,472);
+ctx.stroke();
+ctx.closePath();
+ctx.fillStyle = "rgb(000,000,255)";
+Pt(6,4098,459,30.0);
+Pt(6,4098,472,30.0);
+Pt(6,5629,3158,30.0);
+} // End gp_plot_2 
+ctx.lineWidth = 2;
+ctx.strokeStyle = "rgb(000,000,000)";
+DT(gnuplot.solid);
+ctx.lineWidth = 1;
+
+// plot boundaries and axis scaling information for mousing 
+gnuplot.plot_term_xmax = 600;
+gnuplot.plot_term_ymax = 400;
+gnuplot.plot_xmin = 70.0;
+gnuplot.plot_xmax = 493.9;
+gnuplot.plot_ybot = 322.0;
+gnuplot.plot_ytop = 16.1;
+gnuplot.plot_width = 423.9;
+gnuplot.plot_height = 305.9;
+gnuplot.plot_axis_xmin = 1;
+gnuplot.plot_axis_xmax = 4.05314e+06;
+gnuplot.plot_axis_ymin = 1;
+gnuplot.plot_axis_ymax = 18367;
+gnuplot.plot_axis_x2min = "none"
+gnuplot.plot_axis_y2min = "none"
+gnuplot.plot_logaxis_x = 0;
+gnuplot.plot_logaxis_y = 0;
+gnuplot.plot_axis_width = gnuplot.plot_axis_xmax - gnuplot.plot_axis_xmin;
+gnuplot.plot_axis_height = gnuplot.plot_axis_ymax - gnuplot.plot_axis_ymin;
+gnuplot.plot_timeaxis_x = "";
+gnuplot.plot_timeaxis_y = "";
+}
+</script>
+<link type="text/css" href="gnuplot_mouse.css" rel="stylesheet">
+</head>
+<body onload="gnuplot_canvas(); gnuplot.init();" oncontextmenu="return false;">
+
+<div class="gnuplot">
+<canvas id="Tile" width="32" height="32" hidden></canvas>
+<table class="plot">
+<tr><td>
+    <canvas id="gnuplot_canvas" width="600" height="400" tabindex="0">
+	Sorry, your browser seems not to support the HTML 5 canvas element
+    </canvas>
+</td></tr>
+</table>
+</div>
+
+</body>
+</html>

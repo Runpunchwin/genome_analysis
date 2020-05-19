@@ -1,0 +1,41 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+197020	197098	651	573	Roseobacter_sp._SK209-2-6_NZ_AAYC01000003.1_Roseobacter_sp._SK209-2-6_1101232001811__whole_genome_shotgun_sequence	k105_72686_flag_1_multi_2.0000_len_882	100.0		True
+CONTIG	k105_72686_flag_1_multi_2.0000_len_882	882	correct_unaligned
+132808	132887	794	715	Roseobacter_sp._SK209-2-6_NZ_AAYC01000003.1_Roseobacter_sp._SK209-2-6_1101232001811__whole_genome_shotgun_sequence	k105_201413_flag_1_multi_1.9561_len_1835	100.0		True
+CONTIG	k105_201413_flag_1_multi_1.9561_len_1835	1835	correct_unaligned
+169044	169124	1385	1305	Roseobacter_sp._SK209-2-6_NZ_AAYC01000007.1_Roseobacter_sp._SK209-2-6_1101232001821__whole_genome_shotgun_sequence	k105_160409_flag_1_multi_2.0000_len_1458	98.77		True
+CONTIG	k105_160409_flag_1_multi_2.0000_len_1458	1458	correct_unaligned
+169043	169125	289	206	Roseobacter_sp._SK209-2-6_NZ_AAYC01000007.1_Roseobacter_sp._SK209-2-6_1101232001821__whole_genome_shotgun_sequence	k105_258868_flag_1_multi_3.0000_len_637	98.81		True
+CONTIG	k105_258868_flag_1_multi_3.0000_len_637	637	correct
+217819	217905	569	655	Roseobacter_sp._SK209-2-6_NZ_AAYC01000007.1_Roseobacter_sp._SK209-2-6_1101232001821__whole_genome_shotgun_sequence	k105_284983_flag_1_multi_1.9167_len_1125	100.0		True
+CONTIG	k105_284983_flag_1_multi_1.9167_len_1125	1125	correct_unaligned
+173135	173210	491	566	Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence	k105_3224_flag_1_multi_2.7809_len_607	100.0		True
+CONTIG	k105_3224_flag_1_multi_2.7809_len_607	607	correct
+174543	174895	4	356	Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence	k105_150067_flag_1_multi_4.0000_len_1261	95.77		True
+CONTIG	k105_150067_flag_1_multi_4.0000_len_1261	1261	correct_unaligned
+208005	208082	387	464	Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence	k105_157586_flag_1_multi_5.8560_len_1480	100.0		True
+CONTIG	k105_157586_flag_1_multi_5.8560_len_1480	1480	correct_unaligned
+173947	174030	1	84	Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence	k105_189479_flag_1_multi_1.8805_len_515	100.0		True
+CONTIG	k105_189479_flag_1_multi_1.8805_len_515	515	correct
+173034	173111	1152	1229	Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence	k105_195025_flag_1_multi_17.9877_len_1566	100.0		True
+CONTIG	k105_195025_flag_1_multi_17.9877_len_1566	1566	correct_unaligned
+210504	210582	453	531	Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence	k105_198353_flag_1_multi_3.0000_len_531	97.47		True
+CONTIG	k105_198353_flag_1_multi_3.0000_len_531	531	correct
+211220	211511	1	292	Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence	k105_217412_flag_1_multi_6.5939_len_627	95.21		True
+CONTIG	k105_217412_flag_1_multi_6.5939_len_627	627	correct
+174366	174896	1	531	Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence	k105_265057_flag_0_multi_14.9955_len_1440	95.12		True
+CONTIG	k105_265057_flag_0_multi_14.9955_len_1440	1440	correct_unaligned
+210522	211163	1	642	Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence	k105_296573_flag_1_multi_47.2849_len_642	97.82		True
+CONTIG	k105_296573_flag_1_multi_47.2849_len_642	642	correct
+247281	247358	920	843	Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence	k105_300581_flag_1_multi_3.0000_len_1033	100.0		True
+CONTIG	k105_300581_flag_1_multi_3.0000_len_1033	1033	correct_unaligned
+86276	86374	119	19	Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence	k105_145877_flag_1_multi_2.6691_len_522	96.04		True
+CONTIG	k105_145877_flag_1_multi_2.6691_len_522	522	correct
+86276	86371	2755	2660	Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence	k105_193576_flag_1_multi_4.0000_len_2884	95.83		True
+CONTIG	k105_193576_flag_1_multi_4.0000_len_2884	2884	correct_unaligned
+290685	290770	565	480	Roseobacter_sp._SK209-2-6_NZ_AAYC01000002.1_Roseobacter_sp._SK209-2-6_1101232001820__whole_genome_shotgun_sequence	k105_177918_flag_1_multi_1.8104_len_622	100.0		True
+CONTIG	k105_177918_flag_1_multi_1.8104_len_622	622	correct
+278525	278623	580	678	Roseobacter_sp._SK209-2-6_NZ_AAYC01000002.1_Roseobacter_sp._SK209-2-6_1101232001820__whole_genome_shotgun_sequence	k105_202758_flag_1_multi_2.0000_len_764	100.0		True
+CONTIG	k105_202758_flag_1_multi_2.0000_len_764	764	correct_unaligned
+24375	24485	300	190	Roseobacter_sp._SK209-2-6_NZ_AAYC01000002.1_Roseobacter_sp._SK209-2-6_1101232001820__whole_genome_shotgun_sequence	k105_325911_flag_1_multi_1.0000_len_655	95.5		True
+CONTIG	k105_325911_flag_1_multi_1.0000_len_655	655	correct

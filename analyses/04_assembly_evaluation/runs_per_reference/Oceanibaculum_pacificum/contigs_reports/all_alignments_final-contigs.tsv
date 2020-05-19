@@ -1,0 +1,3 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+4117	4193	5	81	Oceanibaculum_pacificum_NZ_LPXN01000088.1_Oceanibaculum_pacificum_strain_MCCC_1A02656_contig178__whole_genome_shotgun_sequence	k105_242030_flag_1_multi_3.0000_len_925	98.7		True
+CONTIG	k105_242030_flag_1_multi_3.0000_len_925	925	correct_unaligned

@@ -1,0 +1,5 @@
+Writing filtered delta file /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Luminiphilus_syltensis_NOR5-1B/contigs_reports/nucmer_output/final-contigs.filter
+Reading delta file /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Luminiphilus_syltensis_NOR5-1B/contigs_reports/nucmer_output/final-contigs.delta
+Writing plot files /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Luminiphilus_syltensis_NOR5-1B/contigs_reports/nucmer_output/final-contigs.fplot, /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Luminiphilus_syltensis_NOR5-1B/contigs_reports/nucmer_output/final-contigs.rplot
+Writing gnuplot script /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Luminiphilus_syltensis_NOR5-1B/contigs_reports/nucmer_output/final-contigs.gp
+Rendering plot /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Luminiphilus_syltensis_NOR5-1B/contigs_reports/nucmer_output/final-contigs.html

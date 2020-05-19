@@ -1,0 +1,12 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+55355 55432 | 17 94 | 78 78 | 100.0 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000003.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_3__whole_genome_shotgun_sequence k105_153910_flag_1_multi_2.0000_len_745
+13849 13927 | 1388 1310 | 79 79 | 97.47 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000007.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_7__whole_genome_shotgun_sequence k105_327150_flag_0_multi_12.0000_len_1436
+549 1201 | 1 654 | 653 654 | 96.18 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000023.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_23__whole_genome_shotgun_sequence k105_12217_flag_1_multi_8.0000_len_654
+235 563 | 329 1 | 329 329 | 97.87 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000023.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_23__whole_genome_shotgun_sequence k105_14752_flag_1_multi_4.0000_len_807
+1121 1480 | 1 359 | 360 359 | 95.56 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000023.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_23__whole_genome_shotgun_sequence k105_234990_flag_1_multi_12.9058_len_901
+18334 18408 | 1797 1723 | 75 75 | 100.0 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000008.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_8__whole_genome_shotgun_sequence k105_9411_flag_1_multi_14.1532_len_12566
+18333 18408 | 402 477 | 76 76 | 100.0 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000008.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_8__whole_genome_shotgun_sequence k105_128378_flag_1_multi_4.0000_len_1315
+18334 18408 | 119 45 | 75 75 | 100.0 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000008.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_8__whole_genome_shotgun_sequence k105_135160_flag_1_multi_2.8240_len_889
+20113 20188 | 7257 7182 | 76 76 | 100.0 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000008.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_8__whole_genome_shotgun_sequence k105_227429_flag_1_multi_7.0000_len_16895
+20113 20192 | 153 232 | 80 80 | 100.0 | Psychroserpens_sp._PAMC_27130_NZ_JSWG01000008.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_8__whole_genome_shotgun_sequence k105_297835_flag_1_multi_5.0000_len_687

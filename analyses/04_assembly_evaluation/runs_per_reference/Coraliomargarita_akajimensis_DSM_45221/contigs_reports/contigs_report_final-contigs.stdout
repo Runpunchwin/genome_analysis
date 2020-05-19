@@ -1,0 +1,141 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 3750771
+Analyzing contigs...
+CONTIG: k105_10213_flag_1_multi_2.8055_len_979 (979bp)
+Best alignment score: 82.0 (LEN: 84, IDY: 97.62)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2183932 2184015 | 11 94 | 84 84 | 97.62 | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome k105_10213_flag_1_multi_2.8055_len_979
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 895
+		This contig is partially unaligned. (Aligned 84 out of 979 bases)
+		Alignment: 1558818 1558901 | 11 94 | 84 84 | 97.62 | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome k105_10213_flag_1_multi_2.8055_len_979
+		Unaligned bases: 1 to 10 (10)
+		Unaligned bases: 95 to 979 (885)
+
+CONTIG: k105_21332_flag_1_multi_6.0000_len_600 (600bp)
+Best alignment score: 74.0 (LEN: 75, IDY: 98.67)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 525
+		Alignment: 1074154 1074228 | 496 570 | 75 75 | 98.67 | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome k105_21332_flag_1_multi_6.0000_len_600
+
+CONTIG: k105_74477_flag_1_multi_1.8359_len_556 (556bp)
+Best alignment score: 79.0 (LEN: 83, IDY: 95.18)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2183933 2184015 | 474 392 | 83 83 | 95.18 | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome k105_74477_flag_1_multi_1.8359_len_556
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 473
+		Alignment: 1558819 1558901 | 474 392 | 83 83 | 95.18 | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome k105_74477_flag_1_multi_1.8359_len_556
+
+CONTIG: k105_85409_flag_0_multi_53.4836_len_866 (866bp)
+Best alignment score: 80.0 (LEN: 84, IDY: 95.24)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2183933 2184016 | 489 572 | 84 84 | 95.24 | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome k105_85409_flag_0_multi_53.4836_len_866
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 782
+		Alignment: 1558819 1558902 | 489 572 | 84 84 | 95.24 | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome k105_85409_flag_0_multi_53.4836_len_866
+
+CONTIG: k105_208366_flag_1_multi_11.0000_len_2190 (2190bp)
+Best alignment score: 79.0 (LEN: 83, IDY: 95.18)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2183933 2184015 | 6 88 | 83 83 | 95.18 | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome k105_208366_flag_1_multi_11.0000_len_2190
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 2107
+		This contig is partially unaligned. (Aligned 83 out of 2190 bases)
+		Alignment: 1558819 1558901 | 6 88 | 83 83 | 95.18 | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome k105_208366_flag_1_multi_11.0000_len_2190
+		Unaligned bases: 1 to 5 (5)
+		Unaligned bases: 89 to 2190 (2102)
+
+CONTIG: k105_298274_flag_1_multi_33.3856_len_857 (857bp)
+Best alignment score: 79.0 (LEN: 83, IDY: 95.18)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2183933 2184015 | 5 87 | 83 83 | 95.18 | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome k105_298274_flag_1_multi_33.3856_len_857
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 774
+		This contig is partially unaligned. (Aligned 83 out of 857 bases)
+		Alignment: 1558819 1558901 | 5 87 | 83 83 | 95.18 | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome k105_298274_flag_1_multi_33.3856_len_857
+		Unaligned bases: 1 to 4 (4)
+		Unaligned bases: 88 to 857 (770)
+
+CONTIG: k105_300797_flag_1_multi_10.0256_len_768 (768bp)
+Best alignment score: 79.0 (LEN: 83, IDY: 95.18)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2183933 2184015 | 3 85 | 83 83 | 95.18 | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome k105_300797_flag_1_multi_10.0256_len_768
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 685
+		This contig is partially unaligned. (Aligned 83 out of 768 bases)
+		Alignment: 1558819 1558901 | 3 85 | 83 83 | 95.18 | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome k105_300797_flag_1_multi_10.0256_len_768
+		Unaligned bases: 1 to 2 (2)
+		Unaligned bases: 86 to 768 (683)
+
+Analyzing coverage...
+Writing SNPs into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Coraliomargarita_akajimensis_DSM_45221/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome: 7 total alignments. 1 total regions.
+		Region: 1 to 3750771 (3750771 bp)
+			START in gap: 1 to 1074154 (1074153 bp)
+			Align 1: 1074154 1074228 k105_21332_flag_1_multi_6.0000_len_600 496 570
+				Gap between this and next alignment: 1074228 to 1558818 (484589 bp)
+				Next Alignment: 1558818 1558901 k105_10213_flag_1_multi_2.8055_len_979 11 94
+
+			Align 2: 1558818 1558901 k105_10213_flag_1_multi_2.8055_len_979 11 94
+				The next alignment (1558819 1558901 k105_74477_flag_1_multi_1.8359_len_556 474 392) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1558901 to 1558819 (-82 bp)
+				Next Alignment: 1558819 1558902 k105_85409_flag_0_multi_53.4836_len_866 489 572
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 489 to 572.
+			Align 4: 1558902 1558902 k105_85409_flag_0_multi_53.4836_len_866 572 572
+				The next alignment (1558819 1558901 k105_208366_flag_1_multi_11.0000_len_2190 6 88) is redundant. Skipping.
+				The next alignment (1558819 1558901 k105_298274_flag_1_multi_33.3856_len_857 5 87) is redundant. Skipping.
+				The next alignment (1558819 1558901 k105_300797_flag_1_multi_10.0256_len_768 3 85) is redundant. Skipping.
+
+Analysis is finished!
+Founded SNPs were written into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Coraliomargarita_akajimensis_DSM_45221/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 4 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 4461
+
+Ambiguously Mapped Contigs: 6
+Total Bases in Ambiguously Mapped Contigs: 6216
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 160
+
+	SNPs: 3
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 2
+		Internal Gaps: 0
+		External Gaps: 2
+		External Gap Total: 1558742
+		External Gap Average: 779371
+	Negative Gaps: 1
+		Internal Overlaps: 0
+		External Overlaps: 1
+		External Overlaps Total: -82
+		External Overlaps Average: -82
+	Contigs with Redundant Alignments: 2 (332)

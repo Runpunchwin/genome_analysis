@@ -1,0 +1,73 @@
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000008.1_Roseobacter_sp._SK209-2-6_1101232001810__whole_genome_shotgun_sequence
+1 212344
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000010.1_Roseobacter_sp._SK209-2-6_1101232001817__whole_genome_shotgun_sequence
+1 204433
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000028.1_Roseobacter_sp._SK209-2-6_1101232001782__whole_genome_shotgun_sequence
+1 6035
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000024.1_Roseobacter_sp._SK209-2-6_1101232001801__whole_genome_shotgun_sequence
+1 23669
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000014.1_Roseobacter_sp._SK209-2-6_1101232001818__whole_genome_shotgun_sequence
+1 110505
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000003.1_Roseobacter_sp._SK209-2-6_1101232001811__whole_genome_shotgun_sequence
+1 132807
+132888 197019
+197099 350920
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000026.1_Roseobacter_sp._SK209-2-6_1101232001787__whole_genome_shotgun_sequence
+1 15686
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000006.1_Roseobacter_sp._SK209-2-6_1101232001822__whole_genome_shotgun_sequence
+1 266095
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000007.1_Roseobacter_sp._SK209-2-6_1101232001821__whole_genome_shotgun_sequence
+1 169042
+169126 217818
+217906 247062
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence
+1 208004
+208083 210503
+211164 211219
+211512 247280
+247359 649731
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000019.1_Roseobacter_sp._SK209-2-6_1101232001805__whole_genome_shotgun_sequence
+1 58862
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000012.1_Roseobacter_sp._SK209-2-6_1101232001780__whole_genome_shotgun_sequence
+1 159378
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000020.1_Roseobacter_sp._SK209-2-6_1101232001807__whole_genome_shotgun_sequence
+1 58819
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000016.1_Roseobacter_sp._SK209-2-6_1101232001806__whole_genome_shotgun_sequence
+1 99596
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence
+1 86275
+86375 207837
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000004.1_Roseobacter_sp._SK209-2-6_1101232001813__whole_genome_shotgun_sequence
+1 321686
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000015.1_Roseobacter_sp._SK209-2-6_1101232001814__whole_genome_shotgun_sequence
+1 102863
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000017.1_Roseobacter_sp._SK209-2-6_1101232001812__whole_genome_shotgun_sequence
+1 83752
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000005.1_Roseobacter_sp._SK209-2-6_1101232001808__whole_genome_shotgun_sequence
+1 284886
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000002.1_Roseobacter_sp._SK209-2-6_1101232001820__whole_genome_shotgun_sequence
+1 24374
+24486 278524
+278624 290684
+290771 530190
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000018.1_Roseobacter_sp._SK209-2-6_1101232001802__whole_genome_shotgun_sequence
+1 80846
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000022.1_Roseobacter_sp._SK209-2-6_1101232001790__whole_genome_shotgun_sequence
+1 27312
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000021.1_Roseobacter_sp._SK209-2-6_1101232001819__whole_genome_shotgun_sequence
+1 56733
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence
+1 173033
+173211 173946
+174031 174365
+174897 175230
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000013.1_Roseobacter_sp._SK209-2-6_1101232001809__whole_genome_shotgun_sequence
+1 159161
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000027.1_Roseobacter_sp._SK209-2-6_1101232001803__whole_genome_shotgun_sequence
+1 13944
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000025.1_Roseobacter_sp._SK209-2-6_1101232001800__whole_genome_shotgun_sequence
+1 20279
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000029.1_Roseobacter_sp._SK209-2-6_1101232001781__whole_genome_shotgun_sequence
+1 1805
+Roseobacter_sp._SK209-2-6_NZ_AAYC01000023.1_Roseobacter_sp._SK209-2-6_1101232001791__whole_genome_shotgun_sequence
+1 26167

@@ -1,0 +1,22 @@
+reference chromosomes:
+	Oceanicola_granulosus_HTCC2516_NZ_CH724108.1_Oceanicola_granulosus_HTCC2516_scf_1099521380028__whole_genome_shotgun_sequence (total length: 736483 bp, maximal covered length: 160 bp)
+	Oceanicola_granulosus_HTCC2516_NZ_CH724110.1_Oceanicola_granulosus_HTCC2516_scf_1099521380033__whole_genome_shotgun_sequence (total length: 238077 bp, maximal covered length: 0 bp)
+	Oceanicola_granulosus_HTCC2516_NZ_AAOT01000084.1_Oceanicola_granulosus_HTCC2516_1099521379950__whole_genome_shotgun_sequence (total length: 1281 bp, maximal covered length: 0 bp)
+	Oceanicola_granulosus_HTCC2516_NZ_CH724111.1_Oceanicola_granulosus_HTCC2516_scf_1099521380031__whole_genome_shotgun_sequence (total length: 132045 bp, maximal covered length: 0 bp)
+	Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence (total length: 2598952 bp, maximal covered length: 779 bp)
+	Oceanicola_granulosus_HTCC2516_NZ_CH724109.1_Oceanicola_granulosus_HTCC2516_scf_1099521380032__whole_genome_shotgun_sequence (total length: 283342 bp, maximal covered length: 80 bp)
+	Oceanicola_granulosus_HTCC2516_NZ_AAOT01000083.1_Oceanicola_granulosus_HTCC2516_1099521379914__whole_genome_shotgun_sequence (total length: 1657 bp, maximal covered length: 0 bp)
+	Oceanicola_granulosus_HTCC2516_NZ_AAOT01000082.1_Oceanicola_granulosus_HTCC2516_1099521379915__whole_genome_shotgun_sequence (total length: 1897 bp, maximal covered length: 0 bp)
+	Oceanicola_granulosus_HTCC2516_NZ_CH724112.1_Oceanicola_granulosus_HTCC2516_scf_1099521380034__whole_genome_shotgun_sequence (total length: 59405 bp, maximal covered length: 0 bp)
+
+total genome size: 4053139
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Oceanic | 0.02514%  | 3.43376     | 19        | -         | -         | -         | -         |

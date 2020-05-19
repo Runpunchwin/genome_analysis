@@ -1,0 +1,27 @@
+/home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/Thioalkalivibrio_sulfidiphilus_HL-EbGr7.fasta /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/final-contigs_to_Thioalkalivibrio_sulfidiphilus_HL-EbGr7.fasta
+NUCMER
+>Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_125488_flag_1_multi_3.0000_len_653 3464554 653
+2548658 2548744 220 134 4 4 0
+8
+2
+-6
+-2
+0
+>Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_149250_flag_1_multi_4.0000_len_8350 3464554 8350
+1015538 1015615 15 92 0 0 0
+0
+>Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_189050_flag_0_multi_9.9975_len_36707 3464554 36707
+976256 976344 17104 17016 1 1 0
+0
+>Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_291056_flag_1_multi_3.1912_len_513 3464554 513
+2548091 2548167 140 216 0 0 0
+0
+>Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_298862_flag_1_multi_4.0000_len_1789 3464554 1789
+2928129 2928202 1256 1183 0 0 0
+0
+>Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_32188_flag_1_multi_1.8959_len_1066 3464554 1066
+1081561 1081639 932 1010 0 0 0
+0
+>Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence k105_6249_flag_1_multi_3.0000_len_647 3464554 647
+2031885 2031962 83 160 0 0 0
+0

@@ -1,0 +1,146 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 4306142
+Analyzing contigs...
+CONTIG: k105_22530_flag_1_multi_5.0000_len_630 (630bp)
+Best alignment score: 151.0 (LEN: 158, IDY: 95.57)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 225734 225891 | 1 158 | 158 158 | 95.57 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_22530_flag_1_multi_5.0000_len_630
+		Skipping redundant alignment 277263 277420 | 1 158 | 158 158 | 95.57 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_22530_flag_1_multi_5.0000_len_630
+		Skipping redundant alignment 284206 284363 | 1 158 | 158 158 | 95.57 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_22530_flag_1_multi_5.0000_len_630
+		Skipping redundant alignment 437456 437613 | 1 158 | 158 158 | 95.57 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_22530_flag_1_multi_5.0000_len_630
+		Skipping redundant alignment 1868927 1869084 | 1 158 | 158 158 | 95.57 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_22530_flag_1_multi_5.0000_len_630
+		Skipping redundant alignment 3110672 3110829 | 158 1 | 158 158 | 95.57 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_22530_flag_1_multi_5.0000_len_630
+		Skipping redundant alignment 4280592 4280749 | 158 1 | 158 158 | 95.57 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_22530_flag_1_multi_5.0000_len_630
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 151.0, number of alignments: 1, unaligned bases: 472
+		Alignment: 57537 57694 | 1 158 | 158 158 | 95.57 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_22530_flag_1_multi_5.0000_len_630
+
+CONTIG: k105_217338_flag_1_multi_3.0000_len_2899 (2899bp)
+Best alignment score: 77.0 (LEN: 78, IDY: 98.72)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1149695 1149772 | 2773 2696 | 78 78 | 98.72 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_217338_flag_1_multi_3.0000_len_2899
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 2821
+		This contig is partially unaligned. (Aligned 78 out of 2899 bases)
+		Alignment: 233135 233212 | 2695 2772 | 78 78 | 98.72 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_217338_flag_1_multi_3.0000_len_2899
+		Unaligned bases: 1 to 2694 (2694)
+		Unaligned bases: 2773 to 2899 (127)
+
+CONTIG: k105_246597_flag_1_multi_2.9427_len_1362 (1362bp)
+Best alignment score: 79.0 (LEN: 83, IDY: 95.18)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 228386 228468 | 120 38 | 83 83 | 95.18 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_246597_flag_1_multi_2.9427_len_1362
+		Skipping redundant alignment 279563 279645 | 120 38 | 83 83 | 95.18 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_246597_flag_1_multi_2.9427_len_1362
+		Skipping redundant alignment 286506 286588 | 120 38 | 83 83 | 95.18 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_246597_flag_1_multi_2.9427_len_1362
+		Skipping redundant alignment 440108 440190 | 120 38 | 83 83 | 95.18 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_246597_flag_1_multi_2.9427_len_1362
+		Skipping redundant alignment 1871580 1871662 | 120 38 | 83 83 | 95.18 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_246597_flag_1_multi_2.9427_len_1362
+		Skipping redundant alignment 3108447 3108529 | 38 120 | 83 83 | 95.18 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_246597_flag_1_multi_2.9427_len_1362
+		Skipping redundant alignment 4278367 4278449 | 38 120 | 83 83 | 95.18 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_246597_flag_1_multi_2.9427_len_1362
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 1279
+		This contig is partially unaligned. (Aligned 83 out of 1362 bases)
+		Alignment: 59837 59919 | 120 38 | 83 83 | 95.18 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_246597_flag_1_multi_2.9427_len_1362
+		Unaligned bases: 1 to 37 (37)
+		Unaligned bases: 121 to 1362 (1242)
+
+CONTIG: k105_247944_flag_0_multi_16.8222_len_1005 (1005bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 437879 437956 | 919 842 | 78 78 | 100.0 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_247944_flag_0_multi_16.8222_len_1005
+		Skipping redundant alignment 1869351 1869428 | 919 842 | 78 78 | 100.0 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_247944_flag_0_multi_16.8222_len_1005
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 927
+		This contig is partially unaligned. (Aligned 78 out of 1005 bases)
+		Alignment: 226157 226234 | 919 842 | 78 78 | 100.0 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_247944_flag_0_multi_16.8222_len_1005
+		Unaligned bases: 1 to 841 (841)
+		Unaligned bases: 920 to 1005 (86)
+
+CONTIG: k105_339238_flag_1_multi_1.8966_len_1333 (1333bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2667727 2667802 | 1106 1181 | 76 76 | 100.0 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_339238_flag_1_multi_1.8966_len_1333
+		Skipping redundant alignment 2666536 2666612 | 1106 1182 | 77 77 | 100.0 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_339238_flag_1_multi_1.8966_len_1333
+		Skipping redundant alignment 2666759 2666835 | 1106 1182 | 77 77 | 100.0 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_339238_flag_1_multi_1.8966_len_1333
+		Skipping redundant alignment 2667059 2667135 | 1106 1182 | 77 77 | 100.0 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_339238_flag_1_multi_1.8966_len_1333
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 1256
+		This contig is partially unaligned. (Aligned 77 out of 1333 bases)
+		Alignment: 2666313 2666389 | 1106 1182 | 77 77 | 100.0 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_339238_flag_1_multi_1.8966_len_1333
+		Unaligned bases: 1 to 1105 (1105)
+		Unaligned bases: 1183 to 1333 (151)
+
+Analyzing coverage...
+Writing SNPs into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Shewanella_amazonensis_SB2B/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome: 5 total alignments. 1 total regions.
+		Region: 1 to 4306142 (4306142 bp)
+			START in gap: 1 to 57537 (57536 bp)
+			Align 1: 57537 57694 k105_22530_flag_1_multi_5.0000_len_630 1 158
+				Gap between this and next alignment: 57694 to 59837 (2142 bp)
+				Next Alignment: 59837 59919 k105_246597_flag_1_multi_2.9427_len_1362 120 38
+
+			Align 2: 59837 59919 k105_246597_flag_1_multi_2.9427_len_1362 120 38
+				Gap between this and next alignment: 59919 to 226157 (166237 bp)
+				Next Alignment: 226157 226234 k105_247944_flag_0_multi_16.8222_len_1005 919 842
+
+			Align 3: 226157 226234 k105_247944_flag_0_multi_16.8222_len_1005 919 842
+				Gap between this and next alignment: 226234 to 233135 (6900 bp)
+				Next Alignment: 233135 233212 k105_217338_flag_1_multi_3.0000_len_2899 2695 2772
+
+			Align 4: 233135 233212 k105_217338_flag_1_multi_3.0000_len_2899 2695 2772
+				Gap between this and next alignment: 233212 to 2666313 (2433100 bp)
+				Next Alignment: 2666313 2666389 k105_339238_flag_1_multi_1.8966_len_1333 1106 1182
+
+			Align 5: 2666313 2666389 k105_339238_flag_1_multi_1.8966_len_1333 1106 1182
+			END in gap: 2666389 to 4306142 (1639753 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Shewanella_amazonensis_SB2B/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 4 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 6283
+
+Ambiguously Mapped Contigs: 5
+Total Bases in Ambiguously Mapped Contigs: 7229
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 474
+
+	SNPs: 12
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 6
+		Internal Gaps: 0
+		External Gaps: 6
+		External Gap Total: 4305668
+		External Gap Average: 717611
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 0 (0)

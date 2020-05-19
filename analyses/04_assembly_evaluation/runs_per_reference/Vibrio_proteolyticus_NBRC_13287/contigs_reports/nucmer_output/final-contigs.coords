@@ -1,0 +1,12 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+  132050   132128  |    56839    56917  |       79       79  |   100.00  | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000002.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence	k105_18455_flag_0_multi_10.9954_len_56917
+  132057   132134  |    56840    56917  |       78       78  |   100.00  | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000002.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence	k105_18455_flag_0_multi_10.9954_len_56917
+  132159   132236  |    56840    56917  |       78       78  |   100.00  | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000002.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence	k105_18455_flag_0_multi_10.9954_len_56917
+    2646     4076  |     1430        1  |     1431     1430  |    98.11  | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence	k105_207900_flag_0_multi_5.9208_len_1430
+    3987     4069  |      120       38  |       83       83  |    95.18  | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence	k105_246597_flag_1_multi_2.9427_len_1362
+    2472     2576  |      105        1  |      105      105  |    95.24  | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence	k105_247944_flag_0_multi_16.8222_len_1005
+   20034    20334  |        9      308  |      301      300  |    97.67  | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000031.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence	k105_280972_flag_1_multi_7.0000_len_622
+       1      587  |       36      622  |      587      587  |    97.28  | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence	k105_280972_flag_1_multi_7.0000_len_622
+       1      304  |      311        9  |      304      303  |    97.04  | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000030.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence	k105_280972_flag_1_multi_7.0000_len_622
+     870     1552  |      718       37  |      683      682  |    95.90  | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence	k105_43952_flag_1_multi_5.4623_len_728

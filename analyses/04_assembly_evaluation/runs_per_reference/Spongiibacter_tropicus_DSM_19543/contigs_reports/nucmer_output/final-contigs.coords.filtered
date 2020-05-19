@@ -1,0 +1,10 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+75234 75311 | 2154 2077 | 78 78 | 100.0 | Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000004.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00004.4_C__whole_genome_shotgun_sequence k105_322497_flag_1_multi_4.3577_len_2638
+9251 9323 | 18 90 | 73 73 | 98.63 | Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000006.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00006.6_C__whole_genome_shotgun_sequence k105_176660_flag_1_multi_2.0000_len_789
+9017 9105 | 268 356 | 89 89 | 96.63 | Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000006.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00006.6_C__whole_genome_shotgun_sequence k105_277773_flag_1_multi_1.8512_len_777
+194553 194629 | 39 115 | 77 77 | 100.0 | Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000001.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00001.1_C__whole_genome_shotgun_sequence k105_110460_flag_1_multi_1.0000_len_553
+194553 194632 | 1230 1151 | 80 80 | 98.75 | Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000001.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00001.1_C__whole_genome_shotgun_sequence k105_123865_flag_0_multi_6.8936_len_1233
+194553 194632 | 1231 1152 | 80 80 | 98.75 | Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000001.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00001.1_C__whole_genome_shotgun_sequence k105_123871_flag_0_multi_7.8760_len_1234
+194553 194632 | 102 23 | 80 80 | 98.75 | Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000001.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00001.1_C__whole_genome_shotgun_sequence k105_256697_flag_0_multi_11.6816_len_3836
+194553 194632 | 102 23 | 80 80 | 98.75 | Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000001.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00001.1_C__whole_genome_shotgun_sequence k105_268209_flag_0_multi_5.3524_len_2639

@@ -1,0 +1,14 @@
+reference chromosomes:
+	Thioalkalivibrio_sulfidiphilus_HL-EbGr7_NC_011901.1_Thioalkalivibrio_sulfidiphilus_HL-EbGr7__complete_sequence (total length: 3464554 bp, maximal covered length: 562 bp)
+
+total genome size: 3464554
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Thioalk | 0.01622%  | 4.37900     | 8         | -         | -         | -         | -         |

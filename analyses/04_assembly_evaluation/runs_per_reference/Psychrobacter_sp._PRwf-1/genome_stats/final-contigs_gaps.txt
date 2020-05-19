@@ -1,0 +1,10 @@
+Psychrobacter_sp._PRwf-1_NC_009516.1_Psychrobacter_sp._PRwf-1_plasmid_pRWF101__complete_sequence
+1 13956
+Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence
+1 183577
+183657 250334
+250416 779085
+779230 780569
+780656 2978976
+Psychrobacter_sp._PRwf-1_NC_009517.1_Psychrobacter_sp._PRwf-1_plasmid_pRWF102__complete_sequence
+1 2117

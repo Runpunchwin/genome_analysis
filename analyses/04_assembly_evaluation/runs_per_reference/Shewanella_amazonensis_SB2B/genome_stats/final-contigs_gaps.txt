@@ -1,0 +1,7 @@
+Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome
+1 57536
+57695 59836
+59920 226156
+226235 233134
+233213 2666312
+2666390 4306142

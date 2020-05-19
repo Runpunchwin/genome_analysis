@@ -1,0 +1,284 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000001.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_101__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000002.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_102__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000003.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_103__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000004.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_104__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000005.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_105__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000006.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_106__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000007.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_107__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000008.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_108__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000009.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_109__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000010.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_110__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000011.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_111__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000012.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_112__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000013.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_113__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000014.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_114__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000015.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_115__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000016.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_116__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000017.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_117__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000018.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_118__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000019.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_119__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000020.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_120__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000021.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_121__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000022.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_122__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000023.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_123__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000024.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_124__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000025.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_125__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000026.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_126__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000027.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_127__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000028.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_128__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000029.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_129__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000030.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_130__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000031.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_131__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000032.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_132__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000033.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_133__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000034.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_134__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000035.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_135__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000036.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_136__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000037.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_137__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000038.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_138__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000039.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_139__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000040.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_140__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000041.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_141__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000042.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_142__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000043.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_143__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000044.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_144__whole_genome_shotgun_sequence]
+	Loaded [Chromatocurvus_halotolerans_NZ_SLWX01000045.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_145__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 45
+	Total Region Length: 3910325
+Analyzing contigs...
+CONTIG: k105_58820_flag_1_multi_5.0000_len_736 (736bp)
+Best alignment score: 102.0 (LEN: 103, IDY: 99.03)
+			The best set is below. Score: 102.0, number of alignments: 1, unaligned bases: 633
+		This contig is partially unaligned. (Aligned 103 out of 736 bases)
+		Alignment: 2965 3067 | 103 1 | 103 103 | 99.03 | Chromatocurvus_halotolerans_NZ_SLWX01000032.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_132__whole_genome_shotgun_sequence k105_58820_flag_1_multi_5.0000_len_736
+		Unaligned bases: 104 to 736 (633)
+
+CONTIG: k105_131419_flag_1_multi_11.0173_len_44784 (44784bp)
+Best alignment score: 103.0 (LEN: 104, IDY: 99.04)
+			The best set is below. Score: 103.0, number of alignments: 1, unaligned bases: 44680
+		This contig is partially unaligned. (Aligned 104 out of 44784 bases)
+		Alignment: 5421 5523 | 3 106 | 103 104 | 99.04 | Chromatocurvus_halotolerans_NZ_SLWX01000032.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_132__whole_genome_shotgun_sequence k105_131419_flag_1_multi_11.0173_len_44784
+		Unaligned bases: 1 to 2 (2)
+		Unaligned bases: 107 to 44784 (44678)
+
+CONTIG: k105_196718_flag_1_multi_11.3185_len_2604 (2604bp)
+Best alignment score: 209.0 (LEN: 219, IDY: 95.43)
+			The best set is below. Score: 209.0, number of alignments: 1, unaligned bases: 2385
+		This contig is partially unaligned. (Aligned 219 out of 2604 bases)
+		Alignment: 1527 1745 | 1 219 | 219 219 | 95.43 | Chromatocurvus_halotolerans_NZ_SLWX01000032.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_132__whole_genome_shotgun_sequence k105_196718_flag_1_multi_11.3185_len_2604
+		Unaligned bases: 220 to 2604 (2385)
+
+CONTIG: k105_247944_flag_0_multi_16.8222_len_1005 (1005bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 927
+		This contig is partially unaligned. (Aligned 78 out of 1005 bases)
+		Alignment: 4155 4232 | 927 1004 | 78 78 | 100.0 | Chromatocurvus_halotolerans_NZ_SLWX01000032.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_132__whole_genome_shotgun_sequence k105_247944_flag_0_multi_16.8222_len_1005
+		Unaligned bases: 1 to 926 (926)
+		Unaligned bases: 1005 to 1005 (1)
+
+CONTIG: k105_291056_flag_1_multi_3.1912_len_513 (513bp)
+Best alignment score: 205.0 (LEN: 212, IDY: 96.70)
+			The best set is below. Score: 205.0, number of alignments: 1, unaligned bases: 301
+		Alignment: 4471 4682 | 302 513 | 212 212 | 96.7 | Chromatocurvus_halotolerans_NZ_SLWX01000032.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_132__whole_genome_shotgun_sequence k105_291056_flag_1_multi_3.1912_len_513
+
+CONTIG: k105_50297_flag_1_multi_2.0000_len_569 (569bp)
+Best alignment score: 65.0 (LEN: 65, IDY: 100.00)
+			The best set is below. Score: 65.0, number of alignments: 1, unaligned bases: 504
+		This contig is partially unaligned. (Aligned 65 out of 569 bases)
+		Alignment: 49769 49833 | 65 1 | 65 65 | 100.0 | Chromatocurvus_halotolerans_NZ_SLWX01000010.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_110__whole_genome_shotgun_sequence k105_50297_flag_1_multi_2.0000_len_569
+		Unaligned bases: 66 to 569 (504)
+
+CONTIG: k105_245494_flag_1_multi_7.4638_len_10792 (10792bp)
+Best alignment score: 84.0 (LEN: 84, IDY: 100.00)
+			The best set is below. Score: 84.0, number of alignments: 1, unaligned bases: 10708
+		This contig is partially unaligned. (Aligned 84 out of 10792 bases)
+		Alignment: 49769 49852 | 2181 2264 | 84 84 | 100.0 | Chromatocurvus_halotolerans_NZ_SLWX01000010.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_110__whole_genome_shotgun_sequence k105_245494_flag_1_multi_7.4638_len_10792
+		Unaligned bases: 1 to 2180 (2180)
+		Unaligned bases: 2265 to 10792 (8528)
+
+CONTIG: k105_24166_flag_1_multi_3.0000_len_513 (513bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 434
+		Alignment: 9449 9527 | 408 486 | 79 79 | 100.0 | Chromatocurvus_halotolerans_NZ_SLWX01000030.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_130__whole_genome_shotgun_sequence k105_24166_flag_1_multi_3.0000_len_513
+
+CONTIG: k105_65574_flag_1_multi_5.7407_len_3375 (3375bp)
+Best alignment score: 80.0 (LEN: 81, IDY: 98.78)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 3294
+		This contig is partially unaligned. (Aligned 81 out of 3375 bases)
+		Alignment: 193 274 | 3349 3269 | 82 81 | 98.78 | Chromatocurvus_halotolerans_NZ_SLWX01000026.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_126__whole_genome_shotgun_sequence k105_65574_flag_1_multi_5.7407_len_3375
+		Unaligned bases: 1 to 3268 (3268)
+		Unaligned bases: 3350 to 3375 (26)
+
+CONTIG: k105_110460_flag_1_multi_1.0000_len_553 (553bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 172542 172617 | 114 39 | 76 76 | 100.0 | Chromatocurvus_halotolerans_NZ_SLWX01000007.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_107__whole_genome_shotgun_sequence k105_110460_flag_1_multi_1.0000_len_553
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 476
+		Alignment: 320394 320470 | 38 114 | 77 77 | 100.0 | Chromatocurvus_halotolerans_NZ_SLWX01000002.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_102__whole_genome_shotgun_sequence k105_110460_flag_1_multi_1.0000_len_553
+
+CONTIG: k105_39884_flag_1_multi_5.0000_len_2682 (2682bp)
+Best alignment score: 83.0 (LEN: 84, IDY: 98.82)
+			The best set is below. Score: 83.0, number of alignments: 1, unaligned bases: 2598
+		This contig is partially unaligned. (Aligned 84 out of 2682 bases)
+		Alignment: 136649 136733 | 2383 2300 | 85 84 | 98.82 | Chromatocurvus_halotolerans_NZ_SLWX01000001.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_101__whole_genome_shotgun_sequence k105_39884_flag_1_multi_5.0000_len_2682
+		Unaligned bases: 1 to 2299 (2299)
+		Unaligned bases: 2384 to 2682 (299)
+
+CONTIG: k105_82503_flag_1_multi_4.9952_len_3453 (3453bp)
+Best alignment score: 82.0 (LEN: 83, IDY: 98.81)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 3370
+		This contig is partially unaligned. (Aligned 83 out of 3453 bases)
+		Alignment: 136656 136739 | 5 87 | 84 83 | 98.81 | Chromatocurvus_halotolerans_NZ_SLWX01000001.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_101__whole_genome_shotgun_sequence k105_82503_flag_1_multi_4.9952_len_3453
+		Unaligned bases: 1 to 4 (4)
+		Unaligned bases: 88 to 3453 (3366)
+
+Analyzing coverage...
+Writing SNPs into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Chromatocurvus_halotolerans/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Chromatocurvus_halotolerans_NZ_SLWX01000032.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_132__whole_genome_shotgun_sequence: 5 total alignments. 1 total regions.
+		Region: 1 to 5826 (5826 bp)
+			START in gap: 1 to 1527 (1526 bp)
+			Align 1: 1527 1745 k105_196718_flag_1_multi_11.3185_len_2604 1 219
+				Gap between this and next alignment: 1745 to 2965 (1219 bp)
+				Next Alignment: 2965 3067 k105_58820_flag_1_multi_5.0000_len_736 103 1
+
+			Align 2: 2965 3067 k105_58820_flag_1_multi_5.0000_len_736 103 1
+				Gap between this and next alignment: 3067 to 4155 (1087 bp)
+				Next Alignment: 4155 4232 k105_247944_flag_0_multi_16.8222_len_1005 927 1004
+
+			Align 3: 4155 4232 k105_247944_flag_0_multi_16.8222_len_1005 927 1004
+				Gap between this and next alignment: 4232 to 4471 (238 bp)
+				Next Alignment: 4471 4682 k105_291056_flag_1_multi_3.1912_len_513 302 513
+
+			Align 4: 4471 4682 k105_291056_flag_1_multi_3.1912_len_513 302 513
+				Gap between this and next alignment: 4682 to 5421 (738 bp)
+				Next Alignment: 5421 5523 k105_131419_flag_1_multi_11.0173_len_44784 3 106
+
+			Align 5: 5421 5523 k105_131419_flag_1_multi_11.0173_len_44784 3 106
+			END in gap: 5523 to 5826 (303 bp).
+
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000038.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_138__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000011.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_111__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000022.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_122__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000042.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_142__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000008.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_108__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000039.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_139__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000029.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_129__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000024.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_124__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000003.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_103__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000007.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_107__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000018.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_118__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000009.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_109__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000027.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_127__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000019.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_119__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000025.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_125__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000004.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_104__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000016.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_116__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000005.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_105__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000015.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_115__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000033.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_133__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000013.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_113__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000031.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_131__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000023.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_123__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000020.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_120__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000012.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_112__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000041.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_141__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Chromatocurvus_halotolerans_NZ_SLWX01000030.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_130__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 9730 (9730 bp)
+			START in gap: 1 to 9449 (9448 bp)
+			Align 1: 9449 9527 k105_24166_flag_1_multi_3.0000_len_513 408 486
+			END in gap: 9527 to 9730 (203 bp).
+
+	Reference Chromatocurvus_halotolerans_NZ_SLWX01000026.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_126__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 23995 (23995 bp)
+			START in gap: 1 to 193 (192 bp)
+			Align 1: 193 274 k105_65574_flag_1_multi_5.7407_len_3375 3349 3269
+			END in gap: 274 to 23995 (23721 bp).
+
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000036.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_136__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000017.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_117__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Chromatocurvus_halotolerans_NZ_SLWX01000010.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_110__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 139678 (139678 bp)
+			START in gap: 1 to 49769 (49768 bp)
+			Align 1: 49769 49833 k105_50297_flag_1_multi_2.0000_len_569 65 1
+				Negative gap (overlap) between this and next alignment: 49833 to 49769 (-64 bp)
+				Next Alignment: 49769 49852 k105_245494_flag_1_multi_7.4638_len_10792 2181 2264
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 2181 to 2246.
+			Align 2: 49834 49852 k105_245494_flag_1_multi_7.4638_len_10792 2246 2264
+			END in gap: 49852 to 139678 (89826 bp).
+
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000021.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_121__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000034.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_134__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000043.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_143__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000035.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_135__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000044.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_144__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Chromatocurvus_halotolerans_NZ_SLWX01000002.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_102__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 390398 (390398 bp)
+			START in gap: 1 to 320394 (320393 bp)
+			Align 1: 320394 320470 k105_110460_flag_1_multi_1.0000_len_553 38 114
+			END in gap: 320470 to 390398 (69928 bp).
+
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000028.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_128__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Chromatocurvus_halotolerans_NZ_SLWX01000001.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_101__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 506625 (506625 bp)
+			START in gap: 1 to 136649 (136648 bp)
+			Align 1: 136649 136733 k105_39884_flag_1_multi_5.0000_len_2682 2383 2300
+				Negative gap (overlap) between this and next alignment: 136733 to 136656 (-77 bp)
+				Next Alignment: 136656 136739 k105_82503_flag_1_multi_4.9952_len_3453 5 87
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 5 to 82.
+			Align 2: 136734 136739 k105_82503_flag_1_multi_4.9952_len_3453 82 87
+			END in gap: 136739 to 506625 (369886 bp).
+
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000014.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_114__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000045.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_145__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000040.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_140__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000037.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_137__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Chromatocurvus_halotolerans_NZ_SLWX01000006.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_106__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Chromatocurvus_halotolerans/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 9 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 69099
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1128
+
+	SNPs: 18
+	Insertions: 1
+	Deletions: 3
+
+	Positive Gaps: 16
+		Internal Gaps: 0
+		External Gaps: 16
+		External Gap Total: 1075124
+		External Gap Average: 67195
+	Negative Gaps: 2
+		Internal Overlaps: 0
+		External Overlaps: 2
+		External Overlaps Total: -141
+		External Overlaps Average: -70
+	Contigs with Redundant Alignments: 0 (0)

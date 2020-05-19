@@ -1,0 +1,124 @@
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 --combined-ref --colors #E31A1C --ls solid --ambiguity-usage all /home/frle5739/genome_analysis/data/DNA_assembly/final.contigs.fa -R /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/combined_reference.fasta -o /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference --labels final.contigs
+
+Started: 2020-04-16 13:29:36
+
+Logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: all, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/combined_reference.fasta ==> combined_reference
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/data/DNA_assembly/final.contigs.fa ==> final.contigs
+
+2020-04-16 13:29:53
+Running Basic statistics processor...
+  Reference genome:
+    combined_reference.fasta, length = 103878306, num fragments = 1233, GC % = 54.63
+WARNING:   Reference genome is fragmented. You may consider rerunning QUAST using --fragmented option. QUAST will try to detect misassemblies caused by the fragmentation and mark them fake (will be excluded from # misassemblies).
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 1359, L50 = 34944, Total length = 217947069, GC % = 47.90, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/basic_stats/GC_content_plot.pdf
+  Drawing final.contigs GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/basic_stats/final.contigs_GC_content_plot.pdf
+Done.
+
+2020-04-16 13:30:19
+Running Contig analyzer...
+  final.contigs
+  Logging to files /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/contigs_report_final-contigs.stdout and contigs_report_final-contigs.stderr...
+  Aligning contigs to the reference
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/nucmer \
+  -c 65 -l 65 --maxmatch -p /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/raw/final-contigs \
+  --emem -t 2 /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/combined_reference.fasta \
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/../quast_corrected_input/final-contigs.fa \
+  >> /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/contigs_report_final-contigs.stdout \
+  2>> /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/contigs_report_final-contigs.stderr
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/delta-filter \
+  -i 95.0 -l 0 /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/raw/final-contigs.delta \
+  > /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/raw/final-contigs.fdelta \
+  2> /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/contigs_report_final-contigs.stderr
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/mummerplot \
+  --html --layout -p /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/raw/final-contigs \
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/raw/final-contigs.delta \
+  > /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/contigs_report_final-contigs.stdout \
+  2> /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/contigs_report_final-contigs.stderr
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/gnuplot/src/gnuplot \
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/raw/final-contigs.gp \
+  > /dev/null 2> /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/contigs_report_final-contigs.stderr
+  MUMmer plot saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/final-contigs_mummerplot.html
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/show-coords \
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/raw/final-contigs.delta \
+  > /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/raw/final-contigs.coords_tmp \
+  2> /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/contigs_report_final-contigs.stderr
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/show-snps \
+  -S -T -H /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/raw/final-contigs.delta \
+  < /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/raw/final-contigs.coords.headless \
+  > /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/raw/final-contigs.all_snps \
+  2> /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/contigs_report_final-contigs.stderr
+  Alignments: ../../../../../home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/alignments_final-contigs.tsv
+  Analysis is finished.
+
+  Gzipping /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/raw/final-contigs.all_snps to reduce disk space usage...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/nucmer_output/raw/final-contigs.all_snps.gz
+  Information about interspecies translocations by references for final-contigs is saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/interspecies_translocations_by_refs_final-contigs.info
+  Drawing Intergenomic misassemblies (found and supposed) metaQUAST summary plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/intergenomic_misassemblies.pdf
+  Creating total report...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2020-04-16 13:32:42
+Running NA-NGA calculation...
+  final.contigs, Largest alignment = 4113, NA50 = None, LA50 = None
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/aligned_stats/NAx_plot.pdf
+Done.
+
+2020-04-16 13:32:49
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  final.contigs
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-16 13:33:18
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-16 13:33:28
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/combined_reference/icarus.html

@@ -1,0 +1,4 @@
+Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome
+1 1074153
+1074229 1558817
+1558903 3750771

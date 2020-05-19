@@ -1,0 +1,443 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 3261541
+Analyzing contigs...
+CONTIG: k105_63_flag_1_multi_6.9873_len_9528 (9528bp)
+Best alignment score: 84.0 (LEN: 85, IDY: 98.82)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2736178 2736253 | 7710 7635 | 76 76 | 100.0 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_63_flag_1_multi_6.9873_len_9528
+			The best set is below. Score: 84.0, number of alignments: 1, unaligned bases: 9443
+		This contig is partially unaligned. (Aligned 85 out of 9528 bases)
+		Alignment: 2440881 2440964 | 7712 7628 | 84 85 | 98.82 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_63_flag_1_multi_6.9873_len_9528
+		Unaligned bases: 1 to 7627 (7627)
+		Unaligned bases: 7713 to 9528 (1816)
+
+CONTIG: k105_12062_flag_1_multi_2.8913_len_565 (565bp)
+Best alignment score: 83.0 (LEN: 85, IDY: 97.65)
+			The best set is below. Score: 83.0, number of alignments: 1, unaligned bases: 480
+		Alignment: 1770392 1770476 | 517 433 | 85 85 | 97.65 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_12062_flag_1_multi_2.8913_len_565
+
+CONTIG: k105_21119_flag_1_multi_6.0000_len_1597 (1597bp)
+Best alignment score: 90.0 (LEN: 94, IDY: 95.79)
+			The best set is below. Score: 90.0, number of alignments: 1, unaligned bases: 1503
+		This contig is partially unaligned. (Aligned 94 out of 1597 bases)
+		Alignment: 2819089 2819183 | 1193 1100 | 95 94 | 95.79 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_21119_flag_1_multi_6.0000_len_1597
+		Unaligned bases: 1 to 1099 (1099)
+		Unaligned bases: 1194 to 1597 (404)
+
+CONTIG: k105_30856_flag_1_multi_11.0000_len_12904 (12904bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 12826
+		This contig is partially unaligned. (Aligned 78 out of 12904 bases)
+		Alignment: 2234118 2234195 | 6225 6302 | 78 78 | 100.0 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_30856_flag_1_multi_11.0000_len_12904
+		Unaligned bases: 1 to 6224 (6224)
+		Unaligned bases: 6303 to 12904 (6602)
+
+CONTIG: k105_40360_flag_1_multi_5.0000_len_2570 (2570bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 2492
+		This contig is partially unaligned. (Aligned 78 out of 2570 bases)
+		Alignment: 1770399 1770476 | 2567 2490 | 78 78 | 100.0 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_40360_flag_1_multi_5.0000_len_2570
+		Unaligned bases: 1 to 2489 (2489)
+		Unaligned bases: 2568 to 2570 (3)
+
+CONTIG: k105_41365_flag_1_multi_4.8350_len_4142 (4142bp)
+Best alignment score: 87.0 (LEN: 89, IDY: 97.75)
+			The best set is below. Score: 87.0, number of alignments: 1, unaligned bases: 4053
+		This contig is partially unaligned. (Aligned 89 out of 4142 bases)
+		Alignment: 409739 409827 | 2 90 | 89 89 | 97.75 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_41365_flag_1_multi_4.8350_len_4142
+		Unaligned bases: 1 to 1 (1)
+		Unaligned bases: 91 to 4142 (4052)
+
+CONTIG: k105_42521_flag_1_multi_21.0000_len_988 (988bp)
+Best alignment score: 502.0 (LEN: 513, IDY: 97.86)
+			The best set is below. Score: 945.0, number of alignments: 2, unaligned bases: 5
+		This contig is misassembled. 2 total aligns.
+			Real Alignment 1: 252746 253215 | 1 470 | 470 470 | 96.17 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_42521_flag_1_multi_21.0000_len_988
+			  Gap between these two alignments (local misassembly). Inconsistency = 116
+			Real Alignment 2: 253337 253849 | 476 988 | 513 513 | 97.86 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_42521_flag_1_multi_21.0000_len_988
+
+CONTIG: k105_54293_flag_1_multi_2.5799_len_781 (781bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 703
+		This contig is partially unaligned. (Aligned 78 out of 781 bases)
+		Alignment: 1770399 1770476 | 688 765 | 78 78 | 100.0 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_54293_flag_1_multi_2.5799_len_781
+		Unaligned bases: 1 to 687 (687)
+		Unaligned bases: 766 to 781 (16)
+
+CONTIG: k105_57061_flag_1_multi_17.8298_len_904 (904bp)
+Best alignment score: 380.0 (LEN: 387, IDY: 98.19)
+			The best set is below. Score: 380.0, number of alignments: 1, unaligned bases: 517
+		This contig is partially unaligned. (Aligned 387 out of 904 bases)
+		Alignment: 251474 251860 | 518 904 | 387 387 | 98.19 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_57061_flag_1_multi_17.8298_len_904
+		Unaligned bases: 1 to 517 (517)
+
+CONTIG: k105_58820_flag_1_multi_5.0000_len_736 (736bp)
+Best alignment score: 103.0 (LEN: 104, IDY: 99.04)
+			The best set is below. Score: 103.0, number of alignments: 1, unaligned bases: 632
+		This contig is partially unaligned. (Aligned 104 out of 736 bases)
+		Alignment: 253956 254059 | 104 1 | 104 104 | 99.04 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_58820_flag_1_multi_5.0000_len_736
+		Unaligned bases: 105 to 736 (632)
+
+CONTIG: k105_69255_flag_1_multi_3.0000_len_671 (671bp)
+Best alignment score: 99.0 (LEN: 101, IDY: 98.04)
+			The best set is below. Score: 99.0, number of alignments: 1, unaligned bases: 570
+		This contig is partially unaligned. (Aligned 101 out of 671 bases)
+		Alignment: 535429 535530 | 101 1 | 102 101 | 98.04 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_69255_flag_1_multi_3.0000_len_671
+		Unaligned bases: 102 to 671 (570)
+
+CONTIG: k105_76712_flag_1_multi_2.9334_len_826 (826bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 747
+		This contig is partially unaligned. (Aligned 79 out of 826 bases)
+		Alignment: 409741 409819 | 25 103 | 79 79 | 100.0 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_76712_flag_1_multi_2.9334_len_826
+		Unaligned bases: 1 to 24 (24)
+		Unaligned bases: 104 to 826 (723)
+
+CONTIG: k105_78111_flag_0_multi_6.0000_len_1707 (1707bp)
+Best alignment score: 100.0 (LEN: 103, IDY: 97.09)
+			The best set is below. Score: 100.0, number of alignments: 1, unaligned bases: 1604
+		This contig is partially unaligned. (Aligned 103 out of 1707 bases)
+		Alignment: 1715743 1715845 | 104 2 | 103 103 | 97.09 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_78111_flag_0_multi_6.0000_len_1707
+		Unaligned bases: 1 to 1 (1)
+		Unaligned bases: 105 to 1707 (1603)
+
+CONTIG: k105_102911_flag_1_multi_3.0000_len_790 (790bp)
+Best alignment score: 81.0 (LEN: 82, IDY: 98.78)
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 708
+		This contig is partially unaligned. (Aligned 82 out of 790 bases)
+		Alignment: 1768857 1768938 | 779 698 | 82 82 | 98.78 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_102911_flag_1_multi_3.0000_len_790
+		Unaligned bases: 1 to 697 (697)
+		Unaligned bases: 780 to 790 (11)
+
+CONTIG: k105_131055_flag_1_multi_4.0000_len_3254 (3254bp)
+Best alignment score: 81.0 (LEN: 84, IDY: 96.43)
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 3170
+		This contig is partially unaligned. (Aligned 84 out of 3254 bases)
+		Alignment: 2441155 2441238 | 1810 1727 | 84 84 | 96.43 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_131055_flag_1_multi_4.0000_len_3254
+		Unaligned bases: 1 to 1726 (1726)
+		Unaligned bases: 1811 to 3254 (1444)
+
+CONTIG: k105_134615_flag_1_multi_2.5403_len_514 (514bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 435
+		Alignment: 598365 598443 | 175 97 | 79 79 | 100.0 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_134615_flag_1_multi_2.5403_len_514
+
+CONTIG: k105_144923_flag_1_multi_6.0000_len_1625 (1625bp)
+Best alignment score: 80.0 (LEN: 80, IDY: 100.00)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 1545
+		This contig is partially unaligned. (Aligned 80 out of 1625 bases)
+		Alignment: 598365 598444 | 1624 1545 | 80 80 | 100.0 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_144923_flag_1_multi_6.0000_len_1625
+		Unaligned bases: 1 to 1544 (1544)
+		Unaligned bases: 1625 to 1625 (1)
+
+CONTIG: k105_156592_flag_0_multi_40.1071_len_553 (553bp)
+Best alignment score: 541.0 (LEN: 553, IDY: 97.83)
+		One align captures most of this contig: 251926 252478 | 553 1 | 553 553 | 97.83 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_156592_flag_0_multi_40.1071_len_553
+
+CONTIG: k105_161540_flag_0_multi_17.5627_len_2099 (2099bp)
+Best alignment score: 1317.1 (LEN: 1378, IDY: 95.58)
+			The best set is below. Score: 1375.1, number of alignments: 2, unaligned bases: 643
+		This contig is misassembled. 2 total aligns.
+			Real Alignment 1: 254991 256369 | 1871 494 | 1379 1378 | 95.58 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_161540_flag_0_multi_17.5627_len_2099
+			  Gap between these two alignments (local misassembly). Inconsistency = -122
+			Real Alignment 2: 254893 254970 | 2091 2014 | 78 78 | 100.0 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_161540_flag_0_multi_17.5627_len_2099
+
+CONTIG: k105_173490_flag_1_multi_3.0000_len_2035 (2035bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 1957
+		This contig is partially unaligned. (Aligned 78 out of 2035 bases)
+		Alignment: 750683 750760 | 1996 1919 | 78 78 | 100.0 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_173490_flag_1_multi_3.0000_len_2035
+		Unaligned bases: 1 to 1918 (1918)
+		Unaligned bases: 1997 to 2035 (39)
+
+CONTIG: k105_177774_flag_1_multi_4.6938_len_1875 (1875bp)
+Best alignment score: 81.0 (LEN: 82, IDY: 98.78)
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 1793
+		This contig is partially unaligned. (Aligned 82 out of 1875 bases)
+		Alignment: 1768857 1768938 | 1731 1650 | 82 82 | 98.78 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_177774_flag_1_multi_4.6938_len_1875
+		Unaligned bases: 1 to 1649 (1649)
+		Unaligned bases: 1732 to 1875 (144)
+
+CONTIG: k105_183152_flag_1_multi_4.0000_len_2776 (2776bp)
+Best alignment score: 77.0 (LEN: 79, IDY: 97.47)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 2697
+		This contig is partially unaligned. (Aligned 79 out of 2776 bases)
+		Alignment: 409741 409819 | 2644 2722 | 79 79 | 97.47 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_183152_flag_1_multi_4.0000_len_2776
+		Unaligned bases: 1 to 2643 (2643)
+		Unaligned bases: 2723 to 2776 (54)
+
+CONTIG: k105_196718_flag_1_multi_11.3185_len_2604 (2604bp)
+Best alignment score: 207.0 (LEN: 217, IDY: 95.39)
+			The best set is below. Score: 207.0, number of alignments: 1, unaligned bases: 2387
+		This contig is partially unaligned. (Aligned 217 out of 2604 bases)
+		Alignment: 252426 252642 | 1 217 | 217 217 | 95.39 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_196718_flag_1_multi_11.3185_len_2604
+		Unaligned bases: 218 to 2604 (2387)
+
+CONTIG: k105_197694_flag_1_multi_6.0000_len_3428 (3428bp)
+Best alignment score: 102.0 (LEN: 107, IDY: 95.37)
+			The best set is below. Score: 102.0, number of alignments: 1, unaligned bases: 3321
+		This contig is partially unaligned. (Aligned 107 out of 3428 bases)
+		Alignment: 2733308 2733415 | 941 835 | 108 107 | 95.37 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_197694_flag_1_multi_6.0000_len_3428
+		Unaligned bases: 1 to 834 (834)
+		Unaligned bases: 942 to 3428 (2487)
+
+CONTIG: k105_199231_flag_0_multi_2.9700_len_772 (772bp)
+Best alignment score: 84.0 (LEN: 84, IDY: 100.00)
+			The best set is below. Score: 84.0, number of alignments: 1, unaligned bases: 688
+		This contig is partially unaligned. (Aligned 84 out of 772 bases)
+		Alignment: 409739 409822 | 748 665 | 84 84 | 100.0 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_199231_flag_0_multi_2.9700_len_772
+		Unaligned bases: 1 to 664 (664)
+		Unaligned bases: 749 to 772 (24)
+
+CONTIG: k105_199240_flag_0_multi_3.9816_len_1736 (1736bp)
+Best alignment score: 81.0 (LEN: 81, IDY: 100.00)
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 1655
+		This contig is partially unaligned. (Aligned 81 out of 1736 bases)
+		Alignment: 409739 409819 | 1712 1632 | 81 81 | 100.0 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_199240_flag_0_multi_3.9816_len_1736
+		Unaligned bases: 1 to 1631 (1631)
+		Unaligned bases: 1713 to 1736 (24)
+
+CONTIG: k105_219783_flag_1_multi_6.0000_len_667 (667bp)
+Best alignment score: 123.0 (LEN: 127, IDY: 96.85)
+			The best set is below. Score: 123.0, number of alignments: 1, unaligned bases: 540
+		This contig is partially unaligned. (Aligned 127 out of 667 bases)
+		Alignment: 1768557 1768683 | 541 667 | 127 127 | 96.85 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_219783_flag_1_multi_6.0000_len_667
+		Unaligned bases: 1 to 540 (540)
+
+CONTIG: k105_220469_flag_0_multi_6.4835_len_4860 (4860bp)
+Best alignment score: 100.0 (LEN: 103, IDY: 97.09)
+			The best set is below. Score: 100.0, number of alignments: 1, unaligned bases: 4757
+		This contig is partially unaligned. (Aligned 103 out of 4860 bases)
+		Alignment: 1715743 1715845 | 2 104 | 103 103 | 97.09 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_220469_flag_0_multi_6.4835_len_4860
+		Unaligned bases: 1 to 1 (1)
+		Unaligned bases: 105 to 4860 (4756)
+
+CONTIG: k105_231625_flag_1_multi_2.0000_len_846 (846bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 771
+		This contig is partially unaligned. (Aligned 75 out of 846 bases)
+		Alignment: 598370 598444 | 846 772 | 75 75 | 100.0 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_231625_flag_1_multi_2.0000_len_846
+		Unaligned bases: 1 to 771 (771)
+
+CONTIG: k105_232364_flag_1_multi_3.9361_len_1419 (1419bp)
+Best alignment score: 140.0 (LEN: 145, IDY: 96.58)
+			The best set is below. Score: 140.0, number of alignments: 1, unaligned bases: 1274
+		This contig is partially unaligned. (Aligned 145 out of 1419 bases)
+		Alignment: 253986 254130 | 1 145 | 145 145 | 96.58 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_232364_flag_1_multi_3.9361_len_1419
+		Unaligned bases: 146 to 1419 (1274)
+
+CONTIG: k105_247947_flag_0_multi_3.9515_len_723 (723bp)
+Best alignment score: 470.0 (LEN: 479, IDY: 98.12)
+			The best set is below. Score: 470.0, number of alignments: 1, unaligned bases: 244
+		Alignment: 254023 254501 | 723 245 | 479 479 | 98.12 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_247947_flag_0_multi_3.9515_len_723
+
+CONTIG: k105_256308_flag_0_multi_5.6545_len_1639 (1639bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 1563
+		This contig is partially unaligned. (Aligned 76 out of 1639 bases)
+		Alignment: 746568 746643 | 1170 1245 | 76 76 | 100.0 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_256308_flag_0_multi_5.6545_len_1639
+		Unaligned bases: 1 to 1169 (1169)
+		Unaligned bases: 1246 to 1639 (394)
+
+CONTIG: k105_257173_flag_1_multi_4.0000_len_2183 (2183bp)
+Best alignment score: 154.0 (LEN: 158, IDY: 97.47)
+			The best set is below. Score: 154.0, number of alignments: 1, unaligned bases: 2025
+		This contig is partially unaligned. (Aligned 158 out of 2183 bases)
+		Alignment: 2736097 2736254 | 1134 977 | 158 158 | 97.47 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_257173_flag_1_multi_4.0000_len_2183
+		Unaligned bases: 1 to 976 (976)
+		Unaligned bases: 1135 to 2183 (1049)
+
+CONTIG: k105_260479_flag_1_multi_1.0000_len_607 (607bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 531
+		Alignment: 1768861 1768936 | 566 491 | 76 76 | 100.0 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_260479_flag_1_multi_1.0000_len_607
+
+CONTIG: k105_291056_flag_1_multi_3.1912_len_513 (513bp)
+Best alignment score: 203.0 (LEN: 212, IDY: 95.75)
+			The best set is below. Score: 203.0, number of alignments: 1, unaligned bases: 301
+		Alignment: 255056 255267 | 302 513 | 212 212 | 95.75 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_291056_flag_1_multi_3.1912_len_513
+
+CONTIG: k105_319236_flag_1_multi_4.0000_len_2599 (2599bp)
+Best alignment score: 81.0 (LEN: 82, IDY: 98.78)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2736178 2736253 | 1526 1451 | 76 76 | 100.0 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_319236_flag_1_multi_4.0000_len_2599
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 2517
+		This contig is partially unaligned. (Aligned 82 out of 2599 bases)
+		Alignment: 2440881 2440962 | 1528 1447 | 82 82 | 98.78 | Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k105_319236_flag_1_multi_4.0000_len_2599
+		Unaligned bases: 1 to 1446 (1446)
+		Unaligned bases: 1529 to 2599 (1071)
+
+Analyzing coverage...
+Writing SNPs into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Luminiphilus_syltensis_NOR5-1B/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence: 38 total alignments. 1 total regions.
+		Region: 1 to 3261541 (3261541 bp)
+			START in gap: 1 to 251474 (251473 bp)
+			Align 1: 251474 251860 k105_57061_flag_1_multi_17.8298_len_904 518 904
+				Gap between this and next alignment: 251860 to 251926 (65 bp)
+				Next Alignment: 251926 252478 k105_156592_flag_0_multi_40.1071_len_553 553 1
+
+			Align 2: 251926 252478 k105_156592_flag_0_multi_40.1071_len_553 553 1
+				Negative gap (overlap) between this and next alignment: 252478 to 252426 (-52 bp)
+				Next Alignment: 252426 252642 k105_196718_flag_1_multi_11.3185_len_2604 1 217
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 54.
+			Align 3: 252479 252642 k105_196718_flag_1_multi_11.3185_len_2604 54 217
+				Gap between this and next alignment: 252642 to 252746 (103 bp)
+				Next Alignment: 252746 253215 k105_42521_flag_1_multi_21.0000_len_988 1 470
+
+			Align 4: 252746 253215 k105_42521_flag_1_multi_21.0000_len_988 1 470
+				Gap between this and next alignment: 253215 to 253337 (121 bp)
+				Next Alignment: 253337 253849 k105_42521_flag_1_multi_21.0000_len_988 476 988
+
+			Align 5: 253337 253849 k105_42521_flag_1_multi_21.0000_len_988 476 988
+				Gap between this and next alignment: 253849 to 253956 (106 bp)
+				Next Alignment: 253956 254059 k105_58820_flag_1_multi_5.0000_len_736 104 1
+
+			Align 6: 253956 254059 k105_58820_flag_1_multi_5.0000_len_736 104 1
+				Negative gap (overlap) between this and next alignment: 254059 to 253986 (-73 bp)
+				Next Alignment: 253986 254130 k105_232364_flag_1_multi_3.9361_len_1419 1 145
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 76.
+			Align 7: 254060 254130 k105_232364_flag_1_multi_3.9361_len_1419 76 145
+				Negative gap (overlap) between this and next alignment: 254130 to 254023 (-107 bp)
+				Next Alignment: 254023 254501 k105_247947_flag_0_multi_3.9515_len_723 723 245
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 723 to 615.
+			Align 8: 254131 254501 k105_247947_flag_0_multi_3.9515_len_723 615 245
+				Gap between this and next alignment: 254501 to 254893 (391 bp)
+				Next Alignment: 254893 254970 k105_161540_flag_0_multi_17.5627_len_2099 2091 2014
+
+			Align 9: 254893 254970 k105_161540_flag_0_multi_17.5627_len_2099 2091 2014
+				Gap between this and next alignment: 254970 to 254991 (20 bp)
+				Next Alignment: 254991 256369 k105_161540_flag_0_multi_17.5627_len_2099 1871 494
+
+			Align 10: 254991 256369 k105_161540_flag_0_multi_17.5627_len_2099 1871 494
+				The next alignment (255056 255267 k105_291056_flag_1_multi_3.1912_len_513 302 513) is redundant. Skipping.
+				Gap between this and next alignment: 256369 to 409739 (153369 bp)
+				Next Alignment: 409739 409827 k105_41365_flag_1_multi_4.8350_len_4142 2 90
+
+			Align 12: 409739 409827 k105_41365_flag_1_multi_4.8350_len_4142 2 90
+				The next alignment (409739 409822 k105_199231_flag_0_multi_2.9700_len_772 748 665) is redundant. Skipping.
+				The next alignment (409739 409819 k105_199240_flag_0_multi_3.9816_len_1736 1712 1632) is redundant. Skipping.
+				The next alignment (409741 409819 k105_76712_flag_1_multi_2.9334_len_826 25 103) is redundant. Skipping.
+				The next alignment (409741 409819 k105_183152_flag_1_multi_4.0000_len_2776 2644 2722) is redundant. Skipping.
+				Gap between this and next alignment: 409827 to 535429 (125601 bp)
+				Next Alignment: 535429 535530 k105_69255_flag_1_multi_3.0000_len_671 101 1
+
+			Align 17: 535429 535530 k105_69255_flag_1_multi_3.0000_len_671 101 1
+				Gap between this and next alignment: 535530 to 598365 (62834 bp)
+				Next Alignment: 598365 598443 k105_134615_flag_1_multi_2.5403_len_514 175 97
+
+			Align 18: 598365 598443 k105_134615_flag_1_multi_2.5403_len_514 175 97
+				Negative gap (overlap) between this and next alignment: 598443 to 598365 (-78 bp)
+				Next Alignment: 598365 598444 k105_144923_flag_1_multi_6.0000_len_1625 1624 1545
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1624 to 1545.
+			Align 19: 598444 598444 k105_144923_flag_1_multi_6.0000_len_1625 1545 1545
+				The next alignment (598370 598444 k105_231625_flag_1_multi_2.0000_len_846 846 772) is redundant. Skipping.
+				Gap between this and next alignment: 598444 to 746568 (148123 bp)
+				Next Alignment: 746568 746643 k105_256308_flag_0_multi_5.6545_len_1639 1170 1245
+
+			Align 21: 746568 746643 k105_256308_flag_0_multi_5.6545_len_1639 1170 1245
+				Gap between this and next alignment: 746643 to 750683 (4039 bp)
+				Next Alignment: 750683 750760 k105_173490_flag_1_multi_3.0000_len_2035 1996 1919
+
+			Align 22: 750683 750760 k105_173490_flag_1_multi_3.0000_len_2035 1996 1919
+				Gap between this and next alignment: 750760 to 1715743 (964982 bp)
+				Next Alignment: 1715743 1715845 k105_78111_flag_0_multi_6.0000_len_1707 104 2
+
+			Align 23: 1715743 1715845 k105_78111_flag_0_multi_6.0000_len_1707 104 2
+				The next alignment (1715743 1715845 k105_220469_flag_0_multi_6.4835_len_4860 2 104) is redundant. Skipping.
+				Gap between this and next alignment: 1715845 to 1768557 (52711 bp)
+				Next Alignment: 1768557 1768683 k105_219783_flag_1_multi_6.0000_len_667 541 667
+
+			Align 25: 1768557 1768683 k105_219783_flag_1_multi_6.0000_len_667 541 667
+				Gap between this and next alignment: 1768683 to 1768857 (173 bp)
+				Next Alignment: 1768857 1768938 k105_102911_flag_1_multi_3.0000_len_790 779 698
+
+			Align 26: 1768857 1768938 k105_102911_flag_1_multi_3.0000_len_790 779 698
+				The next alignment (1768857 1768938 k105_177774_flag_1_multi_4.6938_len_1875 1731 1650) is redundant. Skipping.
+				The next alignment (1768861 1768936 k105_260479_flag_1_multi_1.0000_len_607 566 491) is redundant. Skipping.
+				Gap between this and next alignment: 1768938 to 1770392 (1453 bp)
+				Next Alignment: 1770392 1770476 k105_12062_flag_1_multi_2.8913_len_565 517 433
+
+			Align 29: 1770392 1770476 k105_12062_flag_1_multi_2.8913_len_565 517 433
+				The next alignment (1770399 1770476 k105_40360_flag_1_multi_5.0000_len_2570 2567 2490) is redundant. Skipping.
+				The next alignment (1770399 1770476 k105_54293_flag_1_multi_2.5799_len_781 688 765) is redundant. Skipping.
+				Gap between this and next alignment: 1770476 to 2234118 (463641 bp)
+				Next Alignment: 2234118 2234195 k105_30856_flag_1_multi_11.0000_len_12904 6225 6302
+
+			Align 32: 2234118 2234195 k105_30856_flag_1_multi_11.0000_len_12904 6225 6302
+				Gap between this and next alignment: 2234195 to 2440881 (206685 bp)
+				Next Alignment: 2440881 2440964 k105_63_flag_1_multi_6.9873_len_9528 7712 7628
+
+			Align 33: 2440881 2440964 k105_63_flag_1_multi_6.9873_len_9528 7712 7628
+				The next alignment (2440881 2440962 k105_319236_flag_1_multi_4.0000_len_2599 1528 1447) is redundant. Skipping.
+				Gap between this and next alignment: 2440964 to 2441155 (190 bp)
+				Next Alignment: 2441155 2441238 k105_131055_flag_1_multi_4.0000_len_3254 1810 1727
+
+			Align 35: 2441155 2441238 k105_131055_flag_1_multi_4.0000_len_3254 1810 1727
+				Gap between this and next alignment: 2441238 to 2733308 (292069 bp)
+				Next Alignment: 2733308 2733415 k105_197694_flag_1_multi_6.0000_len_3428 941 835
+
+			Align 36: 2733308 2733415 k105_197694_flag_1_multi_6.0000_len_3428 941 835
+				Gap between this and next alignment: 2733415 to 2736097 (2681 bp)
+				Next Alignment: 2736097 2736254 k105_257173_flag_1_multi_4.0000_len_2183 1134 977
+
+			Align 37: 2736097 2736254 k105_257173_flag_1_multi_4.0000_len_2183 1134 977
+				Gap between this and next alignment: 2736254 to 2819089 (82834 bp)
+				Next Alignment: 2819089 2819183 k105_21119_flag_1_multi_6.0000_len_1597 1193 1100
+
+			Align 38: 2819089 2819183 k105_21119_flag_1_multi_6.0000_len_1597 1193 1100
+			END in gap: 2819183 to 3261541 (442358 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Luminiphilus_syltensis_NOR5-1B/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 2
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 28 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 68458
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 5519
+
+	SNPs: 154
+	Insertions: 3
+	Deletions: 7
+
+	Positive Gaps: 23
+		Internal Gaps: 2
+		External Gaps: 21
+		External Gap Total: 3255881
+		External Gap Average: 155042
+	Negative Gaps: 4
+		Internal Overlaps: 0
+		External Overlaps: 4
+		External Overlaps Total: -310
+		External Overlaps Average: -78
+	Contigs with Redundant Alignments: 7 (1109)

@@ -1,0 +1,11 @@
+/home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/Aminobacter_sp._J41.fasta /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/final-contigs_to_Aminobacter_sp._J41.fasta
+NUCMER
+>Aminobacter_sp._J41_NZ_JAGL01000082.1_Aminobacter_sp._J41_AmiJ41DRAFT_c82_C__whole_genome_shotgun_sequence k105_200114_flag_1_multi_32.0000_len_1772 2590 1772
+1091 1195 1 105 4 4 0
+0
+>Aminobacter_sp._J41_NZ_JAGL01000083.1_Aminobacter_sp._J41_AmiJ41DRAFT_c83_C__whole_genome_shotgun_sequence k105_202828_flag_1_multi_2.0000_len_591 2584 591
+2142 2257 1 116 3 3 0
+0
+>Aminobacter_sp._J41_NZ_JAGL01000083.1_Aminobacter_sp._J41_AmiJ41DRAFT_c83_C__whole_genome_shotgun_sequence k105_49486_flag_1_multi_2.9647_len_2257 2584 2257
+2104 2241 7 144 5 5 0
+0

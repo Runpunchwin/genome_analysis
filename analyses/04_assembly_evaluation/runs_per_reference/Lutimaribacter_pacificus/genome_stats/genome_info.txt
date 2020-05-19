@@ -1,0 +1,39 @@
+reference chromosomes:
+	Lutimaribacter_pacificus_NZ_FNIO01000014.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 72563 bp, maximal covered length: 1216 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000017.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 15240 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000016.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 27980 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000020.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 6531 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000008.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 157142 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000009.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 144993 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000024.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 2507 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000010.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 106141 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000019.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 11767 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000013.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 78657 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000007.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 179066 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000003.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 559349 bp, maximal covered length: 98 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000005.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 383360 bp, maximal covered length: 88 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000001.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 1238168 bp, maximal covered length: 416 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000021.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 5338 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000022.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 3306 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000023.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 3136 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000002.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 576224 bp, maximal covered length: 1583 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000015.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 58838 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000011.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 96928 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000025.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 1557 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000012.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 91615 bp, maximal covered length: 99 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000018.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 12541 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000004.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 400012 bp, maximal covered length: 105 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000026.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 1252 bp, maximal covered length: 0 bp)
+	Lutimaribacter_pacificus_NZ_FNIO01000006.1_Lutimaribacter_pacificus_strain_CGMCC_1.10970__whole_genome_shotgun_sequence (total length: 207453 bp, maximal covered length: 0 bp)
+
+total genome size: 4441664
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Lutimar | 0.08116%  | 1.69958     | 44        | -         | -         | -         | -         |

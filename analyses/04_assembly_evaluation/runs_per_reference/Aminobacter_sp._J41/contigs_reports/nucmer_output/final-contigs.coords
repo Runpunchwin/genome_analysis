@@ -1,0 +1,6 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+    1091     1195  |        1      105  |      105      105  |    96.19  | Aminobacter_sp._J41_NZ_JAGL01000082.1_Aminobacter_sp._J41_AmiJ41DRAFT_c82_C__whole_genome_shotgun_sequence	k105_200114_flag_1_multi_32.0000_len_1772
+    2142     2257  |        1      116  |      116      116  |    97.41  | Aminobacter_sp._J41_NZ_JAGL01000083.1_Aminobacter_sp._J41_AmiJ41DRAFT_c83_C__whole_genome_shotgun_sequence	k105_202828_flag_1_multi_2.0000_len_591
+    2111     2255  |        1      145  |      145      145  |    96.55  | Aminobacter_sp._J41_NZ_JAGL01000083.1_Aminobacter_sp._J41_AmiJ41DRAFT_c83_C__whole_genome_shotgun_sequence	k105_4041_flag_1_multi_2.7884_len_984
+    2104     2241  |        7      144  |      138      138  |    96.38  | Aminobacter_sp._J41_NZ_JAGL01000083.1_Aminobacter_sp._J41_AmiJ41DRAFT_c83_C__whole_genome_shotgun_sequence	k105_49486_flag_1_multi_2.9647_len_2257

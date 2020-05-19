@@ -1,0 +1,7 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+  104138   104213  |    27215    27290  |       76       76  |    98.68  | Planctomyces_maris_DSM_8797_NZ_ABCE01000024.1_Gimesia_maris_DSM_8797_1101493009154__whole_genome_shotgun_sequence	k105_230933_flag_1_multi_10.4740_len_89244
+   25044    25125  |      309      390  |       82       82  |    98.78  | Planctomyces_maris_DSM_8797_NZ_ABCE01000024.1_Gimesia_maris_DSM_8797_1101493009154__whole_genome_shotgun_sequence	k105_271414_flag_1_multi_1.0000_len_620
+   25044    25121  |      534      457  |       78       78  |    98.72  | Planctomyces_maris_DSM_8797_NZ_ABCE01000024.1_Gimesia_maris_DSM_8797_1101493009154__whole_genome_shotgun_sequence	k105_286707_flag_1_multi_2.0000_len_551
+   25047    25120  |    41897    41824  |       74       74  |   100.00  | Planctomyces_maris_DSM_8797_NZ_ABCE01000024.1_Gimesia_maris_DSM_8797_1101493009154__whole_genome_shotgun_sequence	k105_31549_flag_0_multi_8.9981_len_42314
+   25043    25120  |     1700     1623  |       78       78  |   100.00  | Planctomyces_maris_DSM_8797_NZ_ABCE01000024.1_Gimesia_maris_DSM_8797_1101493009154__whole_genome_shotgun_sequence	k105_80669_flag_1_multi_7.2482_len_2236

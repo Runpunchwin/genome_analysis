@@ -1,0 +1,213 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000001.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000002.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000003.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000004.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000005.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000006.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000007.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000008.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000009.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000010.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000011.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000012.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000013.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000014.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000015.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000016.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000017.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000018.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000019.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000020.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000021.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000022.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000023.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000024.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000025.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000026.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000027.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000028.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000029.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000030.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000031.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000032.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000033.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000034.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000035.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000036.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000037.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000039.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000040.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000041.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000042.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000043.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000044.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000045.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000046.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000047.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000048.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000049.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+	Loaded [Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000050.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 50
+	Total Region Length: 4745539
+Analyzing contigs...
+CONTIG: k105_43952_flag_1_multi_5.4623_len_728 (728bp)
+Best alignment score: 654.0 (LEN: 682, IDY: 95.90)
+			The best set is below. Score: 654.0, number of alignments: 1, unaligned bases: 46
+		Alignment: 870 1552 | 718 37 | 683 682 | 95.9 | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence k105_43952_flag_1_multi_5.4623_len_728
+
+CONTIG: k105_207900_flag_0_multi_5.9208_len_1430 (1430bp)
+Best alignment score: 1403.0 (LEN: 1430, IDY: 98.11)
+		One align captures most of this contig: 2646 4076 | 1430 1 | 1431 1430 | 98.11 | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence k105_207900_flag_0_multi_5.9208_len_1430
+
+CONTIG: k105_246597_flag_1_multi_2.9427_len_1362 (1362bp)
+Best alignment score: 79.0 (LEN: 83, IDY: 95.18)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 1279
+		This contig is partially unaligned. (Aligned 83 out of 1362 bases)
+		Alignment: 3987 4069 | 120 38 | 83 83 | 95.18 | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence k105_246597_flag_1_multi_2.9427_len_1362
+		Unaligned bases: 1 to 37 (37)
+		Unaligned bases: 121 to 1362 (1242)
+
+CONTIG: k105_247944_flag_0_multi_16.8222_len_1005 (1005bp)
+Best alignment score: 100.0 (LEN: 105, IDY: 95.24)
+			The best set is below. Score: 100.0, number of alignments: 1, unaligned bases: 900
+		This contig is partially unaligned. (Aligned 105 out of 1005 bases)
+		Alignment: 2472 2576 | 105 1 | 105 105 | 95.24 | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence k105_247944_flag_0_multi_16.8222_len_1005
+		Unaligned bases: 106 to 1005 (900)
+
+CONTIG: k105_280972_flag_1_multi_7.0000_len_622 (622bp)
+Best alignment score: 571.0 (LEN: 587, IDY: 97.28)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 20034 20334 | 9 308 | 301 300 | 97.67 | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000031.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence k105_280972_flag_1_multi_7.0000_len_622
+		Skipping redundant alignment 1 304 | 311 9 | 304 303 | 97.04 | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000030.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence k105_280972_flag_1_multi_7.0000_len_622
+			The best set is below. Score: 571.0, number of alignments: 1, unaligned bases: 35
+		Alignment: 1 587 | 36 622 | 587 587 | 97.28 | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence k105_280972_flag_1_multi_7.0000_len_622
+
+CONTIG: k105_18455_flag_0_multi_10.9954_len_56917 (56917bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 132057 132134 | 56840 56917 | 78 78 | 100.0 | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000002.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence k105_18455_flag_0_multi_10.9954_len_56917
+		Skipping redundant alignment 132159 132236 | 56840 56917 | 78 78 | 100.0 | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000002.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence k105_18455_flag_0_multi_10.9954_len_56917
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 56838
+		This contig is partially unaligned. (Aligned 79 out of 56917 bases)
+		Alignment: 132050 132128 | 56839 56917 | 79 79 | 100.0 | Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000002.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence k105_18455_flag_0_multi_10.9954_len_56917
+		Unaligned bases: 1 to 56838 (56838)
+
+Analyzing coverage...
+Writing SNPs into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Vibrio_proteolyticus_NBRC_13287/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000008.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000019.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000035.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000036.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000013.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000012.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000011.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000010.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000037.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000003.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000016.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000006.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000030.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000046.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000004.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000032.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000022.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000007.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000018.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000025.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000021.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000044.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000028.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000029.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000031.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000024.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000040.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000043.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000026.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000005.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000001.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000002.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 377532 (377532 bp)
+			START in gap: 1 to 132050 (132049 bp)
+			Align 1: 132050 132128 k105_18455_flag_0_multi_10.9954_len_56917 56839 56917
+			END in gap: 132128 to 377532 (245404 bp).
+
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000039.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000048.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000049.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000042.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000023.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000027.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000015.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000009.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000033.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000041.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000050.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000020.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000017.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000014.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence: 5 total alignments. 1 total regions.
+		Region: 1 to 5289 (5289 bp)
+			Align 1: 1 587 k105_280972_flag_1_multi_7.0000_len_622 36 622
+				Gap between this and next alignment: 587 to 870 (282 bp)
+				Next Alignment: 870 1552 k105_43952_flag_1_multi_5.4623_len_728 718 37
+
+			Align 2: 870 1552 k105_43952_flag_1_multi_5.4623_len_728 718 37
+				Gap between this and next alignment: 1552 to 2472 (919 bp)
+				Next Alignment: 2472 2576 k105_247944_flag_0_multi_16.8222_len_1005 105 1
+
+			Align 3: 2472 2576 k105_247944_flag_0_multi_16.8222_len_1005 105 1
+				Gap between this and next alignment: 2576 to 2646 (69 bp)
+				Next Alignment: 2646 4076 k105_207900_flag_0_multi_5.9208_len_1430 1430 1
+
+			Align 4: 2646 4076 k105_207900_flag_0_multi_5.9208_len_1430 1430 1
+				The next alignment (3987 4069 k105_246597_flag_1_multi_2.9427_len_1362 120 38) is redundant. Skipping.
+
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000047.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000045.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000034.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Vibrio_proteolyticus_NBRC_13287/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 3 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 59017
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 2885
+
+	SNPs: 72
+	Insertions: 1
+	Deletions: 3
+
+	Positive Gaps: 5
+		Internal Gaps: 0
+		External Gaps: 5
+		External Gap Total: 378723
+		External Gap Average: 75745
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 1 (83)

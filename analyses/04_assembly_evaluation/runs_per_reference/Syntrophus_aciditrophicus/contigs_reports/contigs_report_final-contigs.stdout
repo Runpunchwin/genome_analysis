@@ -1,0 +1,76 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 3179300
+Analyzing contigs...
+CONTIG: k105_48746_flag_0_multi_8.0000_len_2234 (2234bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 2159
+		This contig is partially unaligned. (Aligned 75 out of 2234 bases)
+		Alignment: 739807 739881 | 823 897 | 75 75 | 100.0 | Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence k105_48746_flag_0_multi_8.0000_len_2234
+		Unaligned bases: 1 to 822 (822)
+		Unaligned bases: 898 to 2234 (1337)
+
+CONTIG: k105_157586_flag_1_multi_5.8560_len_1480 (1480bp)
+Best alignment score: 92.0 (LEN: 96, IDY: 95.83)
+			The best set is below. Score: 92.0, number of alignments: 1, unaligned bases: 1384
+		This contig is partially unaligned. (Aligned 96 out of 1480 bases)
+		Alignment: 739341 739436 | 1 96 | 96 96 | 95.83 | Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence k105_157586_flag_1_multi_5.8560_len_1480
+		Unaligned bases: 97 to 1480 (1384)
+
+Analyzing coverage...
+Writing SNPs into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Syntrophus_aciditrophicus/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 3179300 (3179300 bp)
+			START in gap: 1 to 739341 (739340 bp)
+			Align 1: 739341 739436 k105_157586_flag_1_multi_5.8560_len_1480 1 96
+				Gap between this and next alignment: 739436 to 739807 (370 bp)
+				Next Alignment: 739807 739881 k105_48746_flag_0_multi_8.0000_len_2234 823 897
+
+			Align 2: 739807 739881 k105_48746_flag_0_multi_8.0000_len_2234 823 897
+			END in gap: 739881 to 3179300 (2439419 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Syntrophus_aciditrophicus/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 2 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 3543
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 171
+
+	SNPs: 4
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 3
+		Internal Gaps: 0
+		External Gaps: 3
+		External Gap Total: 3179129
+		External Gap Average: 1059710
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 0 (0)

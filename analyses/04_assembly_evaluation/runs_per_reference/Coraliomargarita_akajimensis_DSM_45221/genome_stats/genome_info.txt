@@ -1,0 +1,14 @@
+reference chromosomes:
+	Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome (total length: 3750771 bp, maximal covered length: 160 bp)
+
+total genome size: 3750771
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Coralio | 0.00427%  | 14.71875    | 3         | -         | -         | -         | -         |

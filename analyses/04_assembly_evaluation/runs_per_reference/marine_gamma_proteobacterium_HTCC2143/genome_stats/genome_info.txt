@@ -1,0 +1,43 @@
+reference chromosomes:
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000022.1_Marine_gamma_proteobacterium_HTCC2143_1100111000153__whole_genome_shotgun_sequence (total length: 12382 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000011.1_Marine_gamma_proteobacterium_HTCC2143_1100111000152__whole_genome_shotgun_sequence (total length: 92466 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000025.1_Marine_gamma_proteobacterium_HTCC2143_1100111000154__whole_genome_shotgun_sequence (total length: 8090 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000021.1_Marine_gamma_proteobacterium_HTCC2143_1100111000156__whole_genome_shotgun_sequence (total length: 12398 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000028.1_Marine_gamma_proteobacterium_HTCC2143_1100111000150__whole_genome_shotgun_sequence (total length: 2216 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000002.1_Marine_gamma_proteobacterium_HTCC2143_1100111000172__whole_genome_shotgun_sequence (total length: 461956 bp, maximal covered length: 79 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000029.1_Marine_gamma_proteobacterium_HTCC2143_1100111000149__whole_genome_shotgun_sequence (total length: 2018 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000026.1_Marine_gamma_proteobacterium_HTCC2143_1100111000160__whole_genome_shotgun_sequence (total length: 5756 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000014.1_Marine_gamma_proteobacterium_HTCC2143_1100111000175__whole_genome_shotgun_sequence (total length: 53284 bp, maximal covered length: 79 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000007.1_Marine_gamma_proteobacterium_HTCC2143_1100111000168__whole_genome_shotgun_sequence (total length: 191779 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000003.1_Marine_gamma_proteobacterium_HTCC2143_1100111000173__whole_genome_shotgun_sequence (total length: 393112 bp, maximal covered length: 463 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000008.1_Marine_gamma_proteobacterium_HTCC2143_1100111000166__whole_genome_shotgun_sequence (total length: 191320 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000015.1_Marine_gamma_proteobacterium_HTCC2143_1100111000151__whole_genome_shotgun_sequence (total length: 50956 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000027.1_Marine_gamma_proteobacterium_HTCC2143_1100111000155__whole_genome_shotgun_sequence (total length: 2379 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000012.1_Marine_gamma_proteobacterium_HTCC2143_1100111000148__whole_genome_shotgun_sequence (total length: 89732 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000024.1_Marine_gamma_proteobacterium_HTCC2143_1100111000159__whole_genome_shotgun_sequence (total length: 11122 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000010.1_Marine_gamma_proteobacterium_HTCC2143_1100111000157__whole_genome_shotgun_sequence (total length: 106968 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000016.1_Marine_gamma_proteobacterium_HTCC2143_1100111000163__whole_genome_shotgun_sequence (total length: 36878 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000004.1_Marine_gamma_proteobacterium_HTCC2143_1100111000171__whole_genome_shotgun_sequence (total length: 234696 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000019.1_Marine_gamma_proteobacterium_HTCC2143_1100111000161__whole_genome_shotgun_sequence (total length: 17864 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000006.1_Marine_gamma_proteobacterium_HTCC2143_1100111000170__whole_genome_shotgun_sequence (total length: 218226 bp, maximal covered length: 83 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000013.1_Marine_gamma_proteobacterium_HTCC2143_1100111000174__whole_genome_shotgun_sequence (total length: 55436 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000005.1_Marine_gamma_proteobacterium_HTCC2143_1100111000167__whole_genome_shotgun_sequence (total length: 221461 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000030.1_Marine_gamma_proteobacterium_HTCC2143_1100111000165__whole_genome_shotgun_sequence (total length: 1388 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000020.1_Marine_gamma_proteobacterium_HTCC2143_1100111000147__whole_genome_shotgun_sequence (total length: 16725 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000001.1_Marine_gamma_proteobacterium_HTCC2143_1100111000176__whole_genome_shotgun_sequence (total length: 1224319 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000018.1_Marine_gamma_proteobacterium_HTCC2143_1100111000158__whole_genome_shotgun_sequence (total length: 25797 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000009.1_Marine_gamma_proteobacterium_HTCC2143_1100111000169__whole_genome_shotgun_sequence (total length: 141650 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000017.1_Marine_gamma_proteobacterium_HTCC2143_1100111000164__whole_genome_shotgun_sequence (total length: 31306 bp, maximal covered length: 0 bp)
+	marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000023.1_Marine_gamma_proteobacterium_HTCC2143_1100111000162__whole_genome_shotgun_sequence (total length: 11949 bp, maximal covered length: 0 bp)
+
+total genome size: 3925629
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_marine_ | 0.01793%  | 1.09659     | 34        | -         | -         | -         | -         |

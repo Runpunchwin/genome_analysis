@@ -1,0 +1,123 @@
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 --colors #E31A1C --ls solid --no-check-meta --contig-thresholds 1000,5000,10000,25000,50000 --memory-efficient -t 1 /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/final-contigs_to_Aminobacter_sp._J41.fasta -R /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/Aminobacter_sp._J41.fasta -o /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41 --labels final.contigs
+
+Started: 2020-04-16 13:33:44
+
+Logging to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/quast.log
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 1, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/Aminobacter_sp._J41.fasta ==> Aminobacter_sp._J41
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/final-contigs_to_Aminobacter_sp._J41.fasta ==> final.contigs
+
+2020-04-16 13:33:44
+Running Basic statistics processor...
+  Reference genome:
+    Aminobacter_sp._J41.fasta, length = 4234633, num fragments = 113, GC % = 63.34
+WARNING:   Reference genome is fragmented. You may consider rerunning QUAST using --fragmented option. QUAST will try to detect misassemblies caused by the fragmentation and mark them fake (will be excluded from # misassemblies).
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 1772, L50 = 2, Total length = 5604, GC % = 43.33, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/basic_stats/GC_content_plot.pdf
+  Drawing final.contigs GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/basic_stats/final.contigs_GC_content_plot.pdf
+Done.
+
+2020-04-16 13:33:47
+Running Contig analyzer...
+  final.contigs
+  Logging to files /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/contigs_report_final-contigs.stdout and contigs_report_final-contigs.stderr...
+  Aligning contigs to the reference
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/nucmer \
+  -c 65 -l 65 --maxmatch -p /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/nucmer_output/final-contigs \
+  --emem -t 1 /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/Aminobacter_sp._J41.fasta \
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/final-contigs_to_Aminobacter_sp._J41.fasta \
+  >> /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/contigs_report_final-contigs.stdout \
+  2>> /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/contigs_report_final-contigs.stderr
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/delta-filter \
+  -i 95.0 -l 0 /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/nucmer_output/final-contigs.delta \
+  > /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/nucmer_output/final-contigs.fdelta \
+  2> /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/contigs_report_final-contigs.stderr
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/mummerplot \
+  --html --layout -p /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/nucmer_output/final-contigs \
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/nucmer_output/final-contigs.delta \
+  > /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/contigs_report_final-contigs.stdout \
+  2> /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/contigs_report_final-contigs.stderr
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/gnuplot/src/gnuplot \
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/nucmer_output/final-contigs.gp \
+  > /dev/null 2> /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/contigs_report_final-contigs.stderr
+  MUMmer plot saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/final-contigs_mummerplot.html
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/show-coords \
+  /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/nucmer_output/final-contigs.delta \
+  > /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/nucmer_output/final-contigs.coords_tmp \
+  2> /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/contigs_report_final-contigs.stderr
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/show-snps \
+  -S -T -H /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/nucmer_output/final-contigs.delta \
+  < /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/nucmer_output/final-contigs.coords.headless \
+  > /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/nucmer_output/final-contigs.all_snps \
+  2> /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/contigs_report_final-contigs.stderr
+  Analysis is finished.
+
+  Gzipping /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/nucmer_output/final-contigs.all_snps to reduce disk space usage...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/nucmer_output/final-contigs.all_snps.gz
+  Creating total report...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2020-04-16 13:33:51
+Running NA-NGA calculation...
+  final.contigs, Largest alignment = 145, NA50 = None, LA50 = None
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/aligned_stats/NGAx_plot.pdf
+Done.
+
+2020-04-16 13:33:53
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  final.contigs
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-16 13:33:54
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-16 13:33:57
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/icarus.html

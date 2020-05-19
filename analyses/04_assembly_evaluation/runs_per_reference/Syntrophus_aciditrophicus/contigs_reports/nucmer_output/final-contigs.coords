@@ -1,0 +1,4 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+  739341   739436  |        1       96  |       96       96  |    95.83  | Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence	k105_157586_flag_1_multi_5.8560_len_1480
+  739807   739881  |      823      897  |       75       75  |   100.00  | Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence	k105_48746_flag_0_multi_8.0000_len_2234

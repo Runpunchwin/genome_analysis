@@ -1,0 +1,22 @@
+/home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/Psychrobacter_sp._PRwf-1.fasta /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/final-contigs_to_Psychrobacter_sp._PRwf-1.fasta
+NUCMER
+>Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k105_153166_flag_1_multi_6.5246_len_1001 2978976 1001
+2816627 2816712 991 906 1 1 0
+0
+>Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k105_191243_flag_1_multi_10.0000_len_109683 2978976 109683
+250122 250199 73825 73902 0 0 0
+0
+250335 250415 73826 73906 0 0 0
+0
+>Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k105_211177_flag_1_multi_7.4634_len_5819 2978976 5819
+183578 183656 1728 1806 0 0 0
+0
+>Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k105_215101_flag_1_multi_3.6623_len_709 2978976 709
+2812128 2812271 696 553 4 4 0
+0
+>Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k105_246597_flag_1_multi_2.9427_len_1362 2978976 1362
+780571 780653 120 38 4 4 0
+0
+>Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k105_312990_flag_1_multi_3.9913_len_1482 2978976 1482
+2661967 2662052 1395 1480 0 0 0
+0

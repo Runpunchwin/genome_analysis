@@ -1,0 +1,38 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     final.contigs
+# contigs (>= 1000 bp)       4            
+# contigs (>= 5000 bp)       1            
+# contigs (>= 10000 bp)      0            
+# contigs (>= 25000 bp)      0            
+# contigs (>= 50000 bp)      0            
+Total length (>= 1000 bp)    11212        
+Total length (>= 5000 bp)    5445         
+Total length (>= 10000 bp)   0            
+Total length (>= 25000 bp)   0            
+Total length (>= 50000 bp)   0            
+# contigs                    8            
+Largest contig               5445         
+Total length                 13769        
+Reference length             4638566      
+GC (%)                       39.14        
+Reference GC (%)             41.62        
+N50                          2989         
+N75                          1236         
+L50                          2            
+L75                          4            
+# misassemblies              0            
+# misassembled contigs       0            
+Misassembled contigs length  0            
+# local misassemblies        0            
+# unaligned mis. contigs     0            
+# unaligned contigs          0 + 6 part   
+Unaligned length             12157        
+Genome fraction (%)          0.011        
+Duplication ratio            3.297        
+# N's per 100 kbp            0.00         
+# mismatches per 100 kbp     1840.49      
+# indels per 100 kbp         0.00         
+Largest alignment            189          
+Total aligned length         707          
+NGA50                        -            

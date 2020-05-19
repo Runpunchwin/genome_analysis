@@ -1,0 +1,20 @@
+reference chromosomes:
+	Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000003.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00003.3_C__whole_genome_shotgun_sequence (total length: 324721 bp, maximal covered length: 0 bp)
+	Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000004.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00004.4_C__whole_genome_shotgun_sequence (total length: 291644 bp, maximal covered length: 78 bp)
+	Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000002.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00002.2_C__whole_genome_shotgun_sequence (total length: 342572 bp, maximal covered length: 0 bp)
+	Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000007.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00007.7_C__whole_genome_shotgun_sequence (total length: 15563 bp, maximal covered length: 0 bp)
+	Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000006.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00006.6_C__whole_genome_shotgun_sequence (total length: 218170 bp, maximal covered length: 162 bp)
+	Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000001.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00001.1_C__whole_genome_shotgun_sequence (total length: 2483318 bp, maximal covered length: 80 bp)
+	Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000005.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00005.5_C__whole_genome_shotgun_sequence (total length: 271354 bp, maximal covered length: 0 bp)
+
+total genome size: 3947342
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Spongii | 0.00811%  | 5.62812     | 11        | -         | -         | -         | -         |

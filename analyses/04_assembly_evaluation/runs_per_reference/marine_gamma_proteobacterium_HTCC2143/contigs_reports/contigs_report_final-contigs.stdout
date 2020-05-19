@@ -1,0 +1,173 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000001.1_Marine_gamma_proteobacterium_HTCC2143_1100111000176__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000002.1_Marine_gamma_proteobacterium_HTCC2143_1100111000172__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000003.1_Marine_gamma_proteobacterium_HTCC2143_1100111000173__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000004.1_Marine_gamma_proteobacterium_HTCC2143_1100111000171__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000005.1_Marine_gamma_proteobacterium_HTCC2143_1100111000167__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000006.1_Marine_gamma_proteobacterium_HTCC2143_1100111000170__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000007.1_Marine_gamma_proteobacterium_HTCC2143_1100111000168__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000008.1_Marine_gamma_proteobacterium_HTCC2143_1100111000166__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000009.1_Marine_gamma_proteobacterium_HTCC2143_1100111000169__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000010.1_Marine_gamma_proteobacterium_HTCC2143_1100111000157__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000011.1_Marine_gamma_proteobacterium_HTCC2143_1100111000152__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000012.1_Marine_gamma_proteobacterium_HTCC2143_1100111000148__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000013.1_Marine_gamma_proteobacterium_HTCC2143_1100111000174__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000014.1_Marine_gamma_proteobacterium_HTCC2143_1100111000175__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000015.1_Marine_gamma_proteobacterium_HTCC2143_1100111000151__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000016.1_Marine_gamma_proteobacterium_HTCC2143_1100111000163__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000017.1_Marine_gamma_proteobacterium_HTCC2143_1100111000164__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000018.1_Marine_gamma_proteobacterium_HTCC2143_1100111000158__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000019.1_Marine_gamma_proteobacterium_HTCC2143_1100111000161__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000020.1_Marine_gamma_proteobacterium_HTCC2143_1100111000147__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000021.1_Marine_gamma_proteobacterium_HTCC2143_1100111000156__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000022.1_Marine_gamma_proteobacterium_HTCC2143_1100111000153__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000023.1_Marine_gamma_proteobacterium_HTCC2143_1100111000162__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000024.1_Marine_gamma_proteobacterium_HTCC2143_1100111000159__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000025.1_Marine_gamma_proteobacterium_HTCC2143_1100111000154__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000026.1_Marine_gamma_proteobacterium_HTCC2143_1100111000160__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000027.1_Marine_gamma_proteobacterium_HTCC2143_1100111000155__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000028.1_Marine_gamma_proteobacterium_HTCC2143_1100111000150__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000029.1_Marine_gamma_proteobacterium_HTCC2143_1100111000149__whole_genome_shotgun_sequence]
+	Loaded [marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000030.1_Marine_gamma_proteobacterium_HTCC2143_1100111000165__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 30
+	Total Region Length: 3925629
+Analyzing contigs...
+CONTIG: k105_150695_flag_1_multi_11.3741_len_74564 (74564bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 74485
+		This contig is partially unaligned. (Aligned 79 out of 74564 bases)
+		Alignment: 25043 25121 | 37102 37180 | 79 79 | 100.0 | marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000002.1_Marine_gamma_proteobacterium_HTCC2143_1100111000172__whole_genome_shotgun_sequence k105_150695_flag_1_multi_11.3741_len_74564
+		Unaligned bases: 1 to 37101 (37101)
+		Unaligned bases: 37181 to 74564 (37384)
+
+CONTIG: k105_24620_flag_1_multi_12.2061_len_11445 (11445bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 70355 70431 | 1263 1187 | 77 77 | 100.0 | marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000007.1_Marine_gamma_proteobacterium_HTCC2143_1100111000168__whole_genome_shotgun_sequence k105_24620_flag_1_multi_12.2061_len_11445
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 11366
+		This contig is partially unaligned. (Aligned 79 out of 11445 bases)
+		Alignment: 181 259 | 1185 1263 | 79 79 | 100.0 | marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000014.1_Marine_gamma_proteobacterium_HTCC2143_1100111000175__whole_genome_shotgun_sequence k105_24620_flag_1_multi_12.2061_len_11445
+		Unaligned bases: 1 to 1184 (1184)
+		Unaligned bases: 1264 to 11445 (10182)
+
+CONTIG: k105_211177_flag_1_multi_7.4634_len_5819 (5819bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 70355 70431 | 1806 1730 | 77 77 | 100.0 | marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000007.1_Marine_gamma_proteobacterium_HTCC2143_1100111000168__whole_genome_shotgun_sequence k105_211177_flag_1_multi_7.4634_len_5819
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 5740
+		This contig is partially unaligned. (Aligned 79 out of 5819 bases)
+		Alignment: 181 259 | 1728 1806 | 79 79 | 100.0 | marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000014.1_Marine_gamma_proteobacterium_HTCC2143_1100111000175__whole_genome_shotgun_sequence k105_211177_flag_1_multi_7.4634_len_5819
+		Unaligned bases: 1 to 1727 (1727)
+		Unaligned bases: 1807 to 5819 (4013)
+
+CONTIG: k105_260671_flag_1_multi_3.0000_len_1080 (1080bp)
+Best alignment score: 438.3 (LEN: 452, IDY: 96.98)
+			The best set is below. Score: 438.3, number of alignments: 1, unaligned bases: 628
+		This contig is partially unaligned. (Aligned 452 out of 1080 bases)
+		Alignment: 262327 262789 | 629 1080 | 463 452 | 96.98 | marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000003.1_Marine_gamma_proteobacterium_HTCC2143_1100111000173__whole_genome_shotgun_sequence k105_260671_flag_1_multi_3.0000_len_1080
+		Unaligned bases: 1 to 628 (628)
+
+CONTIG: k105_246597_flag_1_multi_2.9427_len_1362 (1362bp)
+Best alignment score: 79.0 (LEN: 83, IDY: 95.18)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 1279
+		This contig is partially unaligned. (Aligned 83 out of 1362 bases)
+		Alignment: 3990 4072 | 120 38 | 83 83 | 95.18 | marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000006.1_Marine_gamma_proteobacterium_HTCC2143_1100111000170__whole_genome_shotgun_sequence k105_246597_flag_1_multi_2.9427_len_1362
+		Unaligned bases: 1 to 37 (37)
+		Unaligned bases: 121 to 1362 (1242)
+
+Analyzing coverage...
+Writing SNPs into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2143/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000022.1_Marine_gamma_proteobacterium_HTCC2143_1100111000153__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000011.1_Marine_gamma_proteobacterium_HTCC2143_1100111000152__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000025.1_Marine_gamma_proteobacterium_HTCC2143_1100111000154__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000021.1_Marine_gamma_proteobacterium_HTCC2143_1100111000156__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000028.1_Marine_gamma_proteobacterium_HTCC2143_1100111000150__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000002.1_Marine_gamma_proteobacterium_HTCC2143_1100111000172__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 461956 (461956 bp)
+			START in gap: 1 to 25043 (25042 bp)
+			Align 1: 25043 25121 k105_150695_flag_1_multi_11.3741_len_74564 37102 37180
+			END in gap: 25121 to 461956 (436835 bp).
+
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000029.1_Marine_gamma_proteobacterium_HTCC2143_1100111000149__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000026.1_Marine_gamma_proteobacterium_HTCC2143_1100111000160__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000014.1_Marine_gamma_proteobacterium_HTCC2143_1100111000175__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 53284 (53284 bp)
+			START in gap: 1 to 181 (180 bp)
+			Align 1: 181 259 k105_24620_flag_1_multi_12.2061_len_11445 1185 1263
+				The next alignment (181 259 k105_211177_flag_1_multi_7.4634_len_5819 1728 1806) is redundant. Skipping.
+
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000007.1_Marine_gamma_proteobacterium_HTCC2143_1100111000168__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000003.1_Marine_gamma_proteobacterium_HTCC2143_1100111000173__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 393112 (393112 bp)
+			START in gap: 1 to 262327 (262326 bp)
+			Align 1: 262327 262789 k105_260671_flag_1_multi_3.0000_len_1080 629 1080
+			END in gap: 262789 to 393112 (130323 bp).
+
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000008.1_Marine_gamma_proteobacterium_HTCC2143_1100111000166__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000004.1_Marine_gamma_proteobacterium_HTCC2143_1100111000171__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000027.1_Marine_gamma_proteobacterium_HTCC2143_1100111000155__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000012.1_Marine_gamma_proteobacterium_HTCC2143_1100111000148__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000024.1_Marine_gamma_proteobacterium_HTCC2143_1100111000159__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000010.1_Marine_gamma_proteobacterium_HTCC2143_1100111000157__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000016.1_Marine_gamma_proteobacterium_HTCC2143_1100111000163__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000015.1_Marine_gamma_proteobacterium_HTCC2143_1100111000151__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000019.1_Marine_gamma_proteobacterium_HTCC2143_1100111000161__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000006.1_Marine_gamma_proteobacterium_HTCC2143_1100111000170__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 218226 (218226 bp)
+			START in gap: 1 to 3990 (3989 bp)
+			Align 1: 3990 4072 k105_246597_flag_1_multi_2.9427_len_1362 120 38
+			END in gap: 4072 to 218226 (214154 bp).
+
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000013.1_Marine_gamma_proteobacterium_HTCC2143_1100111000174__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000005.1_Marine_gamma_proteobacterium_HTCC2143_1100111000167__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000030.1_Marine_gamma_proteobacterium_HTCC2143_1100111000165__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000020.1_Marine_gamma_proteobacterium_HTCC2143_1100111000147__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000001.1_Marine_gamma_proteobacterium_HTCC2143_1100111000176__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000018.1_Marine_gamma_proteobacterium_HTCC2143_1100111000158__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000009.1_Marine_gamma_proteobacterium_HTCC2143_1100111000169__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000017.1_Marine_gamma_proteobacterium_HTCC2143_1100111000164__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000023.1_Marine_gamma_proteobacterium_HTCC2143_1100111000162__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2143/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 5 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 93498
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 704
+
+	SNPs: 7
+	Insertions: 0
+	Deletions: 11
+
+	Positive Gaps: 7
+		Internal Gaps: 0
+		External Gaps: 7
+		External Gap Total: 1072849
+		External Gap Average: 153264
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 1 (79)

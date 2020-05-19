@@ -1,0 +1,14 @@
+reference chromosomes:
+	Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence (total length: 3261541 bp, maximal covered length: 5519 bp)
+
+total genome size: 3261541
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Luminip | 0.16921%  | 1.73546     | 22        | -         | -         | -         | -         |

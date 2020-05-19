@@ -1,0 +1,15 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+ 1558818  1558901  |       11       94  |       84       84  |    97.62  | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome	k105_10213_flag_1_multi_2.8055_len_979
+ 2183932  2184015  |       11       94  |       84       84  |    97.62  | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome	k105_10213_flag_1_multi_2.8055_len_979
+ 1558819  1558901  |        6       88  |       83       83  |    95.18  | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome	k105_208366_flag_1_multi_11.0000_len_2190
+ 2183933  2184015  |        6       88  |       83       83  |    95.18  | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome	k105_208366_flag_1_multi_11.0000_len_2190
+ 1074154  1074228  |      496      570  |       75       75  |    98.67  | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome	k105_21332_flag_1_multi_6.0000_len_600
+ 1558819  1558901  |        5       87  |       83       83  |    95.18  | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome	k105_298274_flag_1_multi_33.3856_len_857
+ 2183933  2184015  |        5       87  |       83       83  |    95.18  | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome	k105_298274_flag_1_multi_33.3856_len_857
+ 1558819  1558901  |        3       85  |       83       83  |    95.18  | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome	k105_300797_flag_1_multi_10.0256_len_768
+ 2183933  2184015  |        3       85  |       83       83  |    95.18  | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome	k105_300797_flag_1_multi_10.0256_len_768
+ 1558819  1558901  |      474      392  |       83       83  |    95.18  | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome	k105_74477_flag_1_multi_1.8359_len_556
+ 2183933  2184015  |      474      392  |       83       83  |    95.18  | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome	k105_74477_flag_1_multi_1.8359_len_556
+ 1558819  1558902  |      489      572  |       84       84  |    95.24  | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome	k105_85409_flag_0_multi_53.4836_len_866
+ 2183933  2184016  |      489      572  |       84       84  |    95.24  | Coraliomargarita_akajimensis_DSM_45221_NC_014008.1_Coraliomargarita_akajimensis_DSM_45221__complete_genome	k105_85409_flag_0_multi_53.4836_len_866

@@ -1,0 +1,5 @@
+/home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/Oceanibaculum_pacificum.fasta /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/final-contigs_to_Oceanibaculum_pacificum.fasta
+NUCMER
+>Oceanibaculum_pacificum_NZ_LPXN01000088.1_Oceanibaculum_pacificum_strain_MCCC_1A02656_contig178__whole_genome_shotgun_sequence k105_242030_flag_1_multi_3.0000_len_925 5379 925
+4117 4193 5 81 1 1 0
+0

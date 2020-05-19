@@ -1,0 +1,42 @@
+reference chromosomes:
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000008.1_Roseobacter_sp._SK209-2-6_1101232001810__whole_genome_shotgun_sequence (total length: 212344 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000010.1_Roseobacter_sp._SK209-2-6_1101232001817__whole_genome_shotgun_sequence (total length: 204433 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000028.1_Roseobacter_sp._SK209-2-6_1101232001782__whole_genome_shotgun_sequence (total length: 6035 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000024.1_Roseobacter_sp._SK209-2-6_1101232001801__whole_genome_shotgun_sequence (total length: 23669 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000014.1_Roseobacter_sp._SK209-2-6_1101232001818__whole_genome_shotgun_sequence (total length: 110505 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000003.1_Roseobacter_sp._SK209-2-6_1101232001811__whole_genome_shotgun_sequence (total length: 350920 bp, maximal covered length: 159 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000026.1_Roseobacter_sp._SK209-2-6_1101232001787__whole_genome_shotgun_sequence (total length: 15686 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000006.1_Roseobacter_sp._SK209-2-6_1101232001822__whole_genome_shotgun_sequence (total length: 266095 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000007.1_Roseobacter_sp._SK209-2-6_1101232001821__whole_genome_shotgun_sequence (total length: 247062 bp, maximal covered length: 170 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence (total length: 649731 bp, maximal covered length: 1108 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000019.1_Roseobacter_sp._SK209-2-6_1101232001805__whole_genome_shotgun_sequence (total length: 58862 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000012.1_Roseobacter_sp._SK209-2-6_1101232001780__whole_genome_shotgun_sequence (total length: 159378 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000020.1_Roseobacter_sp._SK209-2-6_1101232001807__whole_genome_shotgun_sequence (total length: 58819 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000016.1_Roseobacter_sp._SK209-2-6_1101232001806__whole_genome_shotgun_sequence (total length: 99596 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence (total length: 207837 bp, maximal covered length: 99 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000004.1_Roseobacter_sp._SK209-2-6_1101232001813__whole_genome_shotgun_sequence (total length: 321686 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000015.1_Roseobacter_sp._SK209-2-6_1101232001814__whole_genome_shotgun_sequence (total length: 102863 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000017.1_Roseobacter_sp._SK209-2-6_1101232001812__whole_genome_shotgun_sequence (total length: 83752 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000005.1_Roseobacter_sp._SK209-2-6_1101232001808__whole_genome_shotgun_sequence (total length: 284886 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000002.1_Roseobacter_sp._SK209-2-6_1101232001820__whole_genome_shotgun_sequence (total length: 530190 bp, maximal covered length: 296 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000018.1_Roseobacter_sp._SK209-2-6_1101232001802__whole_genome_shotgun_sequence (total length: 80846 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000022.1_Roseobacter_sp._SK209-2-6_1101232001790__whole_genome_shotgun_sequence (total length: 27312 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000021.1_Roseobacter_sp._SK209-2-6_1101232001819__whole_genome_shotgun_sequence (total length: 56733 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence (total length: 175230 bp, maximal covered length: 769 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000013.1_Roseobacter_sp._SK209-2-6_1101232001809__whole_genome_shotgun_sequence (total length: 159161 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000027.1_Roseobacter_sp._SK209-2-6_1101232001803__whole_genome_shotgun_sequence (total length: 13944 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000025.1_Roseobacter_sp._SK209-2-6_1101232001800__whole_genome_shotgun_sequence (total length: 20279 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000029.1_Roseobacter_sp._SK209-2-6_1101232001781__whole_genome_shotgun_sequence (total length: 1805 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209-2-6_NZ_AAYC01000023.1_Roseobacter_sp._SK209-2-6_1101232001791__whole_genome_shotgun_sequence (total length: 26167 bp, maximal covered length: 0 bp)
+
+total genome size: 4555826
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Roseoba | 0.05709%  | 2.69050     | 44        | -         | -         | -         | -         |

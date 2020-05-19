@@ -1,0 +1,20 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+4569686 4569771 | 507 422 | 86 86 | 96.51 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_84641_flag_1_multi_3.0000_len_835
+4330162 4330280 | 912 1031 | 119 120 | 95.04 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_93739_flag_1_multi_4.0000_len_1747
+2140185 2140267 | 1836 1918 | 83 83 | 97.59 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_127494_flag_1_multi_8.0000_len_1918
+2140185 2140274 | 746 835 | 90 90 | 96.67 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_137286_flag_0_multi_12.6548_len_835
+4330166 4330280 | 100 215 | 115 116 | 96.55 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_178888_flag_1_multi_4.9428_len_6953
+4627351 4627424 | 1725 1652 | 74 74 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_201088_flag_1_multi_6.0000_len_7878
+2136288 2136353 | 762 697 | 66 66 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_221329_flag_1_multi_5.0000_len_3039
+2136529 2136663 | 135 1 | 135 135 | 95.56 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_232899_flag_1_multi_10.4226_len_6873
+4569692 4569771 | 4 83 | 80 80 | 97.5 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_243376_flag_1_multi_3.0000_len_542
+850365 850458 | 12951 12858 | 94 94 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_255138_flag_1_multi_6.0000_len_17225
+4569683 4569771 | 434 346 | 89 89 | 95.51 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_255916_flag_1_multi_1.0000_len_617
+626052 626126 | 3295 3221 | 75 75 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_256394_flag_0_multi_7.3611_len_3337
+2136586 2137162 | 1 577 | 577 577 | 97.57 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_267330_flag_1_multi_10.0000_len_577
+626052 626126 | 286 212 | 75 75 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_274756_flag_1_multi_5.9663_len_846
+2140185 2140263 | 3647 3725 | 79 79 | 97.47 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_278287_flag_1_multi_29.9249_len_3725
+2138122 2138223 | 105 1 | 102 105 | 95.24 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_314358_flag_1_multi_5.0000_len_789
+2137381 2137809 | 787 360 | 429 428 | 97.9 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_314358_flag_1_multi_5.0000_len_789
+626053 626126 | 3000 3073 | 74 74 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_317817_flag_0_multi_12.5505_len_6728

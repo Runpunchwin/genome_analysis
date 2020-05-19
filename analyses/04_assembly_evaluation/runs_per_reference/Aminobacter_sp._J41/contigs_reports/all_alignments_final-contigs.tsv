@@ -1,0 +1,9 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+1091	1195	1	105	Aminobacter_sp._J41_NZ_JAGL01000082.1_Aminobacter_sp._J41_AmiJ41DRAFT_c82_C__whole_genome_shotgun_sequence	k105_200114_flag_1_multi_32.0000_len_1772	96.19		True
+CONTIG	k105_200114_flag_1_multi_32.0000_len_1772	1772	correct_unaligned
+2111	2255	1	145	Aminobacter_sp._J41_NZ_JAGL01000083.1_Aminobacter_sp._J41_AmiJ41DRAFT_c83_C__whole_genome_shotgun_sequence	k105_4041_flag_1_multi_2.7884_len_984	96.55		True
+CONTIG	k105_4041_flag_1_multi_2.7884_len_984	984	correct_unaligned
+2104	2241	7	144	Aminobacter_sp._J41_NZ_JAGL01000083.1_Aminobacter_sp._J41_AmiJ41DRAFT_c83_C__whole_genome_shotgun_sequence	k105_49486_flag_1_multi_2.9647_len_2257	96.38		True
+CONTIG	k105_49486_flag_1_multi_2.9647_len_2257	2257	correct_unaligned
+2142	2257	1	116	Aminobacter_sp._J41_NZ_JAGL01000083.1_Aminobacter_sp._J41_AmiJ41DRAFT_c83_C__whole_genome_shotgun_sequence	k105_202828_flag_1_multi_2.0000_len_591	97.41		True
+CONTIG	k105_202828_flag_1_multi_2.0000_len_591	591	correct

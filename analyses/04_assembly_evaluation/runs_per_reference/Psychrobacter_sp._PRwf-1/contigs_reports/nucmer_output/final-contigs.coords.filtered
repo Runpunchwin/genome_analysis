@@ -1,0 +1,9 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+183578 183656 | 1185 1263 | 79 79 | 100.0 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k105_24620_flag_1_multi_12.2061_len_11445
+780570 780655 | 906 991 | 86 86 | 98.84 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k105_153166_flag_1_multi_6.5246_len_1001
+250335 250415 | 73826 73906 | 81 81 | 100.0 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k105_191243_flag_1_multi_10.0000_len_109683
+183578 183656 | 1728 1806 | 79 79 | 100.0 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k105_211177_flag_1_multi_7.4634_len_5819
+779086 779229 | 553 696 | 144 144 | 97.22 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k105_215101_flag_1_multi_3.6623_len_709
+780571 780653 | 120 38 | 83 83 | 95.18 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k105_246597_flag_1_multi_2.9427_len_1362
+780570 780655 | 1480 1395 | 86 86 | 100.0 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k105_312990_flag_1_multi_3.9913_len_1482

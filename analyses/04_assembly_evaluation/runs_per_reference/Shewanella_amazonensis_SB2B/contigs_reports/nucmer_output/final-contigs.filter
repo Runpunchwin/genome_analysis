@@ -1,0 +1,17 @@
+/home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/Shewanella_amazonensis_SB2B.fasta /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/final-contigs_to_Shewanella_amazonensis_SB2B.fasta
+NUCMER
+>Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_217338_flag_1_multi_3.0000_len_2899 4306142 2899
+1149695 1149772 2773 2696 1 1 0
+0
+>Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_22530_flag_1_multi_5.0000_len_630 4306142 630
+284206 284363 1 158 7 7 0
+0
+>Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_246597_flag_1_multi_2.9427_len_1362 4306142 1362
+3108447 3108529 38 120 4 4 0
+0
+>Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_247944_flag_0_multi_16.8222_len_1005 4306142 1005
+1869351 1869428 919 842 0 0 0
+0
+>Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_339238_flag_1_multi_1.8966_len_1333 4306142 1333
+2667059 2667135 1106 1182 0 0 0
+0

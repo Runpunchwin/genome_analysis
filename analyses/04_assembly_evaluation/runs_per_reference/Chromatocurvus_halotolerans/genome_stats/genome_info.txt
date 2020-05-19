@@ -1,0 +1,58 @@
+reference chromosomes:
+	Chromatocurvus_halotolerans_NZ_SLWX01000032.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_132__whole_genome_shotgun_sequence (total length: 5826 bp, maximal covered length: 715 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000038.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_138__whole_genome_shotgun_sequence (total length: 1969 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000011.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_111__whole_genome_shotgun_sequence (total length: 106035 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000022.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_122__whole_genome_shotgun_sequence (total length: 49865 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000042.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_142__whole_genome_shotgun_sequence (total length: 1343 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000031.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_131__whole_genome_shotgun_sequence (total length: 9233 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000039.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_139__whole_genome_shotgun_sequence (total length: 1767 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000023.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_123__whole_genome_shotgun_sequence (total length: 47185 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000024.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_124__whole_genome_shotgun_sequence (total length: 32283 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000003.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_103__whole_genome_shotgun_sequence (total length: 390205 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000007.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_107__whole_genome_shotgun_sequence (total length: 193454 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000018.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_118__whole_genome_shotgun_sequence (total length: 69044 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000009.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_109__whole_genome_shotgun_sequence (total length: 148620 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000034.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_134__whole_genome_shotgun_sequence (total length: 3161 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000019.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_119__whole_genome_shotgun_sequence (total length: 61343 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000025.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_125__whole_genome_shotgun_sequence (total length: 26514 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000040.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_140__whole_genome_shotgun_sequence (total length: 1747 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000016.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_116__whole_genome_shotgun_sequence (total length: 77091 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000012.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_112__whole_genome_shotgun_sequence (total length: 104783 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000015.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_115__whole_genome_shotgun_sequence (total length: 81233 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000013.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_113__whole_genome_shotgun_sequence (total length: 86866 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000037.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_137__whole_genome_shotgun_sequence (total length: 2722 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000029.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_129__whole_genome_shotgun_sequence (total length: 15528 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000008.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_108__whole_genome_shotgun_sequence (total length: 166626 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000014.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_114__whole_genome_shotgun_sequence (total length: 84775 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000020.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_120__whole_genome_shotgun_sequence (total length: 55694 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000005.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_105__whole_genome_shotgun_sequence (total length: 305557 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000041.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_141__whole_genome_shotgun_sequence (total length: 1595 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000030.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_130__whole_genome_shotgun_sequence (total length: 9730 bp, maximal covered length: 79 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000035.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_135__whole_genome_shotgun_sequence (total length: 2734 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000036.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_136__whole_genome_shotgun_sequence (total length: 2723 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000017.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_117__whole_genome_shotgun_sequence (total length: 71562 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000010.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_110__whole_genome_shotgun_sequence (total length: 139678 bp, maximal covered length: 84 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000021.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_121__whole_genome_shotgun_sequence (total length: 50350 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000027.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_127__whole_genome_shotgun_sequence (total length: 22637 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000043.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_143__whole_genome_shotgun_sequence (total length: 1313 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000026.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_126__whole_genome_shotgun_sequence (total length: 23995 bp, maximal covered length: 82 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000044.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_144__whole_genome_shotgun_sequence (total length: 1266 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000028.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_128__whole_genome_shotgun_sequence (total length: 15786 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000002.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_102__whole_genome_shotgun_sequence (total length: 390398 bp, maximal covered length: 77 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000001.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_101__whole_genome_shotgun_sequence (total length: 506625 bp, maximal covered length: 91 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000045.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_145__whole_genome_shotgun_sequence (total length: 1081 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000004.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_104__whole_genome_shotgun_sequence (total length: 315903 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000033.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_133__whole_genome_shotgun_sequence (total length: 3756 bp, maximal covered length: 0 bp)
+	Chromatocurvus_halotolerans_NZ_SLWX01000006.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_106__whole_genome_shotgun_sequence (total length: 218724 bp, maximal covered length: 0 bp)
+
+total genome size: 3910325
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Chromat | 0.02885%  | 2.19858     | 55        | -         | -         | -         | -         |

@@ -1,0 +1,18 @@
+[bwa_index] Pack FASTA... 0.94 sec
+[bwa_index] Construct BWT for the packed sequence...
+[BWTIncCreate] textLength=207756612, availableWord=26618144
+[BWTIncConstructFromPacked] 10 iterations done. 43907652 characters processed.
+[BWTIncConstructFromPacked] 20 iterations done. 81115380 characters processed.
+[BWTIncConstructFromPacked] 30 iterations done. 114181652 characters processed.
+[BWTIncConstructFromPacked] 40 iterations done. 143567012 characters processed.
+[BWTIncConstructFromPacked] 50 iterations done. 169680756 characters processed.
+[BWTIncConstructFromPacked] 60 iterations done. 192886692 characters processed.
+[bwa_index] 85.38 seconds elapse.
+[bwa_index] Update BWT... 0.71 sec
+[bwa_index] Pack forward-only FASTA... 0.57 sec
+[bwa_index] Construct SA from BWT and Occ... 31.99 sec
+[main] Version: 0.7.15-r1140
+[main] CMD: /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/bwa/bwa index -p combined_reference /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/combined_reference.fasta
+[main] Real time: 121.927 sec; CPU: 119.598 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[E::main_mem] fail to open file `/home/frle5739/genome_analysis/data/raw_data/DNA_trimmed/SRR4342129_1.paired.trimmed.fastq.gz,/home/frle5739/genome_analysis/data/raw_data/DNA_trimmed/SRR4342133_1.paired.trimmed.fastq.gz'.

@@ -1,0 +1,32 @@
+reference chromosomes:
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383911.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00005.5__whole_genome_shotgun_sequence (total length: 325016 bp, maximal covered length: 0 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000018.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00003.3_C__whole_genome_shotgun_sequence (total length: 366192 bp, maximal covered length: 75 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000029.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00009.9_C__whole_genome_shotgun_sequence (total length: 178682 bp, maximal covered length: 0 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000004.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00013.13_C__whole_genome_shotgun_sequence (total length: 91473 bp, maximal covered length: 0 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000007.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00015.15_C__whole_genome_shotgun_sequence (total length: 72826 bp, maximal covered length: 0 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000008.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00016.16_C__whole_genome_shotgun_sequence (total length: 61938 bp, maximal covered length: 0 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000017.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00002.2_C__whole_genome_shotgun_sequence (total length: 724346 bp, maximal covered length: 75 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000028.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00008.8_C__whole_genome_shotgun_sequence (total length: 180857 bp, maximal covered length: 0 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383910.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00004.4__whole_genome_shotgun_sequence (total length: 359886 bp, maximal covered length: 76 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000010.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00018.18_C__whole_genome_shotgun_sequence (total length: 1673 bp, maximal covered length: 74 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383909.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00001.1__whole_genome_shotgun_sequence (total length: 1376805 bp, maximal covered length: 0 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000009.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00017.17_C__whole_genome_shotgun_sequence (total length: 22407 bp, maximal covered length: 0 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000025.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00006.6_C__whole_genome_shotgun_sequence (total length: 253309 bp, maximal covered length: 0 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000001.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00010.10_C__whole_genome_shotgun_sequence (total length: 122083 bp, maximal covered length: 0 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000011.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00019.19_C__whole_genome_shotgun_sequence (total length: 1420 bp, maximal covered length: 189 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000002.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00011.11_C__whole_genome_shotgun_sequence (total length: 117595 bp, maximal covered length: 0 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000003.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00012.12_C__whole_genome_shotgun_sequence (total length: 96566 bp, maximal covered length: 0 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383913.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00014.14__whole_genome_shotgun_sequence (total length: 78484 bp, maximal covered length: 0 bp)
+	Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383912.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00007.7__whole_genome_shotgun_sequence (total length: 207008 bp, maximal covered length: 0 bp)
+
+total genome size: 4638566
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Flavoba | 0.01054%  | 3.29652     | 23        | -         | -         | -         | -         |

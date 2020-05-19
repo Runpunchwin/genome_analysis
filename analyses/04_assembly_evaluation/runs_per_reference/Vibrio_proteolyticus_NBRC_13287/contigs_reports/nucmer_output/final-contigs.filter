@@ -1,0 +1,25 @@
+/home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/Vibrio_proteolyticus_NBRC_13287.fasta /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/final-contigs_to_Vibrio_proteolyticus_NBRC_13287.fasta
+NUCMER
+>Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000002.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence k105_18455_flag_0_multi_10.9954_len_56917 377532 56917
+132050 132128 56839 56917 0 0 0
+0
+>Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence k105_207900_flag_0_multi_5.9208_len_1430 5289 1430
+2646 4076 1430 1 27 27 0
+629
+0
+>Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence k105_247944_flag_0_multi_16.8222_len_1005 5289 1005
+2472 2576 105 1 5 5 0
+0
+>Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000031.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence k105_280972_flag_1_multi_7.0000_len_622 20337 622
+20034 20334 9 308 7 7 0
+18
+0
+>Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence k105_280972_flag_1_multi_7.0000_len_622 5289 622
+1 587 36 622 16 16 0
+-461
+6
+0
+>Vibrio_proteolyticus_NBRC_13287_NZ_BATJ01000038.1_Vibrio_proteolyticus_NBRC_13287__whole_genome_shotgun_sequence k105_43952_flag_1_multi_5.4623_len_728 5289 728
+870 1552 718 37 28 28 0
+276
+0

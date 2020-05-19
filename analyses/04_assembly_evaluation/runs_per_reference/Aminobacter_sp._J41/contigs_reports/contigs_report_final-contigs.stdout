@@ -1,0 +1,325 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000001.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_0.1_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000002.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_1.2_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000003.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_2.3_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000004.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_3.4_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000005.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_4.5_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000006.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_5.6_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000007.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_6.7_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000008.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_7.8_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000009.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_8.9_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000010.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_9.10_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000011.1_Aminobacter_sp._J41_AmiJ41DRAFT_c11_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000012.1_Aminobacter_sp._J41_AmiJ41DRAFT_c12_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000013.1_Aminobacter_sp._J41_AmiJ41DRAFT_c13_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000014.1_Aminobacter_sp._J41_AmiJ41DRAFT_c14_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000015.1_Aminobacter_sp._J41_AmiJ41DRAFT_c15_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000016.1_Aminobacter_sp._J41_AmiJ41DRAFT_c16_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000017.1_Aminobacter_sp._J41_AmiJ41DRAFT_c17_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000018.1_Aminobacter_sp._J41_AmiJ41DRAFT_c18_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000019.1_Aminobacter_sp._J41_AmiJ41DRAFT_c19_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000020.1_Aminobacter_sp._J41_AmiJ41DRAFT_c20_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000021.1_Aminobacter_sp._J41_AmiJ41DRAFT_c21_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000022.1_Aminobacter_sp._J41_AmiJ41DRAFT_c22_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000023.1_Aminobacter_sp._J41_AmiJ41DRAFT_c23_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000024.1_Aminobacter_sp._J41_AmiJ41DRAFT_c24_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000025.1_Aminobacter_sp._J41_AmiJ41DRAFT_c25_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000026.1_Aminobacter_sp._J41_AmiJ41DRAFT_c26_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000027.1_Aminobacter_sp._J41_AmiJ41DRAFT_c27_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000028.1_Aminobacter_sp._J41_AmiJ41DRAFT_c28_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000029.1_Aminobacter_sp._J41_AmiJ41DRAFT_c29_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000030.1_Aminobacter_sp._J41_AmiJ41DRAFT_c30_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000031.1_Aminobacter_sp._J41_AmiJ41DRAFT_c31_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000032.1_Aminobacter_sp._J41_AmiJ41DRAFT_c32_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000033.1_Aminobacter_sp._J41_AmiJ41DRAFT_c33_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000034.1_Aminobacter_sp._J41_AmiJ41DRAFT_c34_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000035.1_Aminobacter_sp._J41_AmiJ41DRAFT_c35_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000036.1_Aminobacter_sp._J41_AmiJ41DRAFT_c36_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000037.1_Aminobacter_sp._J41_AmiJ41DRAFT_c37_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000038.1_Aminobacter_sp._J41_AmiJ41DRAFT_c38_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000039.1_Aminobacter_sp._J41_AmiJ41DRAFT_c39_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000040.1_Aminobacter_sp._J41_AmiJ41DRAFT_c40_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000041.1_Aminobacter_sp._J41_AmiJ41DRAFT_c41_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000042.1_Aminobacter_sp._J41_AmiJ41DRAFT_c42_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000043.1_Aminobacter_sp._J41_AmiJ41DRAFT_c43_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000044.1_Aminobacter_sp._J41_AmiJ41DRAFT_c44_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000045.1_Aminobacter_sp._J41_AmiJ41DRAFT_c45_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000046.1_Aminobacter_sp._J41_AmiJ41DRAFT_c46_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000047.1_Aminobacter_sp._J41_AmiJ41DRAFT_c47_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000048.1_Aminobacter_sp._J41_AmiJ41DRAFT_c48_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000049.1_Aminobacter_sp._J41_AmiJ41DRAFT_c49_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000050.1_Aminobacter_sp._J41_AmiJ41DRAFT_c50_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000051.1_Aminobacter_sp._J41_AmiJ41DRAFT_c51_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000052.1_Aminobacter_sp._J41_AmiJ41DRAFT_c52_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000053.1_Aminobacter_sp._J41_AmiJ41DRAFT_c53_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000054.1_Aminobacter_sp._J41_AmiJ41DRAFT_c54_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000055.1_Aminobacter_sp._J41_AmiJ41DRAFT_c55_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000056.1_Aminobacter_sp._J41_AmiJ41DRAFT_c56_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000057.1_Aminobacter_sp._J41_AmiJ41DRAFT_c57_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000058.1_Aminobacter_sp._J41_AmiJ41DRAFT_c58_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000059.1_Aminobacter_sp._J41_AmiJ41DRAFT_c59_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000060.1_Aminobacter_sp._J41_AmiJ41DRAFT_c60_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000061.1_Aminobacter_sp._J41_AmiJ41DRAFT_c61_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000062.1_Aminobacter_sp._J41_AmiJ41DRAFT_c62_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000063.1_Aminobacter_sp._J41_AmiJ41DRAFT_c63_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000064.1_Aminobacter_sp._J41_AmiJ41DRAFT_c64_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000065.1_Aminobacter_sp._J41_AmiJ41DRAFT_c65_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000066.1_Aminobacter_sp._J41_AmiJ41DRAFT_c66_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000067.1_Aminobacter_sp._J41_AmiJ41DRAFT_c67_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000068.1_Aminobacter_sp._J41_AmiJ41DRAFT_c68_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000069.1_Aminobacter_sp._J41_AmiJ41DRAFT_c69_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000070.1_Aminobacter_sp._J41_AmiJ41DRAFT_c70_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000071.1_Aminobacter_sp._J41_AmiJ41DRAFT_c71_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000072.1_Aminobacter_sp._J41_AmiJ41DRAFT_c72_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000073.1_Aminobacter_sp._J41_AmiJ41DRAFT_c73_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000074.1_Aminobacter_sp._J41_AmiJ41DRAFT_c74_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000075.1_Aminobacter_sp._J41_AmiJ41DRAFT_c75_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000076.1_Aminobacter_sp._J41_AmiJ41DRAFT_c76_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000077.1_Aminobacter_sp._J41_AmiJ41DRAFT_c77_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000078.1_Aminobacter_sp._J41_AmiJ41DRAFT_c78_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000079.1_Aminobacter_sp._J41_AmiJ41DRAFT_c79_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000080.1_Aminobacter_sp._J41_AmiJ41DRAFT_c80_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000081.1_Aminobacter_sp._J41_AmiJ41DRAFT_c81_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000082.1_Aminobacter_sp._J41_AmiJ41DRAFT_c82_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000083.1_Aminobacter_sp._J41_AmiJ41DRAFT_c83_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000084.1_Aminobacter_sp._J41_AmiJ41DRAFT_c84_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000085.1_Aminobacter_sp._J41_AmiJ41DRAFT_c85_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000086.1_Aminobacter_sp._J41_AmiJ41DRAFT_c86_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000087.1_Aminobacter_sp._J41_AmiJ41DRAFT_c87_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000088.1_Aminobacter_sp._J41_AmiJ41DRAFT_c88_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000089.1_Aminobacter_sp._J41_AmiJ41DRAFT_c89_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000090.1_Aminobacter_sp._J41_AmiJ41DRAFT_c90_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000091.1_Aminobacter_sp._J41_AmiJ41DRAFT_c91_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000092.1_Aminobacter_sp._J41_AmiJ41DRAFT_c92_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000093.1_Aminobacter_sp._J41_AmiJ41DRAFT_c93_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000094.1_Aminobacter_sp._J41_AmiJ41DRAFT_c94_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000095.1_Aminobacter_sp._J41_AmiJ41DRAFT_c95_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000096.1_Aminobacter_sp._J41_AmiJ41DRAFT_c96_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000097.1_Aminobacter_sp._J41_AmiJ41DRAFT_c97_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000098.1_Aminobacter_sp._J41_AmiJ41DRAFT_c98_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000099.1_Aminobacter_sp._J41_AmiJ41DRAFT_c99_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000100.1_Aminobacter_sp._J41_AmiJ41DRAFT_c100_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000101.1_Aminobacter_sp._J41_AmiJ41DRAFT_c101_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000102.1_Aminobacter_sp._J41_AmiJ41DRAFT_c102_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000103.1_Aminobacter_sp._J41_AmiJ41DRAFT_c103_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000104.1_Aminobacter_sp._J41_AmiJ41DRAFT_c104_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000105.1_Aminobacter_sp._J41_AmiJ41DRAFT_c105_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000106.1_Aminobacter_sp._J41_AmiJ41DRAFT_c106_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000107.1_Aminobacter_sp._J41_AmiJ41DRAFT_c107_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000108.1_Aminobacter_sp._J41_AmiJ41DRAFT_c108_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000109.1_Aminobacter_sp._J41_AmiJ41DRAFT_c109_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000110.1_Aminobacter_sp._J41_AmiJ41DRAFT_c110_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000111.1_Aminobacter_sp._J41_AmiJ41DRAFT_c111_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000112.1_Aminobacter_sp._J41_AmiJ41DRAFT_c112_C__whole_genome_shotgun_sequence]
+	Loaded [Aminobacter_sp._J41_NZ_JAGL01000113.1_Aminobacter_sp._J41_AmiJ41DRAFT_c113_C__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 113
+	Total Region Length: 4234633
+Analyzing contigs...
+CONTIG: k105_200114_flag_1_multi_32.0000_len_1772 (1772bp)
+Best alignment score: 101.0 (LEN: 105, IDY: 96.19)
+			The best set is below. Score: 101.0, number of alignments: 1, unaligned bases: 1667
+		This contig is partially unaligned. (Aligned 105 out of 1772 bases)
+		Alignment: 1091 1195 | 1 105 | 105 105 | 96.19 | Aminobacter_sp._J41_NZ_JAGL01000082.1_Aminobacter_sp._J41_AmiJ41DRAFT_c82_C__whole_genome_shotgun_sequence k105_200114_flag_1_multi_32.0000_len_1772
+		Unaligned bases: 106 to 1772 (1667)
+
+CONTIG: k105_4041_flag_1_multi_2.7884_len_984 (984bp)
+Best alignment score: 140.0 (LEN: 145, IDY: 96.55)
+			The best set is below. Score: 140.0, number of alignments: 1, unaligned bases: 839
+		This contig is partially unaligned. (Aligned 145 out of 984 bases)
+		Alignment: 2111 2255 | 1 145 | 145 145 | 96.55 | Aminobacter_sp._J41_NZ_JAGL01000083.1_Aminobacter_sp._J41_AmiJ41DRAFT_c83_C__whole_genome_shotgun_sequence k105_4041_flag_1_multi_2.7884_len_984
+		Unaligned bases: 146 to 984 (839)
+
+CONTIG: k105_49486_flag_1_multi_2.9647_len_2257 (2257bp)
+Best alignment score: 133.0 (LEN: 138, IDY: 96.38)
+			The best set is below. Score: 133.0, number of alignments: 1, unaligned bases: 2119
+		This contig is partially unaligned. (Aligned 138 out of 2257 bases)
+		Alignment: 2104 2241 | 7 144 | 138 138 | 96.38 | Aminobacter_sp._J41_NZ_JAGL01000083.1_Aminobacter_sp._J41_AmiJ41DRAFT_c83_C__whole_genome_shotgun_sequence k105_49486_flag_1_multi_2.9647_len_2257
+		Unaligned bases: 1 to 6 (6)
+		Unaligned bases: 145 to 2257 (2113)
+
+CONTIG: k105_202828_flag_1_multi_2.0000_len_591 (591bp)
+Best alignment score: 113.0 (LEN: 116, IDY: 97.41)
+			The best set is below. Score: 113.0, number of alignments: 1, unaligned bases: 475
+		Alignment: 2142 2257 | 1 116 | 116 116 | 97.41 | Aminobacter_sp._J41_NZ_JAGL01000083.1_Aminobacter_sp._J41_AmiJ41DRAFT_c83_C__whole_genome_shotgun_sequence k105_202828_flag_1_multi_2.0000_len_591
+
+Analyzing coverage...
+Writing SNPs into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000067.1_Aminobacter_sp._J41_AmiJ41DRAFT_c67_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000057.1_Aminobacter_sp._J41_AmiJ41DRAFT_c57_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000050.1_Aminobacter_sp._J41_AmiJ41DRAFT_c50_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000051.1_Aminobacter_sp._J41_AmiJ41DRAFT_c51_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000085.1_Aminobacter_sp._J41_AmiJ41DRAFT_c85_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000032.1_Aminobacter_sp._J41_AmiJ41DRAFT_c32_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000084.1_Aminobacter_sp._J41_AmiJ41DRAFT_c84_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000076.1_Aminobacter_sp._J41_AmiJ41DRAFT_c76_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000095.1_Aminobacter_sp._J41_AmiJ41DRAFT_c95_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000008.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_7.8_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000087.1_Aminobacter_sp._J41_AmiJ41DRAFT_c87_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000037.1_Aminobacter_sp._J41_AmiJ41DRAFT_c37_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000043.1_Aminobacter_sp._J41_AmiJ41DRAFT_c43_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000033.1_Aminobacter_sp._J41_AmiJ41DRAFT_c33_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000016.1_Aminobacter_sp._J41_AmiJ41DRAFT_c16_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000100.1_Aminobacter_sp._J41_AmiJ41DRAFT_c100_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000013.1_Aminobacter_sp._J41_AmiJ41DRAFT_c13_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000019.1_Aminobacter_sp._J41_AmiJ41DRAFT_c19_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000034.1_Aminobacter_sp._J41_AmiJ41DRAFT_c34_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000096.1_Aminobacter_sp._J41_AmiJ41DRAFT_c96_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000098.1_Aminobacter_sp._J41_AmiJ41DRAFT_c98_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000106.1_Aminobacter_sp._J41_AmiJ41DRAFT_c106_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000028.1_Aminobacter_sp._J41_AmiJ41DRAFT_c28_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000073.1_Aminobacter_sp._J41_AmiJ41DRAFT_c73_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000074.1_Aminobacter_sp._J41_AmiJ41DRAFT_c74_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000049.1_Aminobacter_sp._J41_AmiJ41DRAFT_c49_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000108.1_Aminobacter_sp._J41_AmiJ41DRAFT_c108_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000012.1_Aminobacter_sp._J41_AmiJ41DRAFT_c12_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000045.1_Aminobacter_sp._J41_AmiJ41DRAFT_c45_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000104.1_Aminobacter_sp._J41_AmiJ41DRAFT_c104_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000041.1_Aminobacter_sp._J41_AmiJ41DRAFT_c41_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000058.1_Aminobacter_sp._J41_AmiJ41DRAFT_c58_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000064.1_Aminobacter_sp._J41_AmiJ41DRAFT_c64_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000003.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_2.3_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000014.1_Aminobacter_sp._J41_AmiJ41DRAFT_c14_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000046.1_Aminobacter_sp._J41_AmiJ41DRAFT_c46_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000018.1_Aminobacter_sp._J41_AmiJ41DRAFT_c18_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000088.1_Aminobacter_sp._J41_AmiJ41DRAFT_c88_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000081.1_Aminobacter_sp._J41_AmiJ41DRAFT_c81_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000097.1_Aminobacter_sp._J41_AmiJ41DRAFT_c97_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000040.1_Aminobacter_sp._J41_AmiJ41DRAFT_c40_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000086.1_Aminobacter_sp._J41_AmiJ41DRAFT_c86_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000075.1_Aminobacter_sp._J41_AmiJ41DRAFT_c75_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000099.1_Aminobacter_sp._J41_AmiJ41DRAFT_c99_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000039.1_Aminobacter_sp._J41_AmiJ41DRAFT_c39_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000009.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_8.9_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000007.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_6.7_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000048.1_Aminobacter_sp._J41_AmiJ41DRAFT_c48_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000054.1_Aminobacter_sp._J41_AmiJ41DRAFT_c54_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000061.1_Aminobacter_sp._J41_AmiJ41DRAFT_c61_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000109.1_Aminobacter_sp._J41_AmiJ41DRAFT_c109_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000029.1_Aminobacter_sp._J41_AmiJ41DRAFT_c29_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000036.1_Aminobacter_sp._J41_AmiJ41DRAFT_c36_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000079.1_Aminobacter_sp._J41_AmiJ41DRAFT_c79_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000101.1_Aminobacter_sp._J41_AmiJ41DRAFT_c101_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000107.1_Aminobacter_sp._J41_AmiJ41DRAFT_c107_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000068.1_Aminobacter_sp._J41_AmiJ41DRAFT_c68_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000089.1_Aminobacter_sp._J41_AmiJ41DRAFT_c89_C__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Aminobacter_sp._J41_NZ_JAGL01000083.1_Aminobacter_sp._J41_AmiJ41DRAFT_c83_C__whole_genome_shotgun_sequence: 3 total alignments. 1 total regions.
+		Region: 1 to 2584 (2584 bp)
+			START in gap: 1 to 2104 (2103 bp)
+			Align 1: 2104 2241 k105_49486_flag_1_multi_2.9647_len_2257 7 144
+				Negative gap (overlap) between this and next alignment: 2241 to 2111 (-130 bp)
+				Next Alignment: 2111 2255 k105_4041_flag_1_multi_2.7884_len_984 1 145
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 132.
+			Align 2: 2242 2255 k105_4041_flag_1_multi_2.7884_len_984 132 145
+				Negative gap (overlap) between this and next alignment: 2255 to 2142 (-113 bp)
+				Next Alignment: 2142 2257 k105_202828_flag_1_multi_2.0000_len_591 1 116
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 115.
+			Align 3: 2256 2257 k105_202828_flag_1_multi_2.0000_len_591 115 116
+			END in gap: 2257 to 2584 (327 bp).
+
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000001.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_0.1_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000030.1_Aminobacter_sp._J41_AmiJ41DRAFT_c30_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000071.1_Aminobacter_sp._J41_AmiJ41DRAFT_c71_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000105.1_Aminobacter_sp._J41_AmiJ41DRAFT_c105_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000022.1_Aminobacter_sp._J41_AmiJ41DRAFT_c22_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000056.1_Aminobacter_sp._J41_AmiJ41DRAFT_c56_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000090.1_Aminobacter_sp._J41_AmiJ41DRAFT_c90_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000005.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_4.5_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000103.1_Aminobacter_sp._J41_AmiJ41DRAFT_c103_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000062.1_Aminobacter_sp._J41_AmiJ41DRAFT_c62_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000042.1_Aminobacter_sp._J41_AmiJ41DRAFT_c42_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000004.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_3.4_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000063.1_Aminobacter_sp._J41_AmiJ41DRAFT_c63_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000093.1_Aminobacter_sp._J41_AmiJ41DRAFT_c93_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000053.1_Aminobacter_sp._J41_AmiJ41DRAFT_c53_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000065.1_Aminobacter_sp._J41_AmiJ41DRAFT_c65_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000078.1_Aminobacter_sp._J41_AmiJ41DRAFT_c78_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000112.1_Aminobacter_sp._J41_AmiJ41DRAFT_c112_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000102.1_Aminobacter_sp._J41_AmiJ41DRAFT_c102_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000025.1_Aminobacter_sp._J41_AmiJ41DRAFT_c25_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000026.1_Aminobacter_sp._J41_AmiJ41DRAFT_c26_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000070.1_Aminobacter_sp._J41_AmiJ41DRAFT_c70_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000015.1_Aminobacter_sp._J41_AmiJ41DRAFT_c15_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000031.1_Aminobacter_sp._J41_AmiJ41DRAFT_c31_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000044.1_Aminobacter_sp._J41_AmiJ41DRAFT_c44_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000059.1_Aminobacter_sp._J41_AmiJ41DRAFT_c59_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000077.1_Aminobacter_sp._J41_AmiJ41DRAFT_c77_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000024.1_Aminobacter_sp._J41_AmiJ41DRAFT_c24_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000017.1_Aminobacter_sp._J41_AmiJ41DRAFT_c17_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000038.1_Aminobacter_sp._J41_AmiJ41DRAFT_c38_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000069.1_Aminobacter_sp._J41_AmiJ41DRAFT_c69_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000047.1_Aminobacter_sp._J41_AmiJ41DRAFT_c47_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000111.1_Aminobacter_sp._J41_AmiJ41DRAFT_c111_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000027.1_Aminobacter_sp._J41_AmiJ41DRAFT_c27_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000021.1_Aminobacter_sp._J41_AmiJ41DRAFT_c21_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000072.1_Aminobacter_sp._J41_AmiJ41DRAFT_c72_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000010.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_9.10_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000092.1_Aminobacter_sp._J41_AmiJ41DRAFT_c92_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000020.1_Aminobacter_sp._J41_AmiJ41DRAFT_c20_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000091.1_Aminobacter_sp._J41_AmiJ41DRAFT_c91_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000080.1_Aminobacter_sp._J41_AmiJ41DRAFT_c80_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000055.1_Aminobacter_sp._J41_AmiJ41DRAFT_c55_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000113.1_Aminobacter_sp._J41_AmiJ41DRAFT_c113_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000066.1_Aminobacter_sp._J41_AmiJ41DRAFT_c66_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000110.1_Aminobacter_sp._J41_AmiJ41DRAFT_c110_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000006.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_5.6_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000094.1_Aminobacter_sp._J41_AmiJ41DRAFT_c94_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000023.1_Aminobacter_sp._J41_AmiJ41DRAFT_c23_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000035.1_Aminobacter_sp._J41_AmiJ41DRAFT_c35_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000011.1_Aminobacter_sp._J41_AmiJ41DRAFT_c11_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000060.1_Aminobacter_sp._J41_AmiJ41DRAFT_c60_C__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Aminobacter_sp._J41_NZ_JAGL01000082.1_Aminobacter_sp._J41_AmiJ41DRAFT_c82_C__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 2590 (2590 bp)
+			START in gap: 1 to 1091 (1090 bp)
+			Align 1: 1091 1195 k105_200114_flag_1_multi_32.0000_len_1772 1 105
+			END in gap: 1195 to 2590 (1395 bp).
+
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000052.1_Aminobacter_sp._J41_AmiJ41DRAFT_c52_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aminobacter_sp._J41_NZ_JAGL01000002.1_Aminobacter_sp._J41_AmiJ41DRAFT_scaffold_1.2_C__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Aminobacter_sp._J41/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 3 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 4625
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 259
+
+	SNPs: 10
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 4
+		Internal Gaps: 0
+		External Gaps: 4
+		External Gap Total: 4915
+		External Gap Average: 1229
+	Negative Gaps: 2
+		Internal Overlaps: 0
+		External Overlaps: 2
+		External Overlaps Total: -243
+		External Overlaps Average: -122
+	Contigs with Redundant Alignments: 0 (0)

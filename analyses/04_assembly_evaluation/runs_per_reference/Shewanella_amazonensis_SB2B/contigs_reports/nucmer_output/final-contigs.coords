@@ -1,0 +1,28 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+  233135   233212  |     2695     2772  |       78       78  |    98.72  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_217338_flag_1_multi_3.0000_len_2899
+ 1149695  1149772  |     2773     2696  |       78       78  |    98.72  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_217338_flag_1_multi_3.0000_len_2899
+   57537    57694  |        1      158  |      158      158  |    95.57  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_22530_flag_1_multi_5.0000_len_630
+  225734   225891  |        1      158  |      158      158  |    95.57  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_22530_flag_1_multi_5.0000_len_630
+  277263   277420  |        1      158  |      158      158  |    95.57  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_22530_flag_1_multi_5.0000_len_630
+  284206   284363  |        1      158  |      158      158  |    95.57  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_22530_flag_1_multi_5.0000_len_630
+  437456   437613  |        1      158  |      158      158  |    95.57  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_22530_flag_1_multi_5.0000_len_630
+ 1868927  1869084  |        1      158  |      158      158  |    95.57  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_22530_flag_1_multi_5.0000_len_630
+ 3110672  3110829  |      158        1  |      158      158  |    95.57  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_22530_flag_1_multi_5.0000_len_630
+ 4280592  4280749  |      158        1  |      158      158  |    95.57  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_22530_flag_1_multi_5.0000_len_630
+   59837    59919  |      120       38  |       83       83  |    95.18  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_246597_flag_1_multi_2.9427_len_1362
+  228386   228468  |      120       38  |       83       83  |    95.18  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_246597_flag_1_multi_2.9427_len_1362
+  279563   279645  |      120       38  |       83       83  |    95.18  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_246597_flag_1_multi_2.9427_len_1362
+  286506   286588  |      120       38  |       83       83  |    95.18  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_246597_flag_1_multi_2.9427_len_1362
+  440108   440190  |      120       38  |       83       83  |    95.18  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_246597_flag_1_multi_2.9427_len_1362
+ 1871580  1871662  |      120       38  |       83       83  |    95.18  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_246597_flag_1_multi_2.9427_len_1362
+ 3108447  3108529  |       38      120  |       83       83  |    95.18  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_246597_flag_1_multi_2.9427_len_1362
+ 4278367  4278449  |       38      120  |       83       83  |    95.18  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_246597_flag_1_multi_2.9427_len_1362
+  226157   226234  |      919      842  |       78       78  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_247944_flag_0_multi_16.8222_len_1005
+  437879   437956  |      919      842  |       78       78  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_247944_flag_0_multi_16.8222_len_1005
+ 1869351  1869428  |      919      842  |       78       78  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_247944_flag_0_multi_16.8222_len_1005
+ 2666313  2666389  |     1106     1182  |       77       77  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_339238_flag_1_multi_1.8966_len_1333
+ 2666536  2666612  |     1106     1182  |       77       77  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_339238_flag_1_multi_1.8966_len_1333
+ 2666759  2666835  |     1106     1182  |       77       77  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_339238_flag_1_multi_1.8966_len_1333
+ 2667059  2667135  |     1106     1182  |       77       77  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_339238_flag_1_multi_1.8966_len_1333
+ 2667727  2667802  |     1106     1181  |       76       76  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_339238_flag_1_multi_1.8966_len_1333

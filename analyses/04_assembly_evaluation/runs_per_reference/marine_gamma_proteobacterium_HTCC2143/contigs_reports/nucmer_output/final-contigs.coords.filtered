@@ -1,0 +1,7 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+25043 25121 | 37102 37180 | 79 79 | 100.0 | marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000002.1_Marine_gamma_proteobacterium_HTCC2143_1100111000172__whole_genome_shotgun_sequence k105_150695_flag_1_multi_11.3741_len_74564
+181 259 | 1185 1263 | 79 79 | 100.0 | marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000014.1_Marine_gamma_proteobacterium_HTCC2143_1100111000175__whole_genome_shotgun_sequence k105_24620_flag_1_multi_12.2061_len_11445
+181 259 | 1728 1806 | 79 79 | 100.0 | marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000014.1_Marine_gamma_proteobacterium_HTCC2143_1100111000175__whole_genome_shotgun_sequence k105_211177_flag_1_multi_7.4634_len_5819
+262327 262789 | 629 1080 | 463 452 | 96.98 | marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000003.1_Marine_gamma_proteobacterium_HTCC2143_1100111000173__whole_genome_shotgun_sequence k105_260671_flag_1_multi_3.0000_len_1080
+3990 4072 | 120 38 | 83 83 | 95.18 | marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000006.1_Marine_gamma_proteobacterium_HTCC2143_1100111000170__whole_genome_shotgun_sequence k105_246597_flag_1_multi_2.9427_len_1362

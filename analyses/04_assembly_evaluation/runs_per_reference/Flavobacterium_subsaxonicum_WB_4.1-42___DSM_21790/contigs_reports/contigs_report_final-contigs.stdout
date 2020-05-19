@@ -1,0 +1,167 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000001.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00010.10_C__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000002.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00011.11_C__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000003.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00012.12_C__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000004.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00013.13_C__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000007.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00015.15_C__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000008.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00016.16_C__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000009.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00017.17_C__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000010.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00018.18_C__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000011.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00019.19_C__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000017.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00002.2_C__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000018.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00003.3_C__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000025.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00006.6_C__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000028.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00008.8_C__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000029.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00009.9_C__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383909.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00001.1__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383910.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00004.4__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383911.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00005.5__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383912.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00007.7__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383913.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00014.14__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 19
+	Total Region Length: 4638566
+Analyzing contigs...
+CONTIG: k105_298287_flag_1_multi_3.0000_len_527 (527bp)
+Best alignment score: 74.0 (LEN: 75, IDY: 98.67)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 452
+		Alignment: 715617 715691 | 417 343 | 75 75 | 98.67 | Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000017.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00002.2_C__whole_genome_shotgun_sequence k105_298287_flag_1_multi_3.0000_len_527
+
+CONTIG: k105_116826_flag_0_multi_4.2311_len_529 (529bp)
+Best alignment score: 75.0 (LEN: 76, IDY: 98.68)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 453
+		Alignment: 65008 65083 | 103 28 | 76 76 | 98.68 | Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383910.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00004.4__whole_genome_shotgun_sequence k105_116826_flag_0_multi_4.2311_len_529
+
+CONTIG: k105_264798_flag_0_multi_2.9329_len_582 (582bp)
+Best alignment score: 73.0 (LEN: 74, IDY: 98.65)
+			The best set is below. Score: 73.0, number of alignments: 1, unaligned bases: 508
+		This contig is partially unaligned. (Aligned 74 out of 582 bases)
+		Alignment: 65010 65083 | 582 509 | 74 74 | 98.65 | Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383910.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00004.4__whole_genome_shotgun_sequence k105_264798_flag_0_multi_2.9329_len_582
+		Unaligned bases: 1 to 508 (508)
+
+CONTIG: k105_264820_flag_0_multi_6.0000_len_5445 (5445bp)
+Best alignment score: 73.0 (LEN: 74, IDY: 98.65)
+			The best set is below. Score: 73.0, number of alignments: 1, unaligned bases: 5371
+		This contig is partially unaligned. (Aligned 74 out of 5445 bases)
+		Alignment: 65010 65083 | 1 74 | 74 74 | 98.65 | Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383910.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00004.4__whole_genome_shotgun_sequence k105_264820_flag_0_multi_6.0000_len_5445
+		Unaligned bases: 75 to 5445 (5371)
+
+CONTIG: k105_180735_flag_0_multi_12.3653_len_1542 (1542bp)
+Best alignment score: 73.0 (LEN: 75, IDY: 97.33)
+			The best set is below. Score: 73.0, number of alignments: 1, unaligned bases: 1467
+		This contig is partially unaligned. (Aligned 75 out of 1542 bases)
+		Alignment: 286547 286621 | 1196 1270 | 75 75 | 97.33 | Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000018.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00003.3_C__whole_genome_shotgun_sequence k105_180735_flag_0_multi_12.3653_len_1542
+		Unaligned bases: 1 to 1195 (1195)
+		Unaligned bases: 1271 to 1542 (272)
+
+CONTIG: k105_306438_flag_1_multi_8.0000_len_2989 (2989bp)
+Best alignment score: 74.0 (LEN: 74, IDY: 100.00)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 2915
+		This contig is partially unaligned. (Aligned 74 out of 2989 bases)
+		Alignment: 575 648 | 2989 2916 | 74 74 | 100.0 | Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000010.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00018.18_C__whole_genome_shotgun_sequence k105_306438_flag_1_multi_8.0000_len_2989
+		Unaligned bases: 1 to 2915 (2915)
+
+CONTIG: k105_316321_flag_1_multi_3.0000_len_1236 (1236bp)
+Best alignment score: 70.0 (LEN: 70, IDY: 100.00)
+			The best set is below. Score: 70.0, number of alignments: 1, unaligned bases: 1166
+		This contig is partially unaligned. (Aligned 70 out of 1236 bases)
+		Alignment: 579 648 | 1 70 | 70 70 | 100.0 | Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000010.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00018.18_C__whole_genome_shotgun_sequence k105_316321_flag_1_multi_3.0000_len_1236
+		Unaligned bases: 71 to 1236 (1166)
+
+CONTIG: k105_57320_flag_1_multi_20.0000_len_919 (919bp)
+Best alignment score: 184.0 (LEN: 189, IDY: 97.35)
+			The best set is below. Score: 184.0, number of alignments: 1, unaligned bases: 730
+		This contig is partially unaligned. (Aligned 189 out of 919 bases)
+		Alignment: 1232 1420 | 1 189 | 189 189 | 97.35 | Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000011.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00019.19_C__whole_genome_shotgun_sequence k105_57320_flag_1_multi_20.0000_len_919
+		Unaligned bases: 190 to 919 (730)
+
+Analyzing coverage...
+Writing SNPs into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+WARNING: Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383913.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00014.14__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000018.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00003.3_C__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 366192 (366192 bp)
+			START in gap: 1 to 286547 (286546 bp)
+			Align 1: 286547 286621 k105_180735_flag_0_multi_12.3653_len_1542 1196 1270
+			END in gap: 286621 to 366192 (79571 bp).
+
+WARNING: Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000004.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00013.13_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000007.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00015.15_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000008.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00016.16_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000029.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00009.9_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000028.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00008.8_C__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000017.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00002.2_C__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 724346 (724346 bp)
+			START in gap: 1 to 715617 (715616 bp)
+			Align 1: 715617 715691 k105_298287_flag_1_multi_3.0000_len_527 417 343
+			END in gap: 715691 to 724346 (8655 bp).
+
+	Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000010.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00018.18_C__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 1673 (1673 bp)
+			START in gap: 1 to 575 (574 bp)
+			Align 1: 575 648 k105_306438_flag_1_multi_8.0000_len_2989 2989 2916
+				The next alignment (579 648 k105_316321_flag_1_multi_3.0000_len_1236 1 70) is redundant. Skipping.
+
+WARNING: Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383909.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00001.1__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383910.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00004.4__whole_genome_shotgun_sequence: 3 total alignments. 1 total regions.
+		Region: 1 to 359886 (359886 bp)
+			START in gap: 1 to 65008 (65007 bp)
+			Align 1: 65008 65083 k105_116826_flag_0_multi_4.2311_len_529 103 28
+				The next alignment (65010 65083 k105_264798_flag_0_multi_2.9329_len_582 582 509) is redundant. Skipping.
+				The next alignment (65010 65083 k105_264820_flag_0_multi_6.0000_len_5445 1 74) is redundant. Skipping.
+
+WARNING: Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000025.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00006.6_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000001.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00010.10_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383911.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00005.5__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000011.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00019.19_C__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 1420 (1420 bp)
+			START in gap: 1 to 1232 (1231 bp)
+			Align 1: 1232 1420 k105_57320_flag_1_multi_20.0000_len_919 1 189
+			END in current alignment.  Modifying 1420 to 1420.
+
+WARNING: Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000002.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00011.11_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000003.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00012.12_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000009.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00017.17_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383912.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00007.7__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 6 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 12157
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 489
+
+	SNPs: 9
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 7
+		Internal Gaps: 0
+		External Gaps: 7
+		External Gap Total: 1157200
+		External Gap Average: 165314
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 2 (218)

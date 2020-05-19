@@ -1,0 +1,39 @@
+/home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/Ilumatobacter_nonamiensis_YM16-303.fasta /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/final-contigs_to_Ilumatobacter_nonamiensis_YM16-303.fasta
+NUCMER
+>Ilumatobacter_nonamiensis_YM16-303_NZ_BAOL01000010.1_Ilumatobacter_nonamiensis_YM16-303__whole_genome_shotgun_sequence k105_198273_flag_1_multi_5.0000_len_5144 26999 5144
+14210 14305 3499 3594 2 2 0
+0
+>Ilumatobacter_nonamiensis_YM16-303_NZ_BAOL01000001.1_Ilumatobacter_nonamiensis_YM16-303__whole_genome_shotgun_sequence k105_198880_flag_1_multi_3.0000_len_558 25588 558
+17999 18086 107 20 4 4 0
+0
+>Ilumatobacter_nonamiensis_YM16-303_NZ_BAOL01000001.1_Ilumatobacter_nonamiensis_YM16-303__whole_genome_shotgun_sequence k105_223700_flag_1_multi_4.7212_len_722 25588 722
+15971 16681 15 722 26 26 0
+15
+580
+14
+0
+>Ilumatobacter_nonamiensis_YM16-303_NZ_BAOL01000039.1_Ilumatobacter_nonamiensis_YM16-303__whole_genome_shotgun_sequence k105_237440_flag_1_multi_3.0000_len_1067 14685 1067
+9275 9353 1 79 1 1 0
+0
+>Ilumatobacter_nonamiensis_YM16-303_NZ_BAOL01000001.1_Ilumatobacter_nonamiensis_YM16-303__whole_genome_shotgun_sequence k105_241585_flag_1_multi_3.0000_len_631 25588 631
+17574 17652 553 631 2 2 0
+0
+>Ilumatobacter_nonamiensis_YM16-303_NZ_BAOL01000001.1_Ilumatobacter_nonamiensis_YM16-303__whole_genome_shotgun_sequence k105_272321_flag_1_multi_8.4670_len_1270 25588 1270
+14610 15879 1270 1 58 58 0
+-923
+8
+8
+-8
+0
+>Ilumatobacter_nonamiensis_YM16-303_NZ_BAOL01000296.1_Ilumatobacter_nonamiensis_YM16-303__whole_genome_shotgun_sequence k105_275705_flag_1_multi_2.6669_len_1387 3156 1387
+1 72 69 140 0 0 0
+0
+>Ilumatobacter_nonamiensis_YM16-303_NZ_BAOL01000090.1_Ilumatobacter_nonamiensis_YM16-303__whole_genome_shotgun_sequence k105_46799_flag_1_multi_1.0000_len_1009 3562 1009
+3498 3562 79 15 0 0 0
+0
+>Ilumatobacter_nonamiensis_YM16-303_NZ_BAOL01000138.1_Ilumatobacter_nonamiensis_YM16-303__whole_genome_shotgun_sequence k105_66324_flag_1_multi_5.0000_len_8046 7503 8046
+2363 2445 4352 4270 0 0 0
+0
+>Ilumatobacter_nonamiensis_YM16-303_NZ_BAOL01000001.1_Ilumatobacter_nonamiensis_YM16-303__whole_genome_shotgun_sequence k105_78776_flag_0_multi_7.4211_len_884 25588 884
+19034 19098 69 5 0 0 0
+0

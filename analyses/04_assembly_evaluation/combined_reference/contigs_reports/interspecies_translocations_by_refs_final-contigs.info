@@ -1,0 +1,53 @@
+Number of interspecies translocations by references: 
+References                                         1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25
+Aminobacter_sp._J41                                -  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Bacillus_thuringiensis_BMB171                      0  -  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Blastopirellula_marina                             0  0  -  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Chromatocurvus_halotolerans                        0  0  0  -  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0 
+Coraliomargarita_akajimensis_DSM_45221             0  0  0  0  -  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Dehalogenimonas_lykanthroporepellens_BL-DC-9       0  0  0  0  0  -  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790  0  0  0  0  0  0  -  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Ilumatobacter_fluminis                             0  0  0  0  0  0  0  -  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Ilumatobacter_nonamiensis_YM16-303                 0  0  0  0  0  0  0  0  -  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Luminiphilus_syltensis_NOR5-1B                     0  0  0  0  0  0  0  0  0  -   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Lutimaribacter_pacificus                           0  0  0  0  0  0  0  0  0  0   -   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Oceanibaculum_pacificum                            0  0  0  0  0  0  0  0  0  0   0   -   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Oceanicola_granulosus_HTCC2516                     0  0  0  0  0  0  0  0  0  0   0   0   -   0   0   0   0   0   0   0   0   0   0   0   0 
+Photobacterium_halotolerans                        0  0  0  0  0  0  0  0  0  0   0   0   0   -   0   0   0   0   0   0   0   0   0   0   0 
+Planctomyces_maris_DSM_8797                        0  0  0  0  0  0  0  0  0  0   0   0   0   0   -   0   0   0   0   0   0   0   0   0   0 
+Psychrobacter_sp._PRwf-1                           0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   -   0   0   0   0   0   0   0   0   0 
+Psychroserpens_sp._PAMC_27130                      0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   -   0   0   0   0   0   0   0   0 
+Roseobacter_sp._SK209-2-6                          0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   -   0   0   0   0   0   0   0 
+Shewanella_amazonensis_SB2B                        0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   -   0   0   0   0   0   0 
+Spongiibacter_tropicus_DSM_19543                   0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   -   0   0   0   0   0 
+Syntrophus_aciditrophicus                          0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   -   0   0   0   0 
+Thioalkalivibrio_sulfidiphilus_HL-EbGr7            0  0  0  1  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   -   0   0   0 
+Vibrio_proteolyticus_NBRC_13287                    0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   -   0   0 
+gamma_proteobacterium_SCGC_AB-629-P17              0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   -   0 
+marine_gamma_proteobacterium_HTCC2143              0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   - 
+References:
+1 - Aminobacter_sp._J41
+2 - Bacillus_thuringiensis_BMB171
+3 - Blastopirellula_marina
+4 - Chromatocurvus_halotolerans
+5 - Coraliomargarita_akajimensis_DSM_45221
+6 - Dehalogenimonas_lykanthroporepellens_BL-DC-9
+7 - Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790
+8 - Ilumatobacter_fluminis
+9 - Ilumatobacter_nonamiensis_YM16-303
+10 - Luminiphilus_syltensis_NOR5-1B
+11 - Lutimaribacter_pacificus
+12 - Oceanibaculum_pacificum
+13 - Oceanicola_granulosus_HTCC2516
+14 - Photobacterium_halotolerans
+15 - Planctomyces_maris_DSM_8797
+16 - Psychrobacter_sp._PRwf-1
+17 - Psychroserpens_sp._PAMC_27130
+18 - Roseobacter_sp._SK209-2-6
+19 - Shewanella_amazonensis_SB2B
+20 - Spongiibacter_tropicus_DSM_19543
+21 - Syntrophus_aciditrophicus
+22 - Thioalkalivibrio_sulfidiphilus_HL-EbGr7
+23 - Vibrio_proteolyticus_NBRC_13287
+24 - gamma_proteobacterium_SCGC_AB-629-P17
+25 - marine_gamma_proteobacterium_HTCC2143

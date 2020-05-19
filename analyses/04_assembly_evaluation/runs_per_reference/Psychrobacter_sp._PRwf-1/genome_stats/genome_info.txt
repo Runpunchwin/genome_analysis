@@ -1,0 +1,16 @@
+reference chromosomes:
+	Psychrobacter_sp._PRwf-1_NC_009516.1_Psychrobacter_sp._PRwf-1_plasmid_pRWF101__complete_sequence (total length: 13956 bp, maximal covered length: 0 bp)
+	Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence (total length: 2978976 bp, maximal covered length: 390 bp)
+	Psychrobacter_sp._PRwf-1_NC_009517.1_Psychrobacter_sp._PRwf-1_plasmid_pRWF102__complete_sequence (total length: 2117 bp, maximal covered length: 0 bp)
+
+total genome size: 2995049
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Psychro | 0.01302%  | 1.63590     | 7         | -         | -         | -         | -         |

@@ -1,0 +1,385 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000002.1_Roseobacter_sp._SK209-2-6_1101232001820__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000003.1_Roseobacter_sp._SK209-2-6_1101232001811__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000004.1_Roseobacter_sp._SK209-2-6_1101232001813__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000005.1_Roseobacter_sp._SK209-2-6_1101232001808__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000006.1_Roseobacter_sp._SK209-2-6_1101232001822__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000007.1_Roseobacter_sp._SK209-2-6_1101232001821__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000008.1_Roseobacter_sp._SK209-2-6_1101232001810__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000010.1_Roseobacter_sp._SK209-2-6_1101232001817__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000012.1_Roseobacter_sp._SK209-2-6_1101232001780__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000013.1_Roseobacter_sp._SK209-2-6_1101232001809__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000014.1_Roseobacter_sp._SK209-2-6_1101232001818__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000015.1_Roseobacter_sp._SK209-2-6_1101232001814__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000016.1_Roseobacter_sp._SK209-2-6_1101232001806__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000017.1_Roseobacter_sp._SK209-2-6_1101232001812__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000018.1_Roseobacter_sp._SK209-2-6_1101232001802__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000019.1_Roseobacter_sp._SK209-2-6_1101232001805__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000020.1_Roseobacter_sp._SK209-2-6_1101232001807__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000021.1_Roseobacter_sp._SK209-2-6_1101232001819__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000022.1_Roseobacter_sp._SK209-2-6_1101232001790__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000023.1_Roseobacter_sp._SK209-2-6_1101232001791__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000024.1_Roseobacter_sp._SK209-2-6_1101232001801__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000025.1_Roseobacter_sp._SK209-2-6_1101232001800__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000026.1_Roseobacter_sp._SK209-2-6_1101232001787__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000027.1_Roseobacter_sp._SK209-2-6_1101232001803__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000028.1_Roseobacter_sp._SK209-2-6_1101232001782__whole_genome_shotgun_sequence]
+	Loaded [Roseobacter_sp._SK209-2-6_NZ_AAYC01000029.1_Roseobacter_sp._SK209-2-6_1101232001781__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 29
+	Total Region Length: 4555826
+Analyzing contigs...
+CONTIG: k105_72686_flag_1_multi_2.0000_len_882 (882bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 803
+		This contig is partially unaligned. (Aligned 79 out of 882 bases)
+		Alignment: 197020 197098 | 651 573 | 79 79 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000003.1_Roseobacter_sp._SK209-2-6_1101232001811__whole_genome_shotgun_sequence k105_72686_flag_1_multi_2.0000_len_882
+		Unaligned bases: 1 to 572 (572)
+		Unaligned bases: 652 to 882 (231)
+
+CONTIG: k105_201413_flag_1_multi_1.9561_len_1835 (1835bp)
+Best alignment score: 80.0 (LEN: 80, IDY: 100.00)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 1755
+		This contig is partially unaligned. (Aligned 80 out of 1835 bases)
+		Alignment: 132808 132887 | 794 715 | 80 80 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000003.1_Roseobacter_sp._SK209-2-6_1101232001811__whole_genome_shotgun_sequence k105_201413_flag_1_multi_1.9561_len_1835
+		Unaligned bases: 1 to 714 (714)
+		Unaligned bases: 795 to 1835 (1041)
+
+CONTIG: k105_160409_flag_1_multi_2.0000_len_1458 (1458bp)
+Best alignment score: 80.0 (LEN: 81, IDY: 98.77)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 1377
+		This contig is partially unaligned. (Aligned 81 out of 1458 bases)
+		Alignment: 169044 169124 | 1385 1305 | 81 81 | 98.77 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000007.1_Roseobacter_sp._SK209-2-6_1101232001821__whole_genome_shotgun_sequence k105_160409_flag_1_multi_2.0000_len_1458
+		Unaligned bases: 1 to 1304 (1304)
+		Unaligned bases: 1386 to 1458 (73)
+
+CONTIG: k105_258868_flag_1_multi_3.0000_len_637 (637bp)
+Best alignment score: 83.0 (LEN: 84, IDY: 98.81)
+			The best set is below. Score: 83.0, number of alignments: 1, unaligned bases: 553
+		Alignment: 169043 169125 | 289 206 | 83 84 | 98.81 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000007.1_Roseobacter_sp._SK209-2-6_1101232001821__whole_genome_shotgun_sequence k105_258868_flag_1_multi_3.0000_len_637
+
+CONTIG: k105_284983_flag_1_multi_1.9167_len_1125 (1125bp)
+Best alignment score: 87.0 (LEN: 87, IDY: 100.00)
+			The best set is below. Score: 87.0, number of alignments: 1, unaligned bases: 1038
+		This contig is partially unaligned. (Aligned 87 out of 1125 bases)
+		Alignment: 217819 217905 | 569 655 | 87 87 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000007.1_Roseobacter_sp._SK209-2-6_1101232001821__whole_genome_shotgun_sequence k105_284983_flag_1_multi_1.9167_len_1125
+		Unaligned bases: 1 to 568 (568)
+		Unaligned bases: 656 to 1125 (470)
+
+CONTIG: k105_3224_flag_1_multi_2.7809_len_607 (607bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3995 4070 | 491 566 | 76 76 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000027.1_Roseobacter_sp._SK209-2-6_1101232001803__whole_genome_shotgun_sequence k105_3224_flag_1_multi_2.7809_len_607
+		Skipping redundant alignment 208007 208082 | 566 491 | 76 76 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence k105_3224_flag_1_multi_2.7809_len_607
+		Skipping redundant alignment 71902 71977 | 566 491 | 76 76 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence k105_3224_flag_1_multi_2.7809_len_607
+		Skipping redundant alignment 58625 58700 | 566 491 | 76 76 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000015.1_Roseobacter_sp._SK209-2-6_1101232001814__whole_genome_shotgun_sequence k105_3224_flag_1_multi_2.7809_len_607
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 531
+		Alignment: 173135 173210 | 491 566 | 76 76 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence k105_3224_flag_1_multi_2.7809_len_607
+
+CONTIG: k105_150067_flag_1_multi_4.0000_len_1261 (1261bp)
+Best alignment score: 338.1 (LEN: 353, IDY: 95.77)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 5403 5755 | 4 356 | 353 353 | 95.77 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000027.1_Roseobacter_sp._SK209-2-6_1101232001803__whole_genome_shotgun_sequence k105_150067_flag_1_multi_4.0000_len_1261
+		Skipping redundant alignment 206322 206674 | 356 4 | 353 353 | 95.77 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence k105_150067_flag_1_multi_4.0000_len_1261
+		Skipping redundant alignment 70219 70571 | 356 4 | 353 353 | 95.77 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence k105_150067_flag_1_multi_4.0000_len_1261
+		Skipping redundant alignment 56940 57292 | 356 4 | 353 353 | 95.77 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000015.1_Roseobacter_sp._SK209-2-6_1101232001814__whole_genome_shotgun_sequence k105_150067_flag_1_multi_4.0000_len_1261
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 338.1, number of alignments: 1, unaligned bases: 908
+		This contig is partially unaligned. (Aligned 353 out of 1261 bases)
+		Alignment: 174543 174895 | 4 356 | 353 353 | 95.77 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence k105_150067_flag_1_multi_4.0000_len_1261
+		Unaligned bases: 1 to 3 (3)
+		Unaligned bases: 357 to 1261 (905)
+
+CONTIG: k105_157586_flag_1_multi_5.8560_len_1480 (1480bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 71900 71977 | 387 464 | 78 78 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence k105_157586_flag_1_multi_5.8560_len_1480
+		Skipping redundant alignment 58623 58700 | 387 464 | 78 78 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000015.1_Roseobacter_sp._SK209-2-6_1101232001814__whole_genome_shotgun_sequence k105_157586_flag_1_multi_5.8560_len_1480
+		Skipping redundant alignment 173135 173212 | 464 387 | 78 78 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence k105_157586_flag_1_multi_5.8560_len_1480
+		Skipping redundant alignment 3995 4072 | 464 387 | 78 78 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000027.1_Roseobacter_sp._SK209-2-6_1101232001803__whole_genome_shotgun_sequence k105_157586_flag_1_multi_5.8560_len_1480
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 1402
+		This contig is partially unaligned. (Aligned 78 out of 1480 bases)
+		Alignment: 208005 208082 | 387 464 | 78 78 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence k105_157586_flag_1_multi_5.8560_len_1480
+		Unaligned bases: 1 to 386 (386)
+		Unaligned bases: 465 to 1480 (1016)
+
+CONTIG: k105_189479_flag_1_multi_1.8805_len_515 (515bp)
+Best alignment score: 84.0 (LEN: 84, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4807 4890 | 1 84 | 84 84 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000027.1_Roseobacter_sp._SK209-2-6_1101232001803__whole_genome_shotgun_sequence k105_189479_flag_1_multi_1.8805_len_515
+		Skipping redundant alignment 207187 207270 | 84 1 | 84 84 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence k105_189479_flag_1_multi_1.8805_len_515
+		Skipping redundant alignment 71082 71165 | 84 1 | 84 84 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence k105_189479_flag_1_multi_1.8805_len_515
+		Skipping redundant alignment 57805 57888 | 84 1 | 84 84 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000015.1_Roseobacter_sp._SK209-2-6_1101232001814__whole_genome_shotgun_sequence k105_189479_flag_1_multi_1.8805_len_515
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 84.0, number of alignments: 1, unaligned bases: 431
+		Alignment: 173947 174030 | 1 84 | 84 84 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence k105_189479_flag_1_multi_1.8805_len_515
+
+CONTIG: k105_195025_flag_1_multi_17.9877_len_1566 (1566bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3894 3971 | 1152 1229 | 78 78 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000027.1_Roseobacter_sp._SK209-2-6_1101232001803__whole_genome_shotgun_sequence k105_195025_flag_1_multi_17.9877_len_1566
+		Skipping redundant alignment 208106 208183 | 1229 1152 | 78 78 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence k105_195025_flag_1_multi_17.9877_len_1566
+		Skipping redundant alignment 72001 72078 | 1229 1152 | 78 78 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence k105_195025_flag_1_multi_17.9877_len_1566
+		Skipping redundant alignment 58724 58801 | 1229 1152 | 78 78 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000015.1_Roseobacter_sp._SK209-2-6_1101232001814__whole_genome_shotgun_sequence k105_195025_flag_1_multi_17.9877_len_1566
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 1488
+		This contig is partially unaligned. (Aligned 78 out of 1566 bases)
+		Alignment: 173034 173111 | 1152 1229 | 78 78 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence k105_195025_flag_1_multi_17.9877_len_1566
+		Unaligned bases: 1 to 1151 (1151)
+		Unaligned bases: 1230 to 1566 (337)
+
+CONTIG: k105_198353_flag_1_multi_3.0000_len_531 (531bp)
+Best alignment score: 77.0 (LEN: 79, IDY: 97.47)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 74399 74477 | 453 531 | 79 79 | 97.47 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence k105_198353_flag_1_multi_3.0000_len_531
+		Skipping redundant alignment 61122 61200 | 453 531 | 79 79 | 97.47 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000015.1_Roseobacter_sp._SK209-2-6_1101232001814__whole_genome_shotgun_sequence k105_198353_flag_1_multi_3.0000_len_531
+		Skipping redundant alignment 170635 170713 | 531 453 | 79 79 | 97.47 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence k105_198353_flag_1_multi_3.0000_len_531
+		Skipping redundant alignment 1495 1573 | 531 453 | 79 79 | 97.47 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000027.1_Roseobacter_sp._SK209-2-6_1101232001803__whole_genome_shotgun_sequence k105_198353_flag_1_multi_3.0000_len_531
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 452
+		Alignment: 210504 210582 | 453 531 | 79 79 | 97.47 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence k105_198353_flag_1_multi_3.0000_len_531
+
+CONTIG: k105_217412_flag_1_multi_6.5939_len_627 (627bp)
+Best alignment score: 278.0 (LEN: 292, IDY: 95.21)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 75115 75406 | 1 292 | 292 292 | 95.21 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence k105_217412_flag_1_multi_6.5939_len_627
+		Skipping redundant alignment 61838 62129 | 1 292 | 292 292 | 95.21 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000015.1_Roseobacter_sp._SK209-2-6_1101232001814__whole_genome_shotgun_sequence k105_217412_flag_1_multi_6.5939_len_627
+		Skipping redundant alignment 169706 169997 | 292 1 | 292 292 | 95.21 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence k105_217412_flag_1_multi_6.5939_len_627
+		Skipping redundant alignment 566 857 | 292 1 | 292 292 | 95.21 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000027.1_Roseobacter_sp._SK209-2-6_1101232001803__whole_genome_shotgun_sequence k105_217412_flag_1_multi_6.5939_len_627
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 278.0, number of alignments: 1, unaligned bases: 335
+		Alignment: 211220 211511 | 1 292 | 292 292 | 95.21 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence k105_217412_flag_1_multi_6.5939_len_627
+
+CONTIG: k105_265057_flag_0_multi_14.9955_len_1440 (1440bp)
+Best alignment score: 505.1 (LEN: 531, IDY: 95.12)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 5226 5756 | 1 531 | 531 531 | 95.12 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000027.1_Roseobacter_sp._SK209-2-6_1101232001803__whole_genome_shotgun_sequence k105_265057_flag_0_multi_14.9955_len_1440
+		Skipping redundant alignment 206321 206851 | 531 1 | 531 531 | 95.12 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence k105_265057_flag_0_multi_14.9955_len_1440
+		Skipping redundant alignment 56939 57469 | 531 1 | 531 531 | 95.12 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000015.1_Roseobacter_sp._SK209-2-6_1101232001814__whole_genome_shotgun_sequence k105_265057_flag_0_multi_14.9955_len_1440
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 505.1, number of alignments: 1, unaligned bases: 909
+		This contig is partially unaligned. (Aligned 531 out of 1440 bases)
+		Alignment: 174366 174896 | 1 531 | 531 531 | 95.12 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence k105_265057_flag_0_multi_14.9955_len_1440
+		Unaligned bases: 532 to 1440 (909)
+
+CONTIG: k105_296573_flag_1_multi_47.2849_len_642 (642bp)
+Best alignment score: 628.0 (LEN: 642, IDY: 97.82)
+		This contig has 5 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 210522 211163 | 1 642 | 642 642 | 97.82 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence k105_296573_flag_1_multi_47.2849_len_642
+			Skipping alignment 74417 75058 | 1 642 | 642 642 | 97.82 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence k105_296573_flag_1_multi_47.2849_len_642
+			Skipping alignment 61140 61781 | 1 642 | 642 642 | 97.82 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000015.1_Roseobacter_sp._SK209-2-6_1101232001814__whole_genome_shotgun_sequence k105_296573_flag_1_multi_47.2849_len_642
+			Skipping alignment 170054 170695 | 642 1 | 642 642 | 97.82 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence k105_296573_flag_1_multi_47.2849_len_642
+			Skipping alignment 914 1555 | 642 1 | 642 642 | 97.82 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000027.1_Roseobacter_sp._SK209-2-6_1101232001803__whole_genome_shotgun_sequence k105_296573_flag_1_multi_47.2849_len_642
+
+CONTIG: k105_300581_flag_1_multi_3.0000_len_1033 (1033bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 187436 187512 | 844 920 | 77 77 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence k105_300581_flag_1_multi_3.0000_len_1033
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 955
+		This contig is partially unaligned. (Aligned 78 out of 1033 bases)
+		Alignment: 247281 247358 | 920 843 | 78 78 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence k105_300581_flag_1_multi_3.0000_len_1033
+		Unaligned bases: 1 to 842 (842)
+		Unaligned bases: 921 to 1033 (113)
+
+CONTIG: k105_145877_flag_1_multi_2.6691_len_522 (522bp)
+Best alignment score: 97.0 (LEN: 101, IDY: 96.04)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 30445 30532 | 119 31 | 88 89 | 98.88 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000004.1_Roseobacter_sp._SK209-2-6_1101232001813__whole_genome_shotgun_sequence k105_145877_flag_1_multi_2.6691_len_522
+			The best set is below. Score: 97.0, number of alignments: 1, unaligned bases: 421
+		Alignment: 86276 86374 | 119 19 | 99 101 | 96.04 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence k105_145877_flag_1_multi_2.6691_len_522
+
+CONTIG: k105_193576_flag_1_multi_4.0000_len_2884 (2884bp)
+Best alignment score: 92.0 (LEN: 96, IDY: 95.83)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 30445 30532 | 2755 2668 | 88 88 | 97.73 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000004.1_Roseobacter_sp._SK209-2-6_1101232001813__whole_genome_shotgun_sequence k105_193576_flag_1_multi_4.0000_len_2884
+			The best set is below. Score: 92.0, number of alignments: 1, unaligned bases: 2788
+		This contig is partially unaligned. (Aligned 96 out of 2884 bases)
+		Alignment: 86276 86371 | 2755 2660 | 96 96 | 95.83 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence k105_193576_flag_1_multi_4.0000_len_2884
+		Unaligned bases: 1 to 2659 (2659)
+		Unaligned bases: 2756 to 2884 (129)
+
+CONTIG: k105_177918_flag_1_multi_1.8104_len_622 (622bp)
+Best alignment score: 86.0 (LEN: 86, IDY: 100.00)
+			The best set is below. Score: 86.0, number of alignments: 1, unaligned bases: 536
+		Alignment: 290685 290770 | 565 480 | 86 86 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000002.1_Roseobacter_sp._SK209-2-6_1101232001820__whole_genome_shotgun_sequence k105_177918_flag_1_multi_1.8104_len_622
+
+CONTIG: k105_202758_flag_1_multi_2.0000_len_764 (764bp)
+Best alignment score: 99.0 (LEN: 99, IDY: 100.00)
+			The best set is below. Score: 99.0, number of alignments: 1, unaligned bases: 665
+		This contig is partially unaligned. (Aligned 99 out of 764 bases)
+		Alignment: 278525 278623 | 580 678 | 99 99 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000002.1_Roseobacter_sp._SK209-2-6_1101232001820__whole_genome_shotgun_sequence k105_202758_flag_1_multi_2.0000_len_764
+		Unaligned bases: 1 to 579 (579)
+		Unaligned bases: 679 to 764 (86)
+
+CONTIG: k105_325911_flag_1_multi_1.0000_len_655 (655bp)
+Best alignment score: 106.0 (LEN: 111, IDY: 95.50)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 38679 38746 | 300 233 | 68 68 | 100.0 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000002.1_Roseobacter_sp._SK209-2-6_1101232001820__whole_genome_shotgun_sequence k105_325911_flag_1_multi_1.0000_len_655
+			The best set is below. Score: 106.0, number of alignments: 1, unaligned bases: 544
+		Alignment: 24375 24485 | 300 190 | 111 111 | 95.5 | Roseobacter_sp._SK209-2-6_NZ_AAYC01000002.1_Roseobacter_sp._SK209-2-6_1101232001820__whole_genome_shotgun_sequence k105_325911_flag_1_multi_1.0000_len_655
+
+Analyzing coverage...
+Writing SNPs into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Roseobacter_sp._SK209-2-6/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000008.1_Roseobacter_sp._SK209-2-6_1101232001810__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000010.1_Roseobacter_sp._SK209-2-6_1101232001817__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000028.1_Roseobacter_sp._SK209-2-6_1101232001782__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000024.1_Roseobacter_sp._SK209-2-6_1101232001801__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000014.1_Roseobacter_sp._SK209-2-6_1101232001818__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000003.1_Roseobacter_sp._SK209-2-6_1101232001811__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 350920 (350920 bp)
+			START in gap: 1 to 132808 (132807 bp)
+			Align 1: 132808 132887 k105_201413_flag_1_multi_1.9561_len_1835 794 715
+				Gap between this and next alignment: 132887 to 197020 (64132 bp)
+				Next Alignment: 197020 197098 k105_72686_flag_1_multi_2.0000_len_882 651 573
+
+			Align 2: 197020 197098 k105_72686_flag_1_multi_2.0000_len_882 651 573
+			END in gap: 197098 to 350920 (153822 bp).
+
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000026.1_Roseobacter_sp._SK209-2-6_1101232001787__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000006.1_Roseobacter_sp._SK209-2-6_1101232001822__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000007.1_Roseobacter_sp._SK209-2-6_1101232001821__whole_genome_shotgun_sequence: 3 total alignments. 1 total regions.
+		Region: 1 to 247062 (247062 bp)
+			START in gap: 1 to 169043 (169042 bp)
+			Align 1: 169043 169125 k105_258868_flag_1_multi_3.0000_len_637 289 206
+				The next alignment (169044 169124 k105_160409_flag_1_multi_2.0000_len_1458 1385 1305) is redundant. Skipping.
+				Gap between this and next alignment: 169125 to 217819 (48693 bp)
+				Next Alignment: 217819 217905 k105_284983_flag_1_multi_1.9167_len_1125 569 655
+
+			Align 3: 217819 217905 k105_284983_flag_1_multi_1.9167_len_1125 569 655
+			END in gap: 217905 to 247062 (29157 bp).
+
+	Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000001.1_Roseobacter_sp._SK209-2-6_1101232001815__whole_genome_shotgun_sequence: 5 total alignments. 1 total regions.
+		Region: 1 to 649731 (649731 bp)
+			START in gap: 1 to 208005 (208004 bp)
+			Align 1: 208005 208082 k105_157586_flag_1_multi_5.8560_len_1480 387 464
+				Gap between this and next alignment: 208082 to 210504 (2421 bp)
+				Next Alignment: 210504 210582 k105_198353_flag_1_multi_3.0000_len_531 453 531
+
+			Align 2: 210504 210582 k105_198353_flag_1_multi_3.0000_len_531 453 531
+				Negative gap (overlap) between this and next alignment: 210582 to 210522 (-60 bp)
+				Next Alignment: 210522 211163 k105_296573_flag_1_multi_47.2849_len_642 1 642
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 62.
+			Align 3: 210583 211163 k105_296573_flag_1_multi_47.2849_len_642 62 642
+				Gap between this and next alignment: 211163 to 211220 (56 bp)
+				Next Alignment: 211220 211511 k105_217412_flag_1_multi_6.5939_len_627 1 292
+
+			Align 4: 211220 211511 k105_217412_flag_1_multi_6.5939_len_627 1 292
+				Gap between this and next alignment: 211511 to 247281 (35769 bp)
+				Next Alignment: 247281 247358 k105_300581_flag_1_multi_3.0000_len_1033 920 843
+
+			Align 5: 247281 247358 k105_300581_flag_1_multi_3.0000_len_1033 920 843
+			END in gap: 247358 to 649731 (402373 bp).
+
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000019.1_Roseobacter_sp._SK209-2-6_1101232001805__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000011.1_Roseobacter_sp._SK209-2-6_1101232001804__whole_genome_shotgun_sequence: 5 total alignments. 1 total regions.
+		Region: 1 to 175230 (175230 bp)
+			START in gap: 1 to 173034 (173033 bp)
+			Align 1: 173034 173111 k105_195025_flag_1_multi_17.9877_len_1566 1152 1229
+				Gap between this and next alignment: 173111 to 173135 (23 bp)
+				Next Alignment: 173135 173210 k105_3224_flag_1_multi_2.7809_len_607 491 566
+
+			Align 2: 173135 173210 k105_3224_flag_1_multi_2.7809_len_607 491 566
+				Gap between this and next alignment: 173210 to 173947 (736 bp)
+				Next Alignment: 173947 174030 k105_189479_flag_1_multi_1.8805_len_515 1 84
+
+			Align 3: 173947 174030 k105_189479_flag_1_multi_1.8805_len_515 1 84
+				Gap between this and next alignment: 174030 to 174366 (335 bp)
+				Next Alignment: 174366 174896 k105_265057_flag_0_multi_14.9955_len_1440 1 531
+
+			Align 4: 174366 174896 k105_265057_flag_0_multi_14.9955_len_1440 1 531
+				The next alignment (174543 174895 k105_150067_flag_1_multi_4.0000_len_1261 4 356) is redundant. Skipping.
+
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000020.1_Roseobacter_sp._SK209-2-6_1101232001807__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000016.1_Roseobacter_sp._SK209-2-6_1101232001806__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000009.1_Roseobacter_sp._SK209-2-6_1101232001816__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 207837 (207837 bp)
+			START in gap: 1 to 86276 (86275 bp)
+			Align 1: 86276 86374 k105_145877_flag_1_multi_2.6691_len_522 119 19
+				The next alignment (86276 86371 k105_193576_flag_1_multi_4.0000_len_2884 2755 2660) is redundant. Skipping.
+
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000004.1_Roseobacter_sp._SK209-2-6_1101232001813__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000015.1_Roseobacter_sp._SK209-2-6_1101232001814__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000013.1_Roseobacter_sp._SK209-2-6_1101232001809__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000005.1_Roseobacter_sp._SK209-2-6_1101232001808__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000002.1_Roseobacter_sp._SK209-2-6_1101232001820__whole_genome_shotgun_sequence: 3 total alignments. 1 total regions.
+		Region: 1 to 530190 (530190 bp)
+			START in gap: 1 to 24375 (24374 bp)
+			Align 1: 24375 24485 k105_325911_flag_1_multi_1.0000_len_655 300 190
+				Gap between this and next alignment: 24485 to 278525 (254039 bp)
+				Next Alignment: 278525 278623 k105_202758_flag_1_multi_2.0000_len_764 580 678
+
+			Align 2: 278525 278623 k105_202758_flag_1_multi_2.0000_len_764 580 678
+				Gap between this and next alignment: 278623 to 290685 (12061 bp)
+				Next Alignment: 290685 290770 k105_177918_flag_1_multi_1.8104_len_622 565 480
+
+			Align 3: 290685 290770 k105_177918_flag_1_multi_1.8104_len_622 565 480
+			END in gap: 290770 to 530190 (239420 bp).
+
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000018.1_Roseobacter_sp._SK209-2-6_1101232001802__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000022.1_Roseobacter_sp._SK209-2-6_1101232001790__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000021.1_Roseobacter_sp._SK209-2-6_1101232001819__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000012.1_Roseobacter_sp._SK209-2-6_1101232001780__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000017.1_Roseobacter_sp._SK209-2-6_1101232001812__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000027.1_Roseobacter_sp._SK209-2-6_1101232001803__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000025.1_Roseobacter_sp._SK209-2-6_1101232001800__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000029.1_Roseobacter_sp._SK209-2-6_1101232001781__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseobacter_sp._SK209-2-6_NZ_AAYC01000023.1_Roseobacter_sp._SK209-2-6_1101232001791__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Roseobacter_sp._SK209-2-6/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 11 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 14088
+
+Ambiguously Mapped Contigs: 9
+Total Bases in Ambiguously Mapped Contigs: 8669
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 2601
+
+	SNPs: 59
+	Insertions: 5
+	Deletions: 2
+
+	Positive Gaps: 20
+		Internal Gaps: 0
+		External Gaps: 20
+		External Gap Total: 2036572
+		External Gap Average: 101829
+	Negative Gaps: 1
+		Internal Overlaps: 0
+		External Overlaps: 1
+		External Overlaps Total: -60
+		External Overlaps Average: -60
+	Contigs with Redundant Alignments: 3 (530)

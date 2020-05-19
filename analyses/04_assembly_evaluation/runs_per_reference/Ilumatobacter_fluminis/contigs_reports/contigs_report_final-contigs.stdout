@@ -1,0 +1,230 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 4775416
+Analyzing contigs...
+CONTIG: k105_84641_flag_1_multi_3.0000_len_835 (835bp)
+Best alignment score: 83.0 (LEN: 86, IDY: 96.51)
+			The best set is below. Score: 83.0, number of alignments: 1, unaligned bases: 749
+		Alignment: 4569686 4569771 | 507 422 | 86 86 | 96.51 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_84641_flag_1_multi_3.0000_len_835
+
+CONTIG: k105_93739_flag_1_multi_4.0000_len_1747 (1747bp)
+Best alignment score: 114.0 (LEN: 120, IDY: 95.04)
+			The best set is below. Score: 114.0, number of alignments: 1, unaligned bases: 1627
+		This contig is partially unaligned. (Aligned 120 out of 1747 bases)
+		Alignment: 4330162 4330280 | 912 1031 | 119 120 | 95.04 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_93739_flag_1_multi_4.0000_len_1747
+		Unaligned bases: 1 to 911 (911)
+		Unaligned bases: 1032 to 1747 (716)
+
+CONTIG: k105_127494_flag_1_multi_8.0000_len_1918 (1918bp)
+Best alignment score: 81.0 (LEN: 83, IDY: 97.59)
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 1835
+		This contig is partially unaligned. (Aligned 83 out of 1918 bases)
+		Alignment: 2140185 2140267 | 1836 1918 | 83 83 | 97.59 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_127494_flag_1_multi_8.0000_len_1918
+		Unaligned bases: 1 to 1835 (1835)
+
+CONTIG: k105_137286_flag_0_multi_12.6548_len_835 (835bp)
+Best alignment score: 87.0 (LEN: 90, IDY: 96.67)
+			The best set is below. Score: 87.0, number of alignments: 1, unaligned bases: 745
+		This contig is partially unaligned. (Aligned 90 out of 835 bases)
+		Alignment: 2140185 2140274 | 746 835 | 90 90 | 96.67 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_137286_flag_0_multi_12.6548_len_835
+		Unaligned bases: 1 to 745 (745)
+
+CONTIG: k105_178888_flag_1_multi_4.9428_len_6953 (6953bp)
+Best alignment score: 112.0 (LEN: 116, IDY: 96.55)
+			The best set is below. Score: 112.0, number of alignments: 1, unaligned bases: 6837
+		This contig is partially unaligned. (Aligned 116 out of 6953 bases)
+		Alignment: 4330166 4330280 | 100 215 | 115 116 | 96.55 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_178888_flag_1_multi_4.9428_len_6953
+		Unaligned bases: 1 to 99 (99)
+		Unaligned bases: 216 to 6953 (6738)
+
+CONTIG: k105_201088_flag_1_multi_6.0000_len_7878 (7878bp)
+Best alignment score: 74.0 (LEN: 74, IDY: 100.00)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 7804
+		This contig is partially unaligned. (Aligned 74 out of 7878 bases)
+		Alignment: 4627351 4627424 | 1725 1652 | 74 74 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_201088_flag_1_multi_6.0000_len_7878
+		Unaligned bases: 1 to 1651 (1651)
+		Unaligned bases: 1726 to 7878 (6153)
+
+CONTIG: k105_221329_flag_1_multi_5.0000_len_3039 (3039bp)
+Best alignment score: 66.0 (LEN: 66, IDY: 100.00)
+			The best set is below. Score: 66.0, number of alignments: 1, unaligned bases: 2973
+		This contig is partially unaligned. (Aligned 66 out of 3039 bases)
+		Alignment: 2136288 2136353 | 762 697 | 66 66 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_221329_flag_1_multi_5.0000_len_3039
+		Unaligned bases: 1 to 696 (696)
+		Unaligned bases: 763 to 3039 (2277)
+
+CONTIG: k105_232899_flag_1_multi_10.4226_len_6873 (6873bp)
+Best alignment score: 129.0 (LEN: 135, IDY: 95.56)
+			The best set is below. Score: 129.0, number of alignments: 1, unaligned bases: 6738
+		This contig is partially unaligned. (Aligned 135 out of 6873 bases)
+		Alignment: 2136529 2136663 | 135 1 | 135 135 | 95.56 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_232899_flag_1_multi_10.4226_len_6873
+		Unaligned bases: 136 to 6873 (6738)
+
+CONTIG: k105_243376_flag_1_multi_3.0000_len_542 (542bp)
+Best alignment score: 78.0 (LEN: 80, IDY: 97.50)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 462
+		Alignment: 4569692 4569771 | 4 83 | 80 80 | 97.5 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_243376_flag_1_multi_3.0000_len_542
+
+CONTIG: k105_255138_flag_1_multi_6.0000_len_17225 (17225bp)
+Best alignment score: 94.0 (LEN: 94, IDY: 100.00)
+			The best set is below. Score: 94.0, number of alignments: 1, unaligned bases: 17131
+		This contig is partially unaligned. (Aligned 94 out of 17225 bases)
+		Alignment: 850365 850458 | 12951 12858 | 94 94 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_255138_flag_1_multi_6.0000_len_17225
+		Unaligned bases: 1 to 12857 (12857)
+		Unaligned bases: 12952 to 17225 (4274)
+
+CONTIG: k105_255916_flag_1_multi_1.0000_len_617 (617bp)
+Best alignment score: 85.0 (LEN: 89, IDY: 95.51)
+			The best set is below. Score: 85.0, number of alignments: 1, unaligned bases: 528
+		Alignment: 4569683 4569771 | 434 346 | 89 89 | 95.51 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_255916_flag_1_multi_1.0000_len_617
+
+CONTIG: k105_256394_flag_0_multi_7.3611_len_3337 (3337bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 3262
+		This contig is partially unaligned. (Aligned 75 out of 3337 bases)
+		Alignment: 626052 626126 | 3295 3221 | 75 75 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_256394_flag_0_multi_7.3611_len_3337
+		Unaligned bases: 1 to 3220 (3220)
+		Unaligned bases: 3296 to 3337 (42)
+
+CONTIG: k105_267330_flag_1_multi_10.0000_len_577 (577bp)
+Best alignment score: 563.0 (LEN: 577, IDY: 97.57)
+		One align captures most of this contig: 2136586 2137162 | 1 577 | 577 577 | 97.57 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_267330_flag_1_multi_10.0000_len_577
+
+CONTIG: k105_274756_flag_1_multi_5.9663_len_846 (846bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 771
+		This contig is partially unaligned. (Aligned 75 out of 846 bases)
+		Alignment: 626052 626126 | 286 212 | 75 75 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_274756_flag_1_multi_5.9663_len_846
+		Unaligned bases: 1 to 211 (211)
+		Unaligned bases: 287 to 846 (560)
+
+CONTIG: k105_278287_flag_1_multi_29.9249_len_3725 (3725bp)
+Best alignment score: 77.0 (LEN: 79, IDY: 97.47)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 3646
+		This contig is partially unaligned. (Aligned 79 out of 3725 bases)
+		Alignment: 2140185 2140263 | 3647 3725 | 79 79 | 97.47 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_278287_flag_1_multi_29.9249_len_3725
+		Unaligned bases: 1 to 3646 (3646)
+
+CONTIG: k105_314358_flag_1_multi_5.0000_len_789 (789bp)
+Best alignment score: 419.0 (LEN: 428, IDY: 97.90)
+			The best set is below. Score: 519.0, number of alignments: 2, unaligned bases: 256
+		This contig is misassembled. 2 total aligns.
+			Real Alignment 1: 2138122 2138223 | 105 1 | 102 105 | 95.24 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_314358_flag_1_multi_5.0000_len_789
+			  Gap between these two alignments (local misassembly). Inconsistency = 58
+			Real Alignment 2: 2137381 2137809 | 787 360 | 429 428 | 97.9 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_314358_flag_1_multi_5.0000_len_789
+
+CONTIG: k105_317817_flag_0_multi_12.5505_len_6728 (6728bp)
+Best alignment score: 74.0 (LEN: 74, IDY: 100.00)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 6654
+		This contig is partially unaligned. (Aligned 74 out of 6728 bases)
+		Alignment: 626053 626126 | 3000 3073 | 74 74 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_317817_flag_0_multi_12.5505_len_6728
+		Unaligned bases: 1 to 2999 (2999)
+		Unaligned bases: 3074 to 6728 (3655)
+
+Analyzing coverage...
+Writing SNPs into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Ilumatobacter_fluminis/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence: 18 total alignments. 1 total regions.
+		Region: 1 to 4775416 (4775416 bp)
+			START in gap: 1 to 626052 (626051 bp)
+			Align 1: 626052 626126 k105_256394_flag_0_multi_7.3611_len_3337 3295 3221
+				The next alignment (626052 626126 k105_274756_flag_1_multi_5.9663_len_846 286 212) is redundant. Skipping.
+				The next alignment (626053 626126 k105_317817_flag_0_multi_12.5505_len_6728 3000 3073) is redundant. Skipping.
+				Gap between this and next alignment: 626126 to 850365 (224238 bp)
+				Next Alignment: 850365 850458 k105_255138_flag_1_multi_6.0000_len_17225 12951 12858
+
+			Align 4: 850365 850458 k105_255138_flag_1_multi_6.0000_len_17225 12951 12858
+				Gap between this and next alignment: 850458 to 2136288 (1285829 bp)
+				Next Alignment: 2136288 2136353 k105_221329_flag_1_multi_5.0000_len_3039 762 697
+
+			Align 5: 2136288 2136353 k105_221329_flag_1_multi_5.0000_len_3039 762 697
+				Gap between this and next alignment: 2136353 to 2136529 (175 bp)
+				Next Alignment: 2136529 2136663 k105_232899_flag_1_multi_10.4226_len_6873 135 1
+
+			Align 6: 2136529 2136663 k105_232899_flag_1_multi_10.4226_len_6873 135 1
+				Negative gap (overlap) between this and next alignment: 2136663 to 2136586 (-77 bp)
+				Next Alignment: 2136586 2137162 k105_267330_flag_1_multi_10.0000_len_577 1 577
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 79.
+			Align 7: 2136664 2137162 k105_267330_flag_1_multi_10.0000_len_577 79 577
+				Gap between this and next alignment: 2137162 to 2137381 (218 bp)
+				Next Alignment: 2137381 2137809 k105_314358_flag_1_multi_5.0000_len_789 787 360
+
+			Align 8: 2137381 2137809 k105_314358_flag_1_multi_5.0000_len_789 787 360
+				Gap between this and next alignment: 2137809 to 2138122 (312 bp)
+				Next Alignment: 2138122 2138223 k105_314358_flag_1_multi_5.0000_len_789 105 1
+
+			Align 9: 2138122 2138223 k105_314358_flag_1_multi_5.0000_len_789 105 1
+				Gap between this and next alignment: 2138223 to 2140185 (1961 bp)
+				Next Alignment: 2140185 2140267 k105_127494_flag_1_multi_8.0000_len_1918 1836 1918
+
+			Align 10: 2140185 2140267 k105_127494_flag_1_multi_8.0000_len_1918 1836 1918
+				Negative gap (overlap) between this and next alignment: 2140267 to 2140185 (-82 bp)
+				Next Alignment: 2140185 2140274 k105_137286_flag_0_multi_12.6548_len_835 746 835
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 746 to 829.
+			Align 11: 2140268 2140274 k105_137286_flag_0_multi_12.6548_len_835 829 835
+				The next alignment (2140185 2140263 k105_278287_flag_1_multi_29.9249_len_3725 3647 3725) is redundant. Skipping.
+				Gap between this and next alignment: 2140274 to 4330162 (2189887 bp)
+				Next Alignment: 4330162 4330280 k105_93739_flag_1_multi_4.0000_len_1747 912 1031
+
+			Align 13: 4330162 4330280 k105_93739_flag_1_multi_4.0000_len_1747 912 1031
+				The next alignment (4330166 4330280 k105_178888_flag_1_multi_4.9428_len_6953 100 215) is redundant. Skipping.
+				Gap between this and next alignment: 4330280 to 4569683 (239402 bp)
+				Next Alignment: 4569683 4569771 k105_255916_flag_1_multi_1.0000_len_617 434 346
+
+			Align 15: 4569683 4569771 k105_255916_flag_1_multi_1.0000_len_617 434 346
+				The next alignment (4569686 4569771 k105_84641_flag_1_multi_3.0000_len_835 507 422) is redundant. Skipping.
+				The next alignment (4569692 4569771 k105_243376_flag_1_multi_3.0000_len_542 4 83) is redundant. Skipping.
+				Gap between this and next alignment: 4569771 to 4627351 (57579 bp)
+				Next Alignment: 4627351 4627424 k105_201088_flag_1_multi_6.0000_len_7878 1725 1652
+
+			Align 18: 4627351 4627424 k105_201088_flag_1_multi_6.0000_len_7878 1725 1652
+			END in gap: 4627424 to 4775416 (147992 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Ilumatobacter_fluminis/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 1
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 12 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 60023
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1772
+
+	SNPs: 39
+	Insertions: 5
+	Deletions: 2
+
+	Positive Gaps: 11
+		Internal Gaps: 1
+		External Gaps: 10
+		External Gap Total: 4773332
+		External Gap Average: 477333
+	Negative Gaps: 2
+		Internal Overlaps: 0
+		External Overlaps: 2
+		External Overlaps Total: -159
+		External Overlaps Average: -80
+	Contigs with Redundant Alignments: 4 (509)

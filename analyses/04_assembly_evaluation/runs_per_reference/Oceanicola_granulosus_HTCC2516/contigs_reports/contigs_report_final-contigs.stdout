@@ -1,0 +1,254 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_AAOT01000082.1_Oceanicola_granulosus_HTCC2516_1099521379915__whole_genome_shotgun_sequence]
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_AAOT01000083.1_Oceanicola_granulosus_HTCC2516_1099521379914__whole_genome_shotgun_sequence]
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_AAOT01000084.1_Oceanicola_granulosus_HTCC2516_1099521379950__whole_genome_shotgun_sequence]
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence]
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_CH724108.1_Oceanicola_granulosus_HTCC2516_scf_1099521380028__whole_genome_shotgun_sequence]
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_CH724109.1_Oceanicola_granulosus_HTCC2516_scf_1099521380032__whole_genome_shotgun_sequence]
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_CH724110.1_Oceanicola_granulosus_HTCC2516_scf_1099521380033__whole_genome_shotgun_sequence]
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_CH724111.1_Oceanicola_granulosus_HTCC2516_scf_1099521380031__whole_genome_shotgun_sequence]
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_CH724112.1_Oceanicola_granulosus_HTCC2516_scf_1099521380034__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 9
+	Total Region Length: 4053139
+Analyzing contigs...
+CONTIG: k105_80466_flag_1_multi_3.4598_len_3511 (3511bp)
+Best alignment score: 82.0 (LEN: 82, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2598828 2598909 | 2014 1933 | 82 82 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_80466_flag_1_multi_3.4598_len_3511
+		Skipping redundant alignment 736359 736440 | 2014 1933 | 82 82 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1_Oceanicola_granulosus_HTCC2516_scf_1099521380028__whole_genome_shotgun_sequence k105_80466_flag_1_multi_3.4598_len_3511
+		Skipping redundant alignment 5723 5804 | 2014 1933 | 82 82 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1_Oceanicola_granulosus_HTCC2516_scf_1099521380032__whole_genome_shotgun_sequence k105_80466_flag_1_multi_3.4598_len_3511
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 3429
+		This contig is partially unaligned. (Aligned 82 out of 3511 bases)
+		Alignment: 5723 5804 | 2014 1933 | 82 82 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_80466_flag_1_multi_3.4598_len_3511
+		Unaligned bases: 1 to 1932 (1932)
+		Unaligned bases: 2015 to 3511 (1497)
+
+CONTIG: k105_113966_flag_1_multi_2.0000_len_507 (507bp)
+Best alignment score: 89.0 (LEN: 91, IDY: 97.80)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2595704 2595794 | 111 21 | 91 91 | 97.8 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_113966_flag_1_multi_2.0000_len_507
+		Skipping redundant alignment 733235 733325 | 111 21 | 91 91 | 97.8 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1_Oceanicola_granulosus_HTCC2516_scf_1099521380028__whole_genome_shotgun_sequence k105_113966_flag_1_multi_2.0000_len_507
+		Skipping redundant alignment 2599 2689 | 111 21 | 91 91 | 97.8 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1_Oceanicola_granulosus_HTCC2516_scf_1099521380032__whole_genome_shotgun_sequence k105_113966_flag_1_multi_2.0000_len_507
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 89.0, number of alignments: 1, unaligned bases: 416
+		Alignment: 2599 2689 | 111 21 | 91 91 | 97.8 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_113966_flag_1_multi_2.0000_len_507
+
+CONTIG: k105_125377_flag_1_multi_3.0000_len_2145 (2145bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 2067
+		This contig is partially unaligned. (Aligned 78 out of 2145 bases)
+		Alignment: 650420 650497 | 367 290 | 78 78 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1_Oceanicola_granulosus_HTCC2516_scf_1099521380028__whole_genome_shotgun_sequence k105_125377_flag_1_multi_3.0000_len_2145
+		Unaligned bases: 1 to 289 (289)
+		Unaligned bases: 368 to 2145 (1778)
+
+CONTIG: k105_132661_flag_1_multi_6.0000_len_1731 (1731bp)
+Best alignment score: 98.0 (LEN: 102, IDY: 96.08)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2597538 2597639 | 1630 1731 | 102 102 | 96.08 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_132661_flag_1_multi_6.0000_len_1731
+		Skipping redundant alignment 735069 735170 | 1630 1731 | 102 102 | 96.08 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1_Oceanicola_granulosus_HTCC2516_scf_1099521380028__whole_genome_shotgun_sequence k105_132661_flag_1_multi_6.0000_len_1731
+		Skipping redundant alignment 4433 4534 | 1630 1731 | 102 102 | 96.08 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1_Oceanicola_granulosus_HTCC2516_scf_1099521380032__whole_genome_shotgun_sequence k105_132661_flag_1_multi_6.0000_len_1731
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 98.0, number of alignments: 1, unaligned bases: 1629
+		This contig is partially unaligned. (Aligned 102 out of 1731 bases)
+		Alignment: 4433 4534 | 1630 1731 | 102 102 | 96.08 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_132661_flag_1_multi_6.0000_len_1731
+		Unaligned bases: 1 to 1629 (1629)
+
+CONTIG: k105_133712_flag_1_multi_3.0000_len_645 (645bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 570
+		Alignment: 724678 724752 | 269 343 | 75 75 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1_Oceanicola_granulosus_HTCC2516_scf_1099521380028__whole_genome_shotgun_sequence k105_133712_flag_1_multi_3.0000_len_645
+
+CONTIG: k105_189479_flag_1_multi_1.8805_len_515 (515bp)
+Best alignment score: 84.0 (LEN: 84, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2594296 2594379 | 84 1 | 84 84 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_189479_flag_1_multi_1.8805_len_515
+		Skipping redundant alignment 731827 731910 | 84 1 | 84 84 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1_Oceanicola_granulosus_HTCC2516_scf_1099521380028__whole_genome_shotgun_sequence k105_189479_flag_1_multi_1.8805_len_515
+		Skipping redundant alignment 1191 1274 | 84 1 | 84 84 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1_Oceanicola_granulosus_HTCC2516_scf_1099521380032__whole_genome_shotgun_sequence k105_189479_flag_1_multi_1.8805_len_515
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 84.0, number of alignments: 1, unaligned bases: 431
+		Alignment: 1191 1274 | 84 1 | 84 84 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_189479_flag_1_multi_1.8805_len_515
+
+CONTIG: k105_195025_flag_1_multi_17.9877_len_1566 (1566bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2595344 2595421 | 1228 1151 | 78 78 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_195025_flag_1_multi_17.9877_len_1566
+		Skipping redundant alignment 732875 732952 | 1228 1151 | 78 78 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1_Oceanicola_granulosus_HTCC2516_scf_1099521380028__whole_genome_shotgun_sequence k105_195025_flag_1_multi_17.9877_len_1566
+		Skipping redundant alignment 2239 2316 | 1228 1151 | 78 78 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1_Oceanicola_granulosus_HTCC2516_scf_1099521380032__whole_genome_shotgun_sequence k105_195025_flag_1_multi_17.9877_len_1566
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 1488
+		This contig is partially unaligned. (Aligned 78 out of 1566 bases)
+		Alignment: 2239 2316 | 1228 1151 | 78 78 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_195025_flag_1_multi_17.9877_len_1566
+		Unaligned bases: 1 to 1150 (1150)
+		Unaligned bases: 1229 to 1566 (338)
+
+CONTIG: k105_270289_flag_1_multi_6.0000_len_537 (537bp)
+Best alignment score: 250.0 (LEN: 259, IDY: 96.53)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2598301 2598559 | 537 279 | 259 259 | 96.53 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_270289_flag_1_multi_6.0000_len_537
+		Skipping redundant alignment 735832 736090 | 537 279 | 259 259 | 96.53 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1_Oceanicola_granulosus_HTCC2516_scf_1099521380028__whole_genome_shotgun_sequence k105_270289_flag_1_multi_6.0000_len_537
+		Skipping redundant alignment 5196 5454 | 537 279 | 259 259 | 96.53 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1_Oceanicola_granulosus_HTCC2516_scf_1099521380032__whole_genome_shotgun_sequence k105_270289_flag_1_multi_6.0000_len_537
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 250.0, number of alignments: 1, unaligned bases: 278
+		Alignment: 5196 5454 | 537 279 | 259 259 | 96.53 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_270289_flag_1_multi_6.0000_len_537
+
+CONTIG: k105_271094_flag_1_multi_1.8279_len_622 (622bp)
+Best alignment score: 81.0 (LEN: 83, IDY: 97.65)
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 539
+		Alignment: 650413 650497 | 53 135 | 85 83 | 97.65 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1_Oceanicola_granulosus_HTCC2516_scf_1099521380028__whole_genome_shotgun_sequence k105_271094_flag_1_multi_1.8279_len_622
+
+CONTIG: k105_306438_flag_1_multi_8.0000_len_2989 (2989bp)
+Best alignment score: 74.0 (LEN: 74, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2597551 2597624 | 2916 2989 | 74 74 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_306438_flag_1_multi_8.0000_len_2989
+		Skipping redundant alignment 735082 735155 | 2916 2989 | 74 74 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1_Oceanicola_granulosus_HTCC2516_scf_1099521380028__whole_genome_shotgun_sequence k105_306438_flag_1_multi_8.0000_len_2989
+		Skipping redundant alignment 4446 4519 | 2916 2989 | 74 74 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1_Oceanicola_granulosus_HTCC2516_scf_1099521380032__whole_genome_shotgun_sequence k105_306438_flag_1_multi_8.0000_len_2989
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 2915
+		This contig is partially unaligned. (Aligned 74 out of 2989 bases)
+		Alignment: 4446 4519 | 2916 2989 | 74 74 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_306438_flag_1_multi_8.0000_len_2989
+		Unaligned bases: 1 to 2915 (2915)
+
+CONTIG: k105_307279_flag_0_multi_2.8945_len_882 (882bp)
+Best alignment score: 97.0 (LEN: 100, IDY: 97.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2597544 2597643 | 120 21 | 100 100 | 97.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_307279_flag_0_multi_2.8945_len_882
+		Skipping redundant alignment 735075 735174 | 120 21 | 100 100 | 97.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1_Oceanicola_granulosus_HTCC2516_scf_1099521380028__whole_genome_shotgun_sequence k105_307279_flag_0_multi_2.8945_len_882
+		Skipping redundant alignment 4439 4538 | 120 21 | 100 100 | 97.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1_Oceanicola_granulosus_HTCC2516_scf_1099521380032__whole_genome_shotgun_sequence k105_307279_flag_0_multi_2.8945_len_882
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 97.0, number of alignments: 1, unaligned bases: 782
+		This contig is partially unaligned. (Aligned 100 out of 882 bases)
+		Alignment: 4439 4538 | 120 21 | 100 100 | 97.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_307279_flag_0_multi_2.8945_len_882
+		Unaligned bases: 1 to 20 (20)
+		Unaligned bases: 121 to 882 (762)
+
+CONTIG: k105_201413_flag_1_multi_1.9561_len_1835 (1835bp)
+Best alignment score: 80.0 (LEN: 80, IDY: 100.00)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 1755
+		This contig is partially unaligned. (Aligned 80 out of 1835 bases)
+		Alignment: 196238 196317 | 715 794 | 80 80 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1_Oceanicola_granulosus_HTCC2516_scf_1099521380032__whole_genome_shotgun_sequence k105_201413_flag_1_multi_1.9561_len_1835
+		Unaligned bases: 1 to 714 (714)
+		Unaligned bases: 795 to 1835 (1041)
+
+CONTIG: k105_72686_flag_1_multi_2.0000_len_882 (882bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 803
+		This contig is partially unaligned. (Aligned 79 out of 882 bases)
+		Alignment: 2448469 2448547 | 651 573 | 79 79 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence k105_72686_flag_1_multi_2.0000_len_882
+		Unaligned bases: 1 to 572 (572)
+		Unaligned bases: 652 to 882 (231)
+
+Analyzing coverage...
+Writing SNPs into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Oceanicola_granulosus_HTCC2516/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Oceanicola_granulosus_HTCC2516_NZ_CH724108.1_Oceanicola_granulosus_HTCC2516_scf_1099521380028__whole_genome_shotgun_sequence: 3 total alignments. 1 total regions.
+		Region: 1 to 736483 (736483 bp)
+			START in gap: 1 to 650413 (650412 bp)
+			Align 1: 650413 650497 k105_271094_flag_1_multi_1.8279_len_622 53 135
+				The next alignment (650420 650497 k105_125377_flag_1_multi_3.0000_len_2145 367 290) is redundant. Skipping.
+				Gap between this and next alignment: 650497 to 724678 (74180 bp)
+				Next Alignment: 724678 724752 k105_133712_flag_1_multi_3.0000_len_645 269 343
+
+			Align 3: 724678 724752 k105_133712_flag_1_multi_3.0000_len_645 269 343
+			END in gap: 724752 to 736483 (11731 bp).
+
+WARNING: Reference Oceanicola_granulosus_HTCC2516_NZ_CH724110.1_Oceanicola_granulosus_HTCC2516_scf_1099521380033__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Oceanicola_granulosus_HTCC2516_NZ_AAOT01000084.1_Oceanicola_granulosus_HTCC2516_1099521379950__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Oceanicola_granulosus_HTCC2516_NZ_CH724111.1_Oceanicola_granulosus_HTCC2516_scf_1099521380031__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Oceanicola_granulosus_HTCC2516_NZ_CH724107.1_Oceanicola_granulosus_HTCC2516_scf_1099521380027__whole_genome_shotgun_sequence: 9 total alignments. 1 total regions.
+		Region: 1 to 2598952 (2598952 bp)
+			START in gap: 1 to 1191 (1190 bp)
+			Align 1: 1191 1274 k105_189479_flag_1_multi_1.8805_len_515 84 1
+				Gap between this and next alignment: 1274 to 2239 (964 bp)
+				Next Alignment: 2239 2316 k105_195025_flag_1_multi_17.9877_len_1566 1228 1151
+
+			Align 2: 2239 2316 k105_195025_flag_1_multi_17.9877_len_1566 1228 1151
+				Gap between this and next alignment: 2316 to 2599 (282 bp)
+				Next Alignment: 2599 2689 k105_113966_flag_1_multi_2.0000_len_507 111 21
+
+			Align 3: 2599 2689 k105_113966_flag_1_multi_2.0000_len_507 111 21
+				Gap between this and next alignment: 2689 to 4433 (1743 bp)
+				Next Alignment: 4433 4534 k105_132661_flag_1_multi_6.0000_len_1731 1630 1731
+
+			Align 4: 4433 4534 k105_132661_flag_1_multi_6.0000_len_1731 1630 1731
+				Negative gap (overlap) between this and next alignment: 4534 to 4439 (-95 bp)
+				Next Alignment: 4439 4538 k105_307279_flag_0_multi_2.8945_len_882 120 21
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 120 to 24.
+			Align 5: 4535 4538 k105_307279_flag_0_multi_2.8945_len_882 24 21
+				The next alignment (4446 4519 k105_306438_flag_1_multi_8.0000_len_2989 2916 2989) is redundant. Skipping.
+				Gap between this and next alignment: 4538 to 5196 (657 bp)
+				Next Alignment: 5196 5454 k105_270289_flag_1_multi_6.0000_len_537 537 279
+
+			Align 7: 5196 5454 k105_270289_flag_1_multi_6.0000_len_537 537 279
+				Gap between this and next alignment: 5454 to 5723 (268 bp)
+				Next Alignment: 5723 5804 k105_80466_flag_1_multi_3.4598_len_3511 2014 1933
+
+			Align 8: 5723 5804 k105_80466_flag_1_multi_3.4598_len_3511 2014 1933
+				Gap between this and next alignment: 5804 to 2448469 (2442664 bp)
+				Next Alignment: 2448469 2448547 k105_72686_flag_1_multi_2.0000_len_882 651 573
+
+			Align 9: 2448469 2448547 k105_72686_flag_1_multi_2.0000_len_882 651 573
+			END in gap: 2448547 to 2598952 (150405 bp).
+
+	Reference Oceanicola_granulosus_HTCC2516_NZ_CH724109.1_Oceanicola_granulosus_HTCC2516_scf_1099521380032__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 283342 (283342 bp)
+			START in gap: 1 to 196238 (196237 bp)
+			Align 1: 196238 196317 k105_201413_flag_1_multi_1.9561_len_1835 715 794
+			END in gap: 196317 to 283342 (87025 bp).
+
+WARNING: Reference Oceanicola_granulosus_HTCC2516_NZ_AAOT01000083.1_Oceanicola_granulosus_HTCC2516_1099521379914__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Oceanicola_granulosus_HTCC2516_NZ_AAOT01000082.1_Oceanicola_granulosus_HTCC2516_1099521379915__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Oceanicola_granulosus_HTCC2516_NZ_CH724112.1_Oceanicola_granulosus_HTCC2516_scf_1099521380034__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/runs_per_reference/Oceanicola_granulosus_HTCC2516/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 8 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 14868
+
+Ambiguously Mapped Contigs: 8
+Total Bases in Ambiguously Mapped Contigs: 12238
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1019
+
+	SNPs: 15
+	Insertions: 0
+	Deletions: 2
+
+	Positive Gaps: 13
+		Internal Gaps: 0
+		External Gaps: 13
+		External Gap Total: 3617758
+		External Gap Average: 278289
+	Negative Gaps: 1
+		Internal Overlaps: 0
+		External Overlaps: 1
+		External Overlaps Total: -95
+		External Overlaps Average: -95
+	Contigs with Redundant Alignments: 2 (152)

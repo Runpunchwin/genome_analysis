@@ -1,0 +1,25 @@
+/home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/marine_gamma_proteobacterium_HTCC2143.fasta /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/final-contigs_to_marine_gamma_proteobacterium_HTCC2143.fasta
+NUCMER
+>marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000002.1_Marine_gamma_proteobacterium_HTCC2143_1100111000172__whole_genome_shotgun_sequence k105_150695_flag_1_multi_11.3741_len_74564 461956 74564
+25043 25121 37102 37180 0 0 0
+0
+>marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000014.1_Marine_gamma_proteobacterium_HTCC2143_1100111000175__whole_genome_shotgun_sequence k105_211177_flag_1_multi_7.4634_len_5819 53284 5819
+181 259 1728 1806 0 0 0
+0
+>marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000006.1_Marine_gamma_proteobacterium_HTCC2143_1100111000170__whole_genome_shotgun_sequence k105_246597_flag_1_multi_2.9427_len_1362 218226 1362
+3990 4072 120 38 4 4 0
+0
+>marine_gamma_proteobacterium_HTCC2143_NZ_AAVT01000003.1_Marine_gamma_proteobacterium_HTCC2143_1100111000173__whole_genome_shotgun_sequence k105_260671_flag_1_multi_3.0000_len_1080 393112 1080
+262327 262789 629 1080 14 14 0
+70
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0

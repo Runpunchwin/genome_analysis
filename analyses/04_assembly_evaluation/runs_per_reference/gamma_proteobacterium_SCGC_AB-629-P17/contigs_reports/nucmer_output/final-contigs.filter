@@ -1,0 +1,84 @@
+/home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/gamma_proteobacterium_SCGC_AB-629-P17.fasta /home/frle5739/genome_analysis/analyses/04_assembly_evaluation/quast_corrected_input/final-contigs_to_gamma_proteobacterium_SCGC_AB-629-P17.fasta
+NUCMER
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_117278_flag_1_multi_6.7203_len_1821 87684 1821
+64441 65184 1 741 24 24 0
+528
+19
+1
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_136967_flag_1_multi_7.6409_len_1333 87684 1333
+59634 60849 120 1333 36 36 0
+20
+56
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889789.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_38.39__whole_genome_shotgun_sequence k105_16033_flag_1_multi_4.0000_len_548 2758 548
+1148 1317 170 1 5 5 0
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889758.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_1.2__whole_genome_shotgun_sequence k105_173325_flag_1_multi_4.0000_len_3112 139034 3112
+103755 103871 3032 2916 3 3 0
+-20
+4
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889772.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_22.23__whole_genome_shotgun_sequence k105_202697_flag_1_multi_3.0000_len_522 16984 522
+13922 13999 441 364 2 2 0
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889789.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_38.39__whole_genome_shotgun_sequence k105_236501_flag_1_multi_5.0000_len_523 2758 523
+1278 1365 1 88 4 4 0
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_237501_flag_1_multi_7.3174_len_4182 87684 4182
+60375 64505 4113 1 168 168 0
+148
+-6
+-193
+-746
+34
+-4
+92
+11
+7
+-111
+-29
+-1
+-1
+-1
+-1
+-8
+-1
+-1
+-1
+-4
+59
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+257
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889810.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_57.58__whole_genome_shotgun_sequence k105_251945_flag_1_multi_1.7932_len_516 1238 516
+192 261 1 70 0 0 0
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889760.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_11.12__whole_genome_shotgun_sequence k105_252325_flag_1_multi_3.0000_len_1337 35808 1337
+8301 8603 1 303 7 7 0
+0
