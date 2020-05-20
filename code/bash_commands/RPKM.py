@@ -22,7 +22,7 @@ for line in count_file:
                 else:
                     split1 = line2.split("ID=")
                     if len(split1) > 1:
-                        regvar = split[1]
+                        regvar = split1[1]
                         # my_regex = r'^' + split1[1]
                         if re.match(r'^'+regvar, words[0]):
                             split2 = split1[1].split("\t")
