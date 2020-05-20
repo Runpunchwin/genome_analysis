@@ -13,6 +13,7 @@ for line in count_file:
     if line not in ["\n", "\r\n"]:
         words = line.split()
         sumReads += float(words[1])
+        print(sumReads)
         if re.match(r'^__', words[0]):
             continue
         else:
@@ -22,7 +23,6 @@ for line in count_file:
                 else:
                     split1 = line2.split("ID=")
                     if len(split1) > 1:
-                        print(split1)
                         if re.match("^" + split1[1], words[0]):
                             split2 = split1[1].split("\t")
                             genelengths[i, 0] = (float(words[1]))
