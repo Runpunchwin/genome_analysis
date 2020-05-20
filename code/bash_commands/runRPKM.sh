@@ -7,4 +7,16 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user fredrik@levingotland.se
 
-python /home/frle5739/genome_analysis/code/bash_commands/RPKM.py /home/frle5739/genome_analysis/analyses/09_read_counting/SRR4342139/bin_22_count.out /home/frle5739/genome_analysis/analyses/07_annotation/bin_22/bin_22.gff >> /home/frle5739/genome_analysis/analyses/09_read_counting/SRR4342139/normalised/bin_22_normalised.out
+for bin in /home/frle5739/genome_analysis/analyses/09_read_counting/SRR4342139/*.out
+do
+binNo="${bin///home\/frle5739\/genome_analysis\/analyses\/09_read_counting\/SRR4342139\//}"
+binNo="${binNo//_count.out/}"
+python /home/frle5739/genome_analysis/code/bash_commands/RPKM.py $bin /home/frle5739/genome_analysis/analyses/07_annotation/${binNo}/${binNo}.gff >> /home/frle5739/genome_analysis/analyses/09_read_counting/SRR4342139/normalised/${binNo}_normalised.out
+done
+
+for bin in /home/frle5739/genome_analysis/analyses/09_read_counting/SRR4342137/*.out
+do
+binNo="${bin///home\/frle5739\/genome_analysis\/analyses\/09_read_counting\/SRR4342137\//}"
+binNo="${binNo//_count.out/}"
+python /home/frle5739/genome_analysis/code/bash_commands/RPKM.py $bin /home/frle5739/genome_analysis/analyses/07_annotation/${binNo}/${binNo}.gff >> /home/frle5739/genome_analysis/analyses/09_read_counting/SRR4342137/normalised/${binNo}_normalised.out
+done
