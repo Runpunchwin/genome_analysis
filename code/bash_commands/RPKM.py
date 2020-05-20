@@ -27,7 +27,8 @@ for line in count_file:
                             genelengths[i, 0] = (float(words[1]))
                             genelengths[i, 1] = (float(split2[4])-float(split2[3]))
                             i += 1
-
+print(genelengths)
+print(sumReads)
 
 def rpkm(geneReads, geneLength, totReads):
     return geneReads/(geneLength/1000*totReads/1000000)
