@@ -24,22 +24,12 @@ for line in count_file_lines:
                 else:
                     split1 = line2.split("ID=")
                     if len(split1) > 1:
-                        #print(split1[1])
-                        regvar = split1[1]
-                        # my_regex = r'^' + split1[1]
-                        #print(words[0] + split1[1])
-                        #print(words[0].startswith(split1[1]))
                         if split1[1].startswith(words[0]):
                             split2 = split1[0].split("\t")
-                            print(split2)
-                            print(words[0])
-                            print(float(split2[4]))
-                            print(float(split2[3]))
                             genelengths[i, 0] = (float(words[1]))
                             genelengths[i, 1] = (float(split2[4])-float(split2[3]))
                             i += 1
-print(genelengths)
-print(sumReads)
+
 
 def rpkm(geneReads, geneLength, totReads):
     return geneReads/(geneLength/1000*totReads/1000000)
