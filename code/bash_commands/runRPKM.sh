@@ -7,4 +7,4 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user fredrik@levingotland.se
 
-python rpkm.py /home/frle5739/genome_analysis/analyses/09_read_counting/SRR4342139/bin_22_count.out /home/frle5739/genome_analysis/analyses/07_annotation/bin_22/bin_22.gff >> /home/frle5739/genome_analysis/analyses/09_read_counting/SRR4342139/normalised/bin_22_normalised.out
+python /home/frle5739/genome_analysis/code/bash_commands/rpkm.py /home/frle5739/genome_analysis/analyses/09_read_counting/SRR4342139/bin_22_count.out /home/frle5739/genome_analysis/analyses/07_annotation/bin_22/bin_22.gff >> /home/frle5739/genome_analysis/analyses/09_read_counting/SRR4342139/normalised/bin_22_normalised.out
