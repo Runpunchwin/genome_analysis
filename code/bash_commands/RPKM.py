@@ -38,6 +38,6 @@ for line in count_file:
     words = line.split()
     print(words[0])
     print("\t")
-    print(rpkm(genelengths[j, 1], genelengths[j, 2], sumReads))
+    print(rpkm(genelengths[j, 0], genelengths[j, 1], sumReads))
     j += 1
     print("\n")
