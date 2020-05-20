@@ -21,9 +21,9 @@ for line in count_file:
                 if re.match(r'^##', line2):
                     continue
                 else:
-                    print(line2)
                     split1 = line2.split("ID=")
                     if len(split1) > 1:
+                        print(line2)
                         regvar = split1[1]
                         # my_regex = r'^' + split1[1]
                         #print(words[0] + split1[1])
