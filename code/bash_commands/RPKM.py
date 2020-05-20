@@ -3,8 +3,8 @@ import sys
 import re
 import numpy as np
 
-count_file = readFile = open(sys.argv[1], "r")
-map_file = readFile = open(sys.argv[2], "r")
+count_file = open(sys.argv[1], "r")
+map_file = open(sys.argv[2], "r")
 genelengths = np.zeros((2,5000))
 i = 0
 sumReads = 0
@@ -33,6 +33,7 @@ def rpkm(geneReads, geneLength, totReads):
     return geneReads/(geneLength/1000*totReads/1000000)
 
 
+count_file = open(sys.argv[1], "r")
 j = 0
 for line in count_file:
     words = line.split()
