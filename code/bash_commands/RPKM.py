@@ -33,9 +33,9 @@ def rpkm(geneReads, geneLength, totReads):
     return geneReads/(geneLength/1000*totReads/1000000)
 
 
-count_file = open(sys.argv[1], "r")
+count_file2 = open(sys.argv[1], "r")
 j = 0
-for line in count_file:
+for line in count_file2:
     if j < i:
         words = line.split()
         print(words[0])
