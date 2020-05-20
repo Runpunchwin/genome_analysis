@@ -10,7 +10,7 @@ i = 0
 sumReads = 0
 
 for line in count_file:
-    words = line.split()
+    words = line.split("\t")
     sumReads += float(words[1])
     if re.match(r'^__', words[0]):
         continue
