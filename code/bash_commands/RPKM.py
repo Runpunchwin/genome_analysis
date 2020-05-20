@@ -4,19 +4,21 @@ import re
 import numpy as np
 
 count_file = open(sys.argv[1], "r")
+count_file_lines = count_file.readlines()
 map_file = open(sys.argv[2], "r")
+map_file_lines = map_file.readlines()
 genelengths = np.zeros((2,5000))
 i = 0
 sumReads = 0
 
-for line in count_file.readlines():
+for line in count_file_lines:
     if line not in ["\n", "\r\n"]:
         words = line.split()
         sumReads += float(words[1])
         if re.match(r'^__', words[0]):
             continue
         else:
-            for line2 in map_file:
+            for line2 in map_file_lines:
                 if re.match(r'^##', line2):
                     continue
                 else:
@@ -44,8 +46,9 @@ def rpkm(geneReads, geneLength, totReads):
 
 
 count_file2 = open(sys.argv[1], "r")
+count_file_lines2 = count_file2.readlines()
 j = 0
-for line in count_file2:
+for line in count_file_lines2:
     if j < i:
         words = line.split()
         print(words[0])
