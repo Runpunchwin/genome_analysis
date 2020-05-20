@@ -1,0 +1,1 @@
+python rpkm.py (sed '/__/,$d' /home/frle5739/genome_analysis/analyses/09_read_counting/SRR4342139/bin_22_count.out) (sed '/##FASTA/,$d' /home/frle5739/genome_analysis/analyses/07_annotation/bin_22/bin_22.gff) >> analyses/09_read_counting/SRR4342139/normalised/bin_22_normalised.out
