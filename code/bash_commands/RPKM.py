@@ -22,13 +22,13 @@ for line in count_file:
                 else:
                     split1 = line2.split("ID=")
                     if len(split1) > 1:
-                        print(split[1])
+                        print(split1[1])
                         regvar = split1[1]
                         # my_regex = r'^' + split1[1]
                         #print(words[0] + split1[1])
                         #print(words[0].startswith(split1[1]))
                         if words[0].startswith(split1[1]):
-                            split2 = split1[1].split1("\t")
+                            split2 = split1[1].split("\t")
                             print(float(words[1]))
                             print(float(split2[4]))
                             print(float(split2[3]))
