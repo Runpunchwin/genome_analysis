@@ -13,7 +13,6 @@ for line in count_file:
     if line not in ["\n", "\r\n"]:
         words = line.split()
         sumReads += float(words[1])
-        print(words)
         if re.match(r'^__', words[0]):
             continue
         else:
