@@ -3,9 +3,8 @@ import sys
 import re
 import numpy as np
 
-count_file = sys.argv[1]
-print(count_file)
-map_file = sys.argv[2]
+count_file = readFile = open(sys.argv[1], "r")
+map_file = readFile = open(sys.argv[2], "r")
 genelengths = np.zeros((2,5000))
 i = 0
 sumReads = 0
@@ -13,7 +12,6 @@ sumReads = 0
 for line in count_file:
     if line not in ["\n", "\r\n"]:
         words = line.split()
-        print(words)
         sumReads += float(words[1])
         if re.match(r'^__', words[0]):
             continue
