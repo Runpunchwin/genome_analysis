@@ -30,15 +30,16 @@ for line in count_file:
 
 
 def rpkm(geneReads, geneLength, totReads):
-    return (geneReads/(geneLength/1000*totReads/1000000))
+    return geneReads/(geneLength/1000*totReads/1000000)
 
 
 count_file = open(sys.argv[1], "r")
 j = 0
 for line in count_file:
-    words = line.split()
-    print(words[0])
-    print("\t")
-    print(rpkm(genelengths[j, 0], genelengths[j, 1], sumReads))
-    j += 1
-    print("\n")
+    if j < i:
+        words = line.split()
+        print(words[0])
+        print("\t")
+        print(rpkm(genelengths[j, 0], genelengths[j, 1], sumReads))
+        j += 1
+        print("\n")
