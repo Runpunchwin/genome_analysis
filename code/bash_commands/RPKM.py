@@ -36,7 +36,6 @@ for line in count_file.readlines():
                             genelengths[i, 0] = (float(words[1]))
                             genelengths[i, 1] = (float(split2[4])-float(split2[3]))
                             i += 1
-    line.read()
 print(genelengths)
 print(sumReads)
 
