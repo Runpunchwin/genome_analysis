@@ -21,7 +21,7 @@ for line in count_file:
                     continue
                 else:
                     split1 = line2.split("ID=")
-                    if split1.len() > 1:
+                    if len(split1) > 1:
                         if split1[1] == words[0]:
                             split2 = split1[1].split("\t")
                             genelengths[i, 0] = (float(words[1]))
