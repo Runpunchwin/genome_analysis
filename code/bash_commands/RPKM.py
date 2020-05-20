@@ -11,6 +11,7 @@ sumReads = 0
 
 for line in count_file:
     if line not in ["\n", "\r\n"]:
+        print(line)
         words = line.split()
         sumReads += float(words[1])
         if re.match(r'^__', words[0]):
@@ -24,8 +25,8 @@ for line in count_file:
                     if len(split1) > 1:
                         regvar = split1[1]
                         # my_regex = r'^' + split1[1]
-                        print(words[0] + split1[1])
-                        print(words[0].startswith(split1[1]))
+                        #print(words[0] + split1[1])
+                        #print(words[0].startswith(split1[1]))
                         if words[0].startswith(split1[1]):
                             split2 = split1[1].split("\t")
                             print(float(words[1]))
@@ -34,7 +35,6 @@ for line in count_file:
                             genelengths[i, 0] = (float(words[1]))
                             genelengths[i, 1] = (float(split2[4])-float(split2[3]))
                             i += 1
-print(i)
 print(genelengths)
 print(sumReads)
 
