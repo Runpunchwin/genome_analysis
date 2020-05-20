@@ -7,7 +7,7 @@ count_file = open(sys.argv[1], "r")
 count_file_lines = count_file.readlines()
 map_file = open(sys.argv[2], "r")
 map_file_lines = map_file.readlines()
-genelengths = np.zeros((2,5000))
+genelengths = np.zeros((5000,2))
 i = 0
 sumReads = 0
 
