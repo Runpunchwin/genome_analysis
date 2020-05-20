@@ -41,6 +41,6 @@ j = 0
 for line in count_file_lines2:
     if j < i:
         words = line.split()
-        print(words[0] + "\t", end="")
+        print words[0] + "\t",
         print(rpkm(genelengths[j, 0], genelengths[j, 1], sumReads))
         j += 1
