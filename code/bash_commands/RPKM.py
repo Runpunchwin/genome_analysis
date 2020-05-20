@@ -30,7 +30,7 @@ for line in count_file:
                         if split1[1].startswith(words[0]):
                             split2 = split1[0].split("\t")
                             print(split2)
-                            print(float(words[1]))
+                            print(words[0])
                             print(float(split2[4]))
                             print(float(split2[3]))
                             genelengths[i, 0] = (float(words[1]))
