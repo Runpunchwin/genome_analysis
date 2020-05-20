@@ -24,7 +24,7 @@ for line in count_file:
                     if len(split1) > 1:
                         regvar = split1[1]
                         # my_regex = r'^' + split1[1]
-                        if re.match(rf'{regvar}', words[0]):
+                        if words[0].startswith(split1[1]):
                             split2 = split1[1].split("\t")
                             print(float(words[1]))
                             print(float(split2[4]))
