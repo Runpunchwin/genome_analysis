@@ -18,7 +18,6 @@ for line in count_file:
             continue
         else:
             for line2 in map_file:
-                print(line2)
                 if re.match(r'^##', line2):
                     continue
                 else:
