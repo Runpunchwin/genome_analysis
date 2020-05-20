@@ -30,7 +30,7 @@ for line in count_file:
 
 
 def rpkm(geneReads, geneLength, totReads):
-    return geneReads/(geneLength/1000*totReads/1000000)
+    return (geneReads/(geneLength/1000*totReads/1000000))
 
 
 count_file = open(sys.argv[1], "r")
