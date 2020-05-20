@@ -9,7 +9,7 @@ genelengths = np.zeros((2,5000))
 i = 0
 sumReads = 0
 
-for line in count_file:
+for line in count_file.readlines():
     if line not in ["\n", "\r\n"]:
         words = line.split()
         sumReads += float(words[1])
@@ -36,6 +36,7 @@ for line in count_file:
                             genelengths[i, 0] = (float(words[1]))
                             genelengths[i, 1] = (float(split2[4])-float(split2[3]))
                             i += 1
+    line.read()
 print(genelengths)
 print(sumReads)
 
