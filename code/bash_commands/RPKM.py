@@ -24,6 +24,9 @@ for line in count_file:
                     if len(split1) > 1:
                         if re.match(r'^split1[1]', words[0]):
                             split2 = split1[1].split("\t")
+                            print(float(words[1]))
+                            print(float(split2[4]))
+                            print(float(split2[3]))
                             genelengths[i, 0] = (float(words[1]))
                             genelengths[i, 1] = (float(split2[4])-float(split2[3]))
                             i += 1
