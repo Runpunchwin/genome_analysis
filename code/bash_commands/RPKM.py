@@ -13,13 +13,16 @@ for line in count_file:
     if line not in ["\n", "\r\n"]:
         words = line.split()
         sumReads += float(words[1])
+        print(words)
         if re.match(r'^__', words[0]):
-            1+1
+            continue
         else:
             for line2 in map_file:
+                print(line2)
                 if re.match(r'^##', line2):
-                    1+1
+                    continue
                 else:
+                    print(line2)
                     split1 = line2.split("ID=")
                     if len(split1) > 1:
                         regvar = split1[1]
