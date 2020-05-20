@@ -11,7 +11,7 @@ sumReads = 0
 
 for line in count_file:
     if line not in ["\n", "\r\n"]:
-        words = line.split("\t")
+        words = line.split()
         sumReads += float(words[1])
         if re.match(r'^__', words[0]):
             continue
