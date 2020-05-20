@@ -29,6 +29,7 @@ for line in count_file:
                         #print(words[0].startswith(split1[1]))
                         if split1[1].startswith(words[0]):
                             split2 = split1[1].split("\t")
+                            print(split2)
                             print(float(words[1]))
                             print(float(split2[4]))
                             print(float(split2[3]))
