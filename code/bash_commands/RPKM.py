@@ -23,7 +23,7 @@ for line in count_file:
                 else:
                     split1 = line2.split("ID=")
                     if len(split1) > 1:
-                        if re.match("^" + split1[1], words[0]):
+                        if re.match(r'^split1[1]', words[0]):
                             split2 = split1[1].split("\t")
                             genelengths[i, 0] = (float(words[1]))
                             genelengths[i, 1] = (float(split2[4])-float(split2[3]))
