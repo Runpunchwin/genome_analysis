@@ -4,6 +4,7 @@ import re
 import numpy as np
 
 count_file = sys.argv[1]
+print(count_file)
 map_file = sys.argv[2]
 genelengths = np.zeros((2,5000))
 i = 0
