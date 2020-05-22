@@ -12,4 +12,5 @@
 /data
 /analyses/06_binning_evaluation
 /analyses/10_phylogenetic_placement
-
+/analyses/07_annotation
+core.*
