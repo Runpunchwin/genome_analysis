@@ -1,5 +1,0 @@
-Writing filtered delta file /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference/contigs_reports/nucmer_output/raw/bin_6.filter
-Reading delta file /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference/contigs_reports/nucmer_output/raw/bin_6.delta
-Writing plot files /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference/contigs_reports/nucmer_output/raw/bin_6.fplot, /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference/contigs_reports/nucmer_output/raw/bin_6.rplot
-ERROR: No alignment data to plot
-Nothing aligned for /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_6/combined_reference/../quast_corrected_input/bin_6.fa

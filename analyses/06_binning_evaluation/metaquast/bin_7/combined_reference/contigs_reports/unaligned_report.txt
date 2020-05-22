@@ -1,8 +1,0 @@
-All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
-
-Assembly                       bin_7   
-# fully unaligned contigs      3462    
-Fully unaligned length         16232002
-# partially unaligned contigs  2       
-Partially unaligned length     29310   
-# N's                          0       

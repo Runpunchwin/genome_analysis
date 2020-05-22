@@ -1,2 +1,0 @@
-Assemblies                          bin_23
-Ilumatobacter_nonamiensis_YM16-303  0.002 

@@ -1,3 +1,0 @@
-Assemblies                     bin_7
-Psychroserpens_sp._PAMC_27130  16895
-not_aligned                    42507
