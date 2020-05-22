@@ -1,0 +1,735 @@
+# BLASTN 2.6.0+
+# Query: k105_6330
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_14079
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_17502
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+k105_17502	AM990992.2181279.2182758_Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus_aureus_subsp._aureus_ST398	86.842	76	10	0	80653	80728	181	106	1.42e-12	86.1
+# BLASTN 2.6.0+
+# Query: k105_18455
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_18464
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_23534
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_30856
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+k105_30856	AY590684.1.2008_Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria_Incertae_Sedis;Unknown_Family;Sedimenticola;uncultured_gamma_proteobacterium	86.585	82	10	1	6222	6302	1699	1780	1.04e-14	89.8
+k105_30856	DQ009470.1.2159_Bacteria;Proteobacteria;Gammaproteobacteria;Salinisphaerales;Salinisphaeraceae;ZD0417_marine_group;uncultured_marine_bacterium	84.337	83	13	0	6225	6307	1769	1851	1.74e-12	82.4
+k105_30856	DQ009154.1.2269_Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Pseudospirillum;uncultured_marine_bacterium	83.117	77	13	0	6224	6300	1649	1725	3.76e-09	71.3
+k105_30856	KC896621.1.2196_Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas;Xanthomonas_translucens_pv._undulosa	81.013	79	15	0	6222	6300	1602	1680	6.29e-07	63.9
+k105_30856	AY247064.1.2186_Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas;Xanthomonas_translucens_pv._graminis	81.013	79	15	0	6222	6300	1596	1674	6.29e-07	63.9
+# BLASTN 2.6.0+
+# Query: k105_35804
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_48223
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_48974
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_50079
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_54159
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_59129
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_74490
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_75408
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_76868
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_82047
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_89647
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_126069
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+k105_126069	EU478637.1.2170_Bacteria;Planctomycetes;MD2896-B258;uncultured_planctomycete	100.000	29	0	0	15310	15338	1726	1698	8.12e-04	54.7
+k105_126069	JX483702.1.1772_Bacteria;Tenericutes;Mollicutes;Mollicutes_Incertae_Sedis;Unknown_Family;Candidatus_Phytoplasma;Bushehr(Iran)_eggplant_big_bud_phytoplasma	100.000	28	0	0	15309	15336	1607	1580	0.003	52.8
+k105_126069	KJ817867.1.1799_Bacteria;Tenericutes;Mollicutes;Mollicutes_Incertae_Sedis;Unknown_Family;Candidatus_Phytoplasma;Pigeon_pea_witches'-broom_phytoplasma	100.000	28	0	0	15309	15336	1644	1617	0.003	52.8
+k105_126069	KJ817868.1.1799_Bacteria;Tenericutes;Mollicutes;Mollicutes_Incertae_Sedis;Unknown_Family;Candidatus_Phytoplasma;Pigeon_pea_witches'-broom_phytoplasma	100.000	28	0	0	15309	15336	1642	1615	0.003	52.8
+k105_126069	KJ817874.1.1799_Bacteria;Tenericutes;Mollicutes;Mollicutes_Incertae_Sedis;Unknown_Family;Candidatus_Phytoplasma;Pigeon_pea_witches'-broom_phytoplasma	100.000	28	0	0	15309	15336	1639	1612	0.003	52.8
+k105_126069	FJ794816.1.1691_Bacteria;Tenericutes;Mollicutes;Mollicutes_Incertae_Sedis;Unknown_Family;Candidatus_Phytoplasma;Coconut_root_wilt_phytoplasma	100.000	28	0	0	15309	15336	1576	1549	0.003	52.8
+k105_126069	JX862179.1.1623_Bacteria;Tenericutes;Mollicutes;Mollicutes_Incertae_Sedis;Unknown_Family;Candidatus_Phytoplasma;Sugarcane_white_leaf_phytoplasma	100.000	28	0	0	15309	15336	1592	1565	0.003	52.8
+k105_126069	JF508515.1.1799_Bacteria;Tenericutes;Mollicutes;Mollicutes_Incertae_Sedis;Unknown_Family;Candidatus_Phytoplasma;Sesame_phyllody_phytoplasma	100.000	28	0	0	15309	15336	1614	1587	0.003	52.8
+# BLASTN 2.6.0+
+# Query: k105_131419
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 500 hits found
+k105_131419	JF344128.1.1458_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	98.172	547	10	0	1	547	547	1	0.0	955
+k105_131419	JQ579858.1.1458_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	98.172	547	10	0	1	547	547	1	0.0	955
+k105_131419	AB294924.1.1435_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	97.588	539	13	0	9	547	539	1	0.0	924
+k105_131419	AF170422.1.1454_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;sulfur-oxidizing_bacterium_ODIII6	96.527	547	19	0	1	547	548	2	0.0	907
+k105_131419	HQ191054.1.1456_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_sediment_bacterium	97.026	538	16	0	9	546	538	1	0.0	905
+k105_131419	AM882560.1.1458_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	96.846	539	17	0	9	547	539	1	0.0	902
+k105_131419	JQ580036.1.1458_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	96.846	539	17	0	9	547	539	1	0.0	902
+k105_131419	AP012978.2211833.2213332_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;endosymbiont_of_unidentified_scaly_snail_isolate_Monju	95.135	555	25	2	1	554	554	1	0.0	874
+k105_131419	AM882554.1.1462_Bacteria;Proteobacteria;Deltaproteobacteria;Desulfobacterales;Desulfobacteraceae;uncultured;uncultured_gamma_proteobacterium	95.446	549	22	3	1	547	548	1	0.0	872
+k105_131419	JF344065.1.1455_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	95.430	547	23	2	1	547	545	1	0.0	870
+k105_131419	JF344461.1.1455_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	95.430	547	23	2	1	547	545	1	0.0	870
+k105_131419	FM211756.1.1456_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	95.430	547	23	2	1	547	545	1	0.0	870
+k105_131419	HQ191050.1.1454_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_sediment_bacterium	95.421	546	23	2	1	546	544	1	0.0	869
+k105_131419	HQ190986.1.1454_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_sediment_bacterium	95.733	539	21	2	8	546	537	1	0.0	867
+k105_131419	FM242215.1.1456_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	95.264	549	22	3	1	547	547	1	0.0	867
+k105_131419	JF344496.1.1456_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	95.247	547	24	2	1	547	545	1	0.0	865
+k105_131419	GQ249522.1.1460_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	95.247	547	24	2	1	547	545	1	0.0	865
+k105_131419	JQ579815.1.1455_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	95.247	547	24	2	1	547	545	1	0.0	865
+k105_131419	HQ191017.1.1436_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_sediment_bacterium	95.238	546	24	2	1	546	544	1	0.0	863
+k105_131419	HQ190999.1.1454_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_sediment_bacterium	95.238	546	24	2	1	546	544	1	0.0	863
+k105_131419	EU795171.11703.13180_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_bacterium_JM9_B4	95.547	539	22	2	9	547	537	1	0.0	861
+k105_131419	HQ191022.1.1357_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_sediment_bacterium	95.539	538	24	0	9	546	538	1	0.0	861
+k105_131419	JQ269275.1.1459_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;bacterium_WHC2-2	95.547	539	22	2	9	547	537	1	0.0	861
+k105_131419	JF344187.1.1455_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	95.064	547	25	2	1	547	545	1	0.0	859
+k105_131419	JF344427.1.1455_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	95.064	547	25	2	1	547	545	1	0.0	859
+k105_131419	AM882515.1.1454_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	95.064	547	25	2	1	547	545	1	0.0	859
+k105_131419	AM882533.1.1455_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	95.064	547	25	2	1	547	545	1	0.0	859
+k105_131419	AM882514.1.1455_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	95.064	547	25	2	1	547	545	1	0.0	859
+k105_131419	AM040135.1.1455_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	95.064	547	25	2	1	547	545	1	0.0	859
+k105_131419	JQ580061.1.1455_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	95.064	547	25	2	1	547	545	1	0.0	859
+k105_131419	FM242214.1.1455_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	95.064	547	25	2	1	547	545	1	0.0	859
+k105_131419	JN485693.1.1401_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_organism	96.198	526	17	3	1	525	525	2	0.0	857
+k105_131419	HQ191056.1.1454_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_sediment_bacterium	95.055	546	25	2	1	546	544	1	0.0	857
+k105_131419	JF344004.1.1457_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	94.891	548	26	2	1	547	547	1	0.0	856
+k105_131419	JQ580261.1.1457_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	94.891	548	26	2	1	547	547	1	0.0	856
+k105_131419	KM270366.1.1234_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_bacterium	95.685	533	21	2	9	541	531	1	0.0	856
+k105_131419	JF344604.1.1456_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	94.881	547	26	2	1	547	545	1	0.0	854
+k105_131419	JF344296.1.1456_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	94.881	547	26	2	1	547	545	1	0.0	854
+k105_131419	AM882572.1.1455_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	94.881	547	26	2	1	547	545	1	0.0	854
+k105_131419	AM882559.1.1455_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	94.881	547	26	2	1	547	545	1	0.0	854
+k105_131419	AM882534.1.1455_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	94.881	547	26	2	1	547	545	1	0.0	854
+k105_131419	JQ579746.1.1456_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	94.881	547	26	2	1	547	545	1	0.0	854
+k105_131419	AB597553.1.1497_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	94.575	553	28	2	1	553	552	2	0.0	854
+k105_131419	DQ394927.1.1469_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	94.718	549	25	4	1	547	547	1	0.0	850
+k105_131419	AY310506.1.1438_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;endosymbiont_of_unidentified_scaly_snail	94.718	549	25	4	1	547	548	2	0.0	850
+k105_131419	HQ191010.1.1452_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_sediment_bacterium	94.872	546	24	4	1	546	542	1	0.0	850
+k105_131419	JF344213.1.1455_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	94.698	547	27	2	1	547	545	1	0.0	848
+k105_131419	AM882565.1.1456_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Thiohalocapsa;uncultured_gamma_proteobacterium	95.000	540	25	2	8	547	538	1	0.0	846
+k105_131419	AM882521.1.1456_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Thiohalocapsa;uncultured_gamma_proteobacterium	94.991	539	25	2	9	547	537	1	0.0	845
+k105_131419	AJ879933.1.1487_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;Candidatus_Thiobios_zoothamnicoli	94.805	539	28	0	9	547	539	1	0.0	841
+k105_131419	EU439003.1.1869_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;Candidatus_Thiobios_zoothamnicoli	94.805	539	28	0	9	547	539	1	0.0	841
+k105_131419	JF344052.1.1455_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	94.333	547	29	2	1	547	545	1	0.0	837
+k105_131419	JF344053.1.1455_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_gamma_proteobacterium	94.333	547	29	2	1	547	545	1	0.0	837
+k105_131419	FJ744926.1.1329_Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;SAR86_clade;uncultured_bacterium	95.437	526	21	3	3	528	523	1	0.0	835
+k105_131419	GQ274309.1.1494_Bacteria;Proteobacteria;SC3-20;uncultured_gamma_proteobacterium	94.475	543	28	2	6	547	542	1	0.0	835
+k105_131419	GQ274219.1.1489_Bacteria;Proteobacteria;SC3-20;uncultured_gamma_proteobacterium	94.150	547	30	1	1	547	545	1	0.0	832
+k105_131419	FJ416108.1.1459_Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;uncultured;uncultured_bacterium	94.280	542	30	1	6	547	541	1	0.0	828
+k105_131419	JX226822.1.1462_Bacteria;Proteobacteria;SC3-20;uncultured_bacterium	94.280	542	30	1	6	547	541	1	0.0	828
+k105_131419	KC238391.1.1462_Bacteria;Proteobacteria;SC3-20;uncultured_bacterium	94.280	542	30	1	6	547	541	1	0.0	828
+k105_131419	FJ529362.1.1460_Bacteria;Proteobacteria;SC3-20;uncultured_gamma_proteobacterium	93.796	548	33	1	1	547	548	1	0.0	822
+k105_131419	AM882571.1.1459_Bacteria;Proteobacteria;SC3-20;uncultured_gamma_proteobacterium	94.096	542	31	1	6	547	541	1	0.0	822
+k105_131419	GQ274161.1.1491_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	94.063	539	32	0	9	547	539	1	0.0	819
+k105_131419	AB597541.1.1498_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Nitrosococcus;uncultured_gamma_proteobacterium	93.900	541	31	2	14	553	541	2	0.0	815
+k105_131419	JN484941.1.1376_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_organism	96.177	497	17	2	1	497	495	1	0.0	811
+k105_131419	JQ611167.1.1364_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_bacterium	95.992	499	18	2	1	499	497	1	0.0	809
+k105_131419	GQ274152.1.1493_Bacteria;Proteobacteria;SC3-20;uncultured_gamma_proteobacterium	93.542	542	34	1	6	547	541	1	0.0	806
+k105_131419	AB544415.1.1414_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;gamma_proteobacterium_ectosymbiont_of_Zoothamnium_niveum	94.605	519	28	0	9	527	519	1	0.0	804
+k105_131419	HM057682.1.1479_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	93.633	534	34	0	14	547	535	2	0.0	798
+k105_131419	FR684890.1.1453_Bacteria;Proteobacteria;Elev-16S-509;uncultured_marine_bacterium	93.621	533	34	0	14	546	533	1	0.0	797
+k105_131419	AACY020049127.571.2033_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;marine_metagenome	93.446	534	35	0	14	547	534	1	0.0	793
+k105_131419	JN986273.1.1462_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	93.446	534	35	0	14	547	535	2	0.0	793
+k105_131419	EU799864.1.1460_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	93.597	531	34	0	14	544	531	1	0.0	793
+k105_131419	JN977209.1.1502_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thiogranum;uncultured_bacterium	92.754	552	30	6	3	547	549	1	0.0	789
+k105_131419	EU799507.1.1463_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	93.258	534	36	0	14	547	534	1	0.0	787
+k105_131419	DQ289928.1.1361_Bacteria;Proteobacteria;SC3-20;uncultured_gamma_proteobacterium	92.701	548	30	8	6	547	544	1	0.0	782
+k105_131419	EU799990.1.1463_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	93.071	534	37	0	14	547	534	1	0.0	782
+k105_131419	FJ793190.1.1463_Bacteria;Proteobacteria;SC3-20;uncultured_bacterium	92.518	548	38	3	1	547	549	4	0.0	782
+k105_131419	JX226861.1.1465_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	92.674	546	31	6	9	547	544	1	0.0	778
+k105_131419	JQ579851.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thiogranum;uncultured_gamma_proteobacterium	92.391	552	32	6	3	547	549	1	0.0	778
+k105_131419	JN607008.1.1319_Bacteria;Proteobacteria;SC3-20;uncultured_bacterium	94.118	510	30	0	1	510	510	1	0.0	776
+k105_131419	EU592344.1.1421_Bacteria;Proteobacteria;SC3-20;uncultured_bacterium	92.710	535	36	1	16	547	535	1	0.0	776
+k105_131419	EU010142.1.1443_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_marine_bacterium	92.897	535	37	1	14	547	535	1	0.0	776
+k105_131419	HM057720.1.1469_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	92.884	534	38	0	14	547	542	9	0.0	776
+k105_131419	JX227021.1.1461_Bacteria;Proteobacteria;SC3-20;uncultured_bacterium	92.435	542	39	2	6	547	540	1	0.0	773
+k105_131419	EU799493.1.1463_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	92.697	534	39	0	14	547	534	1	0.0	771
+k105_131419	EU491126.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	92.210	552	31	9	3	546	548	1	0.0	771
+k105_131419	EU491205.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	92.210	552	31	9	3	546	548	1	0.0	771
+k105_131419	EU491264.1.1465_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	92.210	552	31	9	3	546	548	1	0.0	771
+k105_131419	HQ242108.1.1466_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_gamma_proteobacterium	92.058	554	35	8	1	547	552	1	0.0	771
+k105_131419	JX391417.1.1451_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_bacterium	92.139	547	39	4	1	547	543	1	0.0	769
+k105_131419	JF344548.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thiogranum;uncultured_gamma_proteobacterium	92.029	552	34	6	3	547	549	1	0.0	767
+k105_131419	JN983574.1.1460_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	92.110	545	41	2	3	547	543	1	0.0	767
+k105_131419	JN983588.1.1460_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	92.110	545	41	2	3	547	543	1	0.0	767
+k105_131419	HQ673975.1.1471_Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;JL-ETNP-Y6;uncultured_bacterium	92.449	543	32	6	12	547	541	1	0.0	767
+k105_131419	JN977193.1.1494_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_bacterium	91.877	554	36	8	1	547	552	1	0.0	765
+k105_131419	GQ246283.1.1463_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_bacterium	91.877	554	36	8	1	547	552	1	0.0	765
+k105_131419	EF572032.1.1463_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	92.509	534	40	0	14	547	534	1	0.0	765
+k105_131419	JN983558.1.1460_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	92.365	537	40	1	11	547	536	1	0.0	763
+k105_131419	JN983556.1.1460_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	92.365	537	40	1	11	547	536	1	0.0	763
+k105_131419	JN983561.1.1460_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	92.365	537	40	1	11	547	536	1	0.0	763
+k105_131419	JN983590.1.1460_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	91.927	545	42	2	3	547	543	1	0.0	761
+k105_131419	JN983537.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	91.941	546	41	3	3	547	544	1	0.0	761
+k105_131419	JF344480.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_gamma_proteobacterium	92.125	546	33	9	10	547	544	1	0.0	761
+k105_131419	JN983587.1.1460_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	91.927	545	42	2	3	547	543	1	0.0	761
+k105_131419	FJ535268.1.1319_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Piscirickettsiaceae;Cycloclasticus;uncultured_bacterium	92.789	527	37	1	1	527	526	1	0.0	761
+k105_131419	JN459769.1.1387_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Nitrosococcus;uncultured_organism	94.036	503	28	2	14	515	502	1	0.0	761
+k105_131419	HQ674392.1.1465_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	92.265	543	33	6	12	547	541	1	0.0	761
+k105_131419	JQ579995.1.1462_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thiogranum;uncultured_gamma_proteobacterium	91.848	552	36	8	3	547	550	1	0.0	761
+k105_131419	EF999373.1.1473_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_bacterium	91.833	551	37	7	3	547	549	1	0.0	761
+k105_131419	HQ191083.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thiogranum;uncultured_sediment_bacterium	91.848	552	35	6	3	547	549	1	0.0	761
+k105_131419	HQ191084.1.1462_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thiogranum;uncultured_sediment_bacterium	91.848	552	35	6	3	547	549	1	0.0	761
+k105_131419	KJ817755.1.1469_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	91.712	555	37	8	1	547	554	1	0.0	761
+k105_131419	JN977291.1.1494_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_bacterium	91.697	554	37	8	1	547	552	1	0.0	760
+k105_131419	JN977204.1.1494_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_bacterium	92.110	545	34	8	10	547	543	1	0.0	760
+k105_131419	FJ717238.1.1498_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thiogranum;uncultured_bacterium	91.848	552	34	7	3	546	549	1	0.0	760
+k105_131419	FJ545460.1.1496_Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;JTB255_marine_benthic_group;uncultured_bacterium	91.697	554	37	8	1	547	552	1	0.0	760
+k105_131419	EU804331.1.1464_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	92.322	534	41	0	14	547	534	1	0.0	760
+k105_131419	GU230357.1.1462_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_gamma_proteobacterium	92.110	545	34	8	10	547	543	1	0.0	760
+k105_131419	JN983557.1.1460_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	92.179	537	41	1	11	547	536	1	0.0	758
+k105_131419	EU010224.1.1421_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_marine_bacterium	92.135	534	42	0	14	547	534	1	0.0	758
+k105_131419	HQ153956.1.1373_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_bacterium	93.849	504	29	2	1	504	502	1	0.0	758
+k105_131419	JN825483.1.1369_Bacteria;Proteobacteria;SC3-20;uncultured_gamma_proteobacterium	93.988	499	30	0	1	499	499	1	0.0	756
+k105_131419	HM598246.1.1468_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	91.532	555	38	5	1	547	554	1	0.0	756
+k105_131419	GQ259253.1.1428_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	93.191	514	35	0	14	527	514	1	0.0	756
+k105_131419	HQ697790.1.1470_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	91.532	555	38	8	1	547	554	1	0.0	756
+k105_131419	HF558580.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thiogranum;uncultured_bacterium	91.652	551	38	7	3	547	549	1	0.0	756
+k105_131419	JQ347356.1.1466_Bacteria;Proteobacteria;SC3-20;uncultured_bacterium	91.833	551	32	8	6	546	548	1	0.0	756
+k105_131419	JQ278763.1.1458_Bacteria;Proteobacteria;SC3-20;uncultured_Chromatiales_bacterium	91.897	543	41	3	6	547	541	1	0.0	756
+k105_131419	KC003440.1.1336_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;unidentified_marine_bacterioplankton	92.135	534	42	0	14	547	534	1	0.0	754
+k105_131419	FJ545527.1.1500_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	91.516	554	38	8	1	547	552	1	0.0	754
+k105_131419	AM889165.1.1458_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_gamma_proteobacterium	91.516	554	38	8	1	547	552	1	0.0	754
+k105_131419	EU799722.1.1470_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	91.516	554	38	8	1	547	552	1	0.0	754
+k105_131419	AM889166.1.1466_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_gamma_proteobacterium	91.516	554	38	8	1	547	552	1	0.0	754
+k105_131419	JX016661.1.1463_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	91.532	555	36	8	1	547	552	1	0.0	754
+k105_131419	AB530211.1.1463_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_bacterium	91.516	554	38	8	1	547	552	1	0.0	754
+k105_131419	GU941092.1.1336_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	92.135	534	42	0	14	547	534	1	0.0	754
+k105_131419	HE803932.1.1424_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thiogranum;uncultured_gamma_proteobacterium	92.481	532	30	6	3	527	529	1	0.0	752
+k105_131419	HE804020.1.1425_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thiogranum;uncultured_gamma_proteobacterium	92.481	532	30	6	3	527	529	1	0.0	752
+k105_131419	HF558546.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thiogranum;uncultured_bacterium	91.470	551	39	6	3	547	549	1	0.0	750
+k105_131419	HQ166817.1.1319_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	92.996	514	36	0	14	527	514	1	0.0	750
+k105_131419	EU799053.1.1469_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	91.336	554	39	8	1	547	552	1	0.0	749
+k105_131419	JX017074.1.1463_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	91.336	554	39	8	1	547	552	1	0.0	749
+k105_131419	JX017112.1.1463_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	91.351	555	37	8	1	547	552	1	0.0	749
+k105_131419	JX017056.1.1464_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	91.351	555	37	8	1	547	552	1	0.0	749
+k105_131419	KF460409.1.1480_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Thiohalobacter;bacterium_enrichment_culture_clone_41(2013)	91.382	557	30	12	6	545	556	1	0.0	747
+k105_131419	EU107484.1.1491_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	91.651	539	45	0	9	547	539	1	0.0	747
+k105_131419	AB476279.1.1454_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	91.651	539	45	0	9	547	539	1	0.0	747
+k105_131419	GU302453.1.1463_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_bacterium	91.439	549	37	9	6	547	546	1	0.0	745
+k105_131419	AB597527.1.1503_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thiogranum;uncultured_gamma_proteobacterium	91.023	557	42	6	3	553	556	2	0.0	745
+k105_131419	FJ437976.1.1455_Bacteria;Proteobacteria;FGL7S;uncultured_bacterium	91.948	534	37	3	14	547	528	1	0.0	743
+k105_131419	FJ437990.1.1455_Bacteria;Proteobacteria;FGL7S;uncultured_bacterium	91.948	534	37	3	14	547	528	1	0.0	743
+k105_131419	FJ438001.1.1455_Bacteria;Proteobacteria;FGL7S;uncultured_bacterium	91.948	534	37	3	14	547	528	1	0.0	743
+k105_131419	JN509606.1.1426_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Nitrosococcus;uncultured_organism	92.636	516	38	0	14	529	516	1	0.0	743
+k105_131419	FJ437979.1.1455_Bacteria;Proteobacteria;FGL7S;uncultured_bacterium	91.948	534	37	3	14	547	528	1	0.0	743
+k105_131419	FJ437995.1.1455_Bacteria;Proteobacteria;FGL7S;uncultured_bacterium	91.948	534	37	3	14	547	528	1	0.0	743
+k105_131419	EU107485.1.1485_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	91.466	539	46	0	9	547	539	1	0.0	741
+k105_131419	DQ009139.1.2091_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_marine_bacterium	92.607	514	38	0	14	527	514	1	0.0	739
+k105_131419	JX017136.1.1463_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	90.991	555	39	8	1	547	552	1	0.0	737
+k105_131419	AB858553.1.1348_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	91.123	552	37	9	3	546	548	1	0.0	737
+k105_131419	HQ703856.1.1457_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	91.497	541	37	5	1	533	540	1	0.0	736
+k105_131419	GQ356969.1.1462_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_bacterium	91.075	549	39	9	6	547	546	1	0.0	734
+k105_131419	FM242259.1.1461_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_gamma_proteobacterium	90.942	552	40	7	1	543	551	1	0.0	734
+k105_131419	FJ712540.1.1472_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_bacterium	90.476	567	34	13	1	547	567	1	0.0	730
+k105_131419	FJ712557.1.1371_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_bacterium	90.714	560	32	13	8	547	560	1	0.0	728
+k105_131419	AM882543.1.1482_Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria_Incertae_Sedis;Unknown_Family;Sedimenticola;uncultured_gamma_proteobacterium	90.385	572	30	2	1	547	572	1	0.0	728
+k105_131419	JF927220.1.1452_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_marine_bacterium	92.218	514	40	0	14	527	514	1	0.0	728
+k105_131419	FJ482231.1.1455_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Thiohalobacter;Thiohalobacter_thiocyanaticus	91.312	541	36	9	1	533	539	2	0.0	728
+k105_131419	KC001539.1.1336_Bacteria;Proteobacteria;SPOTSOCT00m83;unidentified_marine_bacterioplankton	90.614	554	43	7	1	546	553	1	0.0	726
+k105_131419	JQ753222.1.1466_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	90.614	554	43	8	1	547	552	1	0.0	726
+k105_131419	KM268033.1.1424_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thioalkalispira;uncultured_soil_bacterium	92.218	514	39	1	14	527	513	1	0.0	726
+k105_131419	AF181991.1.1460_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;sulfur-oxidizing_bacterium_NDII1.2	90.976	543	40	7	11	547	541	2	0.0	726
+k105_131419	DQ394926.1.1474_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_gamma_proteobacterium	90.893	549	36	13	10	547	546	1	0.0	725
+k105_131419	GQ349070.1.1335_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	92.039	515	41	0	14	528	515	1	0.0	725
+k105_131419	AF351227.1.1410_Bacteria;Proteobacteria;SC3-20;uncultured_beta_proteobacterium	91.762	522	42	1	1	522	522	2	0.0	725
+k105_131419	FJ437956.1.1455_Bacteria;Proteobacteria;FGL7S;uncultured_bacterium	90.826	545	43	4	3	547	538	1	0.0	723
+k105_131419	AY426613.1.1464_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	90.580	552	42	9	3	547	549	1	0.0	723
+k105_131419	EU652532.1.1467_Bacteria;Proteobacteria;SC3-20;uncultured_bacterium	90.710	549	41	5	6	547	546	1	0.0	723
+k105_131419	EU328006.1.1459_Bacteria;Proteobacteria;uncultured_gamma_proteobacterium	90.775	542	48	2	6	547	540	1	0.0	723
+k105_131419	L25709.1.1413_Bacteria;Proteobacteria;SC3-20;Solemya_reidi_gill_symbiont	91.144	542	35	11	11	543	538	1	0.0	723
+k105_131419	JN377488.1.1342_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_bacterium	93.737	479	27	3	1	478	478	2	0.0	717
+k105_131419	AB930788.1.1431_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	91.061	537	37	10	1	527	536	1	0.0	715
+k105_131419	JQ086966.1.1424_Bacteria;Proteobacteria;SC3-20;uncultured_Chromatiaceae_bacterium	90.108	556	45	8	1	547	555	1	0.0	713
+k105_131419	KF500657.1.1257_Bacteria;Proteobacteria;SC3-20;uncultured_gamma_proteobacterium	95.711	443	19	0	1	443	443	1	0.0	713
+k105_131419	EU246816.1.1406_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	90.608	543	44	6	11	547	542	1	0.0	713
+k105_131419	KC541036.1.1499_Bacteria;Proteobacteria;FGL7S;uncultured_bacterium	90.288	556	38	10	3	546	553	2	0.0	713
+k105_131419	KF741454.1.1479_Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Alcanivoracaceae;Kangiella;uncultured_bacterium	90.231	563	29	8	11	547	563	1	0.0	712
+k105_131419	GU197443.1.1460_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	90.494	547	41	9	8	547	543	1	0.0	712
+k105_131419	AB981824.1.1421_Bacteria;Proteobacteria;Gammaproteobacteria;Methylococcales;Marine_Methylotrophic_Group_2;uncultured_gamma_proteobacterium	91.346	520	45	0	8	527	520	1	0.0	712
+k105_131419	DQ395051.1.1487_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_gamma_proteobacterium	90.399	552	36	16	10	547	549	1	0.0	710
+k105_131419	DQ395015.1.1468_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_gamma_proteobacterium	90.416	553	34	18	10	547	549	1	0.0	710
+k105_131419	KC682522.1.1462_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	90.625	544	38	12	11	546	539	1	0.0	710
+k105_131419	JN471637.1.1406_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Thiohalocapsa;uncultured_organism	91.363	521	39	4	11	531	515	1	0.0	708
+k105_131419	EU050788.1.1378_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_gamma_proteobacterium	91.115	529	37	9	6	527	526	1	0.0	708
+k105_131419	DQ396344.1.1492_Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;uncultured;uncultured_organism	90.335	538	52	0	9	546	538	1	0.0	706
+k105_131419	JQ624269.1.1470_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	90.353	539	51	1	9	547	542	5	0.0	706
+k105_131419	JX521179.1.1473_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	90.018	551	45	9	3	547	551	5	0.0	704
+k105_131419	AM935642.1.1328_Bacteria;Proteobacteria;SC3-20;uncultured_sulfur-oxidizing_symbiont_bacterium	90.672	536	41	7	1	527	536	1	0.0	704
+k105_131419	AM935641.1.1328_Bacteria;Proteobacteria;SC3-20;uncultured_sulfur-oxidizing_symbiont_bacterium	90.672	536	41	7	1	527	536	1	0.0	704
+k105_131419	AM935643.1.1328_Bacteria;Proteobacteria;SC3-20;uncultured_sulfur-oxidizing_symbiont_bacterium	90.672	536	41	7	1	527	536	1	0.0	704
+k105_131419	AB981845.1.1423_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;uncultured;uncultured_gamma_proteobacterium	91.137	519	46	0	9	527	519	1	0.0	704
+k105_131419	AB600398.1.1349_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	90.538	539	42	6	9	547	530	1	0.0	704
+k105_131419	AB189342.1.1465_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_gamma_proteobacterium	90.146	548	45	7	6	546	546	1	0.0	704
+k105_131419	JN983600.1.1450_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	90.275	545	41	9	3	547	533	1	0.0	702
+k105_131419	JX521637.1.1459_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	90.275	545	41	9	3	547	537	5	0.0	702
+k105_131419	JX521638.1.1459_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	90.275	545	41	9	3	547	537	5	0.0	702
+k105_131419	GU369933.1.1368_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Thiohalobacter;uncultured_gamma_proteobacterium	94.702	453	23	1	11	462	495	43	0.0	702
+k105_131419	GU197425.1.1463_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	90.239	543	46	5	11	547	542	1	0.0	702
+k105_131419	AB619696.1.1434_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	90.556	540	37	13	1	527	539	1	0.0	702
+k105_131419	AB476239.1.1421_Bacteria;Proteobacteria;Gammaproteobacteria;Methylococcales;Marine_Methylotrophic_Group_2;uncultured_bacterium	90.857	525	47	1	3	527	524	1	0.0	702
+k105_131419	AATN01000498.849.2327_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;metagenome	90.167	539	52	1	9	547	538	1	0.0	701
+k105_131419	JN983598.1.1452_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	90.092	545	44	5	3	547	535	1	0.0	699
+k105_131419	JN983538.1.1452_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	90.092	545	44	5	3	547	535	1	0.0	699
+k105_131419	JN486078.1.1357_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Nitrosococcus;uncultured_organism	92.434	489	37	0	14	502	489	1	0.0	699
+k105_131419	JN447965.1.1415_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;uncultured_organism	91.279	516	39	4	9	524	510	1	0.0	699
+k105_131419	KF268832.1.1372_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thiogranum;uncultured_bacterium	94.130	460	26	1	3	462	501	43	0.0	699
+k105_131419	EU236390.1.1353_Bacteria;Planctomycetes;Planctomycetacia;Planctomycetales;Planctomycetaceae;uncultured;uncultured_bacterium	92.137	496	37	2	1	495	495	1	0.0	699
+k105_131419	JN983550.1.1450_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	90.092	545	42	9	3	547	533	1	0.0	697
+k105_131419	JN983571.1.1450_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	90.092	545	42	9	3	547	533	1	0.0	697
+k105_131419	JN983573.1.1450_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	90.092	545	42	9	3	547	533	1	0.0	697
+k105_131419	JX521011.1.1451_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	90.092	545	42	9	3	547	537	5	0.0	697
+k105_131419	JX520985.1.1442_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	90.092	545	42	9	3	547	537	5	0.0	697
+k105_131419	EU884095.1.1450_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_sp._ectosymbiont_of_Niphargus_ictus	90.092	545	42	9	3	547	533	1	0.0	697
+k105_131419	EU662305.1.1459_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	90.092	545	42	9	3	547	533	1	0.0	697
+k105_131419	AB240378.1.1464_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;RB446;uncultured_bacterium	90.018	541	50	3	10	547	540	1	0.0	697
+k105_131419	GQ355003.1.1450_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	90.317	537	43	7	11	547	528	1	0.0	695
+k105_131419	JX016442.1.1463_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	89.693	553	46	8	1	545	552	3	0.0	695
+k105_131419	AB981847.1.1421_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	90.927	518	45	2	11	527	517	1	0.0	695
+k105_131419	FR684817.1.1482_Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;SAR86_clade;uncultured_marine_bacterium	89.455	569	34	10	3	546	568	1	0.0	695
+k105_131419	AB476227.1.1419_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Piscirickettsiaceae;Marine_Methylotrophic_Group_3;uncultured_bacterium	91.051	514	46	0	14	527	514	1	0.0	695
+k105_131419	AB247471.1.1452_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.908	545	45	8	3	547	535	1	0.0	695
+k105_131419	AB247466.1.1452_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.908	545	45	8	3	547	535	1	0.0	695
+k105_131419	GQ274241.1.1493_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	89.908	545	46	6	9	547	542	1	0.0	693
+k105_131419	EU101246.1.1452_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.908	545	45	7	3	547	535	1	0.0	693
+k105_131419	JF703353.1.1412_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_proteobacterium	93.737	463	27	2	1	462	522	61	0.0	693
+k105_131419	KJ754661.1.1226_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	93.723	462	29	0	1	462	531	70	0.0	693
+k105_131419	AB499617.1.1426_Bacteria;Proteobacteria;SC3-20;Solemya_pervernicosa_gill_symbiont	90.875	526	35	11	11	527	522	1	0.0	693
+k105_131419	JN983611.1.1450_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.908	545	43	9	3	547	533	1	0.0	691
+k105_131419	JN983542.1.1451_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.927	546	42	10	3	547	534	1	0.0	691
+k105_131419	JN983607.1.1443_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.908	545	43	9	3	547	533	1	0.0	691
+k105_131419	JN983610.1.1452_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.908	545	43	9	3	547	533	1	0.0	691
+k105_131419	JN983578.1.1450_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.908	545	43	9	3	547	533	1	0.0	691
+k105_131419	JN983601.1.1450_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.908	545	43	9	3	547	533	1	0.0	691
+k105_131419	JX521443.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.908	545	43	9	3	547	539	7	0.0	691
+k105_131419	JX521615.1.1459_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.908	545	43	9	3	547	537	5	0.0	691
+k105_131419	JX521089.1.1459_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.908	545	43	9	3	547	537	5	0.0	691
+k105_131419	JX521129.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.908	545	43	9	3	547	538	6	0.0	691
+k105_131419	JX521197.1.1458_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.908	545	43	9	3	547	537	5	0.0	691
+k105_131419	JX521430.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.908	545	43	9	3	547	539	7	0.0	691
+k105_131419	JX521171.1.1449_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.908	545	43	9	3	547	537	5	0.0	691
+k105_131419	JX521377.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.908	545	43	9	3	547	538	6	0.0	691
+k105_131419	AM997580.1.1463_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;RB446;uncultured_deep-sea_bacterium	89.580	547	53	4	3	547	545	1	0.0	691
+k105_131419	EU101280.1.1450_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.908	545	43	9	3	547	533	1	0.0	691
+k105_131419	EU101239.1.1450_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.908	545	43	9	3	547	533	1	0.0	691
+k105_131419	EU101237.1.1450_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.908	545	43	9	3	547	533	1	0.0	691
+k105_131419	HQ324856.1.1453_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.908	545	43	9	3	547	533	1	0.0	691
+k105_131419	EU101243.1.1450_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.908	545	43	9	3	547	533	1	0.0	691
+k105_131419	AF148516.1.1454_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_sp._CT3	89.890	544	43	9	3	546	533	2	0.0	689
+k105_131419	GQ263818.1.1431_Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Dermatophilaceae;uncultured;uncultured_bacterium	90.244	533	43	7	1	524	533	1	0.0	688
+k105_131419	EU662388.1.1459_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.560	546	51	6	3	547	541	1	0.0	688
+k105_131419	FM165208.1.1445_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.890	544	42	10	3	546	537	7	0.0	688
+k105_131419	JN983582.1.1450_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.725	545	44	9	3	547	533	1	0.0	686
+k105_131419	JN983581.1.1451_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.725	545	44	9	3	547	533	1	0.0	686
+k105_131419	JX521212.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.725	545	44	9	3	547	538	6	0.0	686
+k105_131419	JX521477.1.1466_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.725	545	44	9	3	547	539	7	0.0	686
+k105_131419	JX521284.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.725	545	44	9	3	547	539	7	0.0	686
+k105_131419	JX521211.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.725	545	44	9	3	547	538	6	0.0	686
+k105_131419	JX521487.1.1463_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.725	545	44	9	3	547	539	7	0.0	686
+k105_131419	JX520983.1.1457_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.725	545	44	9	3	547	537	5	0.0	686
+k105_131419	JX520979.1.1459_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.725	545	44	9	3	547	537	5	0.0	686
+k105_131419	JX521476.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.725	545	44	9	3	547	539	7	0.0	686
+k105_131419	JX521392.1.1465_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.725	545	44	9	3	547	538	6	0.0	686
+k105_131419	AB600436.1.1347_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.725	545	44	9	3	547	533	1	0.0	686
+k105_131419	AB473968.1.1478_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	89.725	545	44	9	3	547	533	1	0.0	686
+k105_131419	JX525472.1.1400_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_proteobacterium	91.684	493	41	0	14	506	493	1	0.0	684
+k105_131419	JX521086.1.1458_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.725	545	43	10	3	547	537	6	0.0	684
+k105_131419	JN983579.1.1455_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.599	548	42	12	3	547	536	1	0.0	682
+k105_131419	JX521429.1.1471_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.397	547	50	8	3	547	546	6	0.0	682
+k105_131419	JN178150.1.1504_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;RB446;uncultured_bacterium	89.503	543	51	5	9	547	541	1	0.0	682
+k105_131419	EF467498.1.1453_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.796	539	46	4	9	547	530	1	0.0	682
+k105_131419	AB476692.1.1480_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	89.944	537	43	8	11	547	526	1	0.0	682
+k105_131419	FJ905698.1.1377_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thiogranum;uncultured_bacterium	93.478	460	29	1	3	462	501	43	0.0	682
+k105_131419	FJ545503.1.1494_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_bacterium	89.649	541	47	8	11	547	536	1	0.0	680
+k105_131419	JX521500.1.1462_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.560	546	44	10	3	547	540	7	0.0	680
+k105_131419	HQ672111.1.1426_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_bacterium	89.649	541	47	8	11	547	536	1	0.0	680
+k105_131419	DQ067608.1.1338_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_sp._FBR0112	89.649	541	46	6	3	535	540	2	0.0	680
+k105_131419	JX526770.1.1401_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_proteobacterium	91.498	494	41	1	14	506	494	1	0.0	678
+k105_131419	GQ274169.1.1495_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	89.358	545	51	5	9	547	544	1	0.0	678
+k105_131419	JN983580.1.1452_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.397	547	44	11	3	547	535	1	0.0	676
+k105_131419	JX521312.1.1469_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.214	547	51	8	3	547	547	7	0.0	676
+k105_131419	JX521305.1.1469_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.234	548	49	10	3	547	547	7	0.0	676
+k105_131419	JX521290.1.1470_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.214	547	51	8	3	547	547	7	0.0	676
+k105_131419	JX521285.1.1470_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.214	547	51	8	3	547	547	7	0.0	676
+k105_131419	JN488196.1.1350_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Nitrosococcus;uncultured_organism	92.918	466	31	2	14	478	465	1	0.0	676
+k105_131419	GQ274263.1.1492_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	89.358	545	49	5	9	547	542	1	0.0	676
+k105_131419	EU662339.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.234	548	49	10	3	547	541	1	0.0	676
+k105_131419	EU662335.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.234	548	49	10	3	547	541	1	0.0	676
+k105_131419	EU662320.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.234	548	49	10	3	547	541	1	0.0	676
+k105_131419	EU662297.1.1468_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.234	548	49	10	3	547	541	1	0.0	676
+k105_131419	EU662326.1.1468_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.234	548	49	10	3	547	541	1	0.0	676
+k105_131419	EU662363.1.1471_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.234	548	49	10	3	547	541	1	0.0	676
+k105_131419	EU662350.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.234	548	49	10	3	547	541	1	0.0	676
+k105_131419	EU662321.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.234	548	49	10	3	547	541	1	0.0	676
+k105_131419	EU662317.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.234	548	49	10	3	547	541	1	0.0	676
+k105_131419	EU662329.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.234	548	49	10	3	547	541	1	0.0	676
+k105_131419	EU662322.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.234	548	49	10	3	547	541	1	0.0	676
+k105_131419	EU662332.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.234	548	49	10	3	547	541	1	0.0	676
+k105_131419	EU662325.1.1468_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.234	548	49	10	3	547	541	1	0.0	676
+k105_131419	JF733408.1.1458_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	89.194	546	53	6	3	547	541	1	0.0	676
+k105_131419	L79962.1.1253_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_fructosivorans	89.503	543	45	9	3	545	531	1	0.0	676
+k105_131419	FM165248.1.1462_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.338	544	51	6	9	547	542	1	0.0	676
+k105_131419	JX521484.1.1461_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.358	545	46	9	3	547	539	7	0.0	675
+k105_131419	JX504519.1.1518_Bacteria;Acidobacteria;Holophagae;Subgroup_10;Sva0725;uncultured_bacterium	89.007	564	36	8	9	547	563	1	0.0	675
+k105_131419	KF624188.1.1233_Bacteria;Proteobacteria;FGL7S;uncultured_bacterium	93.231	458	31	0	8	465	460	3	0.0	675
+k105_131419	HQ671992.1.1463_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_bacterium	89.464	541	48	8	11	547	536	1	0.0	675
+k105_131419	EU662303.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.464	541	48	9	10	547	535	1	0.0	675
+k105_131419	EU283355.1.1424_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	90.173	519	50	1	9	527	518	1	0.0	675
+k105_131419	HM057697.1.1472_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_alpha_proteobacterium	89.464	541	48	8	11	547	544	9	0.0	675
+k105_131419	AB425213.1.1482_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.358	545	46	9	3	547	533	1	0.0	675
+k105_131419	EU373879.1.1463_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;TK34;uncultured_alpha_proteobacterium	89.239	539	56	2	8	544	545	7	0.0	673
+k105_131419	AB981799.1.1424_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	90.114	526	41	8	9	527	522	1	0.0	673
+k105_131419	GU269554.1.1413_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_fructosivorans	89.483	542	44	10	3	543	530	1	0.0	673
+k105_131419	JX521588.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.051	548	50	10	3	547	545	5	0.0	671
+k105_131419	JX521307.1.1469_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.031	547	52	8	3	547	547	7	0.0	671
+k105_131419	JX521608.1.1468_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.051	548	50	10	3	547	546	6	0.0	671
+k105_131419	GQ354952.1.1445_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	89.051	548	50	10	3	547	541	1	0.0	671
+k105_131419	HQ673376.1.1467_Bacteria;Proteobacteria;SPOTSOCT00m83;uncultured_bacterium	89.279	541	51	5	12	547	539	1	0.0	671
+k105_131419	EU662306.1.1469_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.051	548	50	10	3	547	541	1	0.0	671
+k105_131419	EU662367.1.1458_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.051	548	50	10	3	547	541	1	0.0	671
+k105_131419	EU283379.1.1410_Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae;uncultured;uncultured_Bacteroidetes_bacterium	90.135	517	50	1	11	527	516	1	0.0	671
+k105_131419	EU104214.1.1426_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	90.000	520	51	1	9	528	519	1	0.0	671
+k105_131419	FJ623381.1.1430_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.031	547	50	10	3	547	539	1	0.0	669
+k105_131419	FJ623285.1.1456_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.031	547	50	10	3	547	539	1	0.0	669
+k105_131419	AB235229.1.1376_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;endosymbiont_of_Alviniconcha_sp._Lau_Basin	92.133	483	25	12	8	478	495	14	0.0	669
+k105_131419	KF268873.1.1373_Bacteria;Proteobacteria;SC3-20;uncultured_bacterium	90.818	501	43	3	1	500	499	1	0.0	667
+k105_131419	EU799779.1.1464_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_bacterium	89.385	537	48	8	11	543	532	1	0.0	667
+k105_131419	EU662309.1.1468_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.011	546	50	10	3	545	541	3	0.0	667
+k105_131419	JX521611.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.869	548	51	10	3	547	545	5	0.0	665
+k105_131419	JX521592.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.869	548	51	10	3	547	545	5	0.0	665
+k105_131419	JX521338.1.1469_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.869	548	51	10	3	547	547	7	0.0	665
+k105_131419	JX521221.1.1469_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.848	547	53	8	3	547	546	6	0.0	665
+k105_131419	JX521346.1.1469_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.869	548	51	10	3	547	547	7	0.0	665
+k105_131419	JX521225.1.1468_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.869	548	51	10	3	547	547	7	0.0	665
+k105_131419	JX521208.1.1469_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.848	547	53	8	3	547	547	7	0.0	665
+k105_131419	JX521622.1.1457_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.869	548	51	10	3	547	545	5	0.0	665
+k105_131419	JX521233.1.1460_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.848	547	53	8	3	547	546	6	0.0	665
+k105_131419	JX521636.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.869	548	51	10	3	547	545	5	0.0	665
+k105_131419	JX521617.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.869	548	51	10	3	547	545	5	0.0	665
+k105_131419	JX521363.1.1469_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.869	548	51	10	3	547	546	6	0.0	665
+k105_131419	JX521358.1.1469_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.869	548	51	10	3	547	547	7	0.0	665
+k105_131419	JX521230.1.1469_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.848	547	53	8	3	547	546	6	0.0	665
+k105_131419	JX521227.1.1469_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.848	547	53	8	3	547	547	7	0.0	665
+k105_131419	HM584299.1.1454_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.869	548	51	10	3	547	541	1	0.0	665
+k105_131419	JX521218.1.1468_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.848	547	53	8	3	547	547	7	0.0	665
+k105_131419	CU919178.1.1321_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.808	520	52	1	9	528	519	1	0.0	665
+k105_131419	GQ355008.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	88.869	548	51	10	3	547	541	1	0.0	665
+k105_131419	GQ355007.1.1467_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	88.869	548	51	10	3	547	541	1	0.0	665
+k105_131419	AM490765.1.1453_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.011	546	48	9	3	547	535	1	0.0	665
+k105_131419	L79963.1.1294_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_fructosivorans	89.114	542	46	10	3	543	530	1	0.0	665
+k105_131419	ARCL01000068.266.1725_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_flexilis_DSM_14609	88.828	546	53	8	3	547	539	1	0.0	664
+k105_131419	JX521360.1.1469_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.094	541	50	9	10	547	541	7	0.0	664
+k105_131419	JX521436.1.1444_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.493	533	44	9	3	535	521	1	0.0	664
+k105_131419	AJUL01000009.3511272.3512742_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_nivea_DSM_5205	89.259	540	45	10	10	547	529	1	0.0	664
+k105_131419	AJUL01000009.2868995.2870465_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_nivea_DSM_5205	89.259	540	45	10	10	547	529	1	0.0	664
+k105_131419	KC683014.1.1492_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.848	547	51	10	3	546	540	1	0.0	664
+k105_131419	HQ242295.1.1465_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_SAR11_cluster_alpha_proteobacterium	88.869	548	49	10	6	547	542	1	0.0	664
+k105_131419	KM071662.1.1461_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AT-s3-44;uncultured_bacterium	89.074	540	52	6	11	547	537	2	0.0	664
+k105_131419	AB476246.1.1424_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.847	522	46	6	11	527	520	1	0.0	664
+k105_131419	EU799802.1.1483_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Granulosicoccaceae;Granulosicoccus;uncultured_bacterium	88.287	572	42	9	1	547	572	1	0.0	662
+k105_131419	HQ671902.1.1460_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_bacterium	88.628	554	50	11	1	547	548	1	0.0	662
+k105_131419	AB518773.1.1388_Bacteria;Proteobacteria;Alphaproteobacteria;OCS116_clade;alpha_proteobacterium_TI_chim_Sur55-1	89.394	528	53	2	11	535	528	1	0.0	662
+k105_131419	KF720708.1.1430_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_sp._N1	89.714	525	43	8	11	535	514	1	0.0	662
+k105_131419	AACY020273010.4139.5621_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;marine_metagenome	88.889	540	55	4	11	547	538	1	0.0	660
+k105_131419	JX521296.1.1455_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.686	548	52	10	3	547	546	6	0.0	660
+k105_131419	GQ406157.1.1462_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	89.714	525	42	9	3	527	513	1	0.0	660
+k105_131419	GQ337287.1.1463_Bacteria;Proteobacteria;Deltaproteobacteria;SAR324_clade(Marine_group_B);uncultured_alpha_proteobacterium	88.950	543	49	9	11	547	538	1	0.0	660
+k105_131419	GQ337135.1.1465_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_alpha_proteobacterium	88.950	543	49	9	11	547	538	1	0.0	660
+k105_131419	HQ674145.1.1459_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_bacterium	88.950	543	49	9	11	547	538	1	0.0	660
+k105_131419	AF351226.1.1387_Bacteria;Proteobacteria;SC3-20;uncultured_gamma_proteobacterium	91.423	478	40	1	1	478	508	32	0.0	660
+k105_131419	GU061303.1.1393_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;uncultured_gamma_proteobacterium	89.885	524	38	8	14	531	515	1	0.0	660
+k105_131419	HM057753.1.1471_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_alpha_proteobacterium	88.889	540	55	4	11	547	539	2	0.0	660
+k105_131419	FM174321.1.1425_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.714	525	42	9	3	527	513	1	0.0	660
+k105_131419	FM165221.1.1404_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.714	525	42	9	3	527	513	1	0.0	660
+k105_131419	DQ396097.1.1498_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_organism	88.889	540	53	6	11	546	537	1	0.0	658
+k105_131419	AB042819.1.1421_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_eikelboomii	89.595	519	53	1	9	527	518	1	0.0	658
+k105_131419	JN983606.1.1410_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.544	526	43	9	3	528	514	1	0.0	656
+k105_131419	EU662324.1.1465_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.665	547	50	11	3	545	539	1	0.0	656
+k105_131419	JN592632.1.1330_Bacteria;Proteobacteria;SC3-20;uncultured_bacterium	92.208	462	36	0	1	462	518	57	0.0	654
+k105_131419	JX521587.1.1468_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.504	548	53	10	3	547	545	5	0.0	654
+k105_131419	GQ337158.1.1453_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_alpha_proteobacterium	88.766	543	50	9	11	547	538	1	0.0	654
+k105_131419	HM057774.1.1518_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_alpha_proteobacterium	88.704	540	56	4	11	547	592	55	0.0	654
+k105_131419	FM165211.1.1405_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.524	525	43	9	3	527	513	1	0.0	654
+k105_131419	FM174326.1.1418_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.524	525	43	9	3	527	513	1	0.0	654
+k105_131419	FM165207.1.1423_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.524	525	43	9	3	527	513	1	0.0	654
+k105_131419	FM165206.1.1430_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.524	525	43	9	3	527	513	1	0.0	654
+k105_131419	FM165224.1.1397_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.524	525	43	9	3	527	513	1	0.0	654
+k105_131419	FM165213.1.1406_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.524	525	43	9	3	527	514	2	0.0	654
+k105_131419	DQ223233.1.1462_Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;uncultured;uncultured_bacterium	88.561	542	56	6	10	547	541	2	0.0	652
+k105_131419	JX521505.1.1446_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.139	534	45	10	3	535	522	1	0.0	652
+k105_131419	GQ348482.1.1343_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_alpha_proteobacterium	89.205	528	50	6	1	524	529	5	0.0	652
+k105_131419	AM997846.1.1457_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AT-s3-44;uncultured_deep-sea_bacterium	88.704	540	54	6	11	547	536	1	0.0	652
+k105_131419	AB548703.1.1393_Bacteria;Proteobacteria;Alphaproteobacteria;OCS116_clade;thermophilic_bacterium_Matomo55	89.555	517	51	2	11	524	520	4	0.0	652
+k105_131419	KF268899.1.1379_Bacteria;Proteobacteria;SC3-20;uncultured_bacterium	89.980	509	43	8	1	504	506	1	0.0	651
+k105_131419	AB981830.1.1424_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_gamma_proteobacterium	89.394	528	41	10	9	527	522	1	0.0	651
+k105_131419	GQ337240.1.1465_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_alpha_proteobacterium	88.582	543	51	9	11	547	538	1	0.0	649
+k105_131419	HQ674248.1.1463_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_bacterium	88.497	539	59	3	11	547	538	1	0.0	649
+k105_131419	HQ673632.1.1465_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_bacterium	88.582	543	51	9	11	547	538	1	0.0	649
+k105_131419	HQ673336.1.1463_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_bacterium	88.497	539	59	3	11	547	538	1	0.0	649
+k105_131419	HQ673068.1.1451_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_bacterium	88.582	543	51	9	11	547	538	1	0.0	649
+k105_131419	HQ153987.1.1309_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thiogranum;uncultured_bacterium	92.341	457	34	1	6	462	498	43	0.0	649
+k105_131419	FM165223.1.1404_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.333	525	44	9	3	527	513	1	0.0	649
+k105_131419	JX391742.1.1457_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Magnetovibrio;uncultured_bacterium	88.454	537	60	2	11	547	535	1	0.0	647
+k105_131419	EU884094.1.1451_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_sp._ectosymbiont_of_Niphargus_ictus	88.483	547	48	12	3	547	534	1	0.0	647
+k105_131419	AB722197.1.1317_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.868	530	53	6	3	531	525	1	0.0	647
+k105_131419	GU234925.1.1333_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_marine_bacterium	89.272	522	47	8	11	528	517	1	0.0	645
+k105_131419	FM165216.1.1411_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.423	520	43	9	3	522	508	1	0.0	645
+k105_131419	JN874237.1.1458_Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadales_Incertae_Sedis;Kiloniella;uncultured_bacterium	88.433	536	59	3	11	546	533	1	0.0	643
+k105_131419	HQ672571.1.1452_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_bacterium	88.312	539	60	3	11	547	538	1	0.0	643
+k105_131419	EU340179.1.1377_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	90.200	500	39	8	3	502	495	6	0.0	643
+k105_131419	KM410731.1.1423_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_prokaryote	89.648	512	44	4	9	520	503	1	0.0	643
+k105_131419	KJ590589.1.1462_Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhodobiaceae;uncultured;uncultured_bacterium	87.934	547	63	3	1	547	544	1	2.21e-180	641
+k105_131419	JN178083.1.1501_Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhodobiaceae;uncultured;uncultured_bacterium	88.312	539	58	5	11	547	540	5	2.21e-180	641
+k105_131419	EF644808.1.1323_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Piscirickettsiaceae;Thiomicrospira;uncultured_bacterium	92.444	450	32	2	14	462	461	13	2.21e-180	641
+k105_131419	DQ395408.1.1492_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AT-s3-44;uncultured_organism	88.117	547	53	10	5	546	540	1	7.93e-180	640
+k105_131419	JX240962.1.1461_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;TK34;uncultured_alpha_proteobacterium	88.029	543	62	3	6	547	541	1	7.93e-180	640
+k105_131419	JQ923744.1.1457_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;SM2D12;uncultured_bacterium	88.148	540	60	4	8	547	536	1	7.93e-180	640
+k105_131419	JQ923723.1.1457_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;SM2D12;uncultured_bacterium	88.148	540	60	4	8	547	536	1	7.93e-180	640
+k105_131419	JQ287025.1.1455_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Magnetovibrio;uncultured_bacterium	87.912	546	63	3	1	546	543	1	7.93e-180	640
+k105_131419	EU805031.1.1461_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_bacterium	87.774	548	63	4	1	547	545	1	2.85e-179	638
+k105_131419	EU340191.1.1372_Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;uncultured_bacterium	89.744	507	41	9	3	509	496	1	2.85e-179	638
+k105_131419	GQ240228.1.1493_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Tistrella;Tistrella_bauzanensis	88.007	542	61	4	8	547	540	1	2.85e-179	638
+k105_131419	FM165226.1.1406_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	88.973	526	45	10	3	527	514	1	2.85e-179	638
+k105_131419	AB071665.1.1453_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Tistrella;Tistrella_mobilis	88.007	542	61	4	8	547	542	3	2.85e-179	638
+k105_131419	KF741421.1.1456_Bacteria;Proteobacteria;Alphaproteobacteria;uncultured_bacterium	88.148	540	56	8	11	547	535	1	1.03e-178	636
+k105_131419	EU340196.1.1372_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.703	505	42	7	3	507	495	1	1.03e-178	636
+k105_131419	FN824848.1.1267_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.980	499	40	8	9	507	491	3	1.03e-178	636
+k105_131419	EU652585.1.1458_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;TK34;uncultured_bacterium	87.868	544	60	4	6	547	540	1	3.69e-178	634
+k105_131419	JQ923751.1.1457_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;SM2D12;uncultured_bacterium	87.963	540	61	4	8	547	536	1	3.69e-178	634
+k105_131419	EF645940.1.1462_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_bacterium	87.941	539	63	2	11	547	539	1	3.69e-178	634
+k105_131419	HE648187.1.1455_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Magnetovibrio;uncultured_alpha_proteobacterium	88.060	536	62	2	11	546	534	1	3.69e-178	634
+k105_131419	KJ814113.1.1455_Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Colwelliaceae;uncultured;uncultured_bacterium	88.007	542	58	7	6	546	536	1	3.69e-178	634
+k105_131419	AB166733.1.1397_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_sp._NKBI-C	88.214	543	49	10	3	535	540	3	3.69e-178	634
+k105_131419	JQ287040.1.1457_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Magnetovibrio;uncultured_bacterium	87.729	546	64	3	1	546	543	1	3.69e-178	634
+k105_131419	GQ350318.1.1332_Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Nit5Au0613-695;uncultured_gamma_proteobacterium	89.194	509	51	4	22	528	507	1	1.33e-177	632
+k105_131419	EU802254.1.1463_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_bacterium	87.591	548	64	4	1	547	545	1	1.33e-177	632
+k105_131419	EU340195.1.1370_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.683	504	40	9	3	506	492	1	1.33e-177	632
+k105_131419	HQ326389.1.1461_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;LWSR-14;uncultured_bacterium	87.614	549	63	5	1	547	546	1	1.33e-177	632
+k105_131419	FM165227.1.1413_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	88.783	526	46	10	3	527	514	1	1.33e-177	632
+k105_131419	FM165218.1.1405_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	88.762	525	47	9	3	527	513	1	1.33e-177	632
+k105_131419	KJ817664.1.1457_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;TK34;uncultured_bacterium	87.823	542	63	3	6	547	539	1	1.33e-177	632
+k105_131419	JN860305.1.1465_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Holosporaceae;uncultured;uncultured_alpha_proteobacterium	87.614	549	61	5	3	547	547	2	4.78e-177	630
+k105_131419	DQ537528.1.1463_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Holosporaceae;uncultured;uncultured_bacterium	87.614	549	61	5	3	547	546	1	4.78e-177	630
+k105_131419	LN567360.1.1323_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;uncultured_bacterium	89.126	515	45	7	10	524	507	4	4.78e-177	630
+k105_131419	FM165231.1.1391_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	89.391	509	42	9	3	511	499	3	4.78e-177	630
+k105_131419	HM598215.1.1460_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_bacterium	87.569	547	62	6	3	547	543	1	1.72e-176	628
+k105_131419	HQ671760.1.1458_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_bacterium	87.755	539	64	2	9	547	537	1	1.72e-176	628
+k105_131419	KJ778651.1.1301_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Tistrella;Tistrella_sp._BAB-4052	87.918	538	60	5	8	542	536	1	1.72e-176	628
+k105_131419	KJ590604.1.1458_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Magnetospira;uncultured_bacterium	87.409	548	65	4	1	547	545	1	6.18e-176	627
+k105_131419	JX521423.1.1403_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.484	504	41	9	3	506	492	1	6.18e-176	627
+k105_131419	KF460421.1.1483_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Magnetovibrio;bacterium_enrichment_culture_clone_69(2013)	87.850	535	63	2	11	545	533	1	6.18e-176	627
+k105_131419	FJ205320.1.1420_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AT-s3-44;uncultured_alpha_proteobacterium	88.403	526	54	6	11	533	522	1	6.18e-176	627
+k105_131419	AM997739.1.1457_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_deep-sea_bacterium	87.868	544	53	10	10	547	537	1	6.18e-176	627
+k105_131419	JN166352.1.1461_Bacteria;Proteobacteria;Alphaproteobacteria;Sneathiellales;Sneathiellaceae;uncultured;uncultured_marine_microorganism	87.638	542	64	3	7	547	540	1	6.18e-176	627
+k105_131419	AB042545.1.1417_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_flexilis	88.403	526	53	8	3	527	519	1	6.18e-176	627
+k105_131419	DQ071106.1.1426_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_marine_bacterium	88.632	519	52	6	11	525	518	3	2.22e-175	625
+k105_131419	JX221903.1.1461_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Holosporaceae;uncultured;uncultured_bacterium	87.432	549	62	6	3	547	546	1	2.22e-175	625
+k105_131419	EU735608.1.1463_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Holosporaceae;uncultured;uncultured_bacterium	87.409	548	64	4	3	547	546	1	2.22e-175	625
+k105_131419	EU799602.1.1461_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_bacterium	87.570	539	65	2	9	547	537	1	7.99e-175	623
+k105_131419	AB518741.1.1370_Bacteria;Proteobacteria;Alphaproteobacteria;OCS116_clade;alpha_proteobacterium_RM_In55-1	89.495	495	49	2	11	502	495	1	7.99e-175	623
+k105_131419	EU340192.1.1376_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	91.106	461	38	3	3	461	495	36	2.87e-174	621
+k105_131419	AB630701.1.1423_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;EF100-94H03;uncultured_bacterium	88.462	520	53	5	8	524	519	4	2.87e-174	621
+k105_131419	EF572142.1.1461_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_bacterium	87.226	548	66	4	1	547	545	1	2.87e-174	621
+k105_131419	HM598178.1.1459_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;TK34;uncultured_bacterium	87.407	540	66	2	8	547	538	1	1.03e-173	619
+k105_131419	JX431964.1.1388_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.400	500	41	9	11	510	494	7	1.03e-173	619
+k105_131419	JX227045.1.1466_Bacteria;Proteobacteria;Elev-16S-509;uncultured_bacterium	87.454	542	63	5	10	547	541	1	1.03e-173	619
+k105_131419	KM410387.1.1384_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_prokaryote	91.372	452	39	0	9	460	452	1	1.03e-173	619
+k105_131419	EF575101.1.1463_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Holosporaceae;uncultured;uncultured_bacterium	87.250	549	63	5	3	547	546	1	1.03e-173	619
+k105_131419	FM165222.1.1407_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_Thiothrix_sp	88.235	527	50	9	3	529	515	1	1.03e-173	619
+k105_131419	HQ425698.1.1446_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Tistrella;Tistrella_mobilis	87.782	532	61	4	8	537	530	1	1.03e-173	619
+k105_131419	EU642572.1.1399_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_lacustris	91.068	459	40	1	3	461	485	28	1.03e-173	619
+k105_131419	HQ236427.1.1394_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_lacustris	91.068	459	40	1	3	461	480	23	1.03e-173	619
+k105_131419	JX504525.1.1500_Bacteria;Cyanobacteria;Cyanobacteria;SubsectionII;uncultured;uncultured_bacterium	87.273	550	59	6	7	547	548	1	3.72e-173	617
+k105_131419	GQ350571.1.1334_Bacteria;Proteobacteria;Alphaproteobacteria;Sneathiellales;Sneathiellaceae;uncultured;uncultured_alpha_proteobacterium	88.314	522	52	8	7	524	521	5	3.72e-173	617
+k105_131419	HQ673581.1.1458_Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;ZD0405;uncultured_bacterium	87.250	549	60	9	3	547	543	1	3.72e-173	617
+k105_131419	EU491108.1.1460_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_bacterium	87.570	539	60	7	11	546	535	1	3.72e-173	617
+k105_131419	EU340158.1.1381_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.020	510	40	13	3	509	497	1	3.72e-173	617
+k105_131419	EU340215.1.1369_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	89.336	497	42	9	3	499	487	2	3.72e-173	617
+k105_131419	L40993.1.1427_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_nivea	88.077	520	50	10	10	527	510	1	3.72e-173	617
+k105_131419	HQ425696.1.1440_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Tistrella;Tistrella_mobilis	87.759	531	61	4	8	536	529	1	3.72e-173	617
+k105_131419	HQ425697.1.1441_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Tistrella;Tistrella_mobilis	87.759	531	61	4	8	536	529	1	3.72e-173	617
+k105_131419	EU642573.1.1404_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_caldifontis	91.353	451	39	0	11	461	481	31	3.72e-173	617
+k105_131419	DQ015828.1.1458_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Magnetospira;uncultured_bacterium	87.044	548	67	4	1	547	545	1	1.34e-172	616
+k105_131419	DQ015803.1.1458_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Magnetospira;uncultured_bacterium	87.044	548	67	4	1	547	545	1	1.34e-172	616
+k105_131419	JX227116.1.1474_Bacteria;Proteobacteria;Alphaproteobacteria;S26-47;uncultured_bacterium	87.316	544	62	7	10	547	543	1	1.34e-172	616
+k105_131419	JQ612349.1.1462_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR116_clade;uncultured_bacterium	87.339	545	59	9	7	547	539	1	1.34e-172	616
+k105_131419	KC682771.1.1386_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	88.136	531	45	10	11	540	514	1	1.34e-172	616
+k105_131419	HQ153994.1.1368_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;uncultured_bacterium	91.189	454	38	2	9	461	494	42	1.34e-172	616
+k105_131419	L79965.1.1295_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;Thiothrix;Thiothrix_eikelboomii	86.704	534	70	1	9	542	533	1	1.34e-172	616
+k105_131419	HM798713.1.1431_Bacteria;Proteobacteria;Alphaproteobacteria;Sneathiellales;Sneathiellaceae;uncultured;uncultured_Rhodospirillales_bacterium	88.000	525	55	7	3	524	522	3	4.81e-172	614
+k105_131419	JQ073011.1.1461_Bacteria;Proteobacteria;Alphaproteobacteria;OCS116_clade;uncultured_prokaryote	87.337	537	66	2	11	547	536	2	4.81e-172	614
+k105_131419	AM997745.1.1458_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_deep-sea_bacterium	87.407	540	61	7	11	547	536	1	4.81e-172	614
+# BLASTN 2.6.0+
+# Query: k105_150695
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_156082
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_156153
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_162492
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_163658
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_187211
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_191243
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_195402
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_195412
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_209656
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_215214
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_219990
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_225711
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_225990
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_232016
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_232258
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_236670
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_241831
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_241972
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_245388
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_252797
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_253772
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_260270
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_260748
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_262745
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_262844
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_267424
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_272249
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_288577
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_306101
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_307056
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_317247
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_336015
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_340343
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLAST processed 54 queries

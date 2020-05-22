@@ -1,0 +1,4 @@
+  File "/home/frle5739/genome_analysis/code/bash_commands/RPKM.py", line 44
+    print(words[0] + "\t", end="")
+                              ^
+SyntaxError: invalid syntax

@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/frle5739/genome_analysis/code/bash_commands/RPKM.py", line 44, in <module>
+    print(words[0] + "\t" + rpkm(genelengths[j, 0], genelengths[j, 1], sumReads))
+TypeError: cannot concatenate 'str' and 'numpy.float64' objects

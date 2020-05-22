@@ -1,0 +1,7 @@
+/home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/quast_corrected_input/combined_reference.fasta /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/combined_reference/../quast_corrected_input/bin_7.fa
+NUCMER
+>Psychroserpens_sp._PAMC_27130_NZ_JSWG01000008.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_8__whole_genome_shotgun_sequence k105_227429 280180 16895
+18333 18408 11208 11133 0 0 0
+0
+20113 20188 7257 7182 0 0 0
+0

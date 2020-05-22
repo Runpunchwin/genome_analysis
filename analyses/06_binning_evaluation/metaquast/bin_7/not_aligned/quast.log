@@ -1,0 +1,46 @@
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 --colors #E31A1C --ls solid --no-check-meta --contig-thresholds 1000,5000,10000,25000,50000 /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/quast_corrected_input/bin_7_not_aligned_anywhere.fasta -o /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned --labels bin_7
+
+Started: 2020-04-29 12:24:19
+
+Logging to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/quast.log
+
+CWD: /domus/h1/frle5739/genome_analysis/code
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/quast_corrected_input/bin_7_not_aligned_anywhere.fasta ==> bin_7
+
+2020-04-29 12:24:19
+Running Basic statistics processor...
+  Contig files: 
+    bin_7
+  Calculating N50 and L50...
+    bin_7, N50 = 4798, L50 = 1010, Total length = 16232002, GC % = 34.07, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/basic_stats/GC_content_plot.pdf
+  Drawing bin_7 GC content plot...
+    saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/basic_stats/bin_7_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-29 12:24:22
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-29 12:24:23
+RESULTS:
+  Text versions of total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/report.html
+  PDF version (tables and plots) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/report.pdf
+  Icarus (contig browser) is saved to /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_7/not_aligned/icarus.html

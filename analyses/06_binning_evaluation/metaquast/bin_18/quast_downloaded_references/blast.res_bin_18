@@ -1,0 +1,668 @@
+# BLASTN 2.6.0+
+# Query: k105_41931
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_62865
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_69683
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_75201
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_94555
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_101112
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_101153
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_101484
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_106460
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_121280
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_126020
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_127825
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_131612
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_140972
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_149006
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_171183
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_188339
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_190331
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_202100
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_203394
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_211437
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+k105_211437	CP007359.3958370.3959837_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella;Salmonella_enterica_subsp._enterica_serovar_Enteritidis_str._EC20100134	92.553	94	7	0	35262	35355	1441	1348	3.60e-28	135
+# BLASTN 2.6.0+
+# Query: k105_211680
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_217856
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_221751
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_226881
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_228789
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_236892
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_245064
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_264463
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_267290
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_272805
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_300756
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_300951
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_309426
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_313706
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_316635
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 500 hits found
+k105_316635	GU474892.2198.3716_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium_HF4000_22B16	96.765	340	11	0	9477	9816	1	340	8.31e-159	568
+k105_316635	HQ674577.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	95.894	341	14	0	9476	9816	1	341	2.33e-154	553
+k105_316635	HQ673064.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	95.015	341	17	0	9476	9816	1	341	2.34e-149	536
+k105_316635	GU145528.1.1489_Bacteria;Actinobacteria;Acidimicrobiia;Acidimicrobiales;uncultured;uncultured_bacterium	94.721	341	18	0	9476	9816	1	341	1.09e-147	531
+k105_316635	GU145516.1.1512_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	94.721	341	18	0	9476	9816	1	341	1.09e-147	531
+k105_316635	GU145455.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	94.721	341	18	0	9476	9816	1	341	1.09e-147	531
+k105_316635	EU491156.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	94.706	340	18	0	9477	9816	1	340	3.92e-147	529
+k105_316635	AB858515.1.1409_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	94.412	340	19	0	9477	9816	1	340	1.83e-145	523
+k105_316635	HM798981.1.1502_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	95.625	320	14	0	9497	9816	1	320	1.10e-142	514
+k105_316635	HQ673704.1.1508_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.842	341	21	0	9476	9816	1	341	1.10e-142	514
+k105_316635	GQ337204.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	93.842	341	20	1	9476	9816	1	340	3.95e-142	512
+k105_316635	HQ674024.1.1511_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.842	341	20	1	9476	9816	1	340	3.95e-142	512
+k105_316635	HQ674035.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.842	341	20	1	9476	9816	1	340	3.95e-142	512
+k105_316635	HQ672874.1.1512_Bacteria;Proteobacteria;Deltaproteobacteria;SAR324_clade(Marine_group_B);uncultured_bacterium	93.842	341	20	1	9476	9816	1	340	3.95e-142	512
+k105_316635	HQ672861.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.842	341	20	1	9476	9816	1	340	3.95e-142	512
+k105_316635	HQ673734.1.1524_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.842	341	20	1	9476	9816	1	340	3.95e-142	512
+k105_316635	HQ673251.1.1511_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.787	338	21	0	9476	9813	1	338	5.11e-141	508
+k105_316635	HQ652527.1.1419_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.787	338	21	0	9476	9813	1	338	5.11e-141	508
+k105_316635	GQ351236.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.548	341	21	1	9476	9816	1	340	1.84e-140	507
+k105_316635	HQ673274.1.1511_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.548	341	21	1	9476	9816	1	340	1.84e-140	507
+k105_316635	HQ672692.1.1502_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.548	341	21	1	9476	9816	1	340	1.84e-140	507
+k105_316635	HQ673357.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.548	341	21	1	9476	9816	1	340	1.84e-140	507
+k105_316635	HQ673701.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.548	341	21	1	9476	9816	1	340	1.84e-140	507
+k105_316635	EU686605.12228.13769_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium_AD261-B2	93.548	341	21	1	9476	9816	1	340	1.84e-140	507
+k105_316635	AY907795.1.1515_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.255	341	23	0	9476	9816	1	341	2.38e-139	503
+k105_316635	HQ674196.1.1512_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.275	342	21	2	9476	9816	1	341	2.38e-139	503
+k105_316635	HQ673841.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.255	341	23	0	9476	9816	1	341	2.38e-139	503
+k105_316635	HQ673431.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.275	342	21	2	9476	9816	1	341	2.38e-139	503
+k105_316635	HQ674105.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.275	342	21	2	9476	9816	1	341	2.38e-139	503
+k105_316635	HQ673767.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.255	341	23	0	9476	9816	1	341	2.38e-139	503
+k105_316635	HQ673127.1.1525_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.275	342	21	2	9476	9816	1	341	2.38e-139	503
+k105_316635	JN018915.1.1419_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.255	341	23	0	9476	9816	1	341	2.38e-139	503
+k105_316635	KC001970.1.1388_Bacteria;Marinimicrobia_(SAR406_clade);unidentified_marine_bacterioplankton	93.235	340	23	0	9477	9816	1	340	8.55e-139	501
+k105_316635	HQ673691.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	93.255	341	22	1	9476	9816	1	340	8.55e-139	501
+k105_316635	HQ674118.1.1512_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.962	341	24	0	9476	9816	1	341	1.11e-137	497
+k105_316635	HQ672727.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.982	342	22	2	9476	9816	1	341	1.11e-137	497
+k105_316635	HQ674473.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.962	341	24	0	9476	9816	1	341	1.11e-137	497
+k105_316635	HQ672778.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.982	342	22	2	9476	9816	1	341	1.11e-137	497
+k105_316635	EF572866.1.1525_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.962	341	24	0	9476	9816	1	341	1.11e-137	497
+k105_316635	GQ337165.1.1513_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	92.962	341	23	1	9476	9816	1	340	3.98e-137	496
+k105_316635	KF170424.460.2002_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium_405006-B04	92.982	342	21	3	9476	9816	1	340	3.98e-137	496
+k105_316635	HQ673633.1.1513_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.962	341	23	1	9476	9816	1	340	3.98e-137	496
+k105_316635	HQ673846.1.1521_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.920	339	24	0	9478	9816	1	339	1.43e-136	494
+k105_316635	EU805091.1.1526_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.669	341	25	0	9476	9816	1	341	5.15e-136	492
+k105_316635	HQ672324.1.1525_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.669	341	25	0	9476	9816	1	341	5.15e-136	492
+k105_316635	HQ673039.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.669	341	25	0	9476	9816	1	341	5.15e-136	492
+k105_316635	HQ672502.1.1488_Bacteria;Actinobacteria;Acidimicrobiia;Acidimicrobiales;Sva0996_marine_group;uncultured_bacterium	92.669	341	25	0	9476	9816	1	341	5.15e-136	492
+k105_316635	HQ672313.1.1513_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.669	341	25	0	9476	9816	1	341	5.15e-136	492
+k105_316635	HQ672292.1.1525_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.669	341	25	0	9476	9816	1	341	5.15e-136	492
+k105_316635	JN018882.1.1419_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.669	341	25	0	9476	9816	1	341	5.15e-136	492
+k105_316635	KC872802.1.1412_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.669	341	25	0	9476	9816	1	341	5.15e-136	492
+k105_316635	EF574641.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.669	341	25	0	9476	9816	1	341	5.15e-136	492
+k105_316635	U41450.1.1490_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_eubacterium_OCS307	92.669	341	24	1	9476	9816	1	340	1.85e-135	490
+k105_316635	HQ673116.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.669	341	24	1	9476	9816	1	340	1.85e-135	490
+k105_316635	HQ674572.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.669	341	24	1	9476	9816	1	340	1.85e-135	490
+k105_316635	HQ674275.1.1513_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.669	341	24	1	9476	9816	1	340	1.85e-135	490
+k105_316635	HQ673248.1.1512_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.669	341	24	1	9476	9816	1	340	1.85e-135	490
+k105_316635	HQ672961.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.604	338	25	0	9476	9813	1	338	2.40e-134	486
+k105_316635	JQ678400.1.1529_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.375	341	26	0	9476	9816	4	344	2.40e-134	486
+k105_316635	GQ337125.1.1509_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	92.375	341	25	1	9476	9816	1	340	8.61e-134	484
+k105_316635	EU035866.1.1527_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.375	341	25	1	9476	9816	1	340	8.61e-134	484
+k105_316635	JQ678404.1.1529_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.375	341	25	1	9476	9816	4	343	8.61e-134	484
+k105_316635	GQ337243.1.1524_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	92.082	341	26	1	9476	9816	1	340	3.10e-133	483
+k105_316635	GQ337325.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	92.082	341	27	0	9476	9816	1	341	1.11e-132	481
+k105_316635	HQ673270.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.082	341	27	0	9476	9816	1	341	1.11e-132	481
+k105_316635	EF575320.1.1526_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.082	341	27	0	9476	9816	1	341	1.11e-132	481
+k105_316635	GQ337210.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	92.082	341	26	1	9476	9816	1	340	4.01e-132	479
+k105_316635	HQ674291.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.082	341	26	1	9476	9816	1	340	4.01e-132	479
+k105_316635	HQ674085.1.1512_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.082	341	26	1	9476	9816	1	340	4.01e-132	479
+k105_316635	HQ673922.1.1510_Bacteria;Acidobacteria;Acidobacteria;Subgroup_6;uncultured_bacterium	92.082	341	26	1	9476	9816	1	340	4.01e-132	479
+k105_316635	HQ673079.1.1513_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.082	341	26	1	9476	9816	1	340	4.01e-132	479
+k105_316635	HQ672811.1.1511_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.082	341	26	1	9476	9816	1	340	4.01e-132	479
+k105_316635	HQ672724.1.1498_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_2;uncultured_bacterium	92.082	341	26	1	9476	9816	1	340	4.01e-132	479
+k105_316635	HQ673157.1.1513_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.082	341	26	1	9476	9816	1	340	4.01e-132	479
+k105_316635	HQ672896.1.1513_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.082	341	26	1	9476	9816	1	340	4.01e-132	479
+k105_316635	HQ673658.1.1521_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.082	341	26	1	9476	9816	1	340	4.01e-132	479
+k105_316635	HQ672812.1.1511_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.082	341	26	1	9476	9816	1	340	4.01e-132	479
+k105_316635	EF645947.1.1486_Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae;Owenweeksia;uncultured_bacterium	92.082	341	26	1	9476	9816	1	340	4.01e-132	479
+k105_316635	HQ672322.1.1517_Bacteria;Planctomycetes;Pla3_lineage;uncultured_bacterium	92.082	341	24	3	9476	9814	1	340	1.44e-131	477
+k105_316635	AACY020545456.443.1983_Bacteria;Marinimicrobia_(SAR406_clade);marine_metagenome	92.012	338	27	0	9476	9813	1	338	5.18e-131	475
+k105_316635	U34043.1.1552_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	91.837	343	24	4	9476	9816	1	341	5.18e-131	475
+k105_316635	GQ337222.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	91.789	341	28	0	9476	9816	1	341	5.18e-131	475
+k105_316635	GQ349191.1.1424_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	91.813	342	27	1	9476	9816	6	347	5.18e-131	475
+k105_316635	HQ673220.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	91.789	341	28	0	9476	9816	1	341	5.18e-131	475
+k105_316635	AJXC01004589.237.1590_Bacteria;Marinimicrobia_(SAR406_clade);marine_metagenome	91.789	341	28	0	9476	9816	1	341	5.18e-131	475
+k105_316635	GQ337118.1.1471_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_alpha_proteobacterium	91.789	341	26	2	9476	9816	1	339	1.86e-130	473
+k105_316635	HQ673644.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	91.789	341	27	1	9476	9816	1	340	1.86e-130	473
+k105_316635	AACY020564058.27.1569_Bacteria;Marinimicrobia_(SAR406_clade);marine_metagenome	91.789	341	25	3	9476	9814	1	340	6.71e-130	472
+k105_316635	JN233097.1.1484_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	93.396	318	21	0	9496	9813	1	318	6.71e-130	472
+k105_316635	JN986549.1.1525_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	91.765	340	24	3	9476	9813	2	339	2.41e-129	470
+k105_316635	GQ351207.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	91.496	341	29	0	9476	9816	1	341	2.41e-129	470
+k105_316635	KC873571.1.1436_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	91.740	339	26	2	9476	9813	15	352	2.41e-129	470
+k105_316635	DQ513043.1.1525_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	91.496	341	28	1	9476	9816	1	340	8.68e-129	468
+k105_316635	GQ337317.1.1524_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	91.496	341	28	1	9476	9816	1	340	8.68e-129	468
+k105_316635	HQ672535.1.1487_Bacteria;Actinobacteria;Acidimicrobiia;Acidimicrobiales;Sva0996_marine_group;uncultured_bacterium	91.496	341	28	1	9476	9816	1	340	8.68e-129	468
+k105_316635	HQ673399.1.1487_Bacteria;Proteobacteria;Deltaproteobacteria;SAR324_clade(Marine_group_B);uncultured_bacterium	91.496	341	28	1	9476	9816	1	340	8.68e-129	468
+k105_316635	HQ673237.1.1510_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	91.496	341	28	1	9476	9816	1	340	8.68e-129	468
+k105_316635	KF170425.1.1537_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium_413004-H17	91.940	335	26	1	9482	9816	1	334	8.68e-129	468
+k105_316635	EF572465.1.1526_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	91.471	340	27	2	9476	9814	1	339	3.12e-128	466
+k105_316635	AY907803.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	91.420	338	29	0	9476	9813	1	338	1.12e-127	464
+k105_316635	HQ674066.1.1498_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	91.228	342	28	2	9476	9816	1	341	1.12e-127	464
+k105_316635	EF572733.1.1526_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	91.420	338	29	0	9476	9813	1	338	1.12e-127	464
+k105_316635	HQ672485.1.1524_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	91.202	341	27	3	9476	9814	1	340	1.45e-126	460
+k105_316635	EF572490.1.1526_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	91.150	339	30	0	9476	9814	1	339	1.45e-126	460
+k105_316635	AACY020207233.1273.2814_Bacteria;Marinimicrobia_(SAR406_clade);marine_metagenome	91.124	338	30	0	9476	9813	1	338	5.22e-126	459
+k105_316635	AACY023392145.10.1473_Bacteria;Marinimicrobia_(SAR406_clade);marine_metagenome	90.936	342	29	2	9476	9816	1	341	5.22e-126	459
+k105_316635	EU804243.1.1435_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	91.124	338	30	0	9476	9813	1	338	5.22e-126	459
+k105_316635	JQ678431.1.1528_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.909	341	31	0	9476	9816	4	344	5.22e-126	459
+k105_316635	GU940847.1.1388_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	91.124	338	30	0	9476	9813	1	338	5.22e-126	459
+k105_316635	KC001786.1.1392_Bacteria;Marinimicrobia_(SAR406_clade);unidentified_marine_bacterioplankton	91.098	337	30	0	9477	9813	1	337	1.88e-125	457
+k105_316635	HQ673382.1.1513_Bacteria;Proteobacteria;Deltaproteobacteria;SAR324_clade(Marine_group_B);uncultured_bacterium	90.909	341	30	1	9476	9816	1	340	1.88e-125	457
+k105_316635	AACY020518560.687.2227_Bacteria;Marinimicrobia_(SAR406_clade);marine_metagenome	90.616	341	32	0	9476	9816	1	341	2.43e-124	453
+k105_316635	KF170419.508.2049_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium_FPPU_33B15	90.616	341	32	0	9476	9816	1	341	2.43e-124	453
+k105_316635	KF170416.176.1719_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium_FGYC_13M19	90.616	341	32	0	9476	9816	1	341	2.43e-124	453
+k105_316635	EF571979.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.828	338	31	0	9476	9813	1	338	2.43e-124	453
+k105_316635	HQ163173.1.1371_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.188	320	25	0	9497	9816	1	320	2.43e-124	453
+k105_316635	GU940836.1.1431_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.828	338	31	0	9476	9813	12	349	2.43e-124	453
+k105_316635	HQ674621.1.1524_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.616	341	31	1	9476	9816	1	340	8.74e-124	451
+k105_316635	HQ673258.1.1504_Bacteria;Verrucomicrobia;Opitutae;Puniceicoccales;Puniceicoccaceae;Cerasicoccus;uncultured_bacterium	90.828	338	30	1	9476	9813	1	337	8.74e-124	451
+k105_316635	EU570883.1.1493_Bacteria;Proteobacteria;Epsilonproteobacteria;BG.g7;uncultured_bacterium	90.643	342	29	3	9476	9816	2	341	8.74e-124	451
+k105_316635	GQ348237.1.1402_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	91.925	322	25	1	9495	9816	1	321	3.14e-123	449
+k105_316635	HQ163761.1.1367_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	91.925	322	25	1	9495	9816	1	321	3.14e-123	449
+k105_316635	DQ009427.1.2076_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	91.900	321	25	1	9496	9816	1	320	1.13e-122	448
+k105_316635	DQ009425.1.1991_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	91.900	321	25	1	9496	9815	1	321	1.13e-122	448
+k105_316635	EF573657.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.323	341	33	0	9476	9816	1	341	1.13e-122	448
+k105_316635	HM798723.1.1496_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	91.875	320	25	1	9497	9816	1	319	4.06e-122	446
+k105_316635	HQ674104.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.323	341	32	1	9476	9816	1	340	4.06e-122	446
+k105_316635	HQ674015.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.323	341	32	1	9476	9816	1	340	4.06e-122	446
+k105_316635	GQ347629.1.1410_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	91.615	322	26	1	9495	9816	1	321	1.46e-121	444
+k105_316635	KM071669.1.1463_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	92.063	315	25	0	9502	9816	1	315	1.46e-121	444
+k105_316635	HQ672404.1.1510_Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Coxiellaceae;Coxiella;uncultured_bacterium	90.029	341	34	0	9476	9816	1	341	5.26e-121	442
+k105_316635	GU235047.1.1401_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	91.562	320	27	0	9497	9816	1	320	5.26e-121	442
+k105_316635	EU570874.1.1491_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.087	343	30	3	9476	9816	2	342	5.26e-121	442
+k105_316635	KC001974.1.1392_Bacteria;Marinimicrobia_(SAR406_clade);unidentified_marine_bacterioplankton	90.208	337	33	0	9477	9813	1	337	1.89e-120	440
+k105_316635	AYLG01000001.49867.51409_Bacteria;Marinimicrobia_(SAR406_clade);Marinimicrobia_bacterium_JGI_0000113-D11	90.029	341	33	1	9476	9816	1	340	1.89e-120	440
+k105_316635	HQ673345.1.1528_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.058	342	31	3	9476	9816	1	340	1.89e-120	440
+k105_316635	HQ672746.1.1512_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.029	341	33	1	9476	9816	1	340	1.89e-120	440
+k105_316635	HQ674201.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.029	341	33	1	9476	9816	1	340	1.89e-120	440
+k105_316635	GQ350363.1.1418_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	90.719	334	24	6	9483	9813	6	335	6.80e-120	438
+k105_316635	FJ628277.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	89.796	343	31	3	9476	9816	1	341	2.45e-119	436
+k105_316635	GQ349276.1.1427_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	89.766	342	33	2	9476	9816	3	343	2.45e-119	436
+k105_316635	HQ673447.1.1525_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	89.766	342	34	1	9476	9816	1	342	2.45e-119	436
+k105_316635	EU804687.1.1527_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.000	340	30	4	9476	9813	1	338	2.45e-119	436
+k105_316635	HQ672975.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.000	340	31	3	9476	9814	1	338	2.45e-119	436
+k105_316635	HQ729978.1.1399_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	91.250	320	28	0	9494	9813	1	320	2.45e-119	436
+k105_316635	GQ347112.1.1399_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	90.994	322	29	0	9495	9816	1	322	8.80e-119	435
+k105_316635	EU795186.1137.2679_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium_HF0500_01L02	89.766	342	32	3	9476	9816	1	340	8.80e-119	435
+k105_316635	DQ009157.1.1992_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	91.195	318	28	0	9496	9813	1	318	3.16e-118	433
+k105_316635	FJ545620.1.1554_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	89.504	343	32	3	9476	9816	1	341	1.14e-117	431
+k105_316635	HQ673456.1.1498_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	89.474	342	32	4	9476	9816	1	339	4.09e-117	429
+k105_316635	HQ672028.1.1510_Bacteria;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI;Prochlorococcus;uncultured_bacterium	89.443	341	35	1	9476	9816	1	340	4.09e-117	429
+k105_316635	JN166363.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_microorganism	89.443	341	35	1	9476	9816	1	340	4.09e-117	429
+k105_316635	HQ730018.1.1403_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	90.031	321	32	0	9496	9816	3	323	5.30e-116	425
+k105_316635	EU805358.1.1525_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	89.150	341	37	0	9476	9816	1	341	5.30e-116	425
+k105_316635	FJ264664.1.1530_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	89.181	342	34	3	9476	9816	1	340	1.90e-115	424
+k105_316635	GQ347260.1.1317_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	90.852	317	27	2	9500	9816	1	315	1.90e-115	424
+k105_316635	AF406544.1.1455_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Fibrobacteres/Acidobacteria_group_bacterium	90.625	320	28	2	9498	9816	1	319	1.90e-115	424
+k105_316635	FJ716274.1.1524_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	89.086	339	36	1	9476	9814	1	338	2.46e-114	420
+k105_316635	DQ009458.1.2068_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	90.432	324	24	6	9496	9816	1	320	2.46e-114	420
+k105_316635	GQ346885.1.1390_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	90.373	322	28	3	9496	9816	3	322	2.46e-114	420
+k105_316635	GQ350726.1.1397_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	90.062	322	32	0	9495	9816	1	322	8.86e-114	418
+k105_316635	GQ348941.1.1409_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	90.062	322	32	0	9495	9816	1	322	8.86e-114	418
+k105_316635	GQ337215.1.1522_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	88.856	341	37	1	9476	9816	1	340	8.86e-114	418
+k105_316635	AF001653.1.1553_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_eubacterium_OCS146	88.856	341	37	1	9476	9816	1	340	8.86e-114	418
+k105_316635	HQ163738.1.1384_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.062	322	32	0	9495	9816	1	322	8.86e-114	418
+k105_316635	AB858637.1.1408_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	88.856	341	35	3	9477	9816	1	339	3.19e-113	416
+k105_316635	KJ589945.1.1504_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	88.563	341	39	0	9476	9816	1	341	1.15e-112	414
+k105_316635	GQ349483.1.1408_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	90.000	320	32	0	9497	9816	1	320	1.15e-112	414
+k105_316635	AY344400.1.1565_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	88.663	344	32	3	9476	9816	16	355	1.15e-112	414
+k105_316635	GQ347574.1.1366_Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR116_clade;uncultured_alpha_proteobacterium	90.000	320	32	0	9497	9816	1	320	1.15e-112	414
+k105_316635	EU048678.1.1483_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.093	323	27	5	9496	9816	1	320	1.15e-112	414
+k105_316635	KJ589871.1.1509_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	88.270	341	40	0	9476	9816	1	341	5.33e-111	409
+k105_316635	GQ348496.1.1401_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	89.688	320	33	0	9497	9816	1	320	5.33e-111	409
+k105_316635	GQ347415.1.1401_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	89.688	320	33	0	9497	9816	1	320	5.33e-111	409
+k105_316635	HQ729995.1.1398_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	89.506	324	31	3	9494	9816	1	322	1.92e-110	407
+k105_316635	FM179905.1.1521_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	88.304	342	37	3	9476	9816	1	340	1.92e-110	407
+k105_316635	GQ351050.1.1398_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	89.441	322	33	1	9495	9816	1	321	6.90e-110	405
+k105_316635	GQ350878.1.1398_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	89.441	322	33	1	9495	9816	1	321	6.90e-110	405
+k105_316635	GQ348204.1.1397_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	89.441	322	33	1	9495	9816	1	321	6.90e-110	405
+k105_316635	GQ349554.1.1402_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	89.441	322	33	1	9495	9816	1	321	6.90e-110	405
+k105_316635	HM798664.1.1497_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	89.688	320	28	4	9499	9816	1	317	2.48e-109	403
+k105_316635	GQ348234.1.1402_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	89.375	320	33	1	9497	9816	1	319	8.92e-109	401
+k105_316635	GQ347460.1.1384_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	89.375	320	33	1	9497	9816	1	319	8.92e-109	401
+k105_316635	HQ163733.1.1376_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	89.375	320	33	1	9497	9816	1	319	8.92e-109	401
+k105_316635	GQ346915.1.1404_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	89.130	322	31	3	9497	9816	1	320	1.15e-107	398
+k105_316635	GU234988.1.1399_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	89.375	320	28	4	9497	9813	1	317	1.15e-107	398
+k105_316635	AB806187.1.1483_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	89.097	321	34	1	9496	9816	1	320	1.15e-107	398
+k105_316635	HQ163437.1.1393_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	89.130	322	31	3	9497	9816	1	320	1.15e-107	398
+k105_316635	KJ589710.1.1502_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	87.791	344	35	4	9476	9816	1	340	4.15e-107	396
+k105_316635	AACY020553637.768.2309_Bacteria;Marinimicrobia_(SAR406_clade);marine_metagenome	87.755	343	37	3	9476	9816	1	340	4.15e-107	396
+k105_316635	GQ349482.1.1405_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	88.889	324	32	4	9495	9816	1	322	4.15e-107	396
+k105_316635	AB722155.1.1421_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	87.535	353	28	7	9477	9816	1	350	1.49e-106	394
+k105_316635	AY033318.1.1533_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium_MB13C05	88.785	321	35	1	9496	9816	1	320	5.37e-106	392
+k105_316635	HQ163137.1.1381_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	88.820	322	32	4	9497	9816	1	320	5.37e-106	392
+k105_316635	GQ348673.1.1399_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	88.750	320	35	1	9497	9816	1	319	1.93e-105	390
+k105_316635	GQ349038.1.1395_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	88.785	321	33	3	9497	9816	1	319	1.93e-105	390
+k105_316635	FJ264782.1.1530_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	87.427	342	40	3	9476	9816	1	340	1.93e-105	390
+k105_316635	EU805003.1.1526_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	87.464	343	38	3	9476	9816	1	340	1.93e-105	390
+k105_316635	HQ674231.1.1524_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	87.536	345	34	8	9476	9816	1	340	1.93e-105	390
+k105_316635	AB193918.1.1524_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	87.353	340	43	0	9477	9816	2	341	1.93e-105	390
+k105_316635	KP005036.1.1442_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_deep-sea_bacterium	87.988	333	33	5	9487	9816	1	329	2.50e-104	387
+k105_316635	GU235107.1.1402_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	88.715	319	32	3	9497	9813	1	317	2.50e-104	387
+k105_316635	JN833082.1.1438_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.444	293	27	1	9524	9816	1	292	8.99e-104	385
+k105_316635	FJ517138.1.1526_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	87.097	341	42	2	9477	9816	1	340	8.99e-104	385
+k105_316635	GQ351134.1.1528_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	87.209	344	37	6	9476	9816	1	340	8.99e-104	385
+k105_316635	GQ348140.1.1405_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	88.438	320	36	1	9497	9816	1	319	8.99e-104	385
+k105_316635	HQ673196.1.1521_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	87.059	340	44	0	9477	9816	1	340	8.99e-104	385
+k105_316635	GQ347911.1.1401_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	88.199	322	37	1	9495	9816	1	321	3.23e-103	383
+k105_316635	GU145520.1.1526_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	87.246	345	33	6	9478	9816	1	340	3.23e-103	383
+k105_316635	GQ347263.1.1529_Bacteria;Planctomycetes;BD7-11;uncultured_planctomycete	87.278	338	37	5	9481	9816	67	400	1.16e-102	381
+k105_316635	GU553712.1.1491_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	88.199	322	35	3	9496	9816	1	320	1.16e-102	381
+k105_316635	GQ259226.1.1483_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	88.162	321	37	1	9496	9816	1	320	1.16e-102	381
+k105_316635	FJ973600.1.1409_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	86.994	346	35	10	9476	9816	1	341	1.16e-102	381
+k105_316635	FJ873370.1.1412_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	87.240	337	40	3	9481	9816	1	335	1.16e-102	381
+k105_316635	HQ672805.1.1482_Bacteria;Chloroflexi;SAR202_clade;uncultured_bacterium	86.804	341	44	1	9476	9816	1	340	4.18e-102	379
+k105_316635	EF573580.1.1524_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	87.021	339	41	3	9479	9816	3	339	4.18e-102	379
+k105_316635	GQ347100.1.1462_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	88.328	317	33	4	9502	9816	1	315	1.50e-101	377
+k105_316635	JX001082.1.1492_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	87.888	322	36	3	9496	9816	1	320	5.41e-101	375
+k105_316635	AF355047.1.1518_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_delta_proteobacterium	87.850	321	38	1	9496	9816	1	320	5.41e-101	375
+k105_316635	JQ678385.1.1530_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	86.550	342	45	1	9476	9816	4	345	5.41e-101	375
+k105_316635	GQ259264.1.1495_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	87.850	321	36	3	9496	9815	1	319	1.95e-100	374
+k105_316635	HQ674241.1.1528_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	86.589	343	41	4	9476	9816	1	340	1.95e-100	374
+k105_316635	JQ611216.1.1425_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	90.175	285	28	0	9529	9813	1	285	7.00e-100	372
+k105_316635	HQ674365.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	86.337	344	41	5	9476	9816	1	341	2.52e-99	370
+k105_316635	HQ674175.1.1527_Bacteria;Proteobacteria;Deltaproteobacteria;Bdellovibrionales;Bdellovibrionaceae;OM27_clade;uncultured_bacterium	86.297	343	44	3	9476	9816	1	342	2.52e-99	370
+k105_316635	HM057619.1.1532_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	86.297	343	43	4	9476	9816	2	342	2.52e-99	370
+k105_316635	HQ673835.1.1524_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	86.297	343	42	4	9476	9816	1	340	9.05e-99	368
+k105_316635	HQ672650.1.1512_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_bacterium	86.297	343	42	4	9476	9816	1	340	9.05e-99	368
+k105_316635	KJ589913.1.1513_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	86.047	344	42	6	9476	9816	1	341	1.17e-97	364
+k105_316635	GQ347352.1.1267_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	88.487	304	31	3	9514	9816	1	301	1.17e-97	364
+k105_316635	GQ347349.1.1301_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	88.487	304	29	5	9513	9813	1	301	4.21e-97	363
+k105_316635	HQ673583.1.1500_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	86.006	343	42	6	9476	9816	1	339	4.21e-97	363
+k105_316635	GU235117.1.1392_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	87.147	319	40	1	9498	9816	1	318	1.51e-96	361
+k105_316635	JX000950.1.1491_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	86.957	322	39	3	9496	9816	1	320	5.45e-96	359
+k105_316635	AACY020559549.19.1519_Bacteria;Marinimicrobia_(SAR406_clade);marine_metagenome	85.673	342	45	4	9476	9816	1	339	1.96e-95	357
+k105_316635	AQSA01000023.8453.9992_Bacteria;Marinimicrobia_(SAR406_clade);Marinimicrobia_bacterium_SCGC_AAA160-I06	85.673	342	45	4	9476	9816	1	339	1.96e-95	357
+k105_316635	HQ674619.1.1540_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	85.556	360	31	13	9476	9816	1	358	1.96e-95	357
+k105_316635	AF382116.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	85.630	341	47	2	9476	9816	1	339	1.96e-95	357
+k105_316635	JQ678333.1.1516_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	86.012	336	42	4	9483	9816	1	333	7.05e-95	355
+k105_316635	JF495307.1.1516_Bacteria;Hydrogenedentes;uncultured_bacterium	85.549	346	41	9	9476	9816	1	342	2.53e-94	353
+k105_316635	AQSI01000003.54241.55782_Bacteria;Marinimicrobia_(SAR406_clade);Marinimicrobia_bacterium_SCGC_AAA298-D23	85.380	342	48	2	9476	9816	1	341	2.53e-94	353
+k105_316635	GQ348242.1.1388_Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Halieaceae;OM60(NOR5)_clade;uncultured_gamma_proteobacterium	86.562	320	43	0	9497	9816	1	320	2.53e-94	353
+k105_316635	EF574089.1.1525_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	85.423	343	46	4	9476	9816	1	341	2.53e-94	353
+k105_316635	HQ242373.1.1521_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	85.380	342	46	4	9476	9816	1	339	9.12e-94	351
+k105_316635	FJ628328.1.1506_Bacteria;Bacteroidetes;Bacteroidetes_VC2.1_Bac22;uncultured_bacterium	85.174	344	45	6	9476	9816	1	341	1.18e-92	348
+k105_316635	AY907792.1.1514_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	85.131	343	48	3	9476	9816	1	342	1.18e-92	348
+k105_316635	KC872817.1.1406_Bacteria;Cyanobacteria;Chloroplast;uncultured_bacterium	85.131	343	47	4	9476	9816	9	349	1.18e-92	348
+k105_316635	EF574411.1.1527_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	85.131	343	47	4	9476	9816	1	341	1.18e-92	348
+k105_316635	ASPJ01000020.8825.10366_Bacteria;Marinimicrobia_(SAR406_clade);Marinimicrobia_bacterium_SCGC_AAA003-L08	85.131	343	46	5	9476	9816	1	340	4.24e-92	346
+k105_316635	HQ673770.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	85.131	343	46	5	9476	9816	1	340	4.24e-92	346
+k105_316635	GU940987.1.1428_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	85.217	345	42	8	9476	9816	10	349	4.24e-92	346
+k105_316635	EU407206.1.1521_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_bacterium	84.943	352	40	10	9476	9816	2	351	1.53e-91	344
+k105_316635	AY907769.1.1521_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	84.884	344	47	5	9476	9816	1	342	5.49e-91	342
+k105_316635	GQ347308.1.1273_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	89.925	268	23	3	9550	9816	9	273	5.49e-91	342
+k105_316635	JQ801090.1.1531_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_bacterium	84.928	345	45	7	9476	9816	1	342	5.49e-91	342
+k105_316635	EF646131.1.1507_Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Porticoccaceae;SAR92_clade;uncultured_bacterium	84.795	342	48	4	9476	9816	1	339	1.97e-90	340
+k105_316635	KC470910.1.1562_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	84.615	351	45	6	9469	9816	4	348	1.97e-90	340
+k105_316635	HQ163215.1.1397_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	86.111	324	36	7	9499	9816	3	323	1.97e-90	340
+k105_316635	HQ673104.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	84.840	343	45	6	9476	9816	1	338	7.10e-90	339
+k105_316635	GQ348313.1.1398_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	85.846	325	37	7	9497	9816	1	321	2.55e-89	337
+k105_316635	GQ375260.1.1487_Bacteria;Cyanobacteria;ML635J-21;uncultured_Marinimicrobia_bacterium	84.503	342	51	2	9476	9816	1	341	2.55e-89	337
+k105_316635	EF574190.1.1526_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	84.503	342	51	2	9476	9816	1	341	2.55e-89	337
+k105_316635	GQ349524.1.1401_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	85.627	327	37	9	9495	9816	1	322	9.18e-89	335
+k105_316635	GQ347319.1.1412_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	89.513	267	25	2	9550	9816	3	266	9.18e-89	335
+k105_316635	EF687280.1.1379_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	85.714	322	41	5	9497	9816	7	325	9.18e-89	335
+k105_316635	DQ513089.1.1473_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	84.638	345	41	11	9476	9816	1	337	3.30e-88	333
+k105_316635	HQ673907.1.1519_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	84.638	345	41	11	9476	9816	1	337	3.30e-88	333
+k105_316635	DQ009452.1.2017_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	85.404	322	41	6	9496	9816	1	317	4.27e-87	329
+k105_316635	FJ826010.1.1499_Bacteria;Proteobacteria;Gammaproteobacteria;Salinisphaerales;Salinisphaeraceae;Salinisphaera;uncultured_marine_bacterium	84.524	336	48	4	9482	9816	1	333	4.27e-87	329
+k105_316635	GQ337321.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	84.302	344	45	7	9476	9816	1	338	1.54e-86	327
+k105_316635	GQ375276.1.1509_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	84.348	345	43	9	9476	9816	1	338	1.54e-86	327
+k105_316635	GQ375271.1.1521_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	84.348	345	43	9	9476	9816	1	338	1.54e-86	327
+k105_316635	HQ673820.1.1519_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	84.393	346	40	11	9476	9816	1	337	1.54e-86	327
+k105_316635	DQ079647.1.1505_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;Ignavibacteriales_Incertae_Sedis;Melioribacter;uncultured_bacterium	83.918	342	50	5	9476	9816	1	338	1.99e-85	324
+k105_316635	GQ337246.1.1518_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	84.195	348	37	14	9476	9816	1	337	7.15e-85	322
+k105_316635	GQ337094.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	83.965	343	48	5	9476	9816	1	338	7.15e-85	322
+k105_316635	HQ674405.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	84.195	348	38	10	9476	9816	1	338	7.15e-85	322
+k105_316635	HQ674186.1.1519_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	84.150	347	40	12	9476	9816	1	338	7.15e-85	322
+k105_316635	HQ673788.1.1405_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_bacterium	84.195	348	37	14	9476	9816	1	337	7.15e-85	322
+k105_316635	HQ674391.1.1519_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	83.918	342	49	5	9476	9816	1	337	7.15e-85	322
+k105_316635	HQ163629.1.1393_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_gamma_proteobacterium	84.923	325	40	7	9499	9816	7	329	2.57e-84	320
+k105_316635	KM071648.1.1498_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;PHOS-HE36;uncultured_bacterium	84.012	344	43	10	9476	9816	2	336	2.57e-84	320
+k105_316635	JN463558.1.1485_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_organism	84.024	338	47	7	9481	9814	1	335	9.25e-84	318
+k105_316635	HQ673807.1.1517_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	84.071	339	45	7	9481	9816	1	333	9.25e-84	318
+k105_316635	HQ674174.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	83.673	343	49	7	9476	9816	1	338	3.33e-83	316
+k105_316635	HQ674072.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	83.908	348	39	10	9476	9816	1	338	3.33e-83	316
+k105_316635	HQ673398.1.1508_Bacteria;Actinobacteria;Acidimicrobiia;Acidimicrobiales;Sva0996_marine_group;uncultured_bacterium	83.626	342	51	5	9476	9816	1	338	3.33e-83	316
+k105_316635	HQ672972.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	83.721	344	47	7	9476	9816	1	338	3.33e-83	316
+k105_316635	HQ672419.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	83.721	344	47	8	9476	9816	1	338	3.33e-83	316
+k105_316635	HQ674603.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	83.673	343	49	5	9476	9816	1	338	3.33e-83	316
+k105_316635	HQ674179.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	83.862	347	41	11	9476	9816	1	338	3.33e-83	316
+k105_316635	HQ674589.1.1519_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	83.815	346	43	7	9476	9816	1	338	3.33e-83	316
+k105_316635	JN018865.1.1416_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	83.626	342	51	5	9476	9816	1	338	3.33e-83	316
+k105_316635	JQ085823.12226.13749_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;PHOS-HE36;uncultured_bacterium_W5-47b	83.673	343	46	8	9476	9816	1	335	1.20e-82	315
+k105_316635	FJ517012.1.1507_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;Ignavibacteriales_Incertae_Sedis;Melioribacter;uncultured_bacterium	83.529	340	53	3	9477	9816	1	337	1.20e-82	315
+k105_316635	AM997388.1.1494_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;PHOS-HE36;uncultured_deep-sea_bacterium	83.673	343	46	8	9476	9816	1	335	1.20e-82	315
+k105_316635	DQ337042.1.1504_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;Ignavibacteriales_Incertae_Sedis;Melioribacter;uncultured_bacterium	83.481	339	53	3	9478	9816	2	337	4.30e-82	313
+k105_316635	AY345497.1.1534_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	83.526	346	45	10	9476	9816	24	362	4.30e-82	313
+k105_316635	GU145427.1.1524_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	83.333	342	54	3	9476	9816	1	340	4.30e-82	313
+k105_316635	GQ337095.1.1485_Bacteria;Proteobacteria;Deltaproteobacteria;SAR324_clade(Marine_group_B);uncultured_delta_proteobacterium	83.478	345	46	9	9476	9816	1	338	1.55e-81	311
+k105_316635	HQ673794.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	83.430	344	48	8	9476	9816	1	338	1.55e-81	311
+k105_316635	HQ674434.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	83.284	341	54	2	9476	9816	1	338	1.55e-81	311
+k105_316635	HQ673489.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	83.478	345	46	10	9476	9816	1	338	1.55e-81	311
+k105_316635	AB722117.1.1383_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;IheB3-7;uncultured_bacterium	83.768	345	39	15	9477	9816	1	333	1.55e-81	311
+k105_316635	FN553512.1.1521_Bacteria;Proteobacteria;Deltaproteobacteria;GR-WP33-30;uncultured_sediment_bacterium	83.286	353	44	15	9476	9816	1	350	1.55e-81	311
+k105_316635	AM997857.1.1494_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;PHOS-HE36;uncultured_deep-sea_bacterium	83.382	343	47	8	9476	9816	1	335	5.56e-81	309
+k105_316635	AM997609.1.1494_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;PHOS-HE36;uncultured_deep-sea_bacterium	83.382	343	47	8	9476	9816	1	335	5.56e-81	309
+k105_316635	AM997499.1.1494_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;PHOS-HE36;uncultured_deep-sea_bacterium	83.382	343	47	8	9476	9816	1	335	5.56e-81	309
+k105_316635	JQ989780.1.1511_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;PHOS-HE36;uncultured_bacterium	83.529	340	46	8	9479	9816	1	332	5.56e-81	309
+k105_316635	EU287192.1.1495_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;PHOS-HE36;uncultured_bacterium	83.382	343	47	8	9476	9816	1	335	5.56e-81	309
+k105_316635	HF558624.1.1500_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;PHOS-HE36;uncultured_bacterium	83.382	343	47	8	9476	9816	1	335	5.56e-81	309
+k105_316635	JN481561.1.1472_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_organism	83.735	332	47	7	9487	9814	1	329	2.00e-80	307
+k105_316635	GU208272.1.1517_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_prokaryote	83.285	347	44	11	9481	9816	3	346	2.00e-80	307
+k105_316635	GU235118.1.1303_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	87.132	272	34	1	9545	9816	7	277	2.00e-80	307
+k105_316635	DQ394924.1.1523_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_bacterium	83.191	351	42	15	9476	9816	1	344	7.20e-80	305
+k105_316635	HM480227.1.1499_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_bacterium	83.140	344	49	9	9478	9816	1	340	7.20e-80	305
+k105_316635	JN439539.1.1477_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_organism	83.686	331	47	7	9488	9814	1	328	7.20e-80	305
+k105_316635	HQ673902.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	83.041	342	53	4	9476	9816	1	338	7.20e-80	305
+k105_316635	JQ800753.1.1510_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;Ignavibacteriales_Incertae_Sedis;Melioribacter;uncultured_bacterium	82.991	341	55	3	9476	9816	1	338	7.20e-80	305
+k105_316635	FJ416097.1.1496_Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;JTB255_marine_benthic_group;uncultured_bacterium	83.235	340	47	8	9476	9813	1	332	2.59e-79	303
+k105_316635	HM598142.1.1497_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;PHOS-HE36;uncultured_bacterium	83.090	343	48	8	9476	9816	1	335	2.59e-79	303
+k105_316635	AGCQ01000003.1734212.1735731_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;Caldithrix_abyssi_DSM_13497	83.239	352	38	16	9476	9816	1	342	2.59e-79	303
+k105_316635	AM997511.1.1494_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;PHOS-HE36;uncultured_deep-sea_bacterium	83.090	343	48	8	9476	9816	1	335	2.59e-79	303
+k105_316635	AM997483.1.1495_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;PHOS-HE36;uncultured_deep-sea_bacterium	83.090	343	48	8	9476	9816	1	335	2.59e-79	303
+k105_316635	HQ397066.1.1518_Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Geobacteraceae;Geothermobacter;uncultured_delta_proteobacterium	82.948	346	49	9	9476	9816	1	341	2.59e-79	303
+k105_316635	GQ347264.1.1401_Bacteria;Parcubacteria;uncultured_bacterium	83.750	320	50	2	9496	9815	4	321	9.31e-79	302
+k105_316635	EU246021.1.1510_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_organism	82.370	346	52	9	9476	9816	1	342	9.31e-79	302
+k105_316635	KC009952.1.1491_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_Caldithrix_sp	82.709	347	50	10	9476	9816	1	343	3.35e-78	300
+k105_316635	AM997782.1.1494_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;PHOS-HE36;uncultured_deep-sea_bacterium	82.799	343	49	8	9476	9816	1	335	3.35e-78	300
+k105_316635	HQ673832.1.1521_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	82.749	342	54	4	9476	9816	1	338	3.35e-78	300
+k105_316635	EU181491.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	82.849	344	49	10	9476	9816	2	338	3.35e-78	300
+k105_316635	AB193932.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	82.799	343	52	5	9476	9816	1	338	3.35e-78	300
+k105_316635	FJ712497.1.1519_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_bacterium	82.659	346	51	8	9476	9816	1	342	1.20e-77	298
+k105_316635	AM997556.1.1494_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;PHOS-HE36;uncultured_deep-sea_bacterium	82.799	343	49	8	9476	9816	1	335	1.20e-77	298
+k105_316635	JF747697.1.1542_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	82.633	357	41	12	9476	9816	1	352	4.33e-77	296
+k105_316635	JN685465.1.1536_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;Ignavibacteriales_Incertae_Sedis;Melioribacter;uncultured_bacterium	82.405	341	56	4	9476	9816	2	338	1.56e-76	294
+k105_316635	GQ375275.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_Marinimicrobia_bacterium	82.456	342	55	4	9476	9816	1	338	1.56e-76	294
+k105_316635	JQ739007.1.1550_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;BSN166;uncultured_bacterium	82.456	342	53	6	9476	9816	31	366	5.60e-76	292
+k105_316635	HQ697454.1.1513_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	82.521	349	43	16	9476	9816	1	339	2.02e-75	291
+k105_316635	JN860299.1.1484_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;Ignavibacteriaceae;Ignavibacterium;uncultured_Bacteroidetes_bacterium	82.370	346	48	10	9476	9816	1	338	7.25e-75	289
+k105_316635	HQ672565.1.1523_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	82.216	343	54	5	9476	9816	1	338	7.25e-75	289
+k105_316635	HQ672256.1.1520_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	82.111	341	58	2	9476	9816	1	338	7.25e-75	289
+k105_316635	AF382142.1.1524_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	82.111	341	58	3	9476	9816	1	338	7.25e-75	289
+k105_316635	KC009954.1.1431_Bacteria;LCP-89;uncultured_bacterium	82.421	347	43	11	9476	9816	1	335	2.61e-74	287
+k105_316635	EU570890.1.1487_Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Arcobacter;uncultured_bacterium	81.792	346	53	7	9476	9816	2	342	2.61e-74	287
+k105_316635	EU487873.1.1506_Bacteria;LCP-89;uncultured_bacterium	82.216	343	50	7	9476	9816	1	334	9.38e-74	285
+k105_316635	AB806188.1.1482_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	83.025	324	45	9	9496	9816	1	317	9.38e-74	285
+k105_316635	HQ395118.1.1505_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;Ignavibacteriales_Incertae_Sedis;Melioribacter;uncultured_bacterium	81.924	343	55	7	9476	9816	1	338	3.37e-73	283
+k105_316635	AY907781.1.1504_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	82.456	342	40	11	9476	9816	1	323	1.21e-72	281
+k105_316635	FJ746183.1.1482_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	82.769	325	44	11	9496	9816	1	317	4.36e-72	279
+k105_316635	HM598157.1.1509_Bacteria;Proteobacteria;Gammaproteobacteria;EC3;uncultured_bacterium	81.897	348	47	13	9476	9816	1	339	4.36e-72	279
+k105_316635	DQ513039.1.1521_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	81.579	342	58	5	9476	9816	1	338	1.57e-71	278
+k105_316635	DQ394944.1.1535_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_bacterium	81.714	350	49	13	9476	9816	1	344	1.57e-71	278
+k105_316635	HQ672464.1.1524_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	81.579	342	58	5	9476	9816	1	338	1.57e-71	278
+k105_316635	AJ567589.1.1518_Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;uncultured_Shewanella_sp	81.638	354	48	12	9476	9816	1	350	1.57e-71	278
+k105_316635	KJ817506.1.1485_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;Gracilimonas;uncultured_bacterium	81.897	348	45	12	9476	9816	1	337	1.57e-71	278
+k105_316635	EU101251.1.1514_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_bacterium	81.662	349	49	9	9476	9816	1	342	5.64e-71	276
+k105_316635	HQ730017.1.1402_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	82.209	326	49	8	9494	9816	1	320	2.03e-70	274
+k105_316635	JQ816809.1.1482_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	82.353	323	49	7	9496	9816	1	317	2.03e-70	274
+k105_316635	AB806183.1.1480_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	82.462	325	45	11	9496	9816	1	317	2.03e-70	274
+k105_316635	HF922356.1.1520_Bacteria;LCP-89;uncultured_bacterium	81.924	343	45	10	9479	9816	11	341	2.03e-70	274
+k105_316635	KJ817549.1.1502_Bacteria;Bacteroidetes;Cytophagia;Order_III;uncultured;uncultured_bacterium	81.556	347	50	12	9476	9816	1	339	2.03e-70	274
+k105_316635	JN537411.1.1493_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_organism	81.845	336	50	7	9487	9816	1	331	7.30e-70	272
+k105_316635	JX240961.1.1498_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;uncultured;uncultured_Bacteroidetes_bacterium	81.609	348	46	15	9476	9816	1	337	7.30e-70	272
+k105_316635	EU735679.1.1500_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;uncultured;uncultured_bacterium	81.609	348	47	13	9476	9816	1	338	7.30e-70	272
+k105_316635	EU735699.1.1503_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;uncultured;uncultured_bacterium	81.609	348	46	15	9476	9816	1	337	7.30e-70	272
+k105_316635	HQ397359.1.1504_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;uncultured;uncultured_Bacteroidetes_bacterium	81.609	348	47	13	9476	9816	1	338	7.30e-70	272
+k105_316635	KJ817510.1.1485_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;Gracilimonas;uncultured_bacterium	81.662	349	44	15	9476	9816	1	337	7.30e-70	272
+k105_316635	AJ347758.1.1541_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	81.089	349	53	10	9479	9816	3	349	2.63e-69	270
+k105_316635	JQ287249.1.1504_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;Ignavibacteriaceae;Ignavibacterium;uncultured_bacterium	81.449	345	51	10	9477	9816	1	337	2.63e-69	270
+k105_316635	JF495370.1.1496_Bacteria;LCP-89;uncultured_bacterium	81.662	349	41	16	9476	9816	1	334	9.44e-69	268
+k105_316635	EU385747.1.1482_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	82.099	324	48	9	9496	9816	1	317	9.44e-69	268
+k105_316635	EU328071.1.1488_Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;uncultured_Sphingobacteriales_bacterium	81.322	348	49	13	9476	9816	1	339	9.44e-69	268
+k105_316635	EU328099.1.1487_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;Gracilimonas;uncultured_Cytophagales_bacterium	81.322	348	49	13	9476	9816	1	339	9.44e-69	268
+k105_316635	AB806185.1.1480_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	82.263	327	42	12	9496	9816	1	317	9.44e-69	268
+k105_316635	EU735696.1.1503_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;uncultured;uncultured_bacterium	81.322	348	47	15	9476	9816	1	337	3.40e-68	267
+k105_316635	KJ817458.1.1485_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;Gracilimonas;uncultured_bacterium	81.375	349	45	15	9476	9816	1	337	3.40e-68	267
+k105_316635	FM165242.1.1496_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_bacterium	81.089	349	51	12	9476	9816	1	342	1.22e-67	265
+k105_316635	EU328106.1.1502_Bacteria;Bacteroidetes;Cytophagia;Order_III;uncultured;uncultured_Bacteroidetes_bacterium	81.034	348	50	15	9476	9816	1	339	4.39e-67	263
+k105_316635	AB806182.1.1480_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	81.734	323	51	7	9496	9816	1	317	4.39e-67	263
+k105_316635	FJ901622.1.1397_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_Caldithrix_sp	84.155	284	31	14	9544	9816	12	292	4.39e-67	263
+k105_316635	FJ712503.1.1491_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_bacterium	80.980	347	50	14	9476	9816	1	337	1.58e-66	261
+k105_316635	JN444688.1.1470_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_organism	81.250	336	51	8	9486	9816	1	329	1.58e-66	261
+k105_316635	HQ588605.1.1415_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_bacterium	80.791	354	51	15	9476	9816	1	350	1.58e-66	261
+k105_316635	EU735691.1.1504_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;uncultured;uncultured_bacterium	81.034	348	48	16	9476	9816	1	337	1.58e-66	261
+k105_316635	KJ817679.1.1504_Bacteria;Bacteroidetes;Cytophagia;Order_III;uncultured;uncultured_bacterium	80.980	347	50	13	9476	9816	1	337	1.58e-66	261
+k105_316635	JX001150.1.1487_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	81.651	327	44	12	9496	9816	1	317	2.04e-65	257
+k105_316635	EU246193.1.1504_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;Ignavibacteriaceae;Ignavibacterium;uncultured_organism	80.636	346	55	11	9476	9816	1	339	2.04e-65	257
+k105_316635	EU385761.1.1492_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	81.424	323	52	7	9496	9816	1	317	2.04e-65	257
+k105_316635	FJ901635.1.1395_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_Caldithrix_sp	84.758	269	28	13	9558	9816	5	270	2.04e-65	257
+k105_316635	AACY023872287.86.1457_Bacteria;Marinimicrobia_(SAR406_clade);marine_metagenome	94.048	168	10	0	9646	9813	1	168	7.35e-65	255
+k105_316635	JX240981.1.1487_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;Gracilimonas;uncultured_Bacteroidetes_bacterium	80.692	347	51	13	9476	9816	1	337	7.35e-65	255
+k105_316635	AF513957.1.1482_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;Gracilimonas;uncultured_Cytophagales_bacterium	80.692	347	51	13	9476	9816	1	337	7.35e-65	255
+k105_316635	JQ800945.1.1503_Bacteria;Bacteroidetes;Cytophagia;Order_III;uncultured;uncultured_bacterium	80.692	347	51	13	9476	9816	1	337	7.35e-65	255
+k105_316635	HF558622.1.1497_Bacteria;Bacteroidetes;Cytophagia;Order_III;uncultured;uncultured_bacterium	80.747	348	49	15	9476	9816	1	337	7.35e-65	255
+k105_316635	AB858640.1.1401_Bacteria;Deferribacteres;Deferribacteres_Incertae_Sedis;Unknown_Order;Unknown_Family;Caldithrix;uncultured_bacterium	80.453	353	52	15	9477	9816	1	349	2.64e-64	254
+k105_316635	EU328034.1.1502_Bacteria;Bacteroidetes;Cytophagia;Order_III;uncultured;uncultured_Cytophagales_bacterium	80.347	346	56	10	9476	9816	1	339	9.51e-64	252
+k105_316635	EU328068.1.1503_Bacteria;Proteobacteria;Gammaproteobacteria;Acidithiobacillales;KCM-B-112;uncultured_gamma_proteobacterium	80.516	349	50	14	9476	9816	1	339	9.51e-64	252
+k105_316635	KC554490.1.1513_Bacteria;Actinobacteria;Actinobacteria;Frankiales;Cryptosporangiaceae;Cryptosporangium;uncultured_bacterium	80.980	347	40	14	9477	9816	1	328	9.51e-64	252
+k105_316635	JN491062.1.1240_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;Ignavibacteriales_Incertae_Sedis;Melioribacter;uncultured_organism	81.731	312	45	8	9507	9816	1	302	3.42e-63	250
+k105_316635	GQ243712.1.1488_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;Gracilimonas;bacterium_enrichment_culture_clone_NCAAH_30N4	80.403	347	52	13	9477	9816	1	338	3.42e-63	250
+k105_316635	HQ396952.1.1506_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;uncultured;uncultured_Bacteroidetes_bacterium	80.571	350	46	18	9476	9816	1	337	3.42e-63	250
+k105_316635	JQ800885.1.1499_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;uncultured;uncultured_bacterium	80.516	349	48	15	9476	9816	1	337	3.42e-63	250
+k105_316635	JQ800765.1.1488_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;Gracilimonas;uncultured_bacterium	80.460	348	50	13	9476	9816	1	337	3.42e-63	250
+k105_316635	JQ800979.1.1488_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;uncultured;uncultured_bacterium	80.516	349	48	15	9476	9816	1	337	3.42e-63	250
+k105_316635	HQ397463.1.1503_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;uncultured;uncultured_bacterium	80.460	348	50	14	9476	9816	1	337	3.42e-63	250
+k105_316635	HQ721395.1.1492_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	80.838	334	48	10	9496	9816	1	331	1.23e-62	248
+k105_316635	GU056076.1.1405_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;uncultured;uncultured_bacterium	80.290	345	54	10	9477	9816	1	336	1.23e-62	248
+k105_316635	KC555208.1.1472_Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;uncultured;uncultured_Coriobacteriaceae_bacterium	80.403	347	48	15	9476	9816	1	333	4.43e-62	246
+k105_316635	HQ857631.1.1499_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;Fodinibius;uncultured_Bacteroidetes_bacterium	79.942	344	59	8	9476	9816	1	337	1.59e-61	244
+k105_316635	JX241023.1.1498_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;uncultured;uncultured_Bacteroidetes_bacterium	80.286	350	47	17	9476	9816	1	337	1.59e-61	244
+k105_316635	HQ397355.1.1490_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;uncultured;uncultured_Cytophagales_bacterium	80.058	346	55	11	9476	9816	1	337	1.59e-61	244
+k105_316635	JQ716283.1.1500_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;uncultured;uncultured_bacterium	80.172	348	51	15	9476	9816	1	337	1.59e-61	244
+k105_316635	KJ817735.1.1496_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;Fodinibius;uncultured_bacterium	80.000	345	57	10	9476	9816	1	337	1.59e-61	244
+k105_316635	KM454334.1.1371_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_bacterium	80.460	348	42	18	9476	9816	1	329	5.72e-61	243
+k105_316635	KJ817788.1.1494_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;Fodinibius;uncultured_bacterium	79.942	344	57	10	9476	9816	1	335	5.72e-61	243
+k105_316635	FJ712479.1.1489_Bacteria;LCP-89;uncultured_bacterium	80.172	348	48	15	9476	9816	1	334	2.06e-60	241
+k105_316635	HQ673150.1.1516_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	80.000	345	54	10	9476	9816	1	334	2.06e-60	241
+k105_316635	EU133460.1.1297_Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Pedomicrobium;uncultured_bacterium	80.793	328	45	11	9499	9816	3	322	2.06e-60	241
+k105_316635	KF234370.1.1503_Bacteria;Bacteroidetes;Cytophagia;Order_III;MAT-CR-P4-C12;uncultured_bacterium	79.943	349	51	18	9476	9816	1	338	7.40e-60	239
+k105_316635	EU592405.1.1485_Bacteria;Bacteroidetes;Cytophagia;Order_II;Rhodothermaceae;uncultured;uncultured_bacterium	80.115	347	47	19	9476	9816	1	331	7.40e-60	239
+k105_316635	KJ817662.1.1494_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;Fodinibius;uncultured_bacterium	79.651	344	58	10	9476	9816	1	335	2.66e-59	237
+k105_316635	KJ817686.1.1494_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;Fodinibius;uncultured_bacterium	79.651	344	58	10	9476	9816	1	335	2.66e-59	237
+k105_316635	KJ817749.1.1494_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;Fodinibius;uncultured_bacterium	79.651	344	58	10	9476	9816	1	335	2.66e-59	237
+k105_316635	FJ937869.1.1375_Bacteria;Actinobacteria;Actinobacteria;PeM15;uncultured_bacterium	79.825	342	55	13	9476	9816	1	329	2.66e-59	237
+k105_316635	KC492865.1.1411_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	81.633	294	44	8	9524	9816	1	285	9.58e-59	235
+k105_316635	HQ674070.1.1479_Bacteria;Proteobacteria;Deltaproteobacteria;SAR324_clade(Marine_group_B);uncultured_bacterium	79.710	345	53	10	9476	9816	1	332	3.45e-58	233
+k105_316635	AACY020304563.1265.2756_Bacteria;Bacteroidetes;SM1A07;marine_metagenome	79.765	341	51	9	9476	9816	1	323	1.24e-57	231
+k105_316635	DQ015780.1.1503_Bacteria;Bacteroidetes;Cytophagia;Order_III;Unknown_Family;uncultured;uncultured_bacterium	79.598	348	51	15	9476	9816	1	335	1.24e-57	231
+k105_316635	JN680689.1.1473_Bacteria;Deferribacteres;Deferribacteres;Deferribacterales;Deferribacteraceae;Mucispirillum;uncultured_Deferribacteraceae_bacterium	79.480	346	53	18	9477	9816	1	334	4.46e-57	230
+k105_316635	GQ264537.1.1463_Bacteria;Chlorobi;Chlorobia;Chlorobiales;SJA-28;uncultured_bacterium	79.710	345	49	16	9479	9816	1	331	4.46e-57	230
+k105_316635	EU246213.1.1494_Bacteria;LCP-89;uncultured_organism	79.480	346	54	13	9476	9816	1	334	4.46e-57	230
+k105_316635	JN860356.1.1468_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_Rhodospirillaceae_bacterium	80.172	348	33	19	9476	9816	2	320	1.60e-56	228
+k105_316635	JX227531.1.1466_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_bacterium	80.172	348	33	19	9476	9816	1	319	1.60e-56	228
+k105_316635	HM270313.1.1364_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	80.061	326	50	13	9496	9816	1	316	1.60e-56	228
+k105_316635	FM242424.1.1301_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured_alpha_proteobacterium	79.825	342	44	11	9476	9816	1	318	5.76e-56	226
+k105_316635	AM270417.18217.19715_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_organism	79.943	349	34	19	9475	9816	2	321	2.07e-55	224
+k105_316635	AM997811.1.1463_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_deep-sea_bacterium	79.885	348	34	19	9476	9816	1	319	7.46e-55	222
+k105_316635	JX226985.1.1462_Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;H2-104-2;uncultured_bacterium	79.885	348	34	19	9476	9816	1	319	7.46e-55	222
+k105_316635	JX227461.1.1466_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_bacterium	79.885	348	34	19	9476	9816	1	319	7.46e-55	222
+k105_316635	AM997349.1.1463_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_deep-sea_bacterium	79.885	348	34	19	9476	9816	1	319	7.46e-55	222
+k105_316635	FJ746090.1.1437_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_bacterium	82.156	269	37	6	9557	9816	53	319	2.68e-54	220
+k105_316635	JN868942.1.1539_Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;uncultured_bacterium	79.037	353	46	21	9476	9816	1	337	3.47e-53	217
+k105_316635	HM598252.1.1521_Bacteria;Latescibacteria;uncultured_bacterium	78.470	353	60	11	9476	9816	1	349	3.47e-53	217
+k105_316635	AM889160.1.1504_Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;uncultured_Legionella_sp	79.096	354	45	20	9476	9816	1	338	3.47e-53	217
+k105_316635	JN178774.1.1501_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;DA111;uncultured_bacterium	79.070	344	50	18	9476	9816	1	325	3.47e-53	217
+k105_316635	EU805232.1.1268_Bacteria;Actinobacteria;Acidimicrobiia;Acidimicrobiales;OM1_clade;Candidatus_Actinomarina;uncultured_bacterium	99.160	119	1	0	9698	9816	1	119	1.25e-52	215
+k105_316635	KF799054.1.1459_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Thiohalocapsa;uncultured_bacterium	79.009	343	48	17	9476	9816	1	321	4.49e-52	213
+k105_316635	JQ287229.1.1504_Bacteria;Proteobacteria;Gammaproteobacteria;SS1-B-09-64;uncultured_bacterium	78.917	351	46	16	9477	9816	1	334	4.49e-52	213
+k105_316635	FJ905723.1.1421_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;Ignavibacteriaceae;Ignavibacterium;uncultured_bacterium	81.853	259	40	7	9560	9816	37	290	1.61e-51	211
+k105_316635	JN672618.1.1479_Bacteria;Acidobacteria;Subgroup_22;uncultured_bacterium	78.979	333	50	14	9497	9816	2	327	5.81e-51	209
+k105_316635	JN502777.1.1475_Bacteria;Hydrogenedentes;uncultured_organism	78.743	334	55	14	9492	9816	1	327	5.81e-51	209
+k105_316635	JX227520.1.1495_Bacteria;Proteobacteria;Gammaproteobacteria;EC3;uncultured_bacterium	78.963	347	44	18	9476	9816	1	324	5.81e-51	209
+k105_316635	HQ397390.1.1508_Bacteria;Proteobacteria;Gammaproteobacteria;Order_Incertae_Sedis;Family_Incertae_Sedis;Marinicella;uncultured_gamma_proteobacterium	78.754	353	46	17	9476	9816	1	336	5.81e-51	209
+k105_316635	JQ611164.1.1407_Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;IheB3-7;uncultured_bacterium	80.137	292	49	8	9528	9816	2	287	5.81e-51	209
+k105_316635	EF516745.1.1458_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;DA111;uncultured_bacterium	78.994	338	47	18	9486	9816	1	321	5.81e-51	209
+k105_316635	FM955327.1.1530_Bacteria;Proteobacteria;Gammaproteobacteria;Arenicellales;Arenicellaceae;Robbea_sp._associated_bacterium_252_II_14	78.736	348	49	19	9476	9816	1	330	5.81e-51	209
+k105_316635	KC432268.1.1353_Bacteria;Chlorobi;Chlorobia;Chlorobiales;SJA-28;uncultured_bacterium	79.205	327	49	11	9496	9816	1	314	5.81e-51	209
+k105_316635	FJ936916.1.1415_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;DA111;uncultured_bacterium	79.070	344	42	18	9476	9816	1	317	5.81e-51	209
+k105_316635	AJ620507.1.1497_Bacteria;Proteobacteria;Gammaproteobacteria;Arenicellales;Arenicellaceae;Olavius_crassitunicatus_gamma-proteobacterial_endosymbiont	78.551	345	55	15	9476	9816	1	330	5.81e-51	209
+k105_316635	JQ426667.1.1510_Bacteria;Bacteroidetes;Cytophagia;Order_III;uncultured;uncultured_bacterium	81.712	257	39	8	9563	9816	52	303	2.09e-50	207
+k105_316635	JQ287338.1.1504_Bacteria;Proteobacteria;Gammaproteobacteria;SS1-B-09-64;uncultured_bacterium	78.632	351	47	16	9477	9816	1	334	2.09e-50	207
+k105_316635	JQ287344.1.1504_Bacteria;Proteobacteria;Gammaproteobacteria;SS1-B-09-64;uncultured_bacterium	78.632	351	47	16	9477	9816	1	334	2.09e-50	207
+k105_316635	JQ287306.1.1504_Bacteria;Proteobacteria;Gammaproteobacteria;SS1-B-09-64;uncultured_bacterium	78.632	351	47	16	9477	9816	1	334	2.09e-50	207
+k105_316635	JQ287325.1.1504_Bacteria;Proteobacteria;Gammaproteobacteria;SS1-B-09-64;uncultured_bacterium	78.632	351	47	16	9477	9816	1	334	2.09e-50	207
+k105_316635	JQ287323.1.1504_Bacteria;Proteobacteria;Gammaproteobacteria;SS1-B-09-64;uncultured_bacterium	78.632	351	47	16	9477	9816	1	334	2.09e-50	207
+k105_316635	JQ287302.1.1504_Bacteria;Proteobacteria;Gammaproteobacteria;SS1-B-09-64;uncultured_bacterium	78.632	351	47	16	9477	9816	1	334	2.09e-50	207
+k105_316635	JQ286993.1.1504_Bacteria;Proteobacteria;Gammaproteobacteria;SS1-B-09-64;uncultured_bacterium	78.632	351	47	16	9477	9816	1	334	2.09e-50	207
+k105_316635	JQ286991.1.1504_Bacteria;Proteobacteria;Gammaproteobacteria;SS1-B-09-64;uncultured_bacterium	78.632	351	47	16	9477	9816	1	334	2.09e-50	207
+k105_316635	JN873945.1.1518_Bacteria;Latescibacteria;uncultured_bacterium	78.310	355	52	19	9478	9816	1	346	7.51e-50	206
+k105_316635	DQ431905.1.1397_Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Coxiellaceae;Aquicella;uncultured_gamma_proteobacterium	78.571	350	47	16	9476	9816	2	332	7.51e-50	206
+k105_316635	HM366508.1.1467_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;DA111;uncultured_bacterium	78.779	344	45	17	9476	9816	1	319	7.51e-50	206
+k105_316635	AM691090.1.1513_Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Halochromatium;uncultured_Halochromatium_sp	79.009	343	40	22	9480	9816	1	317	7.51e-50	206
+k105_316635	AJ318123.1.1510_Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Coxiellaceae;Aquicella;uncultured_gamma_proteobacterium	78.431	357	48	21	9476	9816	1	344	7.51e-50	206
+k105_316635	EU491588.1.1425_Bacteria;Proteobacteria;Gammaproteobacteria;MD2904-B13;uncultured_bacterium	79.456	331	36	19	9499	9816	4	315	7.51e-50	206
+k105_316635	AJ536866.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	79.153	307	55	8	9514	9816	4	305	2.70e-49	204
+k105_316635	JQ287307.1.1504_Bacteria;Proteobacteria;Gammaproteobacteria;SS1-B-09-64;uncultured_bacterium	78.348	351	48	16	9477	9816	1	334	9.72e-49	202
+k105_316635	JQ287322.1.1504_Bacteria;Proteobacteria;Gammaproteobacteria;SS1-B-09-64;uncultured_bacterium	78.348	351	48	16	9477	9816	1	334	9.72e-49	202
+k105_316635	EU385957.1.1466_Bacteria;Kazan-3B-09;uncultured_bacterium	78.261	322	62	8	9496	9813	1	318	3.49e-48	200
+k105_316635	GQ264452.1.1466_Bacteria;Chlorobi;Chlorobia;Chlorobiales;SJA-28;uncultured_bacterium	78.593	327	51	12	9496	9816	1	314	1.26e-47	198
+k105_316635	JN178090.1.1526_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;DA111;uncultured_bacterium	78.035	346	54	13	9476	9816	1	329	1.26e-47	198
+k105_316635	EF019292.1.1355_Bacteria;Proteobacteria;SK259;uncultured_proteobacterium	78.198	344	49	16	9477	9816	1	322	4.52e-47	196
+k105_316635	DQ867045.1.1449_Bacteria;Proteobacteria;Gammaproteobacteria;1013-28-CG33;uncultured_bacterium	96.610	118	4	0	9699	9816	198	315	4.52e-47	196
+k105_316635	JX133631.1.1457_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;DA111;uncultured_bacterium	78.717	343	37	18	9476	9816	1	309	4.52e-47	196
+k105_316635	JN860366.1.1501_Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Coxiellaceae;Coxiella;uncultured_Legionella_sp	92.647	136	8	2	9683	9816	199	334	1.63e-46	195
+k105_316635	FJ746309.1.1427_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_bacterium	95.122	123	6	0	9694	9816	177	299	1.63e-46	195
+k105_316635	FJ746295.1.1427_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_bacterium	95.122	123	6	0	9694	9816	177	299	1.63e-46	195
+k105_316635	JQ013343.1.1355_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_bacterium	95.122	123	6	0	9694	9816	144	266	1.63e-46	195
+k105_316635	FJ746297.1.1427_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_bacterium	95.122	123	6	0	9694	9816	177	299	1.63e-46	195
+k105_316635	FJ517010.1.1514_Bacteria;Proteobacteria;Gammaproteobacteria;Order_Incertae_Sedis;Family_Incertae_Sedis;Marinicella;uncultured_Chromatiales_bacterium	77.714	350	56	17	9476	9816	1	337	1.63e-46	195
+k105_316635	KF616652.1.1422_Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;uncultured_bacterium	95.122	123	6	0	9694	9816	179	301	1.63e-46	195
+k105_316635	GQ402643.1.1415_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Acidicaldus;uncultured_bacterium	96.581	117	4	0	9700	9816	173	289	1.63e-46	195
+k105_316635	JX226940.1.1507_Bacteria;Proteobacteria;Gammaproteobacteria;EC3;uncultured_bacterium	77.904	353	50	21	9476	9816	1	337	1.63e-46	195
+k105_316635	JN178373.1.1513_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;DA111;uncultured_bacterium	77.843	343	56	16	9479	9816	1	328	1.63e-46	195
+k105_316635	HM263083.1.1314_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Rhodovastum;uncultured_bacterium	96.581	117	4	0	9700	9816	173	289	1.63e-46	195
+k105_316635	EU491427.1.1465_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_bacterium	95.122	123	6	0	9694	9816	196	318	1.63e-46	195
+k105_316635	HM185901.1.1309_Bacteria;Chloroflexi;TK10;uncultured_bacterium	81.569	255	30	12	9565	9816	55	295	1.63e-46	195
+k105_316635	EU386000.1.1427_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured_bacterium	95.122	123	6	0	9694	9816	177	299	1.63e-46	195
+k105_316635	AB364709.1.1413_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Acidisoma;uncultured_bacterium	96.581	117	4	0	9700	9816	173	289	1.63e-46	195
+k105_316635	AY869679.1.1337_Bacteria;Chloroflexi;Dehalococcoidia;MSBL5;uncultured_bacterium	96.552	116	4	0	9701	9816	91	206	5.85e-46	193
+# BLASTN 2.6.0+
+# Query: k105_326444
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_328396
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_336863
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_339116
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_339518
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLAST processed 41 queries

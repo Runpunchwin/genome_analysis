@@ -1,0 +1,1613 @@
+# BLASTN 2.6.0+
+# Query: k105_1723
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_11506
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_14294
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_15859
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_19133
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_19449
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_19767
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_20214
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_23890
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_25013
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_25111
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_25630
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_25988
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_26370
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_26474
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+k105_26474	DQ009165.1.1999_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_2;uncultured_marine_bacterium	82.895	76	11	2	2796	2870	1705	1631	1.48e-08	67.6
+k105_26474	DQ009442.1.1965_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Deep_1;uncultured_marine_bacterium	82.895	76	11	2	2796	2870	1713	1639	1.48e-08	67.6
+# BLASTN 2.6.0+
+# Query: k105_26749
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_28454
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_28773
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_32002
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_33890
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_35319
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_38405
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_42827
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_45515
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_49951
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_55359
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_58018
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+k105_58018	DQ009427.1.2076_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	96.429	56	2	0	761	816	1624	1679	2.65e-16	93.5
+k105_58018	DQ009458.1.2068_Bacteria;Marinimicrobia_(SAR406_clade);uncultured_marine_bacterium	96.429	56	2	0	761	816	1618	1673	2.65e-16	93.5
+k105_58018	DQ009428.1.2171_Bacteria;Proteobacteria;Deltaproteobacteria;SAR324_clade(Marine_group_B);uncultured_marine_bacterium	87.719	57	6	1	761	816	1653	1709	5.78e-08	65.8
+k105_58018	DQ009460.1.2170_Bacteria;Proteobacteria;Deltaproteobacteria;SAR324_clade(Marine_group_B);uncultured_marine_bacterium	95.122	41	1	1	761	800	1655	1695	2.08e-07	63.9
+# BLASTN 2.6.0+
+# Query: k105_59479
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_59945
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_62259
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_63205
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_64441
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_65267
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_65280
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_66753
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_68525
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_68784
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_69299
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_74492
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_75175
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_78662
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_79069
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_80179
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_81215
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_81896
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_83691
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_84343
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_85023
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_93462
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_95032
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_95592
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_95743
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_97719
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_99494
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_100830
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_106579
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_107438
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_108463
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_125024
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_127457
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_131027
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_136956
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_137902
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_143036
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_143187
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_143465
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_148455
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_149728
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_160460
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_161968
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_162941
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_165122
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_165249
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_167569
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_168021
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_168659
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_169085
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_169163
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_169296
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_170431
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_172575
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_172929
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 66 hits found
+k105_172929	DQ009460.1.2170_Bacteria;Proteobacteria;Deltaproteobacteria;SAR324_clade(Marine_group_B);uncultured_marine_bacterium	94.595	74	4	0	448	521	1810	1883	6.78e-23	115
+k105_172929	DQ009428.1.2171_Bacteria;Proteobacteria;Deltaproteobacteria;SAR324_clade(Marine_group_B);uncultured_marine_bacterium	94.595	74	4	0	448	521	1815	1888	6.78e-23	115
+k105_172929	DQ009165.1.1999_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_2;uncultured_marine_bacterium	93.243	74	5	0	448	521	1631	1704	3.16e-21	110
+k105_172929	DQ009442.1.1965_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Deep_1;uncultured_marine_bacterium	93.243	74	5	0	448	521	1639	1712	3.16e-21	110
+k105_172929	DQ009261.1.1979_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;AEGEAN-169_marine_group;uncultured_marine_bacterium	93.151	73	5	0	449	521	1650	1722	1.14e-20	108
+k105_172929	DQ009204.1.1975_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1633	1705	1.14e-20	108
+k105_172929	DQ009200.1.1963_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1638	1710	1.14e-20	108
+k105_172929	DQ009193.1.1955_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1633	1705	1.14e-20	108
+k105_172929	DQ009185.1.1976_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1632	1704	1.14e-20	108
+k105_172929	DQ009167.1.2008_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_2;uncultured_marine_bacterium	93.151	73	5	0	449	521	1634	1706	1.14e-20	108
+k105_172929	DQ009250.1.1981_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1641	1713	1.14e-20	108
+k105_172929	DQ009197.1.1958_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1638	1710	1.14e-20	108
+k105_172929	DQ009188.1.1955_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1633	1705	1.14e-20	108
+k105_172929	DQ009162.1.2007_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_2;uncultured_marine_bacterium	93.151	73	5	0	449	521	1633	1705	1.14e-20	108
+k105_172929	DQ009450.1.1951_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;AEGEAN-169_marine_group;uncultured_marine_bacterium	93.151	73	5	0	449	521	1643	1715	1.14e-20	108
+k105_172929	DQ009440.1.1971_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Deep_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1643	1715	1.14e-20	108
+k105_172929	DQ009203.1.1957_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1633	1705	1.14e-20	108
+k105_172929	DQ009199.1.1958_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1633	1705	1.14e-20	108
+k105_172929	DQ009168.1.2009_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_2;uncultured_marine_bacterium	93.151	73	5	0	449	521	1634	1706	1.14e-20	108
+k105_172929	DQ009453.1.1963_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;AEGEAN-169_marine_group;uncultured_marine_bacterium	93.151	73	5	0	449	521	1644	1716	1.14e-20	108
+k105_172929	DQ009195.1.1959_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1633	1705	1.14e-20	108
+k105_172929	DQ009160.1.2003_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_2;uncultured_marine_bacterium	93.151	73	5	0	449	521	1632	1704	1.14e-20	108
+k105_172929	DQ009454.1.1940_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1631	1703	1.14e-20	108
+k105_172929	DQ009253.1.1978_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1644	1716	1.14e-20	108
+k105_172929	DQ009196.1.1976_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1633	1705	1.14e-20	108
+k105_172929	DQ009187.1.1954_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1633	1705	1.14e-20	108
+k105_172929	DQ009184.1.1972_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1633	1705	1.14e-20	108
+k105_172929	DQ009161.1.1974_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_3;uncultured_marine_bacterium	93.151	73	5	0	449	521	1643	1715	1.14e-20	108
+k105_172929	DQ009436.1.1963_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Deep_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1642	1714	1.14e-20	108
+k105_172929	DQ009258.1.1955_Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;AEGEAN-169_marine_group;uncultured_marine_bacterium	93.151	73	5	0	449	521	1645	1717	1.14e-20	108
+k105_172929	DQ009164.1.2004_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_2;uncultured_marine_bacterium	93.151	73	5	0	449	521	1634	1706	1.14e-20	108
+k105_172929	DQ009251.1.1959_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1640	1712	1.14e-20	108
+k105_172929	DQ009202.1.1955_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1633	1705	1.14e-20	108
+k105_172929	DQ009198.1.1955_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1636	1708	1.14e-20	108
+k105_172929	DQ009191.1.1959_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1637	1709	1.14e-20	108
+k105_172929	DQ009206.1.1977_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1633	1705	1.14e-20	108
+k105_172929	DQ009201.1.1960_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1638	1710	1.14e-20	108
+k105_172929	DQ009194.1.1972_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1633	1705	1.14e-20	108
+k105_172929	DQ009186.1.1958_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	93.151	73	5	0	449	521	1636	1708	1.14e-20	108
+k105_172929	DQ009192.1.1962_Bacteria;Proteobacteria;Alphaproteobacteria;SAR11_clade;Surface_1;uncultured_marine_bacterium	91.781	73	6	0	449	521	1639	1711	5.28e-19	102
+k105_172929	CP000260.23054.24882_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_phage_10270.5	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000261.272566.274394_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_phage_2096.2	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000261.23059.24887_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_phage_2096.2	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000262.17054.18882_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_phage_10750.4	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000260.269219.271047_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_phage_10270.5	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000262.265314.267142_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_phage_10750.4	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000262.82231.84059_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_phage_10750.4	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000261.17058.18886_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_phage_2096.2	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000259.79668.81496_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_phage_9428.3	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000260.17053.18881_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_phage_10270.5	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000259.271643.273471_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_phage_9428.3	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000260.80040.81868_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_phage_10270.5	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000259.17056.18884_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_phage_9428.3	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000259.23057.24885_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_phage_9428.3	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000262.23055.24883_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_phage_10750.4	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000261.79644.81472_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_phage_2096.2	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000056.268528.270356_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_pyogenes_phage_6180.4	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000056.17056.18884_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_pyogenes_phage_6180.4	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000056.23057.24885_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_pyogenes_phage_6180.4	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CP000056.79346.81174_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_pyogenes_phage_6180.4	90.667	75	7	0	449	523	1583	1657	1.90e-18	100
+k105_172929	CAQA01000070.1409.4877_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus_agalactiae_SS1219	90.541	74	7	0	449	522	1558	1631	6.83e-18	99.0
+k105_172929	AY348313.1.1975_Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Lactococcus;Lactococcus_lactis	90.541	74	7	0	449	522	1636	1709	6.83e-18	99.0
+k105_172929	L29265.1.2100_Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Candidatus_Kinetoplastibacterium;Kinetoplastibacterium_blastocrithidii	90.411	73	7	0	449	521	1765	1837	2.46e-17	97.1
+k105_172929	KF824526.1.2623_Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Arsenophonus;Arsenophonus_endosymbiont_of_Aphis_sp	93.651	63	3	1	450	511	1746	1808	3.18e-16	93.5
+k105_172929	DQ009470.1.2159_Bacteria;Proteobacteria;Gammaproteobacteria;Salinisphaerales;Salinisphaeraceae;ZD0417_marine_group;uncultured_marine_bacterium	94.643	56	3	0	456	511	1776	1831	1.48e-14	87.9
+k105_172929	EU439003.1.1869_Bacteria;Proteobacteria;Proteobacteria_Incertae_Sedis;Unknown_Order;Unknown_Family;Candidatus_Thiobios;Candidatus_Thiobios_zoothamnicoli	88.889	54	6	0	456	509	1703	1756	1.93e-08	67.6
+# BLASTN 2.6.0+
+# Query: k105_174027
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_175545
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_175632
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_175856
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_176683
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_176780
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_177827
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_177957
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_178278
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_180028
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_180171
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_181985
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_183098
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_184876
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_185393
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_186582
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_187626
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_187789
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_188334
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_189951
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_190999
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_191021
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_191723
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_193685
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_193805
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_194571
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_195170
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_195844
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_196250
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_196569
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_196746
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_197644
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_199024
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_199061
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_199248
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_199251
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_199835
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_201395
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_202415
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_203740
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_204186
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_204292
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_204654
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_205767
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_206041
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_206465
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_206899
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_207166
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_207280
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_207606
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_208054
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_208888
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_209269
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_212677
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_219856
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_220793
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_220884
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_221329
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 500 hits found
+k105_221329	KC000230.1.1375_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;unidentified_marine_bacterioplankton	99.340	758	5	0	1	758	758	1	0.0	1373
+k105_221329	GQ340222.1.1403_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	98.682	759	10	0	1	759	759	1	0.0	1347
+k105_221329	HQ166780.1.1365_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	99.188	739	6	0	1	739	739	1	0.0	1332
+k105_221329	GU305737.1.1512_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	98.287	759	13	0	1	759	759	1	0.0	1330
+k105_221329	JF922590.1.1509_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	93.824	761	44	3	1	759	760	1	0.0	1142
+k105_221329	FM242280.1.1505_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	93.693	761	45	3	1	759	760	1	0.0	1136
+k105_221329	JQ323132.1.1506_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	93.536	758	46	3	1	756	757	1	0.0	1125
+k105_221329	DQ890440.1.1500_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	93.185	763	45	7	1	759	760	1	0.0	1114
+k105_221329	HQ697454.1.1513_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	93.054	763	47	6	1	759	761	1	0.0	1110
+k105_221329	JF922405.1.1509_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	92.661	763	50	6	1	759	761	1	0.0	1094
+k105_221329	GQ010603.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	93.271	743	44	6	1	739	741	1	0.0	1090
+k105_221329	JX504981.1.1470_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Conexibacteraceae_bacterium	93.117	741	49	2	1	739	741	1	0.0	1085
+k105_221329	AJ863189.1.1467_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	93.136	743	44	7	1	739	740	1	0.0	1083
+k105_221329	FM874521.1.1499_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	93.136	743	44	7	1	739	740	1	0.0	1083
+k105_221329	AB240334.1.1506_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	92.388	762	54	4	1	759	761	1	0.0	1083
+k105_221329	FJ675406.1.1395_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	92.388	762	52	6	1	758	760	1	0.0	1081
+k105_221329	JX105638.1.1403_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	92.398	763	51	6	1	759	760	1	0.0	1081
+k105_221329	GQ262992.1.1490_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	93.029	746	40	12	1	739	741	1	0.0	1079
+k105_221329	KC682983.1.1540_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	92.368	760	55	3	1	758	759	1	0.0	1079
+k105_221329	HM241063.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	93.001	743	45	7	1	739	740	1	0.0	1077
+k105_221329	JX133582.1.1508_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	92.247	761	56	3	1	759	760	1	0.0	1075
+k105_221329	LN567929.1.1384_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	92.627	746	44	10	1	739	742	1	0.0	1062
+k105_221329	LN573791.1.1368_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured_bacterium	92.578	741	49	4	1	739	737	1	0.0	1059
+k105_221329	LN571084.1.1381_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	92.493	746	45	10	1	739	742	1	0.0	1057
+k105_221329	EU132850.1.1431_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	92.896	732	43	9	1	728	766	40	0.0	1055
+k105_221329	HQ810405.1.1468_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_organism	92.011	751	52	6	1	746	748	1	0.0	1048
+k105_221329	JF139783.1.1365_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	92.194	743	50	7	1	739	739	1	0.0	1044
+k105_221329	LN561450.1.1385_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured_bacterium	92.183	742	52	6	1	739	739	1	0.0	1044
+k105_221329	AM936423.1.1365_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Rubrobacteridae_bacterium	92.070	744	50	8	1	739	740	1	0.0	1038
+k105_221329	HQ810189.1.1471_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_organism	91.689	734	53	6	1	729	731	1	0.0	1011
+k105_221329	KC251738.1.1416_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;Gaiella_sp._EBR4-R2	92.384	709	51	3	1	707	710	3	0.0	1007
+k105_221329	HQ642779.1.1239_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	90.495	768	60	12	1	759	764	1	0.0	1002
+k105_221329	JN825541.1.1413_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	92.006	713	49	7	1	711	707	1	0.0	994
+k105_221329	FM200857.1.1413_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	91.329	715	55	7	1	711	712	1	0.0	970
+k105_221329	AY345497.1.1534_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	89.646	763	73	6	1	759	784	24	0.0	966
+k105_221329	JN178890.1.1393_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	90.759	725	57	9	1	719	721	1	0.0	959
+k105_221329	JN672050.1.1305_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	92.194	679	45	8	1	675	675	1	0.0	953
+k105_221329	EF688151.1.1505_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	89.356	761	72	9	1	756	757	1	0.0	948
+k105_221329	FJ971720.1.1506_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	89.020	765	75	8	1	759	762	1	0.0	939
+k105_221329	GU180182.1.1511_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.991	763	77	7	1	759	760	1	0.0	937
+k105_221329	JQ087087.1.1470_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Solirubrobacterales_bacterium	88.729	763	80	6	1	759	761	1	0.0	928
+k105_221329	CU925479.1.1369_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	89.262	745	72	7	1	740	742	1	0.0	926
+k105_221329	AM490647.1.1506_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.933	759	73	10	7	759	754	1	0.0	926
+k105_221329	EU266871.1.1513_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Rubrobacteraceae_bacterium	88.613	764	79	7	1	759	761	1	0.0	922
+k105_221329	HQ183930.1.1512_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	88.467	763	81	7	1	759	760	1	0.0	915
+k105_221329	HQ697449.1.1510_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.482	764	76	11	1	759	757	1	0.0	913
+k105_221329	DQ404675.1.1509_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.366	765	78	8	1	759	761	2	0.0	909
+k105_221329	KC554346.1.1537_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.381	766	74	12	1	758	759	1	0.0	907
+k105_221329	HE604056.1.1525_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.197	771	77	14	1	759	769	1	0.0	907
+k105_221329	HE604097.1.1521_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.136	767	81	10	1	759	765	1	0.0	904
+k105_221329	JF775616.1.1516_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.089	764	84	6	1	759	762	1	0.0	900
+k105_221329	EF688233.1.1464_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.472	746	76	9	1	740	742	1	0.0	900
+k105_221329	AY642541.1.1416_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	89.324	740	46	22	1	735	712	1	0.0	898
+k105_221329	AY426443.1.1473_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.591	745	76	8	1	739	742	1	0.0	898
+k105_221329	AB803972.1.1473_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.560	743	79	6	1	739	741	1	0.0	896
+k105_221329	CU925322.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.338	746	77	8	1	740	742	1	0.0	894
+k105_221329	GQ396807.1.1511_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.036	769	74	15	1	759	761	1	0.0	894
+k105_221329	CU923470.1.1357_Bacteria;Chloroflexi;Ardenticatenia;uncultured;uncultured_bacterium	88.472	746	76	10	1	740	742	1	0.0	893
+k105_221329	EU881145.1.1513_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.958	764	82	8	1	759	760	2	0.0	893
+k105_221329	AB821089.1.1525_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.005	767	77	11	1	758	761	1	0.0	893
+k105_221329	KC554996.1.1540_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.942	763	83	7	1	758	759	1	0.0	891
+k105_221329	EF492926.1.1508_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.958	764	81	8	2	759	759	1	0.0	891
+k105_221329	JX505286.1.1472_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Solirubrobacter_sp	88.425	743	79	7	1	739	740	1	0.0	889
+k105_221329	JN536855.1.1390_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_organism	88.425	743	76	10	1	737	739	1	0.0	887
+k105_221329	JX223229.1.1508_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.875	767	78	12	1	759	760	1	0.0	887
+k105_221329	JQ738716.1.1511_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.827	764	82	9	1	758	759	1	0.0	885
+k105_221329	JQ738708.1.1510_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.891	768	74	16	1	758	759	1	0.0	885
+k105_221329	JQ738717.1.1511_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.827	764	82	9	1	758	759	1	0.0	885
+k105_221329	JQ738721.1.1510_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.843	765	80	12	1	758	759	1	0.0	885
+k105_221329	KC554488.1.1539_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.859	766	77	12	1	758	758	1	0.0	885
+k105_221329	FJ745226.1.1342_Bacteria;Proteobacteria;Elev-16S-509;uncultured_bacterium	96.289	539	19	1	1	539	704	167	0.0	883
+k105_221329	DQ067018.1.1409_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.582	765	87	8	1	759	763	1	0.0	883
+k105_221329	KF494601.1.1205_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.808	771	70	20	1	759	759	1	0.0	881
+k105_221329	KC172343.1.1511_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Rubrobacterales_bacterium	87.712	765	83	9	1	759	763	4	0.0	881
+k105_221329	JN534280.1.1435_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_organism	88.540	733	75	9	1	728	729	1	0.0	880
+k105_221329	JQ738715.1.1513_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.728	766	78	14	1	758	758	1	0.0	880
+k105_221329	JQ793391.1.1510_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_actinobacterium	87.614	767	81	14	1	759	761	1	0.0	878
+k105_221329	JF706673.1.1500_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	87.630	768	79	12	1	759	761	1	0.0	878
+k105_221329	CU917992.1.1371_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.038	744	83	6	1	740	742	1	0.0	876
+k105_221329	KC554289.1.1542_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.614	767	79	12	1	758	760	1	0.0	876
+k105_221329	HQ190568.1.1519_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	87.614	767	80	13	1	759	763	4	0.0	876
+k105_221329	EF019542.1.1392_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	87.533	762	86	7	1	758	757	1	0.0	874
+k105_221329	DQ128802.1.1430_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_soil_bacterium	88.331	737	74	11	1	732	730	1	0.0	874
+k105_221329	FN811259.1.1510_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	87.598	766	80	13	1	759	758	1	0.0	874
+k105_221329	KC554239.1.1541_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.565	764	84	9	1	758	759	1	0.0	874
+k105_221329	KC554544.1.1542_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	87.565	764	84	9	1	758	759	1	0.0	874
+k105_221329	HM319095.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.054	745	77	11	1	739	739	1	0.0	872
+k105_221329	JN038303.1.1514_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	87.484	767	82	12	1	759	761	1	0.0	872
+k105_221329	JF706671.1.1509_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_actinobacterium	87.516	769	78	17	1	759	761	1	0.0	872
+k105_221329	DQ676371.1.1444_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	88.211	738	76	10	1	732	733	1	0.0	870
+k105_221329	JN417557.1.1538_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_soil_bacterium	87.467	766	83	11	1	759	760	1	0.0	870
+k105_221329	JN536721.1.1437_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_organism	88.446	727	75	9	1	722	723	1	0.0	869
+k105_221329	JQ738714.1.1509_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.484	767	78	15	1	758	758	1	0.0	869
+k105_221329	JF135649.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.936	746	77	11	1	739	740	1	0.0	867
+k105_221329	JX133589.1.1511_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.403	770	78	14	1	759	762	1	0.0	867
+k105_221329	JX223211.1.1509_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	87.320	765	86	9	1	759	760	1	0.0	865
+k105_221329	JX133538.1.1530_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.385	761	86	8	1	756	781	26	0.0	865
+k105_221329	EU335312.1.1510_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.320	765	86	8	1	759	760	1	0.0	865
+k105_221329	EU431721.1.1504_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.337	766	82	12	1	758	759	1	0.0	863
+k105_221329	JQ738709.1.1511_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.320	765	84	10	1	758	759	1	0.0	863
+k105_221329	KC554679.1.1577_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.287	763	88	7	1	758	788	30	0.0	863
+k105_221329	KC554359.1.1527_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured_bacterium	87.582	765	69	19	1	758	746	1	0.0	863
+k105_221329	HM187261.1.1490_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.223	767	84	10	1	759	761	1	0.0	861
+k105_221329	HQ011679.1.1209_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.240	768	81	15	1	759	760	1	0.0	859
+k105_221329	FJ479001.1.1505_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.270	762	86	9	1	756	757	1	0.0	859
+k105_221329	DQ450796.1.1404_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	87.206	766	85	11	1	759	760	1	0.0	859
+k105_221329	JX501984.1.1506_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Rubrobacteridae_bacterium	87.190	765	87	8	1	759	760	1	0.0	859
+k105_221329	AF443573.1.1403_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.223	767	83	12	1	759	760	1	0.0	859
+k105_221329	KC554322.1.1538_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.190	765	86	10	1	758	760	1	0.0	859
+k105_221329	KC554851.1.1541_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured_bacterium	87.190	765	86	12	1	758	760	1	0.0	859
+k105_221329	JN177835.1.1558_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	87.143	770	81	16	1	759	763	1	0.0	857
+k105_221329	KC554608.1.1542_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.206	766	83	11	1	758	759	1	0.0	857
+k105_221329	KC554266.1.1541_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.223	767	81	14	1	758	759	1	0.0	857
+k105_221329	KC554265.1.1542_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.156	763	89	7	1	758	759	1	0.0	857
+k105_221329	AB426211.1.1412_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.440	718	74	8	1	713	714	1	0.0	857
+k105_221329	KJ192045.1.1511_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_Rubrobacteridae_bacterium	87.076	766	87	9	1	759	761	1	0.0	856
+k105_221329	HQ863977.1.1515_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;288-2;uncultured_bacterium	87.160	771	77	19	1	759	767	7	0.0	856
+k105_221329	FJ478983.1.1507_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.139	762	86	10	1	756	758	3	0.0	854
+k105_221329	KF494769.1.1513_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.093	767	84	13	1	759	760	1	0.0	854
+k105_221329	EU680448.1.1502_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.093	767	84	11	1	759	760	1	0.0	854
+k105_221329	JQ793536.1.1516_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_actinobacterium	87.059	765	88	9	1	759	760	1	0.0	854
+k105_221329	HQ183929.1.1510_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	87.025	763	91	8	1	759	759	1	0.0	854
+k105_221329	FJ479298.1.1508_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.076	766	84	11	1	758	759	1	0.0	852
+k105_221329	FJ479567.1.1508_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.059	765	86	10	1	758	759	1	0.0	852
+k105_221329	JQ738720.1.1508_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	87.076	766	84	12	1	758	759	1	0.0	852
+k105_221329	JF833918.1.1511_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_Conexibacter_sp	87.042	764	88	8	1	758	759	1	0.0	852
+k105_221329	KC554211.1.1542_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	87.076	766	84	13	1	758	759	1	0.0	852
+k105_221329	KC554472.1.1542_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.093	767	82	15	1	758	759	1	0.0	852
+k105_221329	KC554390.1.1551_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.042	764	88	9	1	758	759	1	0.0	852
+k105_221329	JF429038.1.1518_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.945	766	88	8	1	759	764	4	0.0	850
+k105_221329	JF174681.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.500	744	83	8	1	739	739	1	0.0	850
+k105_221329	DQ906888.1.1470_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.567	748	76	14	1	739	740	1	0.0	850
+k105_221329	FJ478579.1.1506_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured_bacterium	87.042	764	85	14	1	756	758	1	0.0	850
+k105_221329	JX505210.1.1469_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Conexibacteraceae_bacterium	87.534	746	80	11	1	739	740	1	0.0	850
+k105_221329	DQ125586.1.1467_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.550	747	77	13	1	742	736	1	0.0	850
+k105_221329	KF711822.3.1530_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium_ctg7180000001448	87.030	771	78	20	1	759	761	1	0.0	850
+k105_221329	EU861962.1.1512_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;YNPFFP1;uncultured_soil_bacterium	87.030	771	78	21	1	759	761	1	0.0	850
+k105_221329	AM935503.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Acidimicrobidae_bacterium	87.500	744	84	7	1	739	740	1	0.0	850
+k105_221329	HM263240.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.550	747	78	14	1	739	740	1	0.0	850
+k105_221329	AB821066.1.1510_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.008	762	90	8	1	758	757	1	0.0	850
+k105_221329	EU132578.1.1369_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.945	766	86	11	1	759	760	2	0.0	850
+k105_221329	KC554767.1.1516_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.401	754	78	14	1	745	746	1	0.0	850
+k105_221329	HM559185.1.1397_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.042	764	84	12	1	756	757	1	0.0	848
+k105_221329	AY425772.1.1465_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.945	766	86	11	1	759	759	1	0.0	848
+k105_221329	JQ978958.1.1509_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.962	767	85	10	1	759	760	1	0.0	848
+k105_221329	JQ770077.1.1496_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured_bacterium	87.240	768	68	23	1	759	747	1	0.0	848
+k105_221329	EU335350.1.1511_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.945	766	87	10	1	759	760	1	0.0	848
+k105_221329	KC554859.1.1539_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;uncultured_bacterium	87.047	772	74	22	1	758	760	1	0.0	848
+k105_221329	KC554075.1.1542_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.928	765	88	9	1	758	760	1	0.0	848
+k105_221329	KC554260.1.1542_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	87.030	771	76	20	1	758	760	1	0.0	848
+k105_221329	GQ844363.1.1513_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.877	762	94	6	1	759	760	2	0.0	848
+k105_221329	EU132573.1.1297_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.008	762	85	11	1	754	757	2	0.0	846
+k105_221329	KC554923.1.1541_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.962	767	83	15	1	758	759	1	0.0	846
+k105_221329	KC554862.1.1533_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.911	764	89	9	1	758	759	1	0.0	846
+k105_221329	KC555030.1.1540_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.945	766	85	12	1	758	759	1	0.0	846
+k105_221329	AB603808.1.1408_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	87.619	735	83	8	1	731	736	6	0.0	846
+k105_221329	DQ906806.1.1467_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.383	745	83	9	1	739	740	1	0.0	845
+k105_221329	KF956788.1.1470_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Gaiella_sp	87.399	746	81	10	1	739	740	1	0.0	845
+k105_221329	JF128970.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.366	744	85	6	1	739	740	1	0.0	845
+k105_221329	KJ013366.1.1525_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.822	774	80	13	1	758	768	1	0.0	845
+k105_221329	KC554892.1.1513_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.200	750	87	7	1	745	746	1	0.0	845
+k105_221329	JF234198.1.1365_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.383	745	81	12	1	739	738	1	0.0	843
+k105_221329	JF234293.1.1365_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.383	745	81	12	1	739	738	1	0.0	843
+k105_221329	JF234059.1.1365_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.383	745	81	12	1	739	738	1	0.0	843
+k105_221329	JF221784.1.1365_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.383	745	81	12	1	739	738	1	0.0	843
+k105_221329	EF018504.1.1383_Bacteria;Chloroflexi;JG37-AG-4;uncultured_actinobacterium	86.883	770	80	19	1	758	761	1	0.0	843
+k105_221329	JF234170.1.1365_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.383	745	81	12	1	739	738	1	0.0	843
+k105_221329	JF221816.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.383	745	81	12	1	739	738	1	0.0	843
+k105_221329	FJ478763.1.1507_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.877	762	89	8	1	756	757	1	0.0	843
+k105_221329	FJ479015.1.1510_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.911	764	85	13	2	756	758	1	0.0	843
+k105_221329	JF145406.1.1364_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.399	746	79	14	1	739	738	1	0.0	843
+k105_221329	FJ478645.1.1509_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.797	765	89	10	1	758	760	1	0.0	843
+k105_221329	HM445445.1.1507_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.866	769	82	16	1	759	760	1	0.0	843
+k105_221329	EU861970.1.1512_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_soil_bacterium	86.797	765	90	8	1	759	760	1	0.0	843
+k105_221329	KF182270.1.1509_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.832	767	86	11	1	759	760	1	0.0	843
+k105_221329	EU881229.1.1514_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.849	768	84	13	1	759	761	2	0.0	843
+k105_221329	JX222885.1.1511_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.797	765	90	10	1	759	760	1	0.0	843
+k105_221329	EU491469.1.1510_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.883	770	80	16	1	758	761	1	0.0	843
+k105_221329	HM186557.1.1380_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.316	749	79	13	1	740	742	1	0.0	843
+k105_221329	KC554930.1.1539_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured_bacterium	86.883	770	79	21	1	758	760	1	0.0	843
+k105_221329	KC554257.1.1541_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Patulibacteraceae;Patulibacter;uncultured_bacterium	86.866	769	81	18	1	758	760	1	0.0	843
+k105_221329	KJ650756.1.1506_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	86.849	768	84	13	1	759	760	1	0.0	843
+k105_221329	FJ478504.1.1506_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.877	762	87	10	2	756	756	1	0.0	841
+k105_221329	JX079309.1.1505_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_Solirubrobacter_sp	86.849	768	82	17	1	758	759	1	0.0	841
+k105_221329	JX079307.1.1503_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	86.815	766	86	12	1	758	759	1	0.0	841
+k105_221329	HM187195.1.1469_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.299	748	80	11	1	740	741	1	0.0	841
+k105_221329	AB821163.1.1512_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.815	766	86	10	1	758	759	1	0.0	841
+k105_221329	AB672250.1.1470_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.265	746	83	10	1	739	741	1	0.0	841
+k105_221329	KC554159.1.1541_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.797	765	88	10	1	758	759	1	0.0	841
+k105_221329	AUKG01000002.1387714.1389240_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;Conexibacter_woesei_Iso977N	86.770	771	80	16	1	759	761	1	0.0	839
+k105_221329	JF145376.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.231	744	86	8	1	739	740	1	0.0	839
+k105_221329	DQ125787.1.1478_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.200	750	81	13	1	742	743	1	0.0	839
+k105_221329	JX505092.1.1469_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Solirubrobacter_sp	87.367	752	70	18	1	739	740	1	0.0	839
+k105_221329	EU861861.1.1509_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_soil_bacterium	86.684	766	90	9	1	759	761	1	0.0	839
+k105_221329	JX240741.1.1523_Bacteria;Actinobacteria;Thermoleophilia;Thermophilales;Thermoleophilaceae;Thermoleophilum;uncultured_actinobacterium	86.822	774	75	23	1	759	762	1	0.0	839
+k105_221329	JX133261.1.1509_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Conexibacteraceae;Conexibacter;uncultured_bacterium	86.805	773	77	20	1	759	762	1	0.0	839
+k105_221329	JF706674.1.1489_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	87.316	749	76	16	1	739	740	1	0.0	839
+k105_221329	KC554889.1.1513_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.084	751	86	8	1	745	746	1	0.0	839
+k105_221329	JF234215.1.1365_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.248	745	82	12	1	739	738	1	0.0	837
+k105_221329	EF111140.1.1291_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_delta_proteobacterium	88.045	711	79	6	1	707	709	1	0.0	837
+k105_221329	FJ479528.1.1506_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.745	762	90	9	1	756	757	1	0.0	837
+k105_221329	FJ479113.1.1508_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.684	766	89	10	1	759	760	1	0.0	837
+k105_221329	KJ013377.1.1538_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;288-2;uncultured_bacterium	86.736	769	82	18	1	758	760	1	0.0	837
+k105_221329	HQ864164.1.1512_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.667	765	91	10	1	759	763	4	0.0	837
+k105_221329	KF712882.1.1506_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.684	766	89	10	1	759	760	1	0.0	837
+k105_221329	JQ793429.1.1505_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	86.667	765	91	8	1	759	760	1	0.0	837
+k105_221329	HM187358.1.1471_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.265	746	80	12	1	738	739	1	0.0	837
+k105_221329	EU335168.1.1511_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	86.719	768	85	16	1	759	760	1	0.0	837
+k105_221329	JQ738726.1.1509_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;288-2;uncultured_bacterium	86.805	773	74	25	1	758	760	1	0.0	837
+k105_221329	KC554215.1.1540_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	86.753	770	80	19	1	758	760	1	0.0	837
+k105_221329	KC554942.1.1540_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	86.770	771	78	22	1	758	760	1	0.0	837
+k105_221329	EF018683.1.1394_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	86.649	764	91	8	1	758	759	1	0.0	835
+k105_221329	EF018825.1.1394_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.649	764	91	9	1	758	759	1	0.0	835
+k105_221329	JX079297.1.1502_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.667	765	89	10	1	758	759	1	0.0	835
+k105_221329	HM186446.1.1379_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.149	747	83	11	1	740	741	1	0.0	835
+k105_221329	EU132657.1.1291_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.020	755	81	13	1	746	749	3	0.0	835
+k105_221329	KC554466.1.1542_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.667	765	89	11	1	758	759	1	0.0	835
+k105_221329	EF516489.1.1467_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.214	743	84	11	1	738	737	1	0.0	835
+k105_221329	EF018772.1.1391_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.632	763	91	9	1	758	757	1	0.0	833
+k105_221329	FJ478941.1.1509_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.632	763	90	11	1	756	758	1	0.0	833
+k105_221329	AY395438.1.1453_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_Rubrobacteridae_bacterium	87.131	746	83	9	1	739	740	1	0.0	833
+k105_221329	HM305544.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.114	745	85	10	1	739	740	1	0.0	833
+k105_221329	JX079214.1.1535_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.745	762	86	14	1	754	755	1	0.0	833
+k105_221329	EU132869.1.1380_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;uncultured_bacterium	86.797	765	79	20	1	754	780	27	0.0	833
+k105_221329	KC554790.1.1503_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.166	748	79	14	1	739	740	1	0.0	833
+k105_221329	KJ907768.1.1537_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;YNPFFP1;uncultured_Conexibacteraceae_bacterium	86.658	772	79	22	1	759	761	1	0.0	833
+k105_221329	KJ191928.1.1510_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Rubrobacteridae_bacterium	86.554	766	90	10	1	759	760	1	0.0	832
+k105_221329	EU881252.1.1512_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.536	765	92	8	1	759	760	1	0.0	832
+k105_221329	HM187226.1.1470_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	87.114	745	83	11	1	738	739	1	0.0	832
+k105_221329	EU335260.1.1509_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.571	767	87	14	1	759	759	1	0.0	832
+k105_221329	EU132487.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.179	741	84	8	1	735	736	1	0.0	832
+k105_221329	HQ330654.1.1395_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	88.506	696	69	9	1	690	694	4	0.0	832
+k105_221329	KC554177.1.1540_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;288-2;uncultured_bacterium	86.693	774	73	26	1	758	760	1	0.0	832
+k105_221329	KC554432.1.1539_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	86.658	772	77	24	1	758	760	1	0.0	832
+k105_221329	EF019422.1.1396_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	86.518	764	92	8	1	758	759	1	0.0	830
+k105_221329	HM319085.1.1368_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.997	746	85	11	1	739	741	1	0.0	830
+k105_221329	HM269113.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;YNPFFP1;uncultured_bacterium	87.118	753	71	23	1	739	741	1	0.0	830
+k105_221329	HM187085.1.1472_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	87.015	747	84	9	1	740	741	1	0.0	830
+k105_221329	HM185932.1.1352_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	87.032	748	82	12	1	740	741	1	0.0	830
+k105_221329	EU132690.1.1362_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.997	746	86	9	1	740	741	1	0.0	830
+k105_221329	EU132780.1.1287_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.084	751	76	19	1	740	741	1	0.0	830
+k105_221329	KM200474.1.1512_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;YNPFFP1;uncultured_Conexibacteraceae_bacterium	86.623	770	79	22	1	757	759	1	0.0	830
+k105_221329	KC554261.1.1542_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.554	766	88	13	1	758	759	1	0.0	830
+k105_221329	KC554988.1.1541_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.554	766	88	12	1	758	759	1	0.0	830
+k105_221329	EF516587.1.1469_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.997	746	85	10	1	739	741	1	0.0	830
+k105_221329	AB254797.1.1511_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Conexibacteraceae;Conexibacter;uncultured_bacterium	86.511	771	85	18	1	759	764	1	0.0	830
+k105_221329	AUIK01000022.104739.106265_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;Solirubrobacter_soli_DSM_22325	86.494	770	84	18	1	759	761	1	0.0	828
+k105_221329	JN866581.1.1506_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Patulibacteraceae;Patulibacter;uncultured_bacterium	86.511	771	82	20	1	759	761	1	0.0	828
+k105_221329	JX505392.1.1469_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Conexibacteraceae_bacterium	86.997	746	84	9	1	739	740	1	0.0	828
+k105_221329	AJ863234.1.1471_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.997	746	84	11	1	739	740	1	0.0	828
+k105_221329	KF084812.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.980	745	86	8	1	739	740	1	0.0	828
+k105_221329	JF833499.1.1443_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Conexibacter_sp	87.295	732	84	8	1	727	728	1	0.0	828
+k105_221329	EU133108.1.1387_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.015	747	81	15	1	739	739	1	0.0	828
+k105_221329	EU133574.1.1362_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.997	746	83	12	1	738	740	1	0.0	828
+k105_221329	AB696283.1.1485_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.997	746	84	10	1	739	740	1	0.0	828
+k105_221329	KC554982.1.1547_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.458	768	88	14	1	758	762	1	0.0	828
+k105_221329	JF417742.1.1509_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.441	767	89	12	1	759	760	1	0.0	826
+k105_221329	JF417845.1.1494_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Patulibacteraceae;Patulibacter;uncultured_bacterium	86.736	769	70	18	1	759	747	1	0.0	826
+k105_221329	JF429126.1.1537_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.441	767	89	10	1	759	769	10	0.0	826
+k105_221329	FJ478969.1.1505_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.518	764	87	14	1	756	756	1	0.0	826
+k105_221329	DQ125846.1.1479_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.898	748	84	13	1	740	742	1	0.0	826
+k105_221329	FJ167502.1.1506_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.370	763	96	8	1	759	759	1	0.0	826
+k105_221329	EU644110.1.1462_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.387	764	95	8	1	759	760	1	0.0	826
+k105_221329	JX079131.1.1501_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.536	765	85	16	1	755	757	1	0.0	826
+k105_221329	EU407208.1.1514_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.370	763	96	7	1	759	760	2	0.0	826
+k105_221329	KC554832.1.1522_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.658	757	88	9	1	751	750	1	0.0	826
+k105_221329	KC554668.1.1541_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;288-2;uncultured_bacterium	86.476	769	84	18	1	758	760	1	0.0	826
+k105_221329	KC554586.1.1540_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	86.458	768	86	17	1	758	760	1	0.0	826
+k105_221329	KC554840.1.1535_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	86.476	769	84	16	1	758	760	1	0.0	826
+k105_221329	EF018698.1.1394_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	86.387	764	93	8	1	758	759	1	0.0	824
+k105_221329	JF178433.1.1368_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.881	747	84	12	1	739	741	1	0.0	824
+k105_221329	DQ906774.1.1486_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.881	747	84	11	1	739	741	1	0.0	824
+k105_221329	DQ906798.1.1470_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.863	746	86	10	1	739	741	1	0.0	824
+k105_221329	JX505117.1.1471_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Solirubrobacter_sp	86.863	746	87	9	1	739	742	1	0.0	824
+k105_221329	HM331037.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.916	749	80	14	1	739	741	1	0.0	824
+k105_221329	EU132610.1.1306_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.898	748	82	14	1	739	743	3	0.0	824
+k105_221329	EU132528.1.1359_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.881	747	85	10	1	740	741	1	0.0	824
+k105_221329	EU133228.1.1416_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.536	765	84	17	1	754	781	25	0.0	824
+k105_221329	EU132978.1.1329_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.881	747	84	11	1	740	740	1	0.0	824
+k105_221329	AY234442.1.1454_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;YNPFFP1;bacterium_Ellin5025	86.898	748	82	16	1	739	741	1	0.0	824
+k105_221329	JF417746.1.1510_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	86.381	771	83	19	1	759	761	1	0.0	822
+k105_221329	JF225360.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.863	746	85	11	1	739	740	1	0.0	822
+k105_221329	GU731335.1.1403_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Conexibacteraceae;Conexibacter;bacterium_enrichment_culture_clone_auto28_4W	86.381	771	84	20	1	759	762	1	0.0	822
+k105_221329	HM557426.1.1378_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	86.898	748	81	16	1	738	741	1	0.0	822
+k105_221329	LN569711.1.1378_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	87.003	754	69	27	1	739	740	1	0.0	822
+k105_221329	LN563824.1.1378_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.881	747	83	11	1	739	740	1	0.0	822
+k105_221329	HM278101.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.846	745	87	9	1	739	740	1	0.0	822
+k105_221329	HM273593.1.1368_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.846	745	87	9	1	739	740	1	0.0	822
+k105_221329	JQ738824.1.1540_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	86.381	771	83	19	1	759	763	3	0.0	822
+k105_221329	AB672179.1.1470_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.863	746	85	11	1	739	740	1	0.0	822
+k105_221329	KC554819.1.1524_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.561	759	87	13	1	751	752	1	0.0	822
+k105_221329	EF516110.1.1469_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.927	742	86	9	1	736	738	2	0.0	822
+k105_221329	KC554901.1.1502_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.863	746	85	10	1	739	740	1	0.0	822
+k105_221329	KC331535.1.1508_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;288-2;uncultured_bacterium	86.364	770	85	18	1	759	761	1	0.0	822
+k105_221329	HM186280.1.1382_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.782	749	84	10	1	740	743	1	0.0	821
+k105_221329	EU132798.1.1362_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.881	747	81	15	1	738	739	1	0.0	821
+k105_221329	EU132703.1.1373_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.846	745	84	11	1	738	738	1	0.0	821
+k105_221329	EU132786.1.1361_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.828	744	87	9	1	738	739	1	0.0	821
+k105_221329	EU132779.1.1342_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.009	739	83	12	1	733	732	1	0.0	821
+k105_221329	EU133072.1.1362_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.863	746	83	11	1	738	739	1	0.0	821
+k105_221329	EU132593.1.1277_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.483	762	86	13	1	754	755	3	0.0	821
+k105_221329	EF688239.1.1487_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.316	760	97	6	1	756	757	1	0.0	821
+k105_221329	AB245336.1.1511_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;Solirubrobacter_sp._Gsoil_921	86.381	771	81	18	1	758	762	3	0.0	821
+k105_221329	AY395403.1.1447_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Rubrobacteridae_bacterium	86.559	744	92	7	1	739	741	1	0.0	819
+k105_221329	HM270107.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;YNPFFP1;uncultured_bacterium	86.800	750	79	18	1	739	741	1	0.0	819
+k105_221329	HQ330646.1.1412_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	87.465	718	80	10	1	713	713	1	0.0	819
+k105_221329	KC554738.1.1519_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.587	753	88	7	1	745	748	1	0.0	819
+k105_221329	KC554780.1.1518_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;288-2;uncultured_bacterium	86.640	756	81	17	1	745	747	1	0.0	819
+k105_221329	AB240226.1.1506_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.287	773	83	15	1	759	764	1	0.0	819
+k105_221329	DQ906854.1.1470_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.711	745	88	9	1	739	740	1	0.0	817
+k105_221329	DQ906063.1.1502_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Conexibacteraceae;Conexibacter;uncultured_bacterium	86.234	770	87	18	1	759	762	1	0.0	817
+k105_221329	JX505372.1.1470_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Conexibacteraceae_bacterium	86.747	747	84	10	1	739	740	1	0.0	817
+k105_221329	KF100491.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.747	747	84	11	1	739	740	1	0.0	817
+k105_221329	HM270538.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.729	746	86	9	1	739	740	1	0.0	817
+k105_221329	KF073508.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.711	745	88	8	1	739	740	1	0.0	817
+k105_221329	HM270006.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.711	745	88	8	1	739	740	1	0.0	817
+k105_221329	AF443586.1.1402_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured_bacterium	86.234	770	86	19	1	759	761	1	0.0	817
+k105_221329	HQ397116.1.1510_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_Solirubrobacter_sp	86.198	768	90	16	1	759	761	1	0.0	817
+k105_221329	EU133103.1.1364_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured_bacterium	86.729	746	85	14	1	738	740	1	0.0	817
+k105_221329	EU132818.1.1372_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.711	745	87	10	1	739	739	1	0.0	817
+k105_221329	JF706669.1.1511_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_actinobacterium	86.287	773	80	22	1	759	761	1	0.0	817
+k105_221329	AB672259.1.1486_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.711	745	88	9	1	739	740	1	0.0	817
+k105_221329	KC541217.1.1543_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.202	761	98	7	1	758	758	2	0.0	817
+k105_221329	FJ478614.1.1507_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	86.252	771	82	23	1	758	760	1	0.0	815
+k105_221329	DQ347843.1.1463_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	86.765	748	79	19	1	737	739	1	0.0	815
+k105_221329	FJ479052.1.1509_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.257	764	90	13	1	756	757	1	0.0	815
+k105_221329	HM459661.1.1467_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.667	750	80	12	1	739	741	1	0.0	815
+k105_221329	EU133188.1.1374_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.711	745	85	11	1	738	738	1	0.0	815
+k105_221329	KC554976.1.1541_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;FFCH13075;uncultured_bacterium	86.234	770	84	19	1	758	760	1	0.0	815
+k105_221329	KC554146.1.1544_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.198	768	89	13	1	758	761	1	0.0	815
+k105_221329	DQ906893.1.1472_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.613	747	85	11	1	739	740	1	0.0	813
+k105_221329	JF175603.1.1368_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.595	746	88	11	1	739	741	1	0.0	813
+k105_221329	JF190702.1.1368_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;YNPFFP1;uncultured_bacterium	86.649	749	83	17	1	739	742	1	0.0	813
+k105_221329	JF145609.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;YNPFFP1;uncultured_bacterium	86.667	750	80	18	1	739	741	1	0.0	813
+k105_221329	FJ479378.1.1506_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Patulibacteraceae;Patulibacter;uncultured_bacterium	86.234	770	82	21	1	756	760	1	0.0	813
+k105_221329	HM558473.1.1379_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.595	746	89	9	1	740	741	1	0.0	813
+k105_221329	JX505360.1.1472_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Conexibacteraceae_bacterium	86.595	746	88	11	1	739	741	1	0.0	813
+k105_221329	EU335318.1.1513_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.162	766	90	13	1	757	763	5	0.0	813
+k105_221329	JF235650.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.559	744	91	8	1	739	740	1	0.0	811
+k105_221329	JF198155.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.577	745	89	10	1	739	740	1	0.0	811
+k105_221329	JF167634.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.595	746	86	12	1	739	739	1	0.0	811
+k105_221329	JF175263.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.631	748	83	15	1	739	740	1	0.0	811
+k105_221329	LN567201.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.595	746	87	11	1	739	740	1	0.0	811
+k105_221329	AY395379.1.1453_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Rubrobacteridae_bacterium	86.577	745	89	9	1	739	740	1	0.0	811
+k105_221329	HM318821.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.577	745	89	9	1	739	740	1	0.0	811
+k105_221329	KF098048.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.613	747	85	11	1	739	740	1	0.0	811
+k105_221329	EU193090.1.1502_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Rubrobacterales_bacterium	87.052	726	85	7	1	721	722	1	0.0	811
+k105_221329	EU132631.1.1349_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.418	751	91	9	1	745	746	1	0.0	811
+k105_221329	EU132719.1.1373_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;288-2;uncultured_bacterium	86.667	750	78	19	1	738	740	1	0.0	811
+k105_221329	HM748740.1.1434_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;bacterium_Ellin7530	86.577	745	89	10	1	739	740	1	0.0	811
+k105_221329	FJ748796.1.1510_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	85.958	762	101	6	1	759	759	1	0.0	809
+k105_221329	DQ347845.1.1466_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	86.667	750	76	23	1	737	739	1	0.0	809
+k105_221329	EU133242.1.1400_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.184	760	92	11	1	754	764	12	0.0	809
+k105_221329	EU132559.1.1361_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.479	747	88	11	1	740	741	1	0.0	809
+k105_221329	CU918769.1.1368_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.406	743	95	6	1	740	740	1	0.0	808
+k105_221329	JX505168.1.1467_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;YNPFFP1;uncultured_Conexibacteraceae_bacterium	86.551	751	79	21	1	739	741	1	0.0	808
+k105_221329	LN573796.1.1390_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.461	746	89	9	1	739	741	1	0.0	808
+k105_221329	HM186973.1.1381_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.497	748	86	11	1	740	741	1	0.0	808
+k105_221329	EU133043.1.1362_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.497	748	86	13	1	740	741	1	0.0	808
+k105_221329	EU132865.1.1266_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.497	748	85	14	1	740	740	1	0.0	808
+k105_221329	KC554852.1.1523_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;288-2;uncultured_bacterium	86.275	765	79	20	1	751	753	1	0.0	808
+k105_221329	JF235433.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.479	747	86	10	1	739	740	1	0.0	806
+k105_221329	JF235360.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.479	747	86	10	1	739	740	1	0.0	806
+k105_221329	JF175226.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.461	746	88	12	1	739	740	1	0.0	806
+k105_221329	JF175658.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.479	747	86	10	1	739	740	1	0.0	806
+k105_221329	JF103728.1.1353_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Patulibacteraceae;Patulibacter;uncultured_bacterium	86.782	749	67	21	1	739	727	1	0.0	806
+k105_221329	GQ263044.1.1489_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.406	743	94	5	1	739	740	1	0.0	806
+k105_221329	HM311704.1.1352_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Patulibacteraceae;Patulibacter;uncultured_bacterium	86.782	749	67	21	1	739	727	1	0.0	806
+k105_221329	KF098192.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.461	746	88	10	1	739	740	1	0.0	806
+k105_221329	EU133024.1.1370_Bacteria;Actinobacteria;Rubrobacteria;Rubrobacterales;Rubrobacteriaceae;Rubrobacter;uncultured_bacterium	86.031	766	89	16	1	757	758	2	0.0	806
+k105_221329	EF516257.1.1474_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.461	746	87	12	1	738	740	1	0.0	806
+k105_221329	AB637350.1.1504_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	86.010	772	84	19	1	759	761	1	0.0	806
+k105_221329	EF516148.1.1466_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.523	742	89	8	1	736	737	1	0.0	806
+k105_221329	AY234700.1.1470_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;bacterium_Ellin6048	86.533	750	80	19	1	739	740	1	0.0	806
+k105_221329	LN573806.1.1376_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.577	745	81	16	1	735	736	1	0.0	804
+k105_221329	EU132998.1.1396_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;288-2;uncultured_bacterium	86.028	773	81	23	1	759	767	8	0.0	804
+k105_221329	EU132721.1.1375_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.479	747	83	16	1	738	738	1	0.0	804
+k105_221329	KC554935.1.1540_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	85.974	770	86	18	1	758	760	1	0.0	804
+k105_221329	KC554856.1.1524_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;288-2;uncultured_bacterium	86.144	765	80	22	1	751	753	1	0.0	804
+k105_221329	KC554347.1.1541_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	85.974	770	86	18	1	758	760	1	0.0	804
+k105_221329	JF222234.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.443	745	86	10	1	737	740	3	0.0	802
+k105_221329	JF158152.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	86.400	750	82	18	1	739	741	1	0.0	802
+k105_221329	JX505026.1.1469_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;YNPFFP1;uncultured_Conexibacteraceae_bacterium	86.382	749	84	18	1	739	741	1	0.0	802
+k105_221329	LN573787.1.1380_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Conexibacteraceae;Conexibacter;uncultured_bacterium	86.418	751	80	21	1	739	741	1	0.0	802
+k105_221329	LN573798.1.1383_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.400	750	83	17	1	739	742	1	0.0	802
+k105_221329	HM331047.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	86.418	751	80	20	1	739	741	1	0.0	802
+k105_221329	EU133195.1.1383_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.262	757	81	17	1	745	746	1	0.0	802
+k105_221329	EU132496.1.1372_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.505	741	86	12	1	734	734	1	0.0	802
+k105_221329	EU133250.1.1395_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	85.958	762	93	12	1	754	761	6	0.0	802
+k105_221329	EU132750.1.1395_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	85.958	762	93	14	1	754	759	4	0.0	802
+k105_221329	EU132630.1.1343_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.345	747	88	13	1	740	740	1	0.0	802
+k105_221329	KC554817.1.1525_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	86.126	764	82	21	1	751	753	1	0.0	802
+k105_221329	JF235397.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.345	747	87	10	1	739	740	1	0.0	800
+k105_221329	JF235362.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.345	747	87	10	1	739	740	1	0.0	800
+k105_221329	LN573801.1.1377_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.327	746	89	10	1	739	740	1	0.0	800
+k105_221329	LN573800.1.1378_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.309	745	91	8	1	739	740	1	0.0	800
+k105_221329	AY395433.1.1453_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Rubrobacteridae_bacterium	86.345	747	87	11	1	739	740	1	0.0	800
+k105_221329	JX133397.1.1508_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Elev-16S-1332;uncultured_bacterium	85.844	770	89	18	1	759	761	1	0.0	800
+k105_221329	HM270227.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.364	748	85	15	1	739	740	1	0.0	800
+k105_221329	KF066247.1.1387_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.630	733	87	8	1	727	737	10	0.0	800
+k105_221329	EU440699.1.1473_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Rubrobacterales_bacterium	86.777	726	87	8	1	721	722	1	0.0	800
+k105_221329	EU133079.1.1362_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.290	744	91	9	1	738	739	1	0.0	800
+k105_221329	KC554349.1.1528_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	85.938	768	87	20	1	758	757	1	0.0	800
+k105_221329	AB245334.1.1495_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;Solirubrobacter_soli	86.225	755	84	18	1	744	746	1	0.0	800
+k105_221329	JF190774.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;uncultured_bacterium	86.321	753	77	22	1	739	741	1	0.0	798
+k105_221329	AM176851.1.1470_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.253	742	95	7	1	738	739	1	0.0	798
+k105_221329	EU132714.1.1375_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.309	745	88	12	1	738	738	1	0.0	798
+k105_221329	EU133184.1.1347_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.303	752	81	18	1	740	742	1	0.0	798
+k105_221329	EU132483.1.1362_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.327	746	87	13	1	738	739	1	0.0	798
+k105_221329	DQ533685.1.1348_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Patulibacteraceae;Patulibacter;Rubrobacterales_bacterium_Pa33	85.826	769	89	20	1	758	760	1	0.0	798
+k105_221329	JF174637.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.248	749	85	16	1	739	741	1	0.0	797
+k105_221329	JF145444.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.212	747	89	12	1	739	741	1	0.0	797
+k105_221329	JF140295.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Patulibacteraceae;Patulibacter;uncultured_bacterium	86.267	750	83	17	1	739	741	1	0.0	797
+k105_221329	LN567926.1.1379_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Conexibacteraceae;Conexibacter;uncultured_bacterium	86.285	751	82	19	1	739	742	1	0.0	797
+k105_221329	HM318983.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	86.303	752	79	22	1	739	741	1	0.0	797
+k105_221329	KF101075.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.212	747	89	12	1	739	741	1	0.0	797
+k105_221329	HM269918.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;uncultured;uncultured_bacterium	86.248	749	85	17	1	739	741	1	0.0	797
+k105_221329	HM262857.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.267	750	83	15	1	739	741	1	0.0	797
+k105_221329	HM270061.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Patulibacteraceae;Patulibacter;uncultured_bacterium	86.230	748	87	15	1	739	741	1	0.0	797
+k105_221329	EU133177.1.1351_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.860	723	81	13	1	716	718	3	0.0	797
+k105_221329	KC554433.1.1540_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured_bacterium	85.714	770	88	17	1	758	760	1	0.0	797
+k105_221329	HM748674.1.1444_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;bacterium_Ellin6526	86.212	747	88	10	1	739	740	1	0.0	797
+k105_221329	JX505353.1.1470_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Conexibacteraceae_bacterium	86.230	748	86	13	1	739	740	1	0.0	795
+k105_221329	KC554157.1.1535_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	85.844	770	83	24	3	758	758	1	0.0	795
+k105_221329	EF516826.1.1471_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;YNPFFP1;uncultured_bacterium	86.267	750	81	21	1	738	740	1	0.0	795
+k105_221329	EF019836.1.1395_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	85.696	769	90	17	1	758	760	1	0.0	793
+k105_221329	EU132762.1.1380_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.156	744	91	9	1	738	738	1	0.0	793
+k105_221329	EU132934.1.1372_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.174	745	90	10	1	738	739	1	0.0	793
+k105_221329	KC554496.1.1544_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured_bacterium	85.696	769	91	17	1	758	761	1	0.0	793
+k105_221329	KC554078.1.1541_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;FFCH12655;uncultured_bacterium	85.733	771	86	21	1	758	760	1	0.0	793
+k105_221329	KC554306.1.1541_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;FFCH13075;uncultured_bacterium	85.677	768	92	17	1	758	760	1	0.0	793
+k105_221329	JF217350.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.078	747	90	12	1	739	741	1	0.0	791
+k105_221329	JX505111.1.1469_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;YNPFFP1;uncultured_Conexibacter_sp	86.115	749	86	18	1	739	741	1	0.0	791
+k105_221329	HM269983.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;YNPFFP1;uncultured_bacterium	86.152	751	82	20	1	739	741	1	0.0	791
+k105_221329	FM873386.1.1499_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	86.133	750	84	18	1	739	741	1	0.0	791
+k105_221329	JX505206.1.1469_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Conexibacteraceae_bacterium	86.040	745	93	10	1	739	740	1	0.0	789
+k105_221329	GQ402548.1.1469_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.078	747	89	10	1	739	740	1	0.0	789
+k105_221329	EU132920.1.1380_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.413	736	83	14	1	727	742	15	0.0	789
+k105_221329	JF775634.1.1511_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	85.509	766	99	11	1	759	761	1	0.0	789
+k105_221329	EU132562.1.1357_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.096	748	87	15	1	739	742	3	0.0	789
+k105_221329	JF833635.1.1447_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Conexibacter_sp	86.557	729	83	10	1	721	722	1	0.0	789
+k105_221329	EF516364.1.1456_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;YNPFFP1;uncultured_bacterium	86.290	744	80	17	1	738	728	1	0.0	789
+k105_221329	KC331601.1.1508_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;FFCH13075;uncultured_bacterium	85.603	771	89	20	1	759	761	1	0.0	789
+k105_221329	AB374386.1.1539_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Patulibacteraceae;Patulibacter;uncultured_endolithic_bacterium	85.603	771	89	14	1	759	761	1	0.0	789
+k105_221329	HQ462480.1.1309_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Rubrobacteridae_bacterium	86.667	720	82	11	1	713	713	1	0.0	787
+k105_221329	EU193088.1.1499_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Rubrobacterales_bacterium	86.483	725	89	7	1	721	720	1	0.0	787
+k105_221329	EU133100.1.1377_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;288-2;uncultured_bacterium	86.074	754	79	24	1	740	742	1	0.0	787
+k105_221329	EU132851.1.1372_Bacteria;Actinobacteria;Rubrobacteria;Rubrobacterales;Rubrobacteriaceae;Rubrobacter;uncultured_bacterium	86.003	743	94	8	1	738	739	2	0.0	787
+k105_221329	EU132672.1.1339_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.022	744	92	9	1	738	738	1	0.0	787
+k105_221329	EU132612.1.1356_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;288-2;uncultured_bacterium	86.170	752	76	25	1	736	740	1	0.0	787
+k105_221329	KC554152.1.1541_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Elev-16S-1332;uncultured_bacterium	85.603	771	87	22	1	758	760	1	0.0	787
+k105_221329	AB254798.1.1294_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;YNPFFP1;uncultured_bacterium	85.530	774	86	24	1	759	763	1	0.0	787
+k105_221329	JF134521.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	85.963	748	89	16	1	739	741	1	0.0	785
+k105_221329	KF428086.1.1513_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	85.567	776	83	22	1	759	764	1	0.0	785
+k105_221329	LN569715.1.1380_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	86.000	750	85	17	1	739	741	1	0.0	785
+k105_221329	HM241113.1.1473_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_actinobacterium	85.963	748	89	12	1	739	741	1	0.0	785
+k105_221329	HQ450149.1.1521_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	85.455	770	94	16	1	759	763	1	0.0	785
+k105_221329	EU132643.1.1339_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	86.019	751	84	18	1	740	741	1	0.0	785
+k105_221329	EU132567.1.1393_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	86.000	750	85	18	1	739	742	2	0.0	785
+k105_221329	KC554825.1.1525_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;FFCH13075;uncultured_bacterium	85.733	764	85	22	1	751	753	1	0.0	785
+k105_221329	KC554770.1.1516_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;FFCH13075;uncultured_bacterium	85.884	758	83	21	1	745	747	1	0.0	785
+k105_221329	AY960767.1.1469_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;YNPFFP1;bacterium_Ellin504	85.981	749	87	18	1	739	741	1	0.0	785
+k105_221329	CU923088.1.1369_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	85.734	743	100	6	1	740	740	1	0.0	784
+k105_221329	GQ249614.1.1275_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_actinobacterium	85.417	768	96	13	1	759	761	1	0.0	784
+k105_221329	HM330894.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	85.944	747	90	11	1	739	740	1	0.0	784
+k105_221329	JQ906022.1.1398_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;TM146;uncultured_bacterium	85.436	769	95	14	1	759	765	4	0.0	784
+k105_221329	EU133461.1.1322_Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;DUNssu371;uncultured_bacterium	86.137	743	84	17	6	738	734	1	0.0	784
+k105_221329	EU132979.1.1416_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	85.509	766	93	14	1	754	779	20	0.0	784
+k105_221329	EU132848.1.1377_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	85.944	747	90	13	1	739	740	1	0.0	784
+k105_221329	AB780931.1.1470_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_actinobacterium	85.849	742	99	6	1	739	739	1	0.0	784
+k105_221329	EU132641.1.1305_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured_bacterium	85.981	749	86	18	1	738	743	3	0.0	784
+k105_221329	KC554782.1.1516_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	85.752	751	96	8	1	745	746	1	0.0	784
+k105_221329	KC554134.1.1542_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	85.455	770	91	19	1	758	761	1	0.0	782
+k105_221329	KC554214.1.1541_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured_bacterium	85.492	772	86	20	1	758	760	1	0.0	782
+k105_221329	EU370951.1.1423_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;Rubrobacterineae_bacterium_BR7-21	85.848	749	90	11	1	740	742	1	0.0	782
+k105_221329	JF266021.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.301	730	84	14	1	722	722	1	0.0	780
+k105_221329	CU925464.1.1354_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	85.734	743	100	6	1	740	740	1	0.0	780
+k105_221329	KF385184.1.1452_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_Conexibacter_sp	86.141	736	86	14	1	727	729	1	0.0	780
+k105_221329	EU132519.1.1376_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	85.791	746	95	9	1	740	741	1	0.0	780
+k105_221329	JF833621.1.1452_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_Conexibacter_sp	86.141	736	86	14	1	727	729	1	0.0	780
+k105_221329	AY326618.1.1471_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_soil_bacterium	85.791	746	93	10	1	739	740	1	0.0	778
+k105_221329	JN002775.1.1339_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_beta_proteobacterium	87.555	683	71	13	1	677	707	33	0.0	778
+k105_221329	EU193086.1.1501_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Rubrobacterales_bacterium	86.283	729	85	12	1	721	722	1	0.0	778
+k105_221329	EU132881.1.1325_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	85.867	750	85	18	1	738	741	1	0.0	778
+k105_221329	JQ426701.1.1502_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.245	727	89	9	1	721	722	1	0.0	778
+k105_221329	EU132679.1.1371_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	85.752	751	87	17	1	740	742	1	0.0	776
+k105_221329	KC554839.1.1522_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	85.544	754	95	12	1	746	748	1	0.0	776
+k105_221329	CU924417.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	85.599	743	101	6	1	740	740	1	0.0	774
+k105_221329	JX080271.1.1477_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	85.657	746	96	10	1	739	742	1	0.0	774
+k105_221329	KF079213.1.1367_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	85.790	753	82	20	1	739	742	1	0.0	774
+k105_221329	EU133040.1.1375_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	85.752	751	85	20	1	739	744	4	0.0	774
+k105_221329	KC331749.1.1337_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;Gaiellaceae;Gaiella;uncultured_bacterium	86.490	718	82	13	1	710	711	1	0.0	774
+k105_221329	GU983374.1.1447_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_Rubrobacterales_bacterium	86.183	731	84	16	1	721	724	1	0.0	774
+k105_221329	HM269154.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;0319-6M6;uncultured_bacterium	85.733	750	85	19	1	739	739	1	0.0	773
+k105_221329	EF516551.1.1468_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	85.676	747	91	11	1	738	740	1	0.0	773
+k105_221329	KC775450.1.1297_Bacteria;Actinobacteria;Thermoleophilia;Gaiellales;uncultured;uncultured_bacterium	86.415	714	85	8	1	707	710	2	0.0	771
+k105_221329	GQ009325.1.1366_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;uncultured_bacterium	85.619	751	86	19	1	739	741	1	0.0	769
+k105_221329	EU133515.1.1390_Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiales_Incertae_Sedis;Nordella;uncultured_bacterium	85.753	744	86	17	6	738	735	1	0.0	769
+k105_221329	EU132923.1.1318_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;288-2;uncultured_bacterium	87.482	679	69	15	1	671	705	35	0.0	769
+k105_221329	JF776903.1.1469_Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;FFCH13075;uncultured_actinobacterium	85.638	752	84	22	1	739	741	1	0.0	769
+# BLASTN 2.6.0+
+# Query: k105_222775
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_222885
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_222993
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_227194
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_227457
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_227975
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_228159
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_228663
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_229260
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_229555
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_230659
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_231588
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_231668
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_232598
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_233375
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_233529
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_235312
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_235587
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_235930
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_235948
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_236009
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_236443
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_237415
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_237970
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_238301
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_239415
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_239640
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_240141
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_240899
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_243474
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_243508
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_245583
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_246109
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_246943
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_247170
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_247839
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_248000
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_248200
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_248895
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_248959
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_249126
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_250965
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_254007
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_255746
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_255921
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_257069
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_257825
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_257952
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_260128
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_260171
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_260516
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_262656
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_262923
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_263727
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_264387
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_265235
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_266139
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_266603
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_266768
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_271011
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_272638
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_274483
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_275544
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_275775
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_275987
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_276337
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_276981
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_277566
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_281768
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_282907
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_285446
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_286818
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_287567
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_288475
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_288538
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_288839
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_289071
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_289221
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_290292
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_290329
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_290572
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_292104
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_292384
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_292988
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_294977
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_295621
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_296069
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_296174
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_297137
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_297198
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_297451
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_297698
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_298349
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_298601
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_301416
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_301520
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_304194
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_304814
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_305173
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_307313
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_307758
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_309302
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_310138
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_312318
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_313293
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_314216
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_315236
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_315527
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_315673
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_317393
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_319476
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_320302
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_334047
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_336764
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_340358
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_340898
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_340939
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_340954
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: k105_341286
+# Database: /home/frle5739/.quast/silva/silva.123.db
+# 0 hits found
+# BLAST processed 259 queries

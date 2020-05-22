@@ -1,0 +1,5 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+18334	18408	1797	1723	Psychroserpens_sp._PAMC_27130_NZ_JSWG01000008.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_8__whole_genome_shotgun_sequence	k105_9411	100.0		True
+CONTIG	k105_9411	12566	correct_unaligned
+20113	20188	7257	7182	Psychroserpens_sp._PAMC_27130_NZ_JSWG01000008.1_Psychroserpens_jangbogonensis_strain_PAMC_27130_PAMC27130_S19_contig_8__whole_genome_shotgun_sequence	k105_227429	100.0		True
+CONTIG	k105_227429	16895	correct_unaligned

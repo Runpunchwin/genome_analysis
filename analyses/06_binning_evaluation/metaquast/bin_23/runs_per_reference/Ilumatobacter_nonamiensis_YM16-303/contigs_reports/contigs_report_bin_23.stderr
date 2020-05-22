@@ -1,0 +1,5 @@
+Writing filtered delta file /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/contigs_reports/nucmer_output/bin_23.filter
+Reading delta file /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/contigs_reports/nucmer_output/bin_23.delta
+Writing plot files /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/contigs_reports/nucmer_output/bin_23.fplot, /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/contigs_reports/nucmer_output/bin_23.rplot
+Writing gnuplot script /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/contigs_reports/nucmer_output/bin_23.gp
+Rendering plot /home/frle5739/genome_analysis/analyses/06_binning_evaluation/metaquast/bin_23/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/contigs_reports/nucmer_output/bin_23.html

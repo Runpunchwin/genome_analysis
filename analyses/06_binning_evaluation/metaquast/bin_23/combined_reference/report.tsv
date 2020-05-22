@@ -1,0 +1,35 @@
+Assembly	bin_23
+# contigs (>= 0 bp)	507
+# contigs (>= 1000 bp)	507
+# contigs (>= 5000 bp)	186
+# contigs (>= 10000 bp)	84
+# contigs (>= 25000 bp)	7
+# contigs (>= 50000 bp)	1
+Total length (>= 0 bp)	3188556
+Total length (>= 1000 bp)	3188556
+Total length (>= 5000 bp)	2094624
+Total length (>= 10000 bp)	1389223
+Total length (>= 25000 bp)	254432
+Total length (>= 50000 bp)	61674
+# contigs	507
+Largest contig	61674
+Total length	3188556
+Reference length	4282232
+N50	7839
+N75	4061
+L50	108
+L75	253
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# unaligned mis. contigs	0
+# unaligned contigs	506 + 1 part
+Unaligned length	3188460
+Genome fraction (%)	0.002
+Duplication ratio	1.000
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	2083.33
+# indels per 100 kbp	0.00
+Largest alignment	96
+Total aligned length	96
