@@ -9,7 +9,7 @@
 *.sam
 *.gz
 *.zip
-/home/frle5739/genome_analysis/data/*
-/home/frle5739/genome_analysis/analyses/06_binning_evaluation/*
-/home/frle5739/genome_analysis/analyses/10_phylogenetic_placement/*
+/data
+/analyses/06_binning_evaluation
+/analyses/10_phylogenetic_placement
 
