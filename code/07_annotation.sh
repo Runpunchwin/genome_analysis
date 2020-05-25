@@ -14,14 +14,14 @@ module load prokka/1.12-12547ca
 
 # Performing the annotation using Prokka
 # Loops over the input bins and uses the filepath to create a prefix for the files
-for f in ~/genome_analysis/data/bins/*.fa; 
+for f in ~/genome_analysis/data/bins/*.fa;
 do i="${f%.fa}";
-j="${i//data\/bins\//analyses/07_annotation/}"; 
+j="${i//data\/bins\//analyses/07_annotation/}";
 k="${i///home\/frle5739\/genome_analysis\/data\/bins\//}";
 if [[ $j == bin_1 || $j == bin_2 || $j == bin_3 || $j == bin_21 ]]
-then 
-prokka --outdir $j --kingdom Archea --prefix $k $i.fa
+then
+prokka --outdir $j --kingdom Archaea --prefix $k $i.fa
 else
 prokka --outdir $j --prefix $k $i.fa
-fi; 
+fi;
 done
