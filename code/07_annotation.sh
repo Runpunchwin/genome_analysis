@@ -16,7 +16,7 @@ module load prokka/1.12-12547ca
 # Loops over the input bins and uses the filepath to create a prefix for the files
 for f in ~/genome_analysis/data/bins/*.fa;
 do i="${f%.fa}";
-j="${i//data\/bins\//analyses/07_annotation/}";
+j="${i//data\/bins\//analyses/07_annotation/with_archaea/}";
 k="${i///home\/frle5739\/genome_analysis\/data\/bins\//}";
 if [[ $j == bin_1 || $j == bin_2 || $j == bin_3 || $j == bin_21 ]]
 then
