@@ -14,4 +14,4 @@ module load MetaBat/2.12.1
 
 # Performing the binning using MetaBat2
 metabat2 -t 2 -i /home/frle5739/genome_analysis/data/DNA_assembly/final.contigs.fa \
--o /home/frle5739/genome_analysis/data/bins/bin
+-o /home/frle5739/genome_analysis/data/bins2/bin

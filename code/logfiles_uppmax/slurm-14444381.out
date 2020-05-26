@@ -1,0 +1,8 @@
+/var/spool/slurmd/job14444381/slurm_script: line 19: binpath: command not found
+[bwa_idx_build] fail to open file '/bin_2.fa' : No such file or directory
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_DNA/SRR4342133/bin_2_mapped_DNA_SRR4342133.sam".
+samtools sort: failed to read header from "-"
+[main_samview] fail to read the header from "/home/frle5739/genome_analysis/data/mapped_DNA/SRR4342129/bin_2_mapped_DNA_SRR4342129.sam".
+samtools sort: failed to read header from "-"
