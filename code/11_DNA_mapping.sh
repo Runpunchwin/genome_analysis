@@ -16,25 +16,26 @@ module load samtools/1.10
 # Performing the mapping using bwa
 # Saving the path to the DNA data
 DNAreads="/home/frle5739/genome_analysis/data/raw_data/DNA_trimmed"
+binPath = "/home/frle5739/genome_analysis/data/bins"
 
 # Looping through the bins
-for bin in /home/frle5739/genome_analysis/data/bins/*.fa
+for bin in bin_2 # bin_4 bin_5 bin_6 bin_8 bin_10 bin_11 bin_13 bin_14 bin_15 bin_16 bin_17 bin_18 bin_21 bin_22 bin_24 bin_26
 do
-bwa index $bin
+bwa index $binpath/${bin}.fa
 # Saving the bin-number as a variable (e.g. bin_3)
-binNo="${bin///home\/frle5739\/genome_analysis\/data\/bins\//}"
-binNo="${binNo//.fa/}"
+# binNo="${bin///home\/frle5739\/genome_analysis\/data\/bins\//}"
+# binNo="${binNo//.fa/}"
 
-bwa mem -t 2 $bin ${DNAreads}/SRR4342133_1.paired.trimmed.fastq.gz ${DNAreads}/SRR4342133_2.paired.trimmed.fastq.gz > /home/frle5739/genome_analysis/data/mapped_DNA/SRR4342133/${binNo}_mapped_DNA_SRR4342133.sam
-bwa mem -t 2 $bin ${DNAreads}/SRR4342129_1.paired.trimmed.fastq.gz ${DNAreads}/SRR4342129_2.paired.trimmed.fastq.gz > /home/frle5739/genome_analysis/data/mapped_DNA/SRR4342129/${binNo}_mapped_DNA_SRR4342129.sam
+bwa mem -t 2 $binpath/${bin}.fa ${DNAreads}/SRR4342133_1_paired_trimmed.fastq.gz ${DNAreads}/SRR4342133_2_paired_trimmed.fastq.gz > /home/frle5739/genome_analysis/data/mapped_DNA/SRR4342133/${bin}_mapped_DNA_SRR4342133.sam
+bwa mem -t 2 $binpath/${bin}.fa ${DNAreads}/SRR4342129_1_paired_trimmed.fastq.gz ${DNAreads}/SRR4342129_2_paired_trimmed.fastq.gz > /home/frle5739/genome_analysis/data/mapped_DNA/SRR4342129/${bin}_mapped_DNA_SRR4342129.sam
 
 # Piping the samtools-commands in order to avoid large temporary files
-samtools view -b /home/frle5739/genome_analysis/data/mapped_DNA/SRR4342133/${binNo}_mapped_DNA_SRR4342133.sam |
- samtools sort -@ 2 - > /home/frle5739/genome_analysis/data/mapped_DNA/SRR4342133/${binNo}_mapped_DNA_SRR4342133.bam
-samtools view -b /home/frle5739/genome_analysis/data/mapped_DNA/SRR4342129/${binNo}_mapped_DNA_SRR4342129.sam |
- samtools sort -@ 2 - > /home/frle5739/genome_analysis/data/mapped_DNA/SRR4342129/${binNo}_mapped_DNA_SRR4342129.bam
+samtools view -b /home/frle5739/genome_analysis/data/mapped_DNA/SRR4342133/${bin}_mapped_DNA_SRR4342133.sam |
+ samtools sort -@ 2 - > /home/frle5739/genome_analysis/data/mapped_DNA/SRR4342133/${bin}_mapped_DNA_SRR4342133.bam
+samtools view -b /home/frle5739/genome_analysis/data/mapped_DNA/SRR4342129/${bin}_mapped_DNA_SRR4342129.sam |
+ samtools sort -@ 2 - > /home/frle5739/genome_analysis/data/mapped_DNA/SRR4342129/${bin}_mapped_DNA_SRR4342129.bam
 
 # Remove the large, uncompressed files
-rm /home/frle5739/genome_analysis/data/mapped_DNA/SRR4342133/${binNo}_mapped_DNA_SRR4342133.sam
-rm /home/frle5739/genome_analysis/data/mapped_DNA/SRR4342129/${binNo}_mapped_DNA_SRR4342129.sam
+rm /home/frle5739/genome_analysis/data/mapped_DNA/SRR4342133/${bin}_mapped_DNA_SRR4342133.sam
+rm /home/frle5739/genome_analysis/data/mapped_DNA/SRR4342129/${bin}_mapped_DNA_SRR4342129.sam
 done
