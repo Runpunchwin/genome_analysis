@@ -16,7 +16,7 @@ module load samtools/1.10
 # Performing the mapping using bwa
 # Saving the path to the DNA data
 DNAreads="/home/frle5739/genome_analysis/data/raw_data/DNA_trimmed"
-binpath = "/home/frle5739/genome_analysis/data/bins"
+binpath="/home/frle5739/genome_analysis/data/bins"
 
 # Looping through the bins
 for bin in bin_2 # bin_4 bin_5 bin_6 bin_8 bin_10 bin_11 bin_13 bin_14 bin_15 bin_16 bin_17 bin_18 bin_21 bin_22 bin_24 bin_26
